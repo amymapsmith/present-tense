@@ -1,0 +1,61 @@
+{
+  "updated": "2026-06-14",
+  "opportunities": [
+    {
+      "type": "role",
+      "title": "Senior Principal, MLE — AI Governance",
+      "organization": "Equinix",
+      "description": "Establish, operationalize, and continuously improve the enterprise-wide governance framework for AI, ML, and advanced analytics. Reports directly to the Chief Data Scientist & AI Officer. Partners with AI, Product, Data Engineering, Security, Compliance, and Legal teams to define and enforce governance standards for responsible AI innovation.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://www.themuse.com/jobs/equinixinc/senior-principal-mle-ai-governance",
+      "source": "other",
+      "seniority": "principal",
+      "tags": ["ai-governance", "ml-governance", "bay-area", "redwood-city"]
+    },
+    {
+      "type": "networking",
+      "title": "AI Engineer World's Fair 2026",
+      "organization": "AI Engineer",
+      "description": "World's largest technical AI conference — 250+ speakers, 20+ tracks, 6,000+ attendees including VPs of AI, founders, and AI engineers. Tracks include governance, safety, and enterprise AI. Strong networking floor at Moscone West.",
+      "date": "2026-06-29",
+      "deadline": null,
+      "cost": 450,
+      "paid": false,
+      "url": "https://www.ai.engineer/worldsfair/2026",
+      "source": "other",
+      "seniority": "any",
+      "tags": ["ai", "networking", "san-francisco", "enterprise-ai", "ai-safety"]
+    },
+    {
+      "type": "networking",
+      "title": "WISP: AI for Next-Gen SOC Summit (Virtual)",
+      "organization": "Women in Security and Privacy (WISP)",
+      "description": "Virtual summit focused on AI applications in security operations. Free with WISP code. Good opportunity to reconnect with the WISP community ahead of in-person events.",
+      "date": "2026-06-24",
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://www.wisporg.com/upcoming-events",
+      "source": "other",
+      "seniority": "any",
+      "tags": ["wisp", "ai-governance", "security", "privacy", "virtual", "free"]
+    },
+    {
+      "type": "networking",
+      "title": "AI Tinkerers SF — Monthly Meetup",
+      "organization": "AI Tinkerers San Francisco",
+      "description": "Monthly SF meetup for AI practitioners and builders. Next event: Offensive Security Demo Night, June 25. Regularly attended by senior practitioners across ML, AI safety, and applied research.",
+      "date": "2026-06-25",
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://sf.aitinkerers.org",
+      "source": "meetup",
+      "seniority": "any",
+      "tags": ["ai", "networking", "san-francisco", "applied-research", "free"]
+    }
+  ]
+}

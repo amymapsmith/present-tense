@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "date": "2026-06-13",
+      "category": "professional",
+      "subcategory": "networking",
+      "activity": "Women in Privacy & Security meetup — AI governance panel",
+      "duration_hours": 2,
+      "cost": 0,
+      "location": "SF",
+      "notes": "Good conversations about EU AI Act implications"
+    },
+    {
+      "date": "2026-06-12",
+      "category": "health",
+      "subcategory": "gym",
+      "activity": "Bay Club spin class",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "Bay Club SF"
+    },
+    {
+      "date": "2026-06-11",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Coffee with Marian in the Mission",
+      "duration_hours": 1.5,
+      "cost": 8,
+      "location": "Mission District"
+    }
+  ]
+}

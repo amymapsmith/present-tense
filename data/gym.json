@@ -1,0 +1,38 @@
+{
+  "updated": "2026-06-14",
+  "_note": "Hours unverified this run — Bay Club website timed out. Preserving prior values. Verify at bayclubsf.com.",
+  "locations": [
+    {
+      "id": "sf",
+      "name": "Bay Club San Francisco",
+      "address": "150 Greenwich St, San Francisco, CA 94111",
+      "url": "https://www.bayclubsf.com",
+      "hours": {
+        "monday":    { "open": "05:30", "close": "22:00" },
+        "tuesday":   { "open": "05:30", "close": "22:00" },
+        "wednesday": { "open": "05:30", "close": "22:00" },
+        "thursday":  { "open": "05:30", "close": "22:00" },
+        "friday":    { "open": "05:30", "close": "21:00" },
+        "saturday":  { "open": "07:00", "close": "20:00" },
+        "sunday":    { "open": "07:00", "close": "20:00" }
+      },
+      "events": []
+    },
+    {
+      "id": "fidi",
+      "name": "Bay Club SF Financial District",
+      "address": "345 Spear St, San Francisco, CA 94105",
+      "url": "https://www.bayclubsf.com",
+      "hours": {
+        "monday":    { "open": "06:00", "close": "21:00" },
+        "tuesday":   { "open": "06:00", "close": "21:00" },
+        "wednesday": { "open": "06:00", "close": "21:00" },
+        "thursday":  { "open": "06:00", "close": "21:00" },
+        "friday":    { "open": "06:00", "close": "20:00" },
+        "saturday":  { "open": "08:00", "close": "18:00" },
+        "sunday":    { "open": "08:00", "close": "18:00" }
+      },
+      "events": []
+    }
+  ]
+}

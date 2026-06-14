@@ -1,0 +1,137 @@
+{
+  "updated": "2026-06-14",
+  "events": [
+    {
+      "title": "Civic Center Soundtrack — Free Outdoor Concerts & Food Trucks",
+      "date": "2026-06-16",
+      "time": "12:00",
+      "venue": "Fulton Plaza",
+      "neighborhood": "Civic Center",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Weekly free outdoor concert series at Fulton Plaza with local artists and food trucks. Recurring Tuesdays and Thursdays.",
+      "url": "https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-soundtrack-every-tue-thu-16/"
+    },
+    {
+      "title": "Civic Center Soundtrack — Free Outdoor Concerts & Food Trucks",
+      "date": "2026-06-18",
+      "time": "12:00",
+      "venue": "Fulton Plaza",
+      "neighborhood": "Civic Center",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Weekly free outdoor concert series at Fulton Plaza with local artists and food trucks. Recurring Tuesdays and Thursdays.",
+      "url": "https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-soundtrack-every-tue-thu-21/"
+    },
+    {
+      "title": "Free Live Outdoor Concert in Golden Gate Park",
+      "date": "2026-06-17",
+      "time": "16:00",
+      "venue": "Golden Gate Park Bandshell",
+      "neighborhood": "Golden Gate Park",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor concert at the Spreckels Temple of Music bandshell in Golden Gate Park.",
+      "url": "https://sf.funcheap.com/free-live-outdoor-concert-golden-gate-park-sf/"
+    },
+    {
+      "title": "Redwood Room After Dark: Free Jazz with Sacha Boutros",
+      "date": "2026-06-18",
+      "time": "19:00",
+      "venue": "Redwood Room, Clift Royal Sonesta Hotel",
+      "neighborhood": "Union Square",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free (drinks purchased separately)",
+      "description": "Live jazz in the iconic Redwood Room bar. Intimate setting, no cover.",
+      "url": "https://sf.funcheap.com/redwood-room-dark-free-jazz-nights-sacha-boutros-sf/"
+    },
+    {
+      "title": "Lindy in the Park — Free Swing Dance",
+      "date": "2026-06-14",
+      "time": "11:00",
+      "venue": "Golden Gate Park (JFK Drive near 6th Ave)",
+      "neighborhood": "Golden Gate Park",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Weekly outdoor swing dance social in Golden Gate Park. All levels welcome, no partner needed. Runs 11am–2pm.",
+      "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-257/"
+    },
+    {
+      "title": "Swing Dance Night with Radio Gatsby Jazz Band",
+      "date": "2026-06-16",
+      "time": "19:00",
+      "venue": "Verdi Club",
+      "neighborhood": "Mission",
+      "category": "dance",
+      "cost": 20,
+      "cost_notes": "$20 cover",
+      "description": "Live swing dancing to a jazz band at SF's beloved Verdi Club. Lesson included before the social dance.",
+      "url": "https://sf.funcheap.com/swing-dance-night-radio-gatsby-jazz-band-live-sf/"
+    },
+    {
+      "title": "Free Outdoor Dance Party with DJs",
+      "date": "2026-06-18",
+      "time": "17:00",
+      "venue": "John's Grill",
+      "neighborhood": "Union Square",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor dance party with DJs. 5pm–10pm.",
+      "url": "https://sf.funcheap.com/free-outdoor-dance-party-djs-sf/"
+    },
+    {
+      "title": "Dance Fridays — Salsa & Bachata",
+      "date": "2026-06-19",
+      "time": "19:45",
+      "venue": "550 Barneveld Ave",
+      "neighborhood": "Bayview",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "check website for current pricing",
+      "description": "SF's largest Latin dance social. Lessons for all levels, then social dancing till 1:30am. Two rooms: salsa and bachata. 21+ with ID.",
+      "url": "https://www.dancefridays.fun"
+    },
+    {
+      "title": "Laugh GPT: AI-Powered Comedy Night",
+      "date": "2026-06-16",
+      "time": "19:30",
+      "venue": "The Function SF",
+      "neighborhood": "SoMa",
+      "category": "comedy",
+      "cost": 0,
+      "cost_notes": "free with RSVP",
+      "description": "Free comedy night with an AI twist. RSVP required.",
+      "url": "https://sf.funcheap.com/free-sfs-laugh-gpt-ai-powered-comedy-night-the-function-10/"
+    },
+    {
+      "title": "Town Biz Comedy Night with HellaFunny",
+      "date": "2026-06-15",
+      "time": "19:00",
+      "venue": "Mesa Maguey",
+      "neighborhood": "Oakland (Temescal)",
+      "category": "comedy",
+      "cost": 0,
+      "cost_notes": "free with RSVP",
+      "description": "Free weekly comedy showcase in Oakland. RSVP required. Runs 7–9pm.",
+      "url": "https://sf.funcheap.com/oaklands-free-town-biz-comedy-night-w-hellafunny-mon-tue-71/"
+    },
+    {
+      "title": "Disco Taco Tuesday at Underdogs Cantina",
+      "date": "2026-06-16",
+      "time": "19:30",
+      "venue": "Underdogs Cantina",
+      "neighborhood": "SoMa",
+      "category": "bar",
+      "cost": 0,
+      "cost_notes": "free entry, $1 margaritas",
+      "description": "Free entry disco night with $1 margaritas. 7:30–10pm.",
+      "url": "https://sf.funcheap.com/1-margaritas-disco-taco-tuesday-at-underdogs-soma-101/"
+    }
+  ]
+}

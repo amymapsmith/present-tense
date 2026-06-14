@@ -1,0 +1,65 @@
+{
+  "updated": "2026-06-14",
+  "venues": [
+    {
+      "id": "deyoung",
+      "name": "de Young Museum",
+      "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
+      "url": "https://www.famsf.org/visit/de-young",
+      "hours": {
+        "monday":    null,
+        "tuesday":   { "open": "09:30", "close": "17:15" },
+        "wednesday": { "open": "09:30", "close": "17:15" },
+        "thursday":  { "open": "09:30", "close": "17:15" },
+        "friday":    { "open": "09:30", "close": "20:45" },
+        "saturday":  { "open": "09:30", "close": "17:15" },
+        "sunday":    { "open": "09:30", "close": "17:15" }
+      },
+      "current_exhibitions": [
+        {
+          "title": "Rose B. Simpson: LEXICON",
+          "description": "A major survey of ceramics, sculpture, and mixed media by Rose B. Simpson (Santa Clara Pueblo), exploring Indigenous identity, embodiment, and cultural resilience.",
+          "through": "2027-02-07",
+          "url": "https://www.famsf.org/exhibitions"
+        },
+        {
+          "title": "Nengi Omuku: The Gathering",
+          "description": "Luminous figurative paintings by Nigerian-British artist Nengi Omuku, evoking community, memory, and collective experience through layered washes of color.",
+          "through": "2026-06-27",
+          "url": "https://www.famsf.org/exhibitions"
+        },
+        {
+          "title": "About Place: Bay Area Artists from the Svane Gift",
+          "description": "Works by Bay Area artists drawn from the Svane Gift, examining place, belonging, and local landscape.",
+          "through": "2026-07-05",
+          "url": "https://www.famsf.org/exhibitions"
+        }
+      ],
+      "events": []
+    },
+    {
+      "id": "legion",
+      "name": "Legion of Honor",
+      "address": "100 34th Ave, San Francisco, CA 94121",
+      "url": "https://www.famsf.org/visit/legion-of-honor",
+      "hours": {
+        "monday":    null,
+        "tuesday":   { "open": "09:30", "close": "17:15" },
+        "wednesday": { "open": "09:30", "close": "17:15" },
+        "thursday":  { "open": "09:30", "close": "17:15" },
+        "friday":    { "open": "09:30", "close": "17:15" },
+        "saturday":  { "open": "09:30", "close": "17:15" },
+        "sunday":    { "open": "09:30", "close": "17:15" }
+      },
+      "current_exhibitions": [
+        {
+          "title": "Current Exhibition",
+          "description": "Check famsf.org for current Legion of Honor exhibitions — events page returned 403 this run.",
+          "through": "2026-08-02",
+          "url": "https://www.famsf.org/calendar?location=legion-of-honor"
+        }
+      ],
+      "events": []
+    }
+  ]
+}
