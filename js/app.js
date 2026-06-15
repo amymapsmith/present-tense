@@ -22,10 +22,12 @@ const EVENT_LABELS = {
   bar:     '<i class="iconoir-community"></i> Live Music & Bars',
 };
 
-// Which event categories belong to each section filter
+// Which event categories to show for each filter tab
 const EVENT_FILTER_CATS = {
-  social:  ['dance', 'bar'],
-  culture: ['music', 'art', 'comedy'],
+  dance:  ['dance'],
+  music:  ['music', 'bar'],
+  comedy: ['comedy'],
+  art:    ['art'],
 };
 
 // ── Date utils ─────────────────────────────────────
