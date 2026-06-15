@@ -1,6 +1,104 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "opportunities": [
+    {
+      "type": "role",
+      "title": "Technical Program Management, Alignment",
+      "organization": "Anthropic",
+      "description": "Owns 3–4 simultaneous special projects within Anthropic's Alignment org, driving ambiguous cross-functional programs: model evaluations, research partnerships, and company-wide alignment initiatives. Ideal for someone comfortable synthesizing complex research context for leadership decisions. 5+ years required; AI safety familiarity a plus. $210k–$290k.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5187208008",
+      "source": "greenhouse",
+      "seniority": "senior",
+      "tags": ["ai-alignment", "ai-safety", "tpm", "san-francisco"]
+    },
+    {
+      "type": "role",
+      "title": "Senior Director, Global AI Governance",
+      "organization": "Visa",
+      "description": "Owns Visa's entire AI governance policy and process stack, reporting to the VP of Global AI and Data Innovation. Responsible for building out the new AI Governance team, conducting audits across global operations, managing regulatory compliance, and representing Visa at industry forums. $200k–$300k, Foster City (hybrid).",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://app.jobzmall.com/visa/job/senior-director-global-ai-governance/apply",
+      "source": "linkedin",
+      "seniority": "director",
+      "tags": ["ai-governance", "fintech", "foster-city", "responsible-ai"]
+    },
+    {
+      "type": "role",
+      "title": "Senior Responsible AI & Governance Manager",
+      "organization": "PlayStation (Sony Interactive Entertainment)",
+      "description": "Leads cross-functional responsible AI programs at PlayStation Global, ensuring AI products are developed ethically and in alignment with SIE's values. Conducts ethical and safety risk assessments and shapes company-wide best practices for AI development. 8+ years required. Hybrid, 2 days/week in San Mateo.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5810409004",
+      "source": "greenhouse",
+      "seniority": "senior",
+      "tags": ["responsible-ai", "governance", "san-mateo", "gaming"]
+    },
+    {
+      "type": "role",
+      "title": "Program Manager, Alignment",
+      "organization": "OpenAI",
+      "description": "Runs internal and external programs tied to AI alignment: events, fellowships, publishing workflows, research collaborations, and governance processes. Sits at the intersection of research operations and AI safety. 4+ years in research program management or operations. Hybrid in SF (3 days/week).",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://openai.com/careers/program-manager-alignment-san-francisco/",
+      "source": "other",
+      "seniority": "senior",
+      "tags": ["alignment", "ai-safety", "program-management", "san-francisco"]
+    },
+    {
+      "type": "role",
+      "title": "Technical Program Manager, Adversarial Model Research",
+      "organization": "OpenAI",
+      "description": "Coordinates across technical and non-technical stakeholders to drive adversarial AI research programs. Sits close to model safety and red-teaming work. Strong fit for someone with a TPM background and interest in model behavior, robustness, or safety evaluation. San Francisco, hybrid.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://openai.com/careers/technical-program-manager-adversarial-model-research-san-francisco/",
+      "source": "other",
+      "seniority": "senior",
+      "tags": ["ai-safety", "tpm", "red-teaming", "san-francisco"]
+    },
+    {
+      "type": "role",
+      "title": "Senior Technical Program Manager, Responsible AI Testing & Child Safety",
+      "organization": "Google",
+      "description": "Leads end-to-end GenAI safety initiatives within Google's Global Affairs org, focused on responsible AI testing and prevention of harm. Drives cross-functional delivery across policy, legal, and engineering. $192k–$279k. Mountain View (hybrid).",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://www.indeed.com/viewjob?jk=954eaccb71919b76",
+      "source": "indeed",
+      "seniority": "senior",
+      "tags": ["responsible-ai", "ai-safety", "tpm", "mountain-view", "policy"]
+    },
+    {
+      "type": "role",
+      "title": "Senior Technical Program Manager II, Applied AI",
+      "organization": "Google Cloud",
+      "description": "Operational lead for Google Cloud's Applied AI deployment pods, driving enterprise customers from pilot to production at startup velocity. Manages cross-functional delivery across AI engineering and customer success. Mountain View (hybrid).",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83124819549135558-senior-technical-program-manager-ii/",
+      "source": "other",
+      "seniority": "senior",
+      "tags": ["tpm", "ai-ml", "google-cloud", "mountain-view", "enterprise-ai"]
+    },
     {
       "type": "role",
       "title": "Senior Principal, MLE — AI Governance",
@@ -14,20 +112,6 @@
       "source": "other",
       "seniority": "principal",
       "tags": ["ai-governance", "ml-governance", "bay-area", "redwood-city"]
-    },
-    {
-      "type": "networking",
-      "title": "AI Engineer World's Fair 2026",
-      "organization": "AI Engineer",
-      "description": "World's largest technical AI conference — 250+ speakers, 20+ tracks, 6,000+ attendees including VPs of AI, founders, and AI engineers. Tracks include governance, safety, and enterprise AI. Strong networking floor at Moscone West.",
-      "date": "2026-06-29",
-      "deadline": null,
-      "cost": 450,
-      "paid": false,
-      "url": "https://www.ai.engineer/worldsfair/2026",
-      "source": "other",
-      "seniority": "any",
-      "tags": ["ai", "networking", "san-francisco", "enterprise-ai", "ai-safety"]
     },
     {
       "type": "networking",
@@ -56,6 +140,20 @@
       "source": "meetup",
       "seniority": "any",
       "tags": ["ai", "networking", "san-francisco", "applied-research", "free"]
+    },
+    {
+      "type": "networking",
+      "title": "AI Engineer World's Fair 2026",
+      "organization": "AI Engineer",
+      "description": "World's largest technical AI conference — 250+ speakers, 20+ tracks, 6,000+ attendees including VPs of AI, founders, and AI engineers. Tracks include governance, safety, and enterprise AI. Strong networking floor at Moscone West.",
+      "date": "2026-06-29",
+      "deadline": null,
+      "cost": 450,
+      "paid": false,
+      "url": "https://www.ai.engineer/worldsfair/2026",
+      "source": "other",
+      "seniority": "any",
+      "tags": ["ai", "networking", "san-francisco", "enterprise-ai", "ai-safety"]
     }
   ]
 }
