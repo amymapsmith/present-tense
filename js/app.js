@@ -108,10 +108,26 @@ function computeMix(entries, filterFn) {
 // ── Weather ────────────────────────────────────────
 function getBestActivity(day) {
   const t = day.high, w = day.wind_mph, r = day.precipitation_pct;
-  if (t >= 55 && w <= 12 && r <= 15) return { icon: '🚴', label: 'cycling' };
-  if (t >= 48 && w <= 18 && r <= 30) return { icon: '🚴', label: 'cycling' };
-  if (t >= 45 && w <= 18 && r <= 30) return { icon: '🏃', label: 'running' };
+  // Running beats cycling when wind > 10mph
+  if (w > 10) {
+    if (t >= 45 && w <= 25 && r <= 30) return { icon: '🏃', label: 'running' };
+    return { icon: '🏊', label: 'swim/gym' };
+  }
+  if (t >= 55 && r <= 15) return { icon: '🚴', label: 'cycling' };
+  if (t >= 48 && r <= 30) return { icon: '🚴', label: 'cycling' };
+  if (t >= 45 && r <= 30) return { icon: '🏃', label: 'running' };
   return { icon: '🏊', label: 'swim/gym' };
+}
+
+function getSkyIcon(description) {
+  const d = (description || '').toLowerCase();
+  if (d.includes('rain') || d.includes('shower') || d.includes('storm')) return '🌧';
+  if (d.includes('fog') || d.includes('mist')) return '🌫';
+  if (d.includes('mostly cloudy') || d.includes('overcast')) return '🌥';
+  if (d.includes('partly cloudy') || d.includes('partly sunny')) return '⛅';
+  if (d.includes('mostly sunny') || d.includes('mostly clear')) return '🌤';
+  if (d.includes('sunny') || d.includes('clear')) return '☀️';
+  return '🌤';
 }
 
 function renderWeather(weather) {
@@ -135,10 +151,12 @@ function renderWeather(weather) {
         const dateLabel = `${parseInt(m)}/${parseInt(d)}`;
         const dayShort = (day.day || '').slice(0, 3).toUpperCase();
         const act = getBestActivity(day);
+        const sky = getSkyIcon(day.description);
         return `
-          <div class="wc-day${isToday ? ' wc-today' : ''}" title="${act.label}">
+          <div class="wc-day${isToday ? ' wc-today' : ''}" title="${day.description} · ${act.label}">
             <div class="wc-name">${dayShort}</div>
             <div class="wc-date">${dateLabel}</div>
+            <div class="wc-sky">${sky}</div>
             <div class="wc-act">${act.icon}</div>
             <div class="wc-temp">${day.high}°/${day.low}°</div>
             <div class="wc-rain">${day.precipitation_pct}%</div>
