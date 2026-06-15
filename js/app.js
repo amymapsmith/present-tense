@@ -1,25 +1,31 @@
 // ── Config ─────────────────────────────────────────
 const CATEGORIES = {
-  professional: { label: 'Professional', color: '#1e40af', emoji: '💼' },
-  health:       { label: 'Health',       color: '#166534', emoji: '🏃' },
-  social:       { label: 'Social',       color: '#92400e', emoji: '👥' },
-  culture:      { label: 'Culture',      color: '#581c87', emoji: '🎨' },
+  professional: { label: 'Professional', color: '#1e40af', icon: '<i class="iconoir-suitcase"></i>' },
+  health:       { label: 'Health',       color: '#166534', icon: '<i class="iconoir-running"></i>' },
+  social:       { label: 'Social',       color: '#92400e', icon: '<i class="iconoir-community"></i>' },
+  culture:      { label: 'Culture',      color: '#581c87', icon: '<i class="iconoir-palette"></i>' },
 };
 
 const TYPE_LABELS = {
-  role:        '💼 Open Roles',
-  consulting:  '🤝 Consulting',
-  cfp:         '🎤 CFPs & Talks',
-  teaching:    '📚 Teaching',
-  networking:  '🌐 Networking',
+  role:        '<i class="iconoir-suitcase"></i> Open Roles',
+  consulting:  '<i class="iconoir-network"></i> Consulting',
+  cfp:         '<i class="iconoir-microphone-speaking"></i> CFPs & Talks',
+  teaching:    '<i class="iconoir-book"></i> Teaching',
+  networking:  '<i class="iconoir-community"></i> Networking',
 };
 
 const EVENT_LABELS = {
-  music:   '🎵 Music',
-  art:     '🖼 Art',
-  dance:   '💃 Dance',
-  comedy:  '😄 Comedy',
-  bar:     '🍻 Live Music & Bars',
+  music:   '<i class="iconoir-music-note"></i> Music',
+  art:     '<i class="iconoir-palette"></i> Art',
+  dance:   '<i class="iconoir-music-double-note"></i> Dance',
+  comedy:  '<i class="iconoir-emoji-satisfied"></i> Comedy',
+  bar:     '<i class="iconoir-community"></i> Live Music & Bars',
+};
+
+// Which event categories belong to each section filter
+const EVENT_FILTER_CATS = {
+  social:  ['dance', 'bar'],
+  culture: ['music', 'art', 'comedy'],
 };
 
 // ── Date utils ─────────────────────────────────────
@@ -110,24 +116,24 @@ function getBestActivity(day) {
   const t = day.high, w = day.wind_mph, r = day.precipitation_pct;
   // Running beats cycling when wind > 10mph
   if (w > 10) {
-    if (t >= 45 && w <= 25 && r <= 30) return { icon: '🏃', label: 'running' };
-    return { icon: '🏊', label: 'swim/gym' };
+    if (t >= 45 && w <= 25 && r <= 30) return { icon: '<i class="iconoir-running"></i>', label: 'running' };
+    return { icon: '<i class="iconoir-gym"></i>', label: 'swim/gym' };
   }
-  if (t >= 55 && r <= 15) return { icon: '🚴', label: 'cycling' };
-  if (t >= 48 && r <= 30) return { icon: '🚴', label: 'cycling' };
-  if (t >= 45 && r <= 30) return { icon: '🏃', label: 'running' };
-  return { icon: '🏊', label: 'swim/gym' };
+  if (t >= 55 && r <= 15) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
+  if (t >= 48 && r <= 30) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
+  if (t >= 45 && r <= 30) return { icon: '<i class="iconoir-running"></i>', label: 'running' };
+  return { icon: '<i class="iconoir-swimming"></i>', label: 'swim/gym' };
 }
 
 function getSkyIcon(description) {
   const d = (description || '').toLowerCase();
-  if (d.includes('rain') || d.includes('shower') || d.includes('storm')) return '🌧';
-  if (d.includes('fog') || d.includes('mist')) return '🌫';
-  if (d.includes('mostly cloudy') || d.includes('overcast')) return '🌥';
-  if (d.includes('partly cloudy') || d.includes('partly sunny')) return '⛅';
-  if (d.includes('mostly sunny') || d.includes('mostly clear')) return '🌤';
-  if (d.includes('sunny') || d.includes('clear')) return '☀️';
-  return '🌤';
+  if (d.includes('rain') || d.includes('shower') || d.includes('storm')) return '<i class="iconoir-heavy-rain"></i>';
+  if (d.includes('fog') || d.includes('mist')) return '<i class="iconoir-cloud"></i>';
+  if (d.includes('mostly cloudy') || d.includes('overcast')) return '<i class="iconoir-cloud"></i>';
+  if (d.includes('partly cloudy') || d.includes('partly sunny')) return '<i class="iconoir-cloud-sunny"></i>';
+  if (d.includes('mostly sunny') || d.includes('mostly clear')) return '<i class="iconoir-cloud-sunny"></i>';
+  if (d.includes('sunny') || d.includes('clear')) return '<i class="iconoir-sun-light"></i>';
+  return '<i class="iconoir-cloud-sunny"></i>';
 }
 
 function renderWeather(weather) {
@@ -187,7 +193,7 @@ function renderMix(mix, history) {
 
     return `
       <div class="mix-row">
-        <span class="mix-label" style="color:${cat.color}">${cat.emoji} ${cat.label}</span>
+        <span class="mix-label" style="color:${cat.color}">${cat.icon} ${cat.label}</span>
         <div class="mix-bar-bg">
           <div class="mix-bar-actual" style="width:${actual}%; background:${cat.color}"></div>
           <div class="mix-bar-target-marker" style="left:${target}%" title="Target: ${target}%"></div>
@@ -201,7 +207,7 @@ function renderMix(mix, history) {
   const rec = mix.recommendation;
   const nudgeHtml = rec && rec.summary ? `
     <div class="mix-nudge">
-      <span class="nudge-icon">💡</span>
+      <span class="nudge-icon"><i class="iconoir-light-bulb"></i></span>
       <p>${rec.summary}</p>
     </div>
   ` : '';
@@ -253,8 +259,8 @@ function renderProfessional(professional) {
             </div>
             ${item.organization ? `<div class="item-org">${item.organization}</div>` : ''}
             <div class="item-meta">
-              ${item.deadline ? `<span>⏰ Deadline ${formatDate(item.deadline)}</span>` : ''}
-              ${item.date     ? `<span>📅 ${formatDate(item.date)}</span>` : ''}
+              ${item.deadline ? `<span><i class="iconoir-alarm"></i> Deadline ${formatDate(item.deadline)}</span>` : ''}
+              ${item.date     ? `<span><i class="iconoir-calendar"></i> ${formatDate(item.date)}</span>` : ''}
               ${item.source   ? `<span>via ${item.source}</span>` : ''}
             </div>
             ${item.description ? `<div class="item-desc">${item.description}</div>` : ''}
@@ -311,18 +317,23 @@ function renderGym(gym) {
 }
 
 // ── Events ─────────────────────────────────────────
-function renderEvents(events) {
+let _eventsData = { events: [] };
+
+function renderEvents(activeFilter = 'all') {
   const body = document.getElementById('events-body');
   const updEl = document.getElementById('events-updated');
 
-  updEl.textContent = events.updated ? `updated ${events.updated}` : '';
+  updEl.textContent = _eventsData.updated ? `updated ${_eventsData.updated}` : '';
 
-  const thisWeek = (events.events || [])
+  const allowedCats = EVENT_FILTER_CATS[activeFilter] || null;
+
+  const thisWeek = (_eventsData.events || [])
     .filter(e => isThisWeek(e.date))
+    .filter(e => !allowedCats || allowedCats.includes(e.category))
     .sort((a, b) => a.date.localeCompare(b.date) || (a.time || '').localeCompare(b.time || ''));
 
   if (thisWeek.length === 0) {
-    body.innerHTML = '<p class="empty">Run the skill to find events this week.</p>';
+    body.innerHTML = '<p class="empty">No events found for this filter — try another category.</p>';
     return;
   }
 
@@ -350,8 +361,8 @@ function renderEvents(events) {
               <span class="tag ${e.cost === 0 ? 'free' : 'cheap'}">${e.cost === 0 ? 'free' : '$' + e.cost}</span>
             </div>
             <div class="item-meta">
-              <span>📅 ${formatDate(e.date)}${e.time ? ' · ' + e.time : ''}</span>
-              ${e.venue ? `<span>📍 ${e.venue}${e.neighborhood ? ', ' + e.neighborhood : ''}</span>` : ''}
+              <span><i class="iconoir-calendar"></i> ${formatDate(e.date)}${e.time ? ' · ' + e.time : ''}</span>
+              ${e.venue ? `<span><i class="iconoir-map-pin"></i> ${e.venue}${e.neighborhood ? ', ' + e.neighborhood : ''}</span>` : ''}
             </div>
             ${e.description ? `<div class="item-desc">${e.description}</div>` : ''}
           </a>
@@ -444,10 +455,10 @@ function renderHistory(period) {
     <div class="history-day">
       <div class="history-date">${formatDate(date)}</div>
       ${items.map(item => {
-        const cat = CATEGORIES[item.category] || { color: '#78716c', emoji: '•' };
+        const cat = CATEGORIES[item.category] || { color: '#78716c', icon: '·' };
         return `
           <div class="history-entry">
-            <span class="history-cat" style="color:${cat.color}">${cat.emoji} ${item.subcategory || item.category}</span>
+            <span class="history-cat" style="color:${cat.color}">${cat.icon} ${item.subcategory || item.category}</span>
             <span class="history-activity">${item.activity}</span>
             <span class="history-meta">
               ${item.duration_hours ? `<span>${item.duration_hours}h</span>` : ''}
@@ -475,6 +486,8 @@ function applyFilter(filter) {
       section.style.display = cats.includes(filter) ? '' : 'none';
     }
   });
+  // Re-render events with category filter applied within the section
+  renderEvents(filter);
 }
 
 // ── Data loading ───────────────────────────────────
@@ -496,12 +509,13 @@ async function init() {
 
   const data = await loadData();
   _historyData = data.history || { entries: [] };
+  _eventsData  = data.events  || { events: [] };
 
   renderWeather(data.weather || {});
   renderMix(data.mix || {}, _historyData);
   renderProfessional(data.professional || {});
   renderGym(data.gym || {});
-  renderEvents(data.events || {});
+  renderEvents('all');
   renderMuseums(data.museums || {});
   renderHistory('week');
 

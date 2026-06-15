@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>unemployed in sf</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -25,15 +26,15 @@
 
     <nav id="filter-bar">
       <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="professional">💼 Professional</button>
-      <button class="filter-btn" data-filter="health">🏃 Health</button>
-      <button class="filter-btn" data-filter="social">👥 Social</button>
-      <button class="filter-btn" data-filter="culture">🎨 Culture</button>
+      <button class="filter-btn" data-filter="professional"><i class="iconoir-suitcase"></i> Professional</button>
+      <button class="filter-btn" data-filter="health"><i class="iconoir-running"></i> Health</button>
+      <button class="filter-btn" data-filter="social"><i class="iconoir-community"></i> Social</button>
+      <button class="filter-btn" data-filter="culture"><i class="iconoir-palette"></i> Culture</button>
     </nav>
 
     <section id="events-section" class="card content-section" data-categories="social,culture">
       <div class="section-header">
-        <h2>🎟 Events this week</h2>
+        <h2><i class="iconoir-calendar"></i> Events this week</h2>
         <span id="events-updated" class="updated-label"></span>
       </div>
       <div id="events-body" class="section-body"></div>
@@ -41,7 +42,7 @@
 
     <section id="museums-section" class="card content-section" data-categories="culture">
       <div class="section-header">
-        <h2>🖼 Museums</h2>
+        <h2><i class="iconoir-frame"></i> Museums</h2>
         <span id="museums-updated" class="updated-label"></span>
       </div>
       <div id="museums-body" class="section-body"></div>
@@ -49,7 +50,7 @@
 
     <section id="professional-section" class="card content-section" data-categories="professional">
       <div class="section-header">
-        <h2>💼 Professional</h2>
+        <h2><i class="iconoir-suitcase"></i> Professional</h2>
         <span id="professional-updated" class="updated-label"></span>
       </div>
       <div id="professional-body" class="section-body"></div>
@@ -57,7 +58,7 @@
 
     <section id="gym-section" class="card content-section" data-categories="health">
       <div class="section-header">
-        <h2>🏊 Bay Club</h2>
+        <h2><i class="iconoir-gym"></i> Bay Club</h2>
         <span id="gym-updated" class="updated-label"></span>
       </div>
       <div id="gym-body" class="section-body"></div>
@@ -82,7 +83,6 @@
       </div>
       <div id="mix-body"></div>
     </section>
-
 
   </main>
 
