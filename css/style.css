@@ -57,6 +57,13 @@ main {
   gap: 1.25rem;
 }
 
+.top-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1.25rem;
+  align-items: start;
+}
+
 
 /* ── Cards ───────────────────────────────────────── */
 .card {
@@ -115,77 +122,69 @@ main {
   border-color: var(--text);
 }
 
-/* ── Weather ─────────────────────────────────────── */
-.weather-today {
+/* ── Weather calendar ────────────────────────────── */
+.weather-cal {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.75rem;
-  margin-bottom: 1rem;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
 }
 
-.weather-stat {
+.wc-day {
   display: flex;
   flex-direction: column;
-  gap: 0.1rem;
-}
-
-.weather-val {
-  font-size: 1rem;
-  font-weight: 500;
-}
-
-.weather-lbl {
-  font-size: 0.72rem;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.activity-recs {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-}
-
-.activity-rec {
-  display: grid;
-  grid-template-columns: 90px 45px 1fr;
-  gap: 0.6rem;
   align-items: center;
-  font-size: 0.82rem;
-  padding: 0.35rem 0.6rem;
+  gap: 3px;
+  padding: 5px 3px;
   border-radius: 6px;
+  text-align: center;
+  min-width: 42px;
+}
+
+.wc-today {
   background: var(--bg);
 }
 
-.activity-rec.rating-good  { border-left: 3px solid #16a34a; }
-.activity-rec.rating-fair  { border-left: 3px solid #d97706; }
-.activity-rec.rating-poor  { border-left: 3px solid #dc2626; }
-
-.rec-activity {
-  font-weight: 500;
-  text-transform: capitalize;
-}
-
-.rec-rating {
-  font-size: 0.7rem;
+.wc-name {
+  font-size: 0.6rem;
   font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
-.rating-good  .rec-rating { color: #16a34a; }
-.rating-fair  .rec-rating { color: #d97706; }
-.rating-poor  .rec-rating { color: #dc2626; }
+.wc-today .wc-name {
+  color: var(--text);
+}
 
-.rec-reason { color: var(--text-muted); }
-
-.weather-tomorrow {
-  font-size: 0.82rem;
+.wc-date {
+  font-size: 0.67rem;
   color: var(--text-muted);
-  margin-top: 0.75rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid var(--border);
+}
+
+.wc-today .wc-date {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.wc-act {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.wc-temp {
+  font-size: 0.68rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.wc-rain {
+  font-size: 0.63rem;
+  color: #2563eb;
+}
+
+.wc-wind {
+  font-size: 0.63rem;
+  color: var(--text-muted);
 }
 
 /* ── Mix tracker ─────────────────────────────────── */
@@ -579,9 +578,9 @@ main {
 /* ── Responsive ──────────────────────────────────── */
 @media (max-width: 800px) {
   .top-grid { grid-template-columns: 1fr; }
-  .weather-today { grid-template-columns: repeat(2, 1fr); }
   .mix-row { grid-template-columns: 100px 1fr 32px 46px; }
   main { padding: 1rem; }
   .card-grid { grid-template-columns: 1fr; }
-  .activity-rec { grid-template-columns: 80px 40px 1fr; }
+  .weather-cal { gap: 1px; }
+  .wc-day { min-width: 36px; padding: 4px 2px; }
 }

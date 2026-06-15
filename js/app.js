@@ -106,6 +106,14 @@ function computeMix(entries, filterFn) {
 }
 
 // ── Weather ────────────────────────────────────────
+function getBestActivity(day) {
+  const t = day.high, w = day.wind_mph, r = day.precipitation_pct;
+  if (t >= 55 && w <= 12 && r <= 15) return { icon: '🚴', label: 'cycling' };
+  if (t >= 48 && w <= 18 && r <= 30) return { icon: '🚴', label: 'cycling' };
+  if (t >= 45 && w <= 18 && r <= 30) return { icon: '🏃', label: 'running' };
+  return { icon: '🏊', label: 'swim/gym' };
+}
+
 function renderWeather(weather) {
   const body = document.getElementById('weather-body');
   const updEl = document.getElementById('weather-updated');
@@ -117,42 +125,28 @@ function renderWeather(weather) {
 
   updEl.textContent = weather.updated ? `updated ${weather.updated}` : '';
 
-  const today = weather.forecast[0];
-  const tomorrow = weather.forecast[1];
-
-  const recsHtml = (weather.recommendations || []).map(r => `
-    <div class="activity-rec rating-${r.rating.toLowerCase()}">
-      <span class="rec-activity">${r.activity.replace(/_/g, ' ')}</span>
-      <span class="rec-rating">${r.rating}</span>
-      <span class="rec-reason">${r.reason}</span>
-    </div>
-  `).join('');
+  const todayStr = today();
 
   body.innerHTML = `
-    <div class="weather-today">
-      <div class="weather-stat">
-        <span class="weather-val">${today.high}° / ${today.low}°</span>
-        <span class="weather-lbl">temp</span>
-      </div>
-      <div class="weather-stat">
-        <span class="weather-val">${today.wind_mph} mph</span>
-        <span class="weather-lbl">wind</span>
-      </div>
-      <div class="weather-stat">
-        <span class="weather-val">${today.precipitation_pct}%</span>
-        <span class="weather-lbl">rain</span>
-      </div>
-      <div class="weather-stat">
-        <span class="weather-val">${today.description}</span>
-        <span class="weather-lbl">today</span>
-      </div>
+    <div class="weather-cal">
+      ${weather.forecast.slice(0, 7).map(day => {
+        const isToday = day.date === todayStr;
+        const [, m, d] = day.date.split('-');
+        const dateLabel = `${parseInt(m)}/${parseInt(d)}`;
+        const dayShort = (day.day || '').slice(0, 3).toUpperCase();
+        const act = getBestActivity(day);
+        return `
+          <div class="wc-day${isToday ? ' wc-today' : ''}" title="${act.label}">
+            <div class="wc-name">${dayShort}</div>
+            <div class="wc-date">${dateLabel}</div>
+            <div class="wc-act">${act.icon}</div>
+            <div class="wc-temp">${day.high}°/${day.low}°</div>
+            <div class="wc-rain">${day.precipitation_pct}%</div>
+            <div class="wc-wind">${day.wind_mph}mph</div>
+          </div>
+        `;
+      }).join('')}
     </div>
-    <div class="activity-recs">${recsHtml}</div>
-    ${tomorrow ? `
-      <p class="weather-tomorrow">
-        Tomorrow: ${tomorrow.description}, ${tomorrow.high}° / ${tomorrow.low}°, wind ${tomorrow.wind_mph} mph
-      </p>
-    ` : ''}
   `;
 }
 

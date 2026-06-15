@@ -15,13 +15,23 @@
 
   <main>
 
-    <section id="weather-section" class="card">
-      <div class="section-header">
-        <h2>Weather</h2>
-        <span id="weather-updated" class="updated-label"></span>
-      </div>
-      <div id="weather-body"></div>
-    </section>
+    <div class="top-grid">
+      <section id="weather-section" class="card">
+        <div class="section-header">
+          <h2>Weather</h2>
+          <span id="weather-updated" class="updated-label"></span>
+        </div>
+        <div id="weather-body"></div>
+      </section>
+
+      <section id="mix-section" class="card">
+        <div class="section-header">
+          <h2>This week</h2>
+          <span id="mix-hours" class="updated-label"></span>
+        </div>
+        <div id="mix-body"></div>
+      </section>
+    </div>
 
     <nav id="filter-bar">
       <button class="filter-btn active" data-filter="all">All</button>
@@ -75,13 +85,6 @@
       <div id="history-list"></div>
     </section>
 
-    <section id="mix-section" class="card">
-      <div class="section-header">
-        <h2>This week</h2>
-        <span id="mix-hours" class="updated-label"></span>
-      </div>
-      <div id="mix-body"></div>
-    </section>
 
   </main>
 
