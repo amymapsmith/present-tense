@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>unemployed in sf</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1>unemployed in sf</h1>
+    <div id="week-label" class="week-label"></div>
+  </header>
+
+  <main>
+
+    <section id="weather-section" class="card">
+      <div class="section-header">
+        <h2>Weather</h2>
+        <span id="weather-updated" class="updated-label"></span>
+      </div>
+      <div id="weather-body"></div>
+    </section>
+
+    <nav id="filter-bar">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="professional">💼 Professional</button>
+      <button class="filter-btn" data-filter="health">🏃 Health</button>
+      <button class="filter-btn" data-filter="social">👥 Social</button>
+      <button class="filter-btn" data-filter="culture">🎨 Culture</button>
+    </nav>
+
+    <section id="events-section" class="card content-section" data-categories="social,culture">
+      <div class="section-header">
+        <h2>🎟 Events this week</h2>
+        <span id="events-updated" class="updated-label"></span>
+      </div>
+      <div id="events-body" class="section-body"></div>
+    </section>
+
+    <section id="museums-section" class="card content-section" data-categories="culture">
+      <div class="section-header">
+        <h2>🖼 Museums</h2>
+        <span id="museums-updated" class="updated-label"></span>
+      </div>
+      <div id="museums-body" class="section-body"></div>
+    </section>
+
+    <section id="professional-section" class="card content-section" data-categories="professional">
+      <div class="section-header">
+        <h2>💼 Professional</h2>
+        <span id="professional-updated" class="updated-label"></span>
+      </div>
+      <div id="professional-body" class="section-body"></div>
+    </section>
+
+    <section id="gym-section" class="card content-section" data-categories="health">
+      <div class="section-header">
+        <h2>🏊 Bay Club</h2>
+        <span id="gym-updated" class="updated-label"></span>
+      </div>
+      <div id="gym-body" class="section-body"></div>
+    </section>
+
+    <section id="history-section" class="card">
+      <div class="section-header">
+        <h2>History</h2>
+        <div class="history-tabs">
+          <button class="history-tab active" data-period="week">This week</button>
+          <button class="history-tab" data-period="month">This month</button>
+          <button class="history-tab" data-period="all">All time</button>
+        </div>
+      </div>
+      <div id="history-list"></div>
+    </section>
+
+    <section id="mix-section" class="card">
+      <div class="section-header">
+        <h2>This week</h2>
+        <span id="mix-hours" class="updated-label"></span>
+      </div>
+      <div id="mix-body"></div>
+    </section>
+
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

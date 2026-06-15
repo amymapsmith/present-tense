@@ -2,31 +2,77 @@
   "entries": [
     {
       "date": "2026-06-13",
+      "category": "health",
+      "subcategory": "cycling",
+      "activity": "Bike ride up Hawk Hill with Neil",
+      "duration_hours": 2,
+      "cost": 0,
+      "location": "Marin Headlands"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Walk with Tiina",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "SF",
+      "notes": "2 hugs"
+    },
+    {
+      "date": "2026-06-13",
       "category": "professional",
-      "subcategory": "networking",
-      "activity": "Women in Privacy & Security meetup — AI governance panel",
+      "subcategory": "job_application",
+      "activity": "Applied for unemployment",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "home"
+    },
+    {
+      "date": "2026-06-13",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Texted with Katie — set up friend date for Thursday",
+      "duration_hours": 0.25,
+      "cost": 0,
+      "location": "remote"
+    },
+    {
+      "date": "2026-06-14",
+      "category": "professional",
+      "subcategory": "project_work",
+      "activity": "Built unemployed-in-sf dashboard",
+      "duration_hours": 3,
+      "cost": 0,
+      "location": "home"
+    },
+    {
+      "date": "2026-06-14",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Mandeep's yoga teacher training graduation",
       "duration_hours": 2,
       "cost": 0,
       "location": "SF",
-      "notes": "Good conversations about EU AI Act implications"
+      "notes": "7 hugs today"
     },
     {
-      "date": "2026-06-12",
+      "date": "2026-06-14",
       "category": "health",
-      "subcategory": "gym",
-      "activity": "Bay Club spin class",
-      "duration_hours": 1,
+      "subcategory": "yoga",
+      "activity": "Yoga practice",
+      "duration_hours": 1.5,
       "cost": 0,
-      "location": "Bay Club SF"
+      "location": "home"
     },
     {
-      "date": "2026-06-11",
+      "date": "2026-06-14",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Coffee with Marian in the Mission",
-      "duration_hours": 1.5,
-      "cost": 8,
-      "location": "Mission District"
+      "activity": "Social touchpoints: texting Anshul (sharing city walk photos), planning Monday gym meetup with Shannon",
+      "duration_hours": 0.5,
+      "cost": 0,
+      "location": "remote"
     }
   ]
 }
