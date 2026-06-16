@@ -566,6 +566,8 @@ function switchLocation(loc) {
     renderMuseums(_aaData.venues || {}, 'aa-venues-body', 'aa-venues-updated');
   }
 
+  renderProfessional(_sfData.professional || {});
+
   // Reset filter to all
   applyFilter('all');
 }
