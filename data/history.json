@@ -99,7 +99,8 @@
       "activity": "Lunch with S",
       "duration_hours": 1,
       "cost": 0,
-      "location": "SF"
+      "location": "SF",
+      "notes": "3 hugs"
     },
     {
       "date": "2026-06-15",
