@@ -13,6 +13,7 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5187208008",
       "source": "greenhouse",
       "seniority": "senior",
+      "location": "any",
       "tags": ["ai-alignment", "ai-safety", "tpm", "san-francisco"]
     },
     {
@@ -27,6 +28,7 @@
       "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5810409004",
       "source": "greenhouse",
       "seniority": "senior",
+      "location": "any",
       "tags": ["responsible-ai", "governance", "san-mateo", "gaming"]
     },
     {
@@ -41,6 +43,7 @@
       "url": "https://openai.com/careers/program-manager-alignment-san-francisco/",
       "source": "other",
       "seniority": "senior",
+      "location": "any",
       "tags": ["alignment", "ai-safety", "program-management", "san-francisco"]
     },
     {
@@ -55,6 +58,7 @@
       "url": "https://openai.com/careers/technical-program-manager-adversarial-model-research-san-francisco/",
       "source": "other",
       "seniority": "senior",
+      "location": "any",
       "tags": ["ai-safety", "tpm", "red-teaming", "san-francisco"]
     },
     {
@@ -69,6 +73,7 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83124819549135558-senior-technical-program-manager-ii/",
       "source": "other",
       "seniority": "senior",
+      "location": "any",
       "tags": ["tpm", "ai-ml", "google-cloud", "mountain-view", "enterprise-ai"]
     },
     {
@@ -83,6 +88,7 @@
       "url": "https://www.wisporg.com/upcoming-events",
       "source": "other",
       "seniority": "any",
+      "location": "any",
       "tags": ["wisp", "ai-governance", "security", "privacy", "virtual", "free"]
     },
     {
@@ -97,6 +103,7 @@
       "url": "https://sf.aitinkerers.org",
       "source": "meetup",
       "seniority": "any",
+      "location": "sf",
       "tags": ["ai", "networking", "san-francisco", "applied-research", "free"]
     },
     {
@@ -111,7 +118,53 @@
       "url": "https://www.ai.engineer/worldsfair/2026",
       "source": "other",
       "seniority": "any",
+      "location": "sf",
       "tags": ["ai", "networking", "san-francisco", "enterprise-ai", "ai-safety"]
+    },
+    {
+      "type": "networking",
+      "title": "AI Tinkerers Ann Arbor — Monthly Meetup",
+      "organization": "AI Tinkerers Ann Arbor",
+      "description": "Monthly Ann Arbor chapter of the AI Tinkerers network — 3-hour meetups with lightning demos across LLM agents, computer vision, robotics, and applied AI. Draws ML engineers, researchers, and founders from the UM/Ann Arbor tech ecosystem.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://ann-arbor.aitinkerers.org",
+      "source": "meetup",
+      "seniority": "any",
+      "location": "ann-arbor",
+      "tags": ["ai", "networking", "ann-arbor", "applied-research", "free"]
+    },
+    {
+      "type": "networking",
+      "title": "Ann Arbor AI/ML Meetup — Monthly",
+      "organization": "Ann Arbor AI/ML Meetup",
+      "description": "Community meetup focused on machine learning, data science, and AI applications in the Ann Arbor / Ypsilanti area. Typically meets the first Thursday of each month at SPARK Central Innovation Center. Free, with pizza and socializing.",
+      "date": "2026-07-02",
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://www.meetup.com/machine-learning-data-science-and-industry/",
+      "source": "meetup",
+      "seniority": "any",
+      "location": "ann-arbor",
+      "tags": ["ai", "ml", "data-science", "networking", "ann-arbor", "free"]
+    },
+    {
+      "type": "networking",
+      "title": "A2 New Tech — Monthly Startup & Tech Meetup",
+      "organization": "Ann Arbor SPARK",
+      "description": "Monthly Ann Arbor SPARK event featuring startup pitches, demos, and networking happy hour. Draws founders, engineers, investors, and tech leaders from the Ann Arbor ecosystem. Free. Typically held mid-month at SPARK venues.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://annarborusa.org/events/",
+      "source": "other",
+      "seniority": "any",
+      "location": "ann-arbor",
+      "tags": ["startup", "networking", "ann-arbor", "tech", "free"]
     }
   ]
 }

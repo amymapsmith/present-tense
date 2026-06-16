@@ -226,7 +226,10 @@ function renderProfessional(professional) {
 
   const items = (professional.opportunities || []).filter(o => {
     const checkDate = o.deadline || o.date;
-    return !checkDate || isFutureOrToday(checkDate);
+    if (checkDate && !isFutureOrToday(checkDate)) return false;
+    const loc = o.location || 'any';
+    if (loc !== 'any' && loc !== currentLocation) return false;
+    return true;
   });
 
   if (items.length === 0) {
