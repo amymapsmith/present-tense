@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-06-16",
   "locations": [
     {
       "id": "sf",
@@ -22,7 +22,7 @@
       "name": "Bay Club SF Financial District",
       "address": "345 Spear St, San Francisco, CA 94105",
       "url": "https://www.bayclubsf.com",
-      "_note": "Hours unverified — preserving prior values. Verify at bayclubsf.com.",
+      "_note": "Hours unverified — bayclubsf.com blocked direct scraping. Preserving prior values.",
       "hours": {
         "monday":    { "open": "06:00", "close": "21:00" },
         "tuesday":   { "open": "06:00", "close": "21:00" },

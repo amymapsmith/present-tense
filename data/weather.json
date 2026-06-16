@@ -1,70 +1,70 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-06-16",
   "location": "San Francisco, CA",
   "forecast": [
     {
-      "date": "2026-06-15", "day": "Monday",
-      "high": 68, "low": 56, "wind_mph": 10,
-      "wind_hourly": [5,4,4,4,4,4,5,5,6,7,8,9,10,10,10,10,9,9,9,10,10,9,8,8],
-      "precipitation_pct": 0, "humidity": 0, "description": "Mostly Sunny"
-    },
-    {
       "date": "2026-06-16", "day": "Tuesday",
-      "high": 70, "low": 58, "wind_mph": 12,
-      "wind_hourly": [7,6,6,5,3,3,3,3,3,5,5,7,8,9,10,12,12,12,12,12,9,9,9,8],
-      "precipitation_pct": 0, "humidity": 0, "description": "Mostly Sunny"
+      "high": 69, "low": 55, "wind_mph": 13,
+      "wind_hourly": [6,6,5,5,5,6,6,7,7,8,9,10,11,11,12,12,13,13,12,12,10,9,8,7],
+      "precipitation_pct": 1, "humidity": 0, "description": "Sunny"
     },
     {
       "date": "2026-06-17", "day": "Wednesday",
-      "high": 71, "low": 58, "wind_mph": 14,
-      "wind_hourly": [8,8,6,6,6,5,5,5,5,5,5,7,7,7,12,12,12,14,14,14,14,14,14,12],
+      "high": 68, "low": 55, "wind_mph": 14,
+      "wind_hourly": [8,7,7,7,6,5,5,5,5,6,7,7,9,10,13,14,14,14,14,14,13,13,13,9],
       "precipitation_pct": 1, "humidity": 0, "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-18", "day": "Thursday",
-      "high": 70, "low": 58, "wind_mph": 14,
-      "wind_hourly": [12,12,8,8,8,6,6,6,7,7,7,9,9,9,14,14,14,14,14,14,14,14,14,12],
-      "precipitation_pct": 3, "humidity": 0, "description": "Mostly Sunny"
+      "high": 68, "low": 55, "wind_mph": 15,
+      "wind_hourly": [9,9,7,7,7,6,6,6,7,7,7,8,8,8,14,14,14,15,15,15,14,14,14,12],
+      "precipitation_pct": 1, "humidity": 0, "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-19", "day": "Friday",
-      "high": 69, "low": 59, "wind_mph": 14,
-      "wind_hourly": [12,12,8,8,8,7,7,7,8,8,8,9,9,9,13,13,13,14,14,14,14,12,10,8],
-      "precipitation_pct": 5, "humidity": 0, "description": "Mostly Sunny"
+      "high": 70, "low": 56, "wind_mph": 14,
+      "wind_hourly": [12,12,8,8,8,7,7,7,7,7,7,8,8,8,13,13,13,14,14,14,10,10,10,6],
+      "precipitation_pct": 2, "humidity": 0, "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-20", "day": "Saturday",
-      "high": 67, "low": 57, "wind_mph": 13,
-      "wind_hourly": [8,7,7,6,6,6,6,7,7,8,9,10,11,12,13,13,12,12,11,10,9,8,7,7],
-      "precipitation_pct": 5, "humidity": 0, "description": "Mostly Sunny"
+      "high": 68, "low": 54, "wind_mph": 13,
+      "wind_hourly": [6,6,3,3,3,3,3,3,3,3,3,7,7,7,10,12,13,13,12,11,9,8,7,6],
+      "precipitation_pct": 3, "humidity": 0, "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-21", "day": "Sunday",
-      "high": 65, "low": 55, "wind_mph": 12,
-      "wind_hourly": [7,6,6,5,5,5,6,6,7,8,9,10,11,12,12,11,11,10,10,9,8,7,7,6],
-      "precipitation_pct": 10, "humidity": 0, "description": "Partly Sunny"
+      "high": 67, "low": 54, "wind_mph": 14,
+      "wind_hourly": [5,5,4,4,4,4,5,5,6,7,8,9,10,11,12,13,14,14,13,12,10,9,7,6],
+      "precipitation_pct": 1, "humidity": 0, "description": "Mostly Sunny"
+    },
+    {
+      "date": "2026-06-22", "day": "Monday",
+      "high": 68, "low": 55, "wind_mph": 12,
+      "wind_hourly": [5,5,4,4,4,4,5,5,6,7,8,8,9,10,10,11,12,12,11,10,9,8,7,6],
+      "precipitation_pct": 2, "humidity": 0, "description": "Mostly Sunny"
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Temps 65–71°F and dry all week — great. Winds build to 12–14 mph Wed–Fri, just above ideal. Best rides Mon–Tue when winds stay under 12 mph."
+      "reason": "Comfortable 67–70°F all week and rain under 3%, but afternoon westerlies peak 12–15 mph most days. Best windows: mornings before the sea breeze builds, or Saturday when it starts calm."
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "All week: 65–71°F, winds well under 18 mph, essentially no rain. Excellent running conditions every day."
+      "reason": "Excellent running week — mild 67–70°F, near-zero rain, winds manageable at any hour. Any day works."
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club indoor pool available daily regardless of conditions."
+      "reason": "Bay Club indoor pool available all week. Outdoor conditions comfortable too."
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Always available. Weather is strong this week so outdoors is also a fine option."
+      "reason": "Good any day. Weather mild enough that outdoor alternatives are equally viable — use whichever fits the schedule."
     }
   ]
 }
