@@ -33,24 +33,80 @@
         "sunday": null
       },
       "current_exhibitions": [],
-      "events": []
-    },
-    {
-      "id": "michigan-theater",
-      "name": "Michigan Theater",
-      "address": "603 E Liberty St, Ann Arbor, MI 48104",
-      "url": "https://michigantheater.org",
-      "hours": {
-        "monday": null,
-        "tuesday": null,
-        "wednesday": null,
-        "thursday": null,
-        "friday": null,
-        "saturday": null,
-        "sunday": null
-      },
-      "current_exhibitions": [],
-      "events": []
+      "events": [
+        {
+          "title": "Ian Flanigan (Artist Spotlight — free)",
+          "date": "2026-06-23",
+          "time": "20:00",
+          "description": "Artist Spotlight Series. Donations to Food Gatherers encouraged.",
+          "cost": 0,
+          "cost_notes": "free",
+          "url": "https://theark.org/event/ian_flanigan-260623/"
+        },
+        {
+          "title": "Esther Rose",
+          "date": "2026-06-24",
+          "time": "20:00",
+          "description": "New Orleans Americana songwriter.",
+          "cost": 24,
+          "cost_notes": "$24",
+          "url": "https://theark.org/event/esther-rose-260624/"
+        },
+        {
+          "title": "Handmade Moments",
+          "date": "2026-06-25",
+          "time": "20:00",
+          "description": "Live music.",
+          "cost": 24,
+          "cost_notes": "$24",
+          "url": "https://theark.org/event/handmade-moments-260625/"
+        },
+        {
+          "title": "Gregory Stovetop",
+          "date": "2026-06-26",
+          "time": "20:00",
+          "description": "Live music.",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://theark.org/event/gregory-stovetop-260626/"
+        },
+        {
+          "title": "Matt Watroba",
+          "date": "2026-06-28",
+          "time": "20:00",
+          "description": "Michigan folk singer and Michigan Radio host.",
+          "cost": 0,
+          "cost_notes": "check website",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Holly Near & Jan Martinelli",
+          "date": "2026-07-01",
+          "time": "19:30",
+          "description": "Legendary folk and activist singer with longtime collaborator.",
+          "cost": 0,
+          "cost_notes": "check website",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Davy Knowles",
+          "date": "2026-07-07",
+          "time": "20:00",
+          "description": "Blues-rock guitarist from the Isle of Man.",
+          "cost": 0,
+          "cost_notes": "check website",
+          "url": "https://theark.org/event/davy-knowles-260707/"
+        },
+        {
+          "title": "Howie Day",
+          "date": "2026-07-10",
+          "time": "20:00",
+          "description": "Singer-songwriter, known for \"Collide.\"",
+          "cost": 0,
+          "cost_notes": "check website",
+          "url": "https://theark.org/events/"
+        }
+      ]
     },
     {
       "id": "matthaei",
