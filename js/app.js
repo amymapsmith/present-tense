@@ -138,6 +138,34 @@ function getSkyIcon(description) {
   return '<i class="iconoir-cloud-sunny"></i>';
 }
 
+function getTimeOfDayRecs(day) {
+  const { high, low, wind_mph, precipitation_pct, description } = day;
+  const foggy = /fog|mist|overcast|cloudy/i.test(description || '');
+  const rainy  = precipitation_pct > 40;
+  const windy  = wind_mph > 12;
+  const mornT  = low + (high - low) * 0.2;
+  const midT   = (high + low) / 2;
+
+  function outdoorRec(temp, w) {
+    if (rainy) return { icon: '<i class="iconoir-gym"></i>', label: 'indoor' };
+    if (temp >= 55 && w <= 12 && !foggy) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
+    if (temp >= 45 && w <= 20)           return { icon: '<i class="iconoir-running"></i>', label: 'run' };
+    return { icon: '<i class="iconoir-swimming"></i>', label: 'swim / gym' };
+  }
+
+  const afternoon = rainy
+    ? { icon: '<i class="iconoir-gym"></i>',       label: 'indoor' }
+    : (windy || foggy)
+    ? { icon: '<i class="iconoir-community"></i>', label: 'social / indoor' }
+    : { icon: '<i class="iconoir-community"></i>', label: 'social / walk' };
+
+  return [
+    { time: 'Morning',   ...outdoorRec(mornT, wind_mph * 0.6) },
+    { time: 'Midday',    ...outdoorRec(midT,  wind_mph) },
+    { time: 'Afternoon', ...afternoon },
+  ];
+}
+
 function renderWeather(weather) {
   const body = document.getElementById('weather-body');
   const updEl = document.getElementById('weather-updated');
@@ -150,6 +178,19 @@ function renderWeather(weather) {
   updEl.textContent = weather.updated ? `updated ${weather.updated}` : '';
 
   const todayStr = today();
+  const todayForecast = weather.forecast.find(d => d.date === todayStr);
+
+  const todHtml = todayForecast ? `
+    <div class="weather-tod">
+      ${getTimeOfDayRecs(todayForecast).map(r => `
+        <div class="tod-slot">
+          <span class="tod-time">${r.time}</span>
+          <div class="tod-icon">${r.icon}</div>
+          <span class="tod-rec">${r.label}</span>
+        </div>
+      `).join('')}
+    </div>
+  ` : '';
 
   body.innerHTML = `
     <div class="weather-cal">
@@ -173,6 +214,7 @@ function renderWeather(weather) {
         `;
       }).join('')}
     </div>
+    ${todHtml}
   `;
 }
 
@@ -433,7 +475,7 @@ function renderMuseums(museums, bodyId = 'museums-body', updId = 'museums-update
   body.innerHTML = html || '<p class="empty">Run the skill to update museum info.</p>';
 }
 
-// ── History ────────────────────────────────────────
+// ── Sanity ─────────────────────────────────────────
 let _historyData = { entries: [] };
 let _historyPeriod = 'week';
 
@@ -446,9 +488,28 @@ function countHugs(entries) {
   return total;
 }
 
+function renderHugHeart(hugs) {
+  const target = 21; // 3 hugs/day × 7 days
+  const pct = Math.min(hugs / target, 1);
+  const fillY = (24 * (1 - pct)).toFixed(2);
+  const fillH = (24 * pct).toFixed(2);
+  const path = 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z';
+  return `
+    <svg class="hug-heart-svg" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <clipPath id="heart-clip">
+          <path d="${path}"/>
+        </clipPath>
+      </defs>
+      <path d="${path}" fill="none" stroke="var(--border)" stroke-width="1.5"/>
+      ${pct > 0 ? `<rect x="0" y="${fillY}" width="24" height="${fillH}" fill="#e11d48" opacity="0.85" clip-path="url(#heart-clip)"/>` : ''}
+    </svg>
+  `;
+}
+
 function renderHistory(period) {
   _historyPeriod = period;
-  const list = document.getElementById('history-list');
+  const list = document.getElementById('sanity-list');
   let entries = [...(_historyData.entries || [])];
 
   if (period === 'week')  entries = entries.filter(e => isThisWeek(e.date));
@@ -473,8 +534,11 @@ function renderHistory(period) {
   list.innerHTML = `
     <div class="history-stats">
       <div class="history-hugs">
-        <span class="hug-count">${hugs}</span>
-        <span class="hug-label"><i class="iconoir-heart"></i> hugs ${periodLabel}</span>
+        ${renderHugHeart(hugs)}
+        <div class="hug-text">
+          <span class="hug-count">${hugs}</span>
+          <span class="hug-label">hugs ${periodLabel}</span>
+        </div>
       </div>
       ${totalHours > 0 ? `
         <div class="history-summary">${totalHours.toFixed(1)}h logged · ${entries.length} activities</div>
@@ -552,11 +616,10 @@ function switchLocation(loc) {
   document.querySelectorAll('.loc-btn').forEach(b => {
     b.classList.toggle('active', b.dataset.loc === loc);
   });
-  document.getElementById('location-name').textContent = loc === 'sf' ? 'sf' : 'ann arbor';
   document.getElementById('events-heading').textContent = loc === 'sf' ? 'Events this week' : 'Events in Ann Arbor';
 
-  // Show/hide location-specific sections
-  document.querySelectorAll('[data-loc]').forEach(s => {
+  // Show/hide location-specific sections (use section[data-loc] to avoid matching loc-btn elements)
+  document.querySelectorAll('section[data-loc]').forEach(s => {
     s.style.display = s.dataset.loc === loc ? '' : 'none';
   });
 
@@ -600,9 +663,9 @@ async function init() {
     btn.addEventListener('click', () => switchLocation(btn.dataset.loc));
   });
 
-  document.querySelectorAll('.history-tab').forEach(btn => {
+  document.querySelectorAll('.sanity-tab').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.history-tab').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.sanity-tab').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       renderHistory(btn.dataset.period);
     });

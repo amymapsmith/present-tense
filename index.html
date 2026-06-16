@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>unemployed in sf</title>
+  <title>present tense</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -11,13 +11,16 @@
 
   <header class="site-header">
     <div class="header-left">
-      <h1>unemployed in <span id="location-name">sf</span></h1>
+      <h1>present tense</h1>
       <div id="week-label" class="week-label"></div>
     </div>
-    <nav class="loc-toggle">
-      <button class="loc-btn active" data-loc="sf">SF</button>
-      <button class="loc-btn" data-loc="ann-arbor">Ann Arbor</button>
-    </nav>
+    <div class="header-right">
+      <a href="#sanity-section" class="header-heart" aria-label="Sanity"><i class="iconoir-heart"></i></a>
+      <nav class="loc-toggle">
+        <button class="loc-btn active" data-loc="sf">SF</button>
+        <button class="loc-btn" data-loc="ann-arbor">Ann Arbor</button>
+      </nav>
+    </div>
   </header>
 
   <main>
@@ -80,16 +83,16 @@
       <div id="gym-body" class="section-body"></div>
     </section>
 
-    <section id="history-section" class="card">
+    <section id="sanity-section" class="card">
       <div class="section-header">
-        <h2>History</h2>
-        <div class="history-tabs">
-          <button class="history-tab active" data-period="week">This week</button>
-          <button class="history-tab" data-period="month">This month</button>
-          <button class="history-tab" data-period="all">All time</button>
+        <h2>Sanity</h2>
+        <div class="sanity-tabs">
+          <button class="sanity-tab active" data-period="week">This week</button>
+          <button class="sanity-tab" data-period="month">This month</button>
+          <button class="sanity-tab" data-period="all">All time</button>
         </div>
       </div>
-      <div id="history-list"></div>
+      <div id="sanity-list"></div>
     </section>
 
     <section id="mix-section" class="card">
