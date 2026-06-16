@@ -111,34 +111,6 @@ function getSkyIcon(description) {
   return '<i class="iconoir-cloud-sunny"></i>';
 }
 
-function getTimeOfDayRecs(day) {
-  const { high, low, wind_mph, precipitation_pct, description } = day;
-  const foggy = /fog|mist|overcast|cloudy/i.test(description || '');
-  const rainy  = precipitation_pct > 40;
-  const windy  = wind_mph > 12;
-  const mornT  = low + (high - low) * 0.2;
-  const midT   = (high + low) / 2;
-
-  function outdoorRec(temp, w) {
-    if (rainy) return { icon: '<i class="iconoir-gym"></i>', label: 'indoor' };
-    if (temp >= 55 && w <= 12 && !foggy) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
-    if (temp >= 45 && w <= 20)           return { icon: '<i class="iconoir-running"></i>', label: 'run' };
-    return { icon: '<i class="iconoir-swimming"></i>', label: 'swim / gym' };
-  }
-
-  const afternoon = rainy
-    ? { icon: '<i class="iconoir-gym"></i>',       label: 'indoor' }
-    : (windy || foggy)
-    ? { icon: '<i class="iconoir-community"></i>', label: 'social / indoor' }
-    : { icon: '<i class="iconoir-community"></i>', label: 'social / walk' };
-
-  return [
-    { time: 'Morning',   ...outdoorRec(mornT, wind_mph * 0.6) },
-    { time: 'Midday',    ...outdoorRec(midT,  wind_mph) },
-    { time: 'Afternoon', ...afternoon },
-  ];
-}
-
 function windSparkline(day) {
   const hourly = day.wind_hourly;
   if (!hourly || hourly.length < 2) {
@@ -160,7 +132,8 @@ function windSparkline(day) {
       <polyline points="${pts}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
     <div class="wc-wind-stats">
-      <span>${min}–${max}</span><span class="wc-wind-avg">avg ${avg}</span>
+      <span><i class="iconoir-wind"></i> ${min}–${max} mph</span>
+      <span class="wc-wind-avg">avg ${avg} mph</span>
     </div>
   `;
 }
@@ -186,31 +159,17 @@ function renderWeather(weather) {
         const dateLabel = `${parseInt(m)}/${parseInt(d)}`;
         const dayShort = (day.day || '').slice(0, 3).toUpperCase();
         const sky = getSkyIcon(day.description);
-        const recs = getTimeOfDayRecs(day);
         return `
           <div class="wc-day${isToday ? ' wc-today' : ''}" title="${day.description}">
             <div class="wc-name">${dayShort}</div>
             <div class="wc-date">${dateLabel}</div>
             <div class="wc-sky">${sky}</div>
-            <div class="wc-tod">
-              ${recs.map(r => `<span class="wc-tod-icon" title="${r.time}: ${r.label}">${r.icon}</span>`).join('')}
-            </div>
             <div class="wc-temp">${day.high}°/${day.low}°</div>
             <div class="wc-rain">${day.precipitation_pct}%</div>
             ${windSparkline(day)}
           </div>
         `;
       }).join('')}
-    </div>
-    <div class="weather-key">
-      <div class="wkey-row">
-        <span class="wkey-label">activity <span class="wkey-timing">(am · mid · pm)</span></span>
-        <span class="wkey-item"><i class="iconoir-cycling"></i> cycling</span>
-        <span class="wkey-item"><i class="iconoir-running"></i> run</span>
-        <span class="wkey-item"><i class="iconoir-swimming"></i> swim / gym</span>
-        <span class="wkey-item"><i class="iconoir-gym"></i> indoor</span>
-        <span class="wkey-item"><i class="iconoir-community"></i> social</span>
-      </div>
     </div>
   `;
 }
