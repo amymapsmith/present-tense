@@ -1,6 +1,5 @@
 {
-  "updated": "2026-06-14",
-  "_note": "Hours unverified this run — Bay Club website timed out. Preserving prior values. Verify at bayclubsf.com.",
+  "updated": "2026-06-15",
   "locations": [
     {
       "id": "sf",
@@ -8,13 +7,13 @@
       "address": "150 Greenwich St, San Francisco, CA 94111",
       "url": "https://www.bayclubsf.com",
       "hours": {
-        "monday":    { "open": "05:30", "close": "22:00" },
-        "tuesday":   { "open": "05:30", "close": "22:00" },
-        "wednesday": { "open": "05:30", "close": "22:00" },
-        "thursday":  { "open": "05:30", "close": "22:00" },
-        "friday":    { "open": "05:30", "close": "21:00" },
-        "saturday":  { "open": "07:00", "close": "20:00" },
-        "sunday":    { "open": "07:00", "close": "20:00" }
+        "monday":    { "open": "05:00", "close": "22:00" },
+        "tuesday":   { "open": "05:00", "close": "22:00" },
+        "wednesday": { "open": "05:00", "close": "22:00" },
+        "thursday":  { "open": "05:00", "close": "22:00" },
+        "friday":    { "open": "05:00", "close": "21:00" },
+        "saturday":  { "open": "07:00", "close": "19:00" },
+        "sunday":    { "open": "07:00", "close": "19:00" }
       },
       "events": []
     },
@@ -23,6 +22,7 @@
       "name": "Bay Club SF Financial District",
       "address": "345 Spear St, San Francisco, CA 94105",
       "url": "https://www.bayclubsf.com",
+      "_note": "Hours unverified — preserving prior values. Verify at bayclubsf.com.",
       "hours": {
         "monday":    { "open": "06:00", "close": "21:00" },
         "tuesday":   { "open": "06:00", "close": "21:00" },

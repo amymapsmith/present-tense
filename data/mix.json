@@ -5,23 +5,29 @@
     "social": 0.25,
     "culture": 0.15
   },
+  "actuals": {
+    "professional": 0.267,
+    "health": 0.600,
+    "social": 0.133,
+    "culture": 0.000
+  },
   "recommendation": {
-    "updated": "2026-06-14",
-    "summary": "Culture is at 0% this week (target 15%) and professional is over-indexed at 44% — the WISP networking on Saturday did the work, but the creative input that makes you interesting in those rooms is missing. The de Young's 'About Place' Bay Area Artists show closes July 5; go this week and let it be the counter-weight.",
+    "updated": "2026-06-15",
+    "summary": "Health is 2× target (60%) but most of it is medical appointments, not elected fitness — so the number isn't what it looks like. Culture is at 0% and social is 12 points under target. The OpenAI referral is live: follow up now. Then balance the rest of the week with something that's actually fun — de Young or Dance Fridays.",
     "suggested": [
       {
+        "category": "professional",
+        "title": "Follow up on OpenAI referral — email should be in inbox soon",
+        "source_section": "professional"
+      },
+      {
         "category": "culture",
-        "title": "de Young: About Place — Bay Area Artists from the Svane Gift (closes July 5)",
+        "title": "de Young: Nengi Omuku: The Gathering — closes June 27",
         "source_section": "museums"
       },
       {
-        "category": "health",
-        "title": "Bay Club SF — any class or lap swim (health is 8pts under target)",
-        "source_section": "gym"
-      },
-      {
         "category": "social",
-        "title": "Swing Dance Night with Radio Gatsby Jazz Band — Tue Jun 16, Verdi Club, $20",
+        "title": "Dance Fridays — Salsa & Bachata, Fri Jun 19, 550 Barneveld, $15",
         "source_section": "events"
       }
     ]

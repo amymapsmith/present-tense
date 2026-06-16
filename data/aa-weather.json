@@ -1,6 +1,70 @@
 {
   "updated": "2026-06-15",
   "location": "Ann Arbor, MI",
-  "forecast": [],
-  "recommendations": []
+  "forecast": [
+    {
+      "date": "2026-06-15", "day": "Monday",
+      "high": 72, "low": 54, "wind_mph": 8,
+      "wind_hourly": [5,5,5,4,4,4,4,5,5,6,7,8,8,8,8,7,7,6,6,5,5,5,5,5],
+      "precipitation_pct": 5, "humidity": 0, "description": "Partly Cloudy"
+    },
+    {
+      "date": "2026-06-16", "day": "Tuesday",
+      "high": 77, "low": 53, "wind_mph": 14,
+      "wind_hourly": [5,5,5,5,6,6,6,6,6,8,9,12,13,13,14,14,14,14,14,13,13,13,12,9],
+      "precipitation_pct": 84, "humidity": 0, "description": "Chance Showers and Thunderstorms"
+    },
+    {
+      "date": "2026-06-17", "day": "Wednesday",
+      "high": 77, "low": 59, "wind_mph": 17,
+      "wind_hourly": [8,8,7,6,6,6,6,7,7,8,8,8,9,9,10,10,10,10,10,12,13,15,17,20],
+      "precipitation_pct": 100, "humidity": 0, "description": "Showers and Thunderstorms"
+    },
+    {
+      "date": "2026-06-18", "day": "Thursday",
+      "high": 73, "low": 53, "wind_mph": 22,
+      "wind_hourly": [21,20,20,18,18,18,20,21,22,22,22,22,22,21,21,21,20,18,17,15,13,10,9,8],
+      "precipitation_pct": 45, "humidity": 0, "description": "Chance Rain Showers, Windy"
+    },
+    {
+      "date": "2026-06-19", "day": "Friday",
+      "high": 75, "low": 53, "wind_mph": 17,
+      "wind_hourly": [8,8,8,8,8,8,8,8,8,9,12,13,14,14,15,16,17,17,17,15,14,12,10,9],
+      "precipitation_pct": 9, "humidity": 0, "description": "Sunny"
+    },
+    {
+      "date": "2026-06-20", "day": "Saturday",
+      "high": 75, "low": 54, "wind_mph": 15,
+      "wind_hourly": [8,7,6,6,6,7,7,8,9,10,11,13,14,15,15,14,13,12,11,10,9,8,7,7],
+      "precipitation_pct": 17, "humidity": 0, "description": "Partly Sunny"
+    },
+    {
+      "date": "2026-06-21", "day": "Sunday",
+      "high": 76, "low": 57, "wind_mph": 8,
+      "wind_hourly": [6,5,5,4,4,4,5,5,6,6,7,7,8,8,8,7,7,6,6,5,5,4,4,4],
+      "precipitation_pct": 31, "humidity": 0, "description": "Chance Rain Showers"
+    }
+  ],
+  "recommendations": [
+    {
+      "activity": "cycling",
+      "rating": "fair",
+      "reason": "Monday great (72°F, calm). Tue–Thu: storms and 14–22 mph winds make riding dangerous. Fri–Sun clear out with 75°F and 8–17 mph — rideable but breezy. Plan rides Mon and Fri–Sat."
+    },
+    {
+      "activity": "running",
+      "rating": "fair",
+      "reason": "Good running Mon, Fri–Sun (mild temps, manageable wind). Avoid Wed night–Thu when 100% precip and 22 mph gusts make conditions poor."
+    },
+    {
+      "activity": "swimming",
+      "rating": "good",
+      "reason": "Indoor pool available regardless. Especially useful Tue–Thu when outdoor conditions are poor."
+    },
+    {
+      "activity": "indoor_gym",
+      "rating": "good",
+      "reason": "Especially recommended Wed–Thu: 100% then 45% precipitation and high winds make this the right call. All other days are also fine."
+    }
+  ]
 }
