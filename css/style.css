@@ -206,12 +206,25 @@ main > * + * {
 
 .wc-today .wc-date { color: var(--text); font-weight: 700; }
 
-.wc-sky,
-.wc-act {
+.wc-sky {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 1.4rem;
+}
+
+.wc-tod {
+  display: flex;
+  justify-content: center;
+  gap: 1px;
+  height: 1.2rem;
+  align-items: center;
+}
+
+.wc-tod-icon {
+  display: flex;
+  align-items: center;
+  font-size: 0.72rem;
 }
 
 .wc-temp {
@@ -222,44 +235,6 @@ main > * + * {
 
 .wc-rain  { font-size: 0.63rem; color: #2563eb; }
 .wc-wind  { font-size: 0.63rem; color: var(--text-muted); }
-
-/* ── Weather time-of-day ─────────────────────────── */
-.weather-tod {
-  display: flex;
-  gap: 0;
-  margin-top: 0.85rem;
-  padding-top: 0.75rem;
-  border-top: 1px solid var(--border);
-}
-
-.tod-slot {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 0.2rem;
-}
-
-.tod-time {
-  font-size: 0.6rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color: var(--text-muted);
-}
-
-.tod-icon {
-  font-size: 1.1rem;
-  height: 1.4rem;
-  display: flex;
-  align-items: center;
-}
-
-.tod-rec {
-  font-size: 0.65rem;
-  color: var(--text-muted);
-  text-align: center;
-}
 
 /* ── Mix tracker ─────────────────────────────────── */
 .mix-track {

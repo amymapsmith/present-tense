@@ -100,19 +100,6 @@ function computeMix(entries, filterFn) {
 }
 
 // ── Weather ────────────────────────────────────────
-function getBestActivity(day) {
-  const t = day.high, w = day.wind_mph, r = day.precipitation_pct;
-  // Running beats cycling when wind > 10mph
-  if (w > 10) {
-    if (t >= 45 && w <= 25 && r <= 30) return { icon: '<i class="iconoir-running"></i>', label: 'running' };
-    return { icon: '<i class="iconoir-gym"></i>', label: 'swim/gym' };
-  }
-  if (t >= 55 && r <= 15) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
-  if (t >= 48 && r <= 30) return { icon: '<i class="iconoir-cycling"></i>', label: 'cycling' };
-  if (t >= 45 && r <= 30) return { icon: '<i class="iconoir-running"></i>', label: 'running' };
-  return { icon: '<i class="iconoir-swimming"></i>', label: 'swim/gym' };
-}
-
 function getSkyIcon(description) {
   const d = (description || '').toLowerCase();
   if (d.includes('rain') || d.includes('shower') || d.includes('storm')) return '<i class="iconoir-heavy-rain"></i>';
@@ -164,19 +151,6 @@ function renderWeather(weather) {
   updEl.textContent = weather.updated ? `updated ${weather.updated}` : '';
 
   const todayStr = today();
-  const todayForecast = weather.forecast.find(d => d.date === todayStr);
-
-  const todHtml = todayForecast ? `
-    <div class="weather-tod">
-      ${getTimeOfDayRecs(todayForecast).map(r => `
-        <div class="tod-slot">
-          <span class="tod-time">${r.time}</span>
-          <div class="tod-icon">${r.icon}</div>
-          <span class="tod-rec">${r.label}</span>
-        </div>
-      `).join('')}
-    </div>
-  ` : '';
 
   body.innerHTML = `
     <div class="weather-cal">
@@ -185,14 +159,16 @@ function renderWeather(weather) {
         const [, m, d] = day.date.split('-');
         const dateLabel = `${parseInt(m)}/${parseInt(d)}`;
         const dayShort = (day.day || '').slice(0, 3).toUpperCase();
-        const act = getBestActivity(day);
         const sky = getSkyIcon(day.description);
+        const recs = getTimeOfDayRecs(day);
         return `
-          <div class="wc-day${isToday ? ' wc-today' : ''}" title="${day.description} · ${act.label}">
+          <div class="wc-day${isToday ? ' wc-today' : ''}" title="${day.description}">
             <div class="wc-name">${dayShort}</div>
             <div class="wc-date">${dateLabel}</div>
             <div class="wc-sky">${sky}</div>
-            <div class="wc-act">${act.icon}</div>
+            <div class="wc-tod">
+              ${recs.map(r => `<span class="wc-tod-icon" title="${r.time}: ${r.label}">${r.icon}</span>`).join('')}
+            </div>
             <div class="wc-temp">${day.high}°/${day.low}°</div>
             <div class="wc-rain">${day.precipitation_pct}%</div>
             <div class="wc-wind">${day.wind_mph}mph</div>
@@ -200,7 +176,6 @@ function renderWeather(weather) {
         `;
       }).join('')}
     </div>
-    ${todHtml}
   `;
 }
 
