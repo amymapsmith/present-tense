@@ -234,7 +234,26 @@ main > * + * {
 }
 
 .wc-rain  { font-size: 0.63rem; color: #2563eb; }
-.wc-wind  { font-size: 0.63rem; color: var(--text-muted); }
+.wc-wind  { font-size: 0.63rem; color: var(--text-muted); } /* fallback: no hourly data */
+
+.wc-sparkline {
+  display: block;
+  width: 100%;
+  height: 20px;
+  color: var(--text-muted);
+}
+
+.wc-wind-stats {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0.58rem;
+  color: var(--text-muted);
+  line-height: 1.3;
+  white-space: nowrap;
+}
+
+.wc-wind-avg { opacity: 0.65; }
 
 .weather-key {
   display: flex;

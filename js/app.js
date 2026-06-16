@@ -139,6 +139,32 @@ function getTimeOfDayRecs(day) {
   ];
 }
 
+function windSparkline(day) {
+  const hourly = day.wind_hourly;
+  if (!hourly || hourly.length < 2) {
+    return `<div class="wc-wind">${day.wind_mph}mph</div>`;
+  }
+  const max = Math.max(...hourly);
+  const min = Math.min(...hourly);
+  const avg = Math.round(hourly.reduce((a, b) => a + b, 0) / hourly.length);
+  const range = max - min || 1;
+  const n = hourly.length;
+  const W = 100, H = 30, pad = 2;
+  const pts = hourly.map((v, i) => {
+    const x = pad + (i / (n - 1)) * (W - 2 * pad);
+    const y = pad + (1 - (v - min) / range) * (H - 2 * pad);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  return `
+    <svg class="wc-sparkline" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+      <polyline points="${pts}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div class="wc-wind-stats">
+      <span>${min}–${max}</span><span class="wc-wind-avg">avg ${avg}</span>
+    </div>
+  `;
+}
+
 function renderWeather(weather) {
   const body = document.getElementById('weather-body');
   const updEl = document.getElementById('weather-updated');
@@ -171,19 +197,12 @@ function renderWeather(weather) {
             </div>
             <div class="wc-temp">${day.high}°/${day.low}°</div>
             <div class="wc-rain">${day.precipitation_pct}%</div>
-            <div class="wc-wind">${day.wind_mph}mph</div>
+            ${windSparkline(day)}
           </div>
         `;
       }).join('')}
     </div>
     <div class="weather-key">
-      <div class="wkey-row">
-        <span class="wkey-label">sky</span>
-        <span class="wkey-item"><i class="iconoir-sun-light"></i> sunny</span>
-        <span class="wkey-item"><i class="iconoir-cloud-sunny"></i> partly cloudy</span>
-        <span class="wkey-item"><i class="iconoir-cloud"></i> fog / overcast</span>
-        <span class="wkey-item"><i class="iconoir-heavy-rain"></i> rain</span>
-      </div>
       <div class="wkey-row">
         <span class="wkey-label">activity <span class="wkey-timing">(am · mid · pm)</span></span>
         <span class="wkey-item"><i class="iconoir-cycling"></i> cycling</span>
