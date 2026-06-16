@@ -73,6 +73,70 @@
       "duration_hours": 0.5,
       "cost": 0,
       "location": "remote"
+    },
+    {
+      "date": "2026-06-14",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Hung out with Neil",
+      "duration_hours": 2,
+      "cost": 0,
+      "location": "SF"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "health",
+      "subcategory": "gym",
+      "activity": "Workout at the gym with Shannon",
+      "duration_hours": 1.5,
+      "cost": 0,
+      "location": "Bay Club"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "social",
+      "subcategory": "friend_time",
+      "activity": "Lunch with Shannon",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "SF"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "health",
+      "subcategory": "medical",
+      "activity": "Doctor appointment — lab work",
+      "duration_hours": 0.5,
+      "cost": 0,
+      "location": "SF"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "health",
+      "subcategory": "chiropractic",
+      "activity": "Chiropractor",
+      "duration_hours": 0.5,
+      "cost": 0,
+      "location": "SF"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "professional",
+      "subcategory": "job_application",
+      "activity": "Finished resume and sent to OpenAI contact",
+      "duration_hours": 2,
+      "cost": 0,
+      "location": "home",
+      "notes": "Contact responded immediately and offered to refer me — should receive email from OpenAI soon"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "health",
+      "subcategory": "logistics",
+      "activity": "Picked up bike case from apartment, transported to house-sit",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "SF"
     }
   ]
 }
