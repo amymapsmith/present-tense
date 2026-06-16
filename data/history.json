@@ -4,7 +4,7 @@
       "date": "2026-06-13",
       "category": "health",
       "subcategory": "cycling",
-      "activity": "Bike ride up Hawk Hill with Neil",
+      "activity": "Bike ride up Hawk Hill with N",
       "duration_hours": 2,
       "cost": 0,
       "location": "Marin Headlands"
@@ -13,7 +13,7 @@
       "date": "2026-06-13",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Walk with Tiina",
+      "activity": "Walk with T",
       "duration_hours": 1,
       "cost": 0,
       "location": "SF",
@@ -32,7 +32,7 @@
       "date": "2026-06-13",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Texted with Katie — set up friend date for Thursday",
+      "activity": "Texted with K — set up friend date for Thursday",
       "duration_hours": 0.25,
       "cost": 0,
       "location": "remote"
@@ -50,7 +50,7 @@
       "date": "2026-06-14",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Mandeep's yoga teacher training graduation",
+      "activity": "M's yoga teacher training graduation",
       "duration_hours": 2,
       "cost": 0,
       "location": "SF",
@@ -69,7 +69,7 @@
       "date": "2026-06-14",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Social touchpoints: texting Anshul (sharing city walk photos), planning Monday gym meetup with Shannon",
+      "activity": "Social touchpoints: texting A (sharing city walk photos), planning Monday gym meetup with S",
       "duration_hours": 0.5,
       "cost": 0,
       "location": "remote"
@@ -77,8 +77,8 @@
     {
       "date": "2026-06-14",
       "category": "social",
-      "subcategory": "friend_time",
-      "activity": "Hung out with Neil",
+      "subcategory": "dating",
+      "activity": "Hung out with N",
       "duration_hours": 2,
       "cost": 0,
       "location": "SF"
@@ -87,7 +87,7 @@
       "date": "2026-06-15",
       "category": "health",
       "subcategory": "gym",
-      "activity": "Workout at the gym with Shannon",
+      "activity": "Workout at the gym with S",
       "duration_hours": 1.5,
       "cost": 0,
       "location": "Bay Club"
@@ -96,7 +96,7 @@
       "date": "2026-06-15",
       "category": "social",
       "subcategory": "friend_time",
-      "activity": "Lunch with Shannon",
+      "activity": "Lunch with S",
       "duration_hours": 1,
       "cost": 0,
       "location": "SF"
