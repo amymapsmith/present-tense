@@ -100,7 +100,7 @@
       "duration_hours": 1,
       "cost": 0,
       "location": "SF",
-      "notes": "3 hugs"
+      "notes": "4 hugs"
     },
     {
       "date": "2026-06-15",
@@ -129,6 +129,15 @@
       "cost": 0,
       "location": "home",
       "notes": "Contact responded immediately and offered to refer me — should receive email from OpenAI soon"
+    },
+    {
+      "date": "2026-06-15",
+      "category": "health",
+      "subcategory": "yoga",
+      "activity": "Yoga practice",
+      "duration_hours": 1,
+      "cost": 0,
+      "location": "home"
     },
     {
       "date": "2026-06-15",

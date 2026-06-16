@@ -437,6 +437,15 @@ function renderMuseums(museums, bodyId = 'museums-body', updId = 'museums-update
 let _historyData = { entries: [] };
 let _historyPeriod = 'week';
 
+function countHugs(entries) {
+  let total = 0;
+  for (const e of entries) {
+    const m = (e.notes || '').match(/(\d+)\s+hug/i);
+    if (m) total += parseInt(m[1]);
+  }
+  return total;
+}
+
 function renderHistory(period) {
   _historyPeriod = period;
   const list = document.getElementById('history-list');
@@ -445,39 +454,34 @@ function renderHistory(period) {
   if (period === 'week')  entries = entries.filter(e => isThisWeek(e.date));
   if (period === 'month') entries = entries.filter(e => isThisMonth(e.date));
 
-  entries.sort((a, b) => b.date.localeCompare(a.date));
+  const hugs = countHugs(entries);
+  const periodLabel = period === 'week' ? 'this week' : period === 'month' ? 'this month' : 'all time';
 
-  if (entries.length === 0) {
-    list.innerHTML = '<p class="empty">No entries yet — add activities by telling Claude what you did.</p>';
-    return;
-  }
-
-  const byDate = {};
+  const catHours = {};
+  let totalHours = 0;
   for (const e of entries) {
-    if (!byDate[e.date]) byDate[e.date] = [];
-    byDate[e.date].push(e);
+    const h = e.duration_hours || 0;
+    catHours[e.category] = (catHours[e.category] || 0) + h;
+    totalHours += h;
   }
 
-  list.innerHTML = Object.entries(byDate).map(([date, items]) => `
-    <div class="history-day">
-      <div class="history-date">${formatDate(date)}</div>
-      ${items.map(item => {
-        const cat = CATEGORIES[item.category] || { color: '#78716c', icon: '·' };
-        return `
-          <div class="history-entry">
-            <span class="history-cat" style="color:${cat.color}">${cat.icon} ${item.subcategory || item.category}</span>
-            <span class="history-activity">${item.activity}</span>
-            <span class="history-meta">
-              ${item.duration_hours ? `<span>${item.duration_hours}h</span>` : ''}
-              ${item.cost != null && item.cost > 0 ? `<span>$${item.cost}</span>` : ''}
-              ${item.location ? `<span>${item.location}</span>` : ''}
-            </span>
-            ${item.notes ? `<div class="history-notes">${item.notes}</div>` : ''}
-          </div>
-        `;
-      }).join('')}
+  const catPills = Object.entries(CATEGORIES)
+    .filter(([key]) => catHours[key] > 0)
+    .map(([key, cat]) => `<span class="history-cat-pill" style="color:${cat.color}">${cat.icon} ${catHours[key].toFixed(1)}h</span>`)
+    .join('');
+
+  list.innerHTML = `
+    <div class="history-stats">
+      <div class="history-hugs">
+        <span class="hug-count">${hugs}</span>
+        <span class="hug-label"><i class="iconoir-heart"></i> hugs ${periodLabel}</span>
+      </div>
+      ${totalHours > 0 ? `
+        <div class="history-summary">${totalHours.toFixed(1)}h logged · ${entries.length} activities</div>
+        <div class="history-cat-pills">${catPills}</div>
+      ` : '<p class="empty">No entries for this period.</p>'}
     </div>
-  `).join('');
+  `;
 }
 
 // ── Filter ─────────────────────────────────────────

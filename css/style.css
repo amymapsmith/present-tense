@@ -466,7 +466,49 @@ main > * + * {
 .museum-event a { color: inherit; text-decoration: none; }
 .museum-event a:hover { text-decoration: underline; }
 
-/* ── History ─────────────────────────────────────── */
+/* ── History stats ───────────────────────────────── */
+.history-stats {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  padding: 0.25rem 0;
+}
+
+.history-hugs {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.hug-count {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.hug-label {
+  font-size: 0.83rem;
+  color: var(--text-muted);
+}
+
+.history-summary {
+  font-size: 0.83rem;
+  color: var(--text-muted);
+}
+
+.history-cat-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.history-cat-pill {
+  font-size: 0.83rem;
+  font-weight: 500;
+}
+
+/* ── History (detail, kept for reference) ────────── */
 .history-tabs {
   display: flex;
   gap: 0;
