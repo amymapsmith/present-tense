@@ -1,8 +1,136 @@
 {
-  "updated": null,
-  "destination": null,
-  "flight_search_date": null,
-  "flights": [],
-  "lodging": [],
-  "itinerary": null
+  "updated": "2026-06-16",
+  "destination": {
+    "city": "Bologna",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "iata": "BLQ",
+    "vibe": "The city that invented pasta, aperitivo, and the university — and hasn't felt the need to brag about it since 1088."
+  },
+  "flight_search_date": "2026-06-16",
+  "flights": [
+    {
+      "airline": "Lufthansa",
+      "price_usd": 547,
+      "outbound_dates": "Jul 7–9 (flexible midweek; avoid Jul 4 week)",
+      "return_dates": "Jul 17–19 (flexible)",
+      "stops": 1,
+      "duration": "14h 45m (via Frankfurt FRA)",
+      "url": "https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/san-francisco-bologna",
+      "notes": "Cheapest verified carrier on this route. Tuesday departures run ~16% cheaper than Sunday. Book 30 days out for best rate. Prices spike to $766 mid-July — aim for Jul 7 departure or after Jul 20."
+    },
+    {
+      "airline": "SWISS",
+      "price_usd": 767,
+      "outbound_dates": "Jul 10–17 (flexible)",
+      "return_dates": "Jul 17–24 (flexible)",
+      "stops": 1,
+      "duration": "14h 30m (via Zurich ZRH)",
+      "url": "https://www.swiss.com/lhg/us/en/o-d/cy-cy/san-francisco-bologna",
+      "notes": "ZRH layover is considerably more pleasant than Heathrow or CDG. Meal included. Price is stable across July dates — no big midweek discount on this carrier."
+    },
+    {
+      "airline": "Multiple carriers (use Explore)",
+      "price_usd": 470,
+      "outbound_dates": "flexible — use date grid",
+      "return_dates": "flexible — use date grid",
+      "stops": 1,
+      "duration": "13h 35m – 16h avg",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bologna.html",
+      "notes": "Use Google Flights date grid to find the lowest week. October drops to $562 avg if summer is too pricey. Scandinavian Airlines (via CPH) was the cheapest at $470 in some windows. One stop through London routes about 30% of the time."
+    }
+  ],
+  "lodging": [
+    {
+      "name": "Il Nosadillo Hostel",
+      "type": "hostel",
+      "price_per_night_usd": 35,
+      "neighborhood": "Centro Storico — 4 min walk from Piazza Maggiore, steps from Via del Pratello",
+      "highlights": "Rated 8.8/10 from 2,400+ reviews; free breakfast 8–10am, communal kitchen, great social vibe, Netflix lounge. Dorms from $29; private rooms typically $55–70.",
+      "url": "https://www.hostelworld.com/hosteldetails.php/Il-Nosadillo-Hostel/Bologna/54970",
+      "source": "hostelworld"
+    },
+    {
+      "name": "Casa Bertagni",
+      "type": "guesthouse",
+      "price_per_night_usd": 120,
+      "neighborhood": "University District — Via G.B. de Rolandis 7, near the Due Torri",
+      "highlights": "Six individually named rooms in a 1950s literary salon that once hosted Bolognese artists and intellectuals. Personalized breakfasts, art tours, quiet courtyard energy. One of the most unusual small lodgings in the city.",
+      "url": "https://www.casabertagni.it/",
+      "source": "booking"
+    },
+    {
+      "name": "Hotel Corona d'Oro",
+      "type": "hotel",
+      "price_per_night_usd": 185,
+      "neighborhood": "Historic Centre / Jewish Ghetto — Via Oberdan 12, steps from Piazza Maggiore and the towers",
+      "highlights": "13th-century building with a 19th-century Liberty-style interior, 4 stars, complimentary bikes, bar and restaurant on-site. Deals as low as $139 on Momondo; summer rates run $180–300. One of the best-located hotels in the city.",
+      "url": "https://www.hco.it/en",
+      "source": "booking"
+    }
+  ],
+  "itinerary": {
+    "overview": "Bologna is 'la dotta, la grassa, la rossa' — the learned, the fat, and the red — and all three still apply. It's home to the world's oldest university (1088 AD), the original Bolognese ragù (which locals emphatically do not put on spaghetti), and 38km of porticoed arcades that mean you almost never need an umbrella. Tourists still mostly skip it for Florence and Rome, which means you get the restaurant tables, the piazzas, and the city's genuinely warm, student-dense energy mostly to yourself.",
+    "days": [
+      {
+        "day": 1,
+        "title": "La Grassa: Markets, the Anatomical Theater, and Via del Pratello",
+        "morning": "Drop bags, walk immediately to Zanarini (Piazza Galvani 1) for a stand-up espresso and cornetto. Pay at the register first, hand the receipt to the barista — this is how Italy works and it signals you're not a tourist. Then into the Quadrilatero: ancient lanes lined with salumerias, cheese vendors, and wine bars that have been operating since before Shakespeare. Stop at Salumeria Simoni (Via Pescherie Vecchie) for a mortadella sandwich — ask for a tigella if they're offering them. Then find the Finestrella di Via Piella (Via Piella 16): a tiny Gothic window cut into a medieval wall that frames a secret canal below. Every Bolognese knows it; almost no tourists find it.",
+        "afternoon": "Piazza Maggiore — sit, look, don't rush. Go inside the Archiginnasio (entrance to the left of the palazzo) and climb to the 17th-century anatomical theater: a small wooden amphitheater where medical students watched dissections by candlelight, presided over by a marble cadaver slab at center. €3, one of the most underrated rooms in Europe. Then to the Basilica di San Petronio — started in 1390, still unfinished, bigger inside than it looks from the square. The astronomical clock on the floor (a giant sundial/gnomon installation from 1655) is easy to miss and extraordinary.",
+        "evening": "Aperitivo on Via del Pratello starting at 7pm. This is the real bar street: cheaper and louder than the Quadrilatero, students and locals only, spritz comes with actual snacks. Try Bar Volare (Via Belvedere 10d) for a classic Negroni, or Camera a Sud (Via Valdonica 5) in the Jewish Ghetto for a glass of local Pignoletto. Dinner: Osteria dell'Orsa (Via Mentana) — enormous tagliatelle al ragù for €8–9, cash only, constantly packed with students. Arrive by 7:30pm or you're waiting."
+      },
+      {
+        "day": 2,
+        "title": "La Dotta: The Long Walk, Seven Churches, and Contemporary Art",
+        "morning": "Walk the Portico di San Luca — 3.8km, 666 arches, gently uphill out of the city to a Baroque sanctuary on a hill. Best before 9am while it's cool; locals jog it for exercise. The portico is the world's longest, and the views back over Bologna's terracotta rooftops from the top are worth every step. If it's a Saturday morning or Wednesday evening, swap this for the Mercato Ritrovato at Cineteca di Bologna (Via Riva di Reno 72) — the farmers market where restaurant chefs actually shop, with excellent Parmigiano, prosciutto, and producers from across Emilia-Romagna.",
+        "afternoon": "Visit the Santo Stefano complex (Piazza Santo Stefano 24) — seven medieval churches stitched together over 2,000 years, including a Romanesque cloister that's somehow always empty and quiet. This is one of the genuinely great medieval buildings in Italy and almost no one comes here. Then to MAMbo (Via Don Giovanni Minzoni 14) — Bologna's contemporary art museum in a former tobacco factory. One of the best in Italy, consistently excellent programming, never crowded.",
+        "evening": "Dinner: tortellini in brodo. Da Cesari (Via de' Carbonesi 8) does a quietly excellent classic — tiny rings of pasta in a clear meat broth, exactly what it should be. Order the crescentina tigella as a starter: small griddled flatbreads stuffed with prosciutto and stracchino. Finish with a glass of local Lambrusco — the sparkling red, served slightly chilled. Nothing like the exported version."
+      },
+      {
+        "day": 3,
+        "title": "Choose Your Own: Parma Day Trip or Go Deeper",
+        "morning": "Option A — Parma (45 min by train): The Camera di San Paolo (Via Melloni 3) has a Correggio fresco ceiling from 1519, just 16 people at a time, free, and is one of the great Renaissance secrets. Then the Galleria Nazionale inside the Palazzo della Pilotta. Grab a culatello sandwich at Osteria del Gatto (Via Nazario Sauro) before heading back. Option B — Stay and take a sfoglina class in Bologna. The sfogline are the city's traditional pasta-rollers, almost all women, and the craft of rolling egg pasta thin enough to read newsprint through is still passed down here. Two hours, you eat what you make, and you'll never look at dried pasta the same way.",
+        "afternoon": "Return from Parma or explore Bolognina — the working-class district north of the train station. Immigrant food joints, street art, local market at Mercato Albani (check for Sbando food stall: €1 tapas and natural wine). Zero tourist infrastructure. The Social Hub at Via de' Carracci has a rooftop terrace and good drinks if you want a bird's-eye view of the city.",
+        "evening": "Final aperitivo at Le Serre dei Giardini Margherita (Via Castiglione 134) — a greenhouse inside a city park with Vetro restaurant adjacent. Then: cotoletta alla Bolognese, the great underknown dish — breaded veal pounded thin, finished in the oven with prosciutto and Parmigiano Reggiano melted on top. Try it at Trattoria di Via Serra (Via Luigi Serra 9b). End the night at Osteria del Sole (Vicolo Ranocchi 1, off the Quadrilatero): wine since 1465, no food served, bring your own, communal tables, closes when the wine is gone."
+      }
+    ],
+    "tips": [
+      "Do not order spaghetti Bolognese. It does not exist here. It's tagliatelle al ragù on freshly made egg pasta, and ordering the tourist version will get you politely redirected — or ignored.",
+      "The Finestrella di Via Piella (Via Piella 16) is a tiny Gothic window in a medieval wall framing a hidden canal below. Easily missed. Absolutely worth finding.",
+      "Osteria del Sole (Vicolo Ranocchi 1) has sold wine since 1465. No menu. Bring your own food, buy their wine, sit at communal tables. The interior looks completely unchanged.",
+      "Via del Pratello is the honest bar street. Cheaper than the Quadrilatero, locals-only in feel, and bars spill onto the street from 7pm. Camera a Sud and Bar Senza Nome (run by deaf staff, Via Belvedere 11b) are both excellent.",
+      "The porticoes cover the entire historic center — you can walk the whole city in rain without opening an umbrella. They also mean July heat is manageable if you stick to the shaded lanes.",
+      "Late June and early July are good. The Ferragosto window (Aug 10–20) is when half the city closes and the other half leaves. If your summer window is flexible, early July or September is ideal."
+    ],
+    "sources": [
+      {
+        "title": "36 Hours in Bologna — Good Bones Substack (Leanne Kilroy)",
+        "url": "https://goodbones.substack.com/p/36-hours-in-bologna"
+      },
+      {
+        "title": "20 Best Things to Do in Bologna 2026 — Earth Trekkers",
+        "url": "https://www.earthtrekkers.com/things-to-do-in-bologna/"
+      },
+      {
+        "title": "35 Best Things to Do in Bologna — Savoring Italy",
+        "url": "https://www.savoringitaly.com/bologna-italy/"
+      },
+      {
+        "title": "Aperitivo in Bologna: 11 Best Insider Spots — Taste Bologna",
+        "url": "https://www.tastebologna.net/blog/aperitivo-bologna"
+      },
+      {
+        "title": "Where to Stay in Bologna — The Intrepid Guide",
+        "url": "https://www.theintrepidguide.com/where-to-stay-in-bologna/"
+      },
+      {
+        "title": "Best Hostels in Bologna — The Broke Backpacker",
+        "url": "https://www.thebrokebackpacker.com/best-hostels-in-bologna-italy/"
+      },
+      {
+        "title": "Cheap Flights SFO to BLQ — Google Flights",
+        "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bologna.html"
+      }
+    ]
+  }
 }
