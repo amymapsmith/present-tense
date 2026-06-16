@@ -176,6 +176,23 @@ function renderWeather(weather) {
         `;
       }).join('')}
     </div>
+    <div class="weather-key">
+      <div class="wkey-row">
+        <span class="wkey-label">sky</span>
+        <span class="wkey-item"><i class="iconoir-sun-light"></i> sunny</span>
+        <span class="wkey-item"><i class="iconoir-cloud-sunny"></i> partly cloudy</span>
+        <span class="wkey-item"><i class="iconoir-cloud"></i> fog / overcast</span>
+        <span class="wkey-item"><i class="iconoir-heavy-rain"></i> rain</span>
+      </div>
+      <div class="wkey-row">
+        <span class="wkey-label">activity <span class="wkey-timing">(am · mid · pm)</span></span>
+        <span class="wkey-item"><i class="iconoir-cycling"></i> cycling</span>
+        <span class="wkey-item"><i class="iconoir-running"></i> run</span>
+        <span class="wkey-item"><i class="iconoir-swimming"></i> swim / gym</span>
+        <span class="wkey-item"><i class="iconoir-gym"></i> indoor</span>
+        <span class="wkey-item"><i class="iconoir-community"></i> social</span>
+      </div>
+    </div>
   `;
 }
 
