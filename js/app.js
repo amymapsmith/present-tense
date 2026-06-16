@@ -47,14 +47,6 @@ function getWeekBounds() {
   return { start, end };
 }
 
-function getMonthBounds() {
-  const d = new Date();
-  return {
-    start: new Date(d.getFullYear(), d.getMonth(), 1),
-    end:   new Date(d.getFullYear(), d.getMonth() + 1, 0, 23, 59, 59),
-  };
-}
-
 function parseDate(str) {
   return new Date(str + 'T12:00:00');
 }
@@ -69,12 +61,6 @@ function getDayName(d = new Date()) {
 
 function isThisWeek(dateStr) {
   const { start, end } = getWeekBounds();
-  const d = parseDate(dateStr);
-  return d >= start && d <= end;
-}
-
-function isThisMonth(dateStr) {
-  const { start, end } = getMonthBounds();
   const d = parseDate(dateStr);
   return d >= start && d <= end;
 }
@@ -475,79 +461,6 @@ function renderMuseums(museums, bodyId = 'museums-body', updId = 'museums-update
   body.innerHTML = html || '<p class="empty">Run the skill to update museum info.</p>';
 }
 
-// ── Sanity ─────────────────────────────────────────
-let _historyData = { entries: [] };
-let _historyPeriod = 'week';
-
-function countHugs(entries) {
-  let total = 0;
-  for (const e of entries) {
-    const m = (e.notes || '').match(/(\d+)\s+hug/i);
-    if (m) total += parseInt(m[1]);
-  }
-  return total;
-}
-
-function renderHugHeart(hugs) {
-  const target = 21; // 3 hugs/day × 7 days
-  const pct = Math.min(hugs / target, 1);
-  const fillY = (24 * (1 - pct)).toFixed(2);
-  const fillH = (24 * pct).toFixed(2);
-  const path = 'M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z';
-  return `
-    <svg class="hug-heart-svg" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <clipPath id="heart-clip">
-          <path d="${path}"/>
-        </clipPath>
-      </defs>
-      <path d="${path}" fill="none" stroke="var(--border)" stroke-width="1.5"/>
-      ${pct > 0 ? `<rect x="0" y="${fillY}" width="24" height="${fillH}" fill="#e11d48" opacity="0.85" clip-path="url(#heart-clip)"/>` : ''}
-    </svg>
-  `;
-}
-
-function renderHistory(period) {
-  _historyPeriod = period;
-  const list = document.getElementById('sanity-list');
-  let entries = [...(_historyData.entries || [])];
-
-  if (period === 'week')  entries = entries.filter(e => isThisWeek(e.date));
-  if (period === 'month') entries = entries.filter(e => isThisMonth(e.date));
-
-  const hugs = countHugs(entries);
-  const periodLabel = period === 'week' ? 'this week' : period === 'month' ? 'this month' : 'all time';
-
-  const catHours = {};
-  let totalHours = 0;
-  for (const e of entries) {
-    const h = e.duration_hours || 0;
-    catHours[e.category] = (catHours[e.category] || 0) + h;
-    totalHours += h;
-  }
-
-  const catPills = Object.entries(CATEGORIES)
-    .filter(([key]) => catHours[key] > 0)
-    .map(([key, cat]) => `<span class="history-cat-pill" style="color:${cat.color}">${cat.icon} ${catHours[key].toFixed(1)}h</span>`)
-    .join('');
-
-  list.innerHTML = `
-    <div class="history-stats">
-      <div class="history-hugs">
-        ${renderHugHeart(hugs)}
-        <div class="hug-text">
-          <span class="hug-count">${hugs}</span>
-          <span class="hug-label">hugs ${periodLabel}</span>
-        </div>
-      </div>
-      ${totalHours > 0 ? `
-        <div class="history-summary">${totalHours.toFixed(1)}h logged · ${entries.length} activities</div>
-        <div class="history-cat-pills">${catPills}</div>
-      ` : '<p class="empty">No entries for this period.</p>'}
-    </div>
-  `;
-}
-
 // ── Filter ─────────────────────────────────────────
 function applyFilter(filter) {
   document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -644,16 +557,14 @@ async function init() {
   renderWeekLabel();
 
   await loadData();
-  _historyData = _sfData.history || { entries: [] };
-  _eventsData  = _sfData.events  || { events: [] };
+  _eventsData = _sfData.events || { events: [] };
 
   renderWeather(_sfData.weather || {});
-  renderMix(_sfData.mix || {}, _historyData);
+  renderMix(_sfData.mix || {}, _sfData.history || { entries: [] });
   renderProfessional(_sfData.professional || {});
   renderGym(_sfData.gym || {});
   renderEvents('all');
   renderMuseums(_sfData.museums || {}, 'museums-body', 'museums-updated');
-  renderHistory('week');
 
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => applyFilter(btn.dataset.filter));
@@ -661,14 +572,6 @@ async function init() {
 
   document.querySelectorAll('.loc-btn').forEach(btn => {
     btn.addEventListener('click', () => switchLocation(btn.dataset.loc));
-  });
-
-  document.querySelectorAll('.sanity-tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.sanity-tab').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      renderHistory(btn.dataset.period);
-    });
   });
 }
 
