@@ -10,8 +10,14 @@
 <body>
 
   <header class="site-header">
-    <h1>unemployed in sf</h1>
-    <div id="week-label" class="week-label"></div>
+    <div class="header-left">
+      <h1>unemployed in <span id="location-name">sf</span></h1>
+      <div id="week-label" class="week-label"></div>
+    </div>
+    <nav class="loc-toggle">
+      <button class="loc-btn active" data-loc="sf">SF</button>
+      <button class="loc-btn" data-loc="ann-arbor">Ann Arbor</button>
+    </nav>
   </header>
 
   <main>
@@ -36,18 +42,26 @@
 
     <section id="events-section" class="card content-section" data-categories="dance,music,comedy,art">
       <div class="section-header">
-        <h2><i class="iconoir-calendar"></i> Events this week</h2>
+        <h2><i class="iconoir-calendar"></i> <span id="events-heading">Events this week</span></h2>
         <span id="events-updated" class="updated-label"></span>
       </div>
       <div id="events-body" class="section-body"></div>
     </section>
 
-    <section id="museums-section" class="card content-section" data-categories="art">
+    <section id="museums-section" class="card content-section" data-categories="art" data-loc="sf">
       <div class="section-header">
         <h2><i class="iconoir-frame"></i> Museums</h2>
         <span id="museums-updated" class="updated-label"></span>
       </div>
       <div id="museums-body" class="section-body"></div>
+    </section>
+
+    <section id="aa-venues-section" class="card content-section" data-categories="art" data-loc="ann-arbor" style="display:none">
+      <div class="section-header">
+        <h2><i class="iconoir-frame"></i> Venues & Museums</h2>
+        <span id="aa-venues-updated" class="updated-label"></span>
+      </div>
+      <div id="aa-venues-body" class="section-body"></div>
     </section>
 
     <section id="professional-section" class="card content-section" data-categories="professional">
@@ -58,7 +72,7 @@
       <div id="professional-body" class="section-body"></div>
     </section>
 
-    <section id="gym-section" class="card content-section" data-categories="health">
+    <section id="gym-section" class="card content-section" data-categories="health" data-loc="sf">
       <div class="section-header">
         <h2><i class="iconoir-gym"></i> Bay Club</h2>
         <span id="gym-updated" class="updated-label"></span>

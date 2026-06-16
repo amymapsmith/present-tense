@@ -329,8 +329,10 @@ function renderEvents(activeFilter = 'all') {
 
   const allowedCats = EVENT_FILTER_CATS[activeFilter] || null;
 
+  const dateFilter = currentLocation === 'sf' ? isThisWeek : isFutureOrToday;
+
   const thisWeek = (_eventsData.events || [])
-    .filter(e => isThisWeek(e.date))
+    .filter(e => dateFilter(e.date))
     .filter(e => !allowedCats || allowedCats.includes(e.category))
     .sort((a, b) => a.date.localeCompare(b.date) || (a.time || '').localeCompare(b.time || ''));
 
@@ -374,10 +376,10 @@ function renderEvents(activeFilter = 'all') {
   `).join('');
 }
 
-// ── Museums ────────────────────────────────────────
-function renderMuseums(museums) {
-  const body = document.getElementById('museums-body');
-  const updEl = document.getElementById('museums-updated');
+// ── Museums / Ann Arbor venues ─────────────────────
+function renderMuseums(museums, bodyId = 'museums-body', updId = 'museums-updated') {
+  const body = document.getElementById(bodyId);
+  const updEl = document.getElementById(updId);
 
   updEl.textContent = museums.updated ? `updated ${museums.updated}` : '';
 
@@ -481,6 +483,12 @@ function applyFilter(filter) {
     btn.classList.toggle('active', btn.dataset.filter === filter);
   });
   document.querySelectorAll('.content-section').forEach(section => {
+    // Respect location: hide sections belonging to the other location
+    const secLoc = section.dataset.loc;
+    if (secLoc && secLoc !== currentLocation) {
+      section.style.display = 'none';
+      return;
+    }
     if (filter === 'all') {
       section.style.display = '';
     } else {
@@ -492,37 +500,95 @@ function applyFilter(filter) {
   renderEvents(filter);
 }
 
+// ── Location state ─────────────────────────────────
+let currentLocation = 'sf';
+let _sfData = {};
+let _aaData = {};
+
 // ── Data loading ───────────────────────────────────
 async function loadData() {
-  const files = ['gym', 'events', 'museums', 'weather', 'professional', 'history', 'mix'];
+  const sfFiles  = ['gym', 'events', 'museums', 'weather', 'professional', 'history', 'mix'];
+  const aaFiles  = ['aa-events', 'aa-weather', 'aa-venues'];
+  const allFiles = [...sfFiles, ...aaFiles];
+
   const results = await Promise.allSettled(
-    files.map(f => fetch(`data/${f}.json`).then(r => r.json()))
+    allFiles.map(f => fetch(`data/${f}.json`).then(r => r.json()))
   );
+
   const data = {};
-  files.forEach((f, i) => {
+  allFiles.forEach((f, i) => {
     data[f] = results[i].status === 'fulfilled' ? results[i].value : {};
   });
+
+  _sfData = {
+    gym:          data['gym'],
+    events:       data['events'],
+    museums:      data['museums'],
+    weather:      data['weather'],
+    professional: data['professional'],
+    history:      data['history'],
+    mix:          data['mix'],
+  };
+  _aaData = {
+    events:  data['aa-events'],
+    weather: data['aa-weather'],
+    venues:  data['aa-venues'],
+  };
+
   return data;
+}
+
+// ── Location switch ────────────────────────────────
+function switchLocation(loc) {
+  currentLocation = loc;
+
+  document.querySelectorAll('.loc-btn').forEach(b => {
+    b.classList.toggle('active', b.dataset.loc === loc);
+  });
+  document.getElementById('location-name').textContent = loc === 'sf' ? 'sf' : 'ann arbor';
+  document.getElementById('events-heading').textContent = loc === 'sf' ? 'Events this week' : 'Events in Ann Arbor';
+
+  // Show/hide location-specific sections
+  document.querySelectorAll('[data-loc]').forEach(s => {
+    s.style.display = s.dataset.loc === loc ? '' : 'none';
+  });
+
+  // Swap event data and weather
+  _eventsData = (loc === 'sf' ? _sfData.events : _aaData.events) || { events: [] };
+  renderWeather(loc === 'sf' ? _sfData.weather : _aaData.weather || {});
+
+  if (loc === 'sf') {
+    renderMuseums(_sfData.museums || {}, 'museums-body', 'museums-updated');
+  } else {
+    renderMuseums(_aaData.venues || {}, 'aa-venues-body', 'aa-venues-updated');
+  }
+
+  // Reset filter to all
+  applyFilter('all');
 }
 
 // ── Init ───────────────────────────────────────────
 async function init() {
   renderWeekLabel();
 
-  const data = await loadData();
-  _historyData = data.history || { entries: [] };
-  _eventsData  = data.events  || { events: [] };
+  await loadData();
+  _historyData = _sfData.history || { entries: [] };
+  _eventsData  = _sfData.events  || { events: [] };
 
-  renderWeather(data.weather || {});
-  renderMix(data.mix || {}, _historyData);
-  renderProfessional(data.professional || {});
-  renderGym(data.gym || {});
+  renderWeather(_sfData.weather || {});
+  renderMix(_sfData.mix || {}, _historyData);
+  renderProfessional(_sfData.professional || {});
+  renderGym(_sfData.gym || {});
   renderEvents('all');
-  renderMuseums(data.museums || {});
+  renderMuseums(_sfData.museums || {}, 'museums-body', 'museums-updated');
   renderHistory('week');
 
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => applyFilter(btn.dataset.filter));
+  });
+
+  document.querySelectorAll('.loc-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchLocation(btn.dataset.loc));
   });
 
   document.querySelectorAll('.history-tab').forEach(btn => {

@@ -49,6 +49,9 @@ body {
 .site-header {
   padding: 2rem 2rem 1.25rem;
   border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
 }
 
 .site-header h1 {
@@ -62,6 +65,37 @@ body {
   font-size: 0.8rem;
   color: var(--text-muted);
   margin-top: 0.2rem;
+}
+
+/* ── Location toggle ─────────────────────────────── */
+.loc-toggle {
+  display: flex;
+  gap: 0;
+  align-self: flex-end;
+  padding-bottom: 0.1rem;
+}
+
+.loc-btn {
+  padding: 0.22rem 0.7rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.77rem;
+  color: var(--text-muted);
+  font-family: inherit;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.loc-btn:last-child { padding-right: 0; }
+
+.loc-btn:hover { color: var(--text); }
+
+.loc-btn.active {
+  color: var(--text);
+  font-weight: 600;
+  border-bottom-color: var(--text);
 }
 
 /* ── Layout ──────────────────────────────────────── */
