@@ -12,7 +12,10 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--scroll-pad, 9.5rem);
+}
 
 /* ── Iconoir sizing ──────────────────────────────── */
 [class^='iconoir-'],
@@ -47,6 +50,10 @@ body {
 
 /* ── Header ─────────────────────────────────────── */
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 21;
+  background: var(--bg);
   padding: 2rem 2rem 1.25rem;
   border-bottom: 1px solid var(--border);
   display: flex;
@@ -105,6 +112,66 @@ body {
   border-bottom-color: var(--text);
 }
 
+/* ── Section nav ─────────────────────────────────── */
+.section-nav {
+  position: sticky;
+  top: var(--header-h, 7rem);
+  z-index: 20;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  padding: 0 2rem;
+  max-width: 100%;
+}
+
+.snav-link {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+  font-family: inherit;
+}
+
+.snav-link:first-child { padding-left: 0; }
+.snav-link:hover { color: var(--text); }
+.snav-link.active {
+  color: var(--text);
+  font-weight: 600;
+  border-bottom-color: var(--text);
+}
+
+/* ── Section filters ─────────────────────────────── */
+.section-filter {
+  display: flex;
+  gap: 0;
+  padding: 0 0 0.75rem;
+}
+
+.sfilt-btn {
+  padding: 0.18rem 0.65rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  font-family: inherit;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.sfilt-btn:first-child { padding-left: 0; }
+.sfilt-btn:hover { color: var(--text); }
+.sfilt-btn.active {
+  color: var(--text);
+  font-weight: 600;
+  border-bottom-color: var(--text);
+}
+
 /* ── Layout ──────────────────────────────────────── */
 main {
   max-width: 1100px;
@@ -141,35 +208,26 @@ main > * + * {
   color: var(--text-muted);
 }
 
-/* ── Filter bar ──────────────────────────────────── */
-#filter-bar {
-  display: flex;
-  gap: 0;
-  flex-wrap: wrap;
-  padding: 0.85rem 0;
-}
-
-.filter-btn {
-  padding: 0.3rem 0.75rem;
-  border: none;
-  border-bottom: 2px solid transparent;
-  border-radius: 0;
-  background: transparent;
-  cursor: pointer;
-  font-size: 0.83rem;
-  color: var(--text-muted);
-  transition: color 0.15s, border-color 0.15s;
-  font-family: inherit;
-}
-
-.filter-btn:first-child { padding-left: 0; }
-
-.filter-btn:hover { color: var(--text); }
-
-.filter-btn.active {
+/* ── Work sub-labels ─────────────────────────────── */
+.work-sub-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--text);
-  font-weight: 600;
-  border-bottom-color: var(--text);
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.work-sub-label--sep { margin-top: 1.25rem; }
+
+/* ── Section separators ──────────────────────────── */
+.event-group--sep,
+.opportunity-group--sep {
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+  margin-top: 0.5rem;
 }
 
 /* ── Weather calendar ────────────────────────────── */
@@ -229,6 +287,8 @@ main > * + * {
   color: var(--text-muted);
 }
 
+.wc-sparkline-overlay { cursor: crosshair; }
+
 .wc-wind-stats {
   display: flex;
   flex-direction: column;
@@ -241,67 +301,20 @@ main > * + * {
 
 .wc-wind-avg { opacity: 0.65; }
 
-/* ── Mix tracker ─────────────────────────────────── */
-.mix-track {
-  display: flex;
-  flex-direction: column;
-  gap: 0.8rem;
-  margin-bottom: 1rem;
+/* ── Sparkline tooltip ───────────────────────────── */
+.wind-tip {
+  position: fixed;
+  display: none;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 0.72rem;
+  padding: 0.18rem 0.5rem;
+  border-radius: 3px;
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 100;
 }
 
-.mix-row {
-  display: grid;
-  grid-template-columns: 120px 1fr 38px 52px;
-  gap: 0.75rem;
-  align-items: center;
-}
-
-.mix-label { font-size: 0.83rem; font-weight: 500; }
-
-.mix-bar-bg {
-  position: relative;
-  height: 10px;
-  background: var(--border);
-  border-radius: 5px;
-  overflow: visible;
-}
-
-.mix-bar-actual {
-  position: absolute;
-  top: 0; left: 0;
-  height: 100%;
-  border-radius: 5px;
-  opacity: 0.85;
-  transition: width 0.4s ease;
-}
-
-.mix-bar-target-marker {
-  position: absolute;
-  top: -3px;
-  bottom: -3px;
-  width: 2px;
-  background: var(--text-muted);
-  border-radius: 1px;
-  opacity: 0.45;
-}
-
-.mix-pct { font-size: 0.83rem; font-weight: 600; text-align: right; }
-
-.mix-diff { font-size: 0.73rem; font-weight: 500; }
-.mix-diff.over  { color: #dc2626; }
-.mix-diff.under { color: #d97706; }
-.mix-diff.on    { color: #16a34a; }
-
-.mix-nudge {
-  display: flex;
-  gap: 0.75rem;
-  border-top: 1px solid var(--border);
-  padding-top: 0.75rem;
-  font-size: 0.83rem;
-  line-height: 1.5;
-}
-
-.nudge-icon { font-size: 1rem; flex-shrink: 0; margin-top: 0.1rem; }
 
 /* ── Card grid (events / opportunities) ─────────── */
 .card-grid {
@@ -497,6 +510,248 @@ main > * + * {
   font-size: 0.83rem;
   font-style: italic;
   padding: 0.5rem 0;
+}
+
+/* ── Yolo button ─────────────────────────────────── */
+.yolo-btn {
+  padding: 0.22rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.77rem;
+  color: var(--text-muted);
+  font-family: inherit;
+  transition: color 0.15s, border-color 0.15s;
+  align-self: flex-end;
+  margin-bottom: 0.1rem;
+}
+.yolo-btn:hover { color: var(--text); border-color: var(--text-muted); }
+
+/* ── Yolo full-screen view ───────────────────────── */
+body.yolo-active .site-header,
+body.yolo-active .section-nav,
+body.yolo-active main { display: none; }
+
+#yolo-view { display: none; }
+body.yolo-active #yolo-view { display: block; min-height: 100vh; }
+
+.yolo-view-header {
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 1.1rem 2rem;
+  z-index: 10;
+}
+
+.yolo-back-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-family: inherit;
+  padding: 0;
+  transition: color 0.15s;
+}
+.yolo-back-btn:hover { color: var(--text); }
+
+.yolo-view-body {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 5rem;
+}
+
+/* ── Yolo hero ───────────────────────────────────── */
+.yolo-hero { margin-bottom: 1.25rem; }
+
+/* ── Yolo map ────────────────────────────────────── */
+.yolo-map {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 0.25rem;
+}
+
+.yolo-map iframe {
+  display: block;
+  width: 100%;
+  height: 220px;
+  border: none;
+}
+
+.yolo-flag {
+  font-size: 2.8rem;
+  line-height: 1;
+  margin-bottom: 0.55rem;
+}
+
+.yolo-dest {
+  font-size: 1.7rem;
+  font-weight: 300;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.65rem;
+}
+
+.yolo-vibe {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: 540px;
+}
+
+/* ── Yolo sections ───────────────────────────────── */
+.yolo-section {
+  margin-top: 2.25rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--border);
+}
+
+.yolo-section-title {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 0.9rem;
+}
+
+/* ── Flight & lodging cards ──────────────────────── */
+.yolo-card-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.yolo-flight-card,
+.yolo-lodging-card {
+  display: block;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s;
+}
+.yolo-flight-card:hover,
+.yolo-lodging-card:hover { border-color: var(--text-muted); }
+
+.yolo-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.25rem;
+}
+
+.yolo-card-name { font-weight: 600; font-size: 0.88rem; }
+
+.yolo-card-price {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--health);
+}
+
+.yolo-card-meta { font-size: 0.78rem; color: var(--text-muted); }
+
+.yolo-card-notes {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+  line-height: 1.45;
+}
+
+.yolo-search-note {
+  font-size: 0.73rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Itinerary ───────────────────────────────────── */
+.yolo-overview {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  max-width: 560px;
+}
+
+.yolo-day { margin-bottom: 1.75rem; }
+
+.yolo-day-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  margin-bottom: 0.65rem;
+}
+
+.yolo-time-block {
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.yolo-time-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-muted);
+  padding-top: 0.15rem;
+}
+
+.yolo-time-text { font-size: 0.83rem; color: var(--text); }
+
+.yolo-tips {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.yolo-tips li {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  padding-left: 1.1rem;
+  position: relative;
+  color: var(--text);
+}
+
+.yolo-tips li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--text-muted);
+}
+
+.yolo-sources {
+  margin-top: 2rem;
+  font-size: 0.73rem;
+  color: var(--text-muted);
+}
+
+.yolo-sources a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.yolo-sources a:hover { color: var(--text); }
+
+.yolo-empty {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 3rem 0;
+}
+
+.yolo-empty code {
+  font-family: monospace;
+  font-style: normal;
+  background: var(--border);
+  padding: 0.1rem 0.4rem;
+  border-radius: 2px;
 }
 
 /* ── Responsive ──────────────────────────────────── */

@@ -5,6 +5,8 @@
     "country": "Italy",
     "flag": "🇮🇹",
     "iata": "BLQ",
+    "lat": 44.4949,
+    "lon": 11.3426,
     "vibe": "The city that invented pasta, aperitivo, and the university — and hasn't felt the need to brag about it since 1088."
   },
   "flight_search_date": "2026-06-16",
