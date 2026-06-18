@@ -11,16 +11,24 @@
 
   <header class="site-header">
     <div class="header-left">
-      <h1>present tense</h1>
+      <h1><a href="/" style="color:inherit;text-decoration:none">present tense</a></h1>
       <div id="week-label" class="week-label"></div>
     </div>
     <div class="header-right">
+      <button class="yolo-btn" id="yolo-btn">✈ yolo</button>
       <nav class="loc-toggle">
         <button class="loc-btn active" data-loc="sf">SF</button>
         <button class="loc-btn" data-loc="ann-arbor">Ann Arbor</button>
       </nav>
     </div>
   </header>
+
+  <nav class="section-nav">
+    <a class="snav-link active" href="#weather-section" data-section="weather">Weather</a>
+    <a class="snav-link" href="#work-section" data-section="work">Work</a>
+    <a class="snav-link" href="#wealth-section" data-section="wealth">Wealth</a>
+    <a class="snav-link" href="#whimsy-section" data-section="whimsy">Whimsy</a>
+  </nav>
 
   <main>
 
@@ -32,66 +40,57 @@
       <div id="weather-body"></div>
     </section>
 
-    <nav id="filter-bar">
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="professional"><i class="iconoir-suitcase"></i> Professional</button>
-      <button class="filter-btn" data-filter="health"><i class="iconoir-running"></i> Health</button>
-      <button class="filter-btn" data-filter="dance"><i class="iconoir-music-double-note"></i> Dance</button>
-      <button class="filter-btn" data-filter="music"><i class="iconoir-music-note"></i> Music</button>
-      <button class="filter-btn" data-filter="comedy"><i class="iconoir-emoji-satisfied"></i> Comedy</button>
-      <button class="filter-btn" data-filter="art"><i class="iconoir-palette"></i> Art</button>
-    </nav>
-
-    <section id="events-section" class="card content-section" data-categories="dance,music,comedy,art">
+    <section id="work-section" class="card">
       <div class="section-header">
-        <h2><i class="iconoir-calendar"></i> <span id="events-heading">Events this week</span></h2>
-        <span id="events-updated" class="updated-label"></span>
+        <h2><i class="iconoir-suitcase"></i> Work</h2>
+        <span id="work-updated" class="updated-label"></span>
       </div>
-      <div id="events-body" class="section-body"></div>
+      <nav class="section-filter" data-section="work">
+        <button class="sfilt-btn active" data-filter="all">All</button>
+        <button class="sfilt-btn" data-filter="listings">Job listings</button>
+        <button class="sfilt-btn" data-filter="networking">Networking</button>
+      </nav>
+      <div id="work-body"></div>
     </section>
 
-    <section id="museums-section" class="card content-section" data-categories="art" data-loc="sf">
+    <section id="wealth-section" class="card">
       <div class="section-header">
-        <h2><i class="iconoir-frame"></i> Museums</h2>
-        <span id="museums-updated" class="updated-label"></span>
+        <h2><i class="iconoir-gym"></i> Wealth</h2>
+        <span id="wealth-updated" class="updated-label"></span>
       </div>
-      <div id="museums-body" class="section-body"></div>
+      <nav class="section-filter" data-section="wealth">
+        <button class="sfilt-btn active" data-filter="all">All</button>
+        <button class="sfilt-btn sf-only" data-filter="gym">Gym</button>
+        <button class="sfilt-btn" data-filter="dance">Dance</button>
+      </nav>
+      <div id="wealth-body"></div>
     </section>
 
-    <section id="aa-venues-section" class="card content-section" data-categories="art" data-loc="ann-arbor" style="display:none">
+    <section id="whimsy-section" class="card">
       <div class="section-header">
-        <h2><i class="iconoir-frame"></i> Venues & Museums</h2>
-        <span id="aa-venues-updated" class="updated-label"></span>
+        <h2><i class="iconoir-palette"></i> Whimsy</h2>
+        <span id="whimsy-updated" class="updated-label"></span>
       </div>
-      <div id="aa-venues-body" class="section-body"></div>
-    </section>
-
-    <section id="professional-section" class="card content-section" data-categories="professional">
-      <div class="section-header">
-        <h2><i class="iconoir-suitcase"></i> Professional</h2>
-        <span id="professional-updated" class="updated-label"></span>
-      </div>
-      <div id="professional-body" class="section-body"></div>
-    </section>
-
-    <section id="gym-section" class="card content-section" data-categories="health" data-loc="sf">
-      <div class="section-header">
-        <h2><i class="iconoir-gym"></i> Bay Club</h2>
-        <span id="gym-updated" class="updated-label"></span>
-      </div>
-      <div id="gym-body" class="section-body"></div>
-    </section>
-
-    <section id="mix-section" class="card">
-      <div class="section-header">
-        <h2>This week</h2>
-        <span id="mix-hours" class="updated-label"></span>
-      </div>
-      <div id="mix-body"></div>
+      <nav class="section-filter" data-section="whimsy">
+        <button class="sfilt-btn active" data-filter="all">All</button>
+        <button class="sfilt-btn" data-filter="music">Music</button>
+        <button class="sfilt-btn" data-filter="comedy">Comedy</button>
+        <button class="sfilt-btn" data-filter="art">Art</button>
+        <button class="sfilt-btn" data-filter="museums">Museums</button>
+      </nav>
+      <div id="whimsy-body"></div>
     </section>
 
   </main>
 
+  <div id="yolo-view">
+    <div class="yolo-view-header">
+      <button class="yolo-back-btn" id="yolo-back-btn">← back</button>
+    </div>
+    <div id="yolo-content" class="yolo-view-body"></div>
+  </div>
+
+  <script src="js/yolo.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
