@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-19",
   "venues": [
     {
       "id": "umma",
@@ -15,8 +15,43 @@
         "saturday": { "open": "11:00", "close": "17:00" },
         "sunday": { "open": "12:00", "close": "17:00" }
       },
-      "current_exhibitions": [],
-      "events": []
+      "current_exhibitions": [
+        {
+          "title": "Zina Saro-Wiwa: Table Manners",
+          "description": "A multidisciplinary exploration of food, ritual, and collective memory. Runs through August 30, 2026.",
+          "through": "2026-08-30",
+          "url": "https://umma.umich.edu/art/exhibitions/"
+        },
+        {
+          "title": "Come Talk To Me",
+          "description": "Exhibition in the Jan and David Brandon Family Bridge gallery. Ongoing through summer 2026.",
+          "through": "2026-08-30",
+          "url": "https://umma.umich.edu/art/exhibitions/"
+        },
+        {
+          "title": "We Write To You About Africa",
+          "description": "Ongoing exhibition exploring African diasporic perspectives. Free admission.",
+          "through": null,
+          "url": "https://umma.umich.edu/art/exhibitions/"
+        },
+        {
+          "title": "Jaume Plensa: Behind the Walls",
+          "description": "Monumental figurative sculpture by renowned Spanish artist. Free admission.",
+          "through": null,
+          "url": "https://umma.umich.edu/art/exhibitions/"
+        }
+      ],
+      "events": [
+        {
+          "title": "Summer Artists' Workshop",
+          "date": "2026-06-23",
+          "time": "11:00",
+          "description": "Drop-in summer workshop where visitors create alongside artist Mark Tucker and U-M students. Paint, glue, experiment — help build a colorful kinetic installation. Runs throughout the summer.",
+          "cost": 0,
+          "cost_notes": "free",
+          "url": "https://umma.umich.edu/visit/events/"
+        }
+      ]
     },
     {
       "id": "the-ark",
@@ -71,12 +106,30 @@
           "url": "https://theark.org/event/gregory-stovetop-260626/"
         },
         {
+          "title": "The RFD Boys",
+          "date": "2026-06-27",
+          "time": "20:00",
+          "description": "Live music.",
+          "cost": 16,
+          "cost_notes": "$16",
+          "url": "https://theark.org/events/"
+        },
+        {
           "title": "Matt Watroba",
           "date": "2026-06-28",
-          "time": "20:00",
+          "time": "19:30",
           "description": "Michigan folk singer and Michigan Radio host.",
-          "cost": 0,
-          "cost_notes": "check website",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "The Ark's Open Stage",
+          "date": "2026-06-29",
+          "time": "20:00",
+          "description": "Community open stage night for local and emerging musicians.",
+          "cost": 3,
+          "cost_notes": "$3",
           "url": "https://theark.org/events/"
         },
         {

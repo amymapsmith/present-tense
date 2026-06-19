@@ -1,78 +1,6 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-19",
   "events": [
-    {
-      "title": "KOKOROKO (SFJAZZ Summer Sessions)",
-      "date": "2026-06-16",
-      "time": "19:30",
-      "venue": "SFJAZZ Center",
-      "neighborhood": "Hayes Valley",
-      "category": "music",
-      "cost": 40,
-      "cost_notes": "ticketed — check sfjazz.org",
-      "description": "London Afrobeat and highlife collective opening the 2026 SFJAZZ Summer Sessions. KOKOROKO blend West African rhythms with jazz and soul into something genuinely joyful.",
-      "url": "https://www.sfjazz.org"
-    },
-    {
-      "title": "Messer Chups",
-      "date": "2026-06-16",
-      "time": "20:00",
-      "venue": "Bottom of the Hill",
-      "neighborhood": "Potrero Hill",
-      "category": "music",
-      "cost": 20,
-      "cost_notes": "$20 adv / $25 door",
-      "description": "Russian surf-horror instrumentals with theremin and go-go dancing. Strange, fun, and tight.",
-      "url": "https://www.bottomofthehill.com/20260616.html"
-    },
-    {
-      "title": "TsuShiMaMiRe",
-      "date": "2026-06-17",
-      "time": "20:00",
-      "venue": "Bottom of the Hill",
-      "neighborhood": "Potrero Hill",
-      "category": "music",
-      "cost": 15,
-      "cost_notes": "$15 adv / $20 door",
-      "description": "All-women Japanese punk trio — fast, loud, and charismatic. A cult live act.",
-      "url": "https://www.bottomofthehill.com/20260617.html"
-    },
-    {
-      "title": "Plummet (w/ UFO Baby, Anna Hillburg, Asha Wells)",
-      "date": "2026-06-17",
-      "time": "20:00",
-      "venue": "Cafe du Nord",
-      "neighborhood": "Castro",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "check ticketweb for price, 21+",
-      "description": "Total Accord Presents: a stacked indie bill at the beloved underground Cafe du Nord.",
-      "url": "https://www.ticketweb.com/event/total-accord-presents-plummet-ufo-cafe-du-nord-tickets/14804183"
-    },
-    {
-      "title": "Fai Laci (w/ Trestles)",
-      "date": "2026-06-18",
-      "time": "20:00",
-      "venue": "Cafe du Nord",
-      "neighborhood": "Castro",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "check ticketweb for price, all ages",
-      "description": "All-ages indie show at Cafe du Nord.",
-      "url": "https://www.ticketweb.com/event/fai-laci-with-trestles-cafe-du-nord-tickets/14737653"
-    },
-    {
-      "title": "Every Move A Picture",
-      "date": "2026-06-18",
-      "time": "20:00",
-      "venue": "Bottom of the Hill",
-      "neighborhood": "Potrero Hill",
-      "category": "music",
-      "cost": 15,
-      "cost_notes": "$15 adv / $18 door",
-      "description": "Post-punk and new wave at SF's best small rock club.",
-      "url": "https://www.bottomofthehill.com/20260618.html"
-    },
     {
       "title": "A Tribute to Don Prell & SeaBop",
       "date": "2026-06-19",
@@ -94,7 +22,7 @@
       "category": "music",
       "cost": 20,
       "cost_notes": "$20–$60 (early show 7pm, late show 9:30pm)",
-      "description": "Three-night residency from drummer Willie Jones III's quartet featuring Jeremy Pelt on trumpet. Hard bop at its best.",
+      "description": "Drummer Willie Jones III's quartet featuring Jeremy Pelt on trumpet. Hard bop at its best.",
       "url": "https://blackcatsf.com"
     },
     {
@@ -122,6 +50,42 @@
       "url": "https://www.ticketweb.com/event/olive-jones-us-canada-cafe-du-nord-tickets/14819953"
     },
     {
+      "title": "SFJAZZ Fridays Live",
+      "date": "2026-06-19",
+      "time": "19:30",
+      "venue": "SFJAZZ Center",
+      "neighborhood": "Hayes Valley",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "SFJAZZ's free weekly Friday evening concert series. Artists rotate each week — check sfjazz.org for the lineup. Bar and food available.",
+      "url": "https://www.sfjazz.org/calendar/"
+    },
+    {
+      "title": "Royal Cuckoo — Live Jazz & Organ",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "Royal Cuckoo",
+      "neighborhood": "Mission",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free, no cover ever",
+      "description": "Chris Siebert on Hammond organ with rotating all-star jazz players, Wed–Sun 8–11pm. Cozy Mission saloon with a lineage dating to 1881. Walk in, order a drink, stay all night.",
+      "url": "https://www.royalcuckoo.com"
+    },
+    {
+      "title": "North Beach Festival — Day 1",
+      "date": "2026-06-20",
+      "time": "11:00",
+      "venue": "Grant Ave & Columbus Ave",
+      "neighborhood": "North Beach",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "SF's beloved outdoor street festival celebrates its 72nd year. 200+ vendors on 11 city blocks, live music on three stages, Italian street painting, beer garden, food, and the blessing of the animals. Runs 11am–7pm both Saturday and Sunday.",
+      "url": "https://www.northbeachfestival.org"
+    },
+    {
       "title": "Noel Jewkes & Friends Birthday Bash",
       "date": "2026-06-20",
       "time": "19:30",
@@ -144,6 +108,18 @@
       "cost_notes": "$20",
       "description": "Pacific Northwest heavy metal with NWOBHM hooks. One of the better live acts in that world.",
       "url": "https://www.bottomofthehill.com/20260620.html"
+    },
+    {
+      "title": "North Beach Festival — Day 2",
+      "date": "2026-06-21",
+      "time": "11:00",
+      "venue": "Grant Ave & Columbus Ave",
+      "neighborhood": "North Beach",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Day 2 of SF's annual outdoor street festival. Three live music stages, Italian street painting competition, 200+ vendors, beer garden. 11am–7pm.",
+      "url": "https://www.northbeachfestival.org"
     },
     {
       "title": "Smith Dobson Quartet + Guilhem Fourty Quartet",
@@ -230,16 +206,16 @@
       "url": "https://www.bottomofthehill.com/20260628.html"
     },
     {
-      "title": "Cheaper Than Therapy",
-      "date": "2026-06-18",
-      "time": "19:45",
-      "venue": "Shelton Theater (Cheaper Than Therapy)",
-      "neighborhood": "Union Square",
+      "title": "Jay Alexander: San Francisco Magic Theater",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "Marrakech Magic Theater",
+      "neighborhood": "Tenderloin",
       "category": "comedy",
       "cost": 0,
-      "cost_notes": "check tickets.cttcomedy.com — Eventbrite sold out",
-      "description": "Five to six hand-picked experienced comedians every Wed–Sun at the historic Shelton Theater. Full bar, no drink minimum. Bar opens 7pm, doors 7pm, last seating 8:05pm.",
-      "url": "https://tickets.cttcomedy.com"
+      "cost_notes": "check marrakechsf.com — runs Thu–Sun",
+      "description": "75-minute magic and mentalism show by Jay Alexander. Pre-show close-up magic in the lounge one hour before. Intimate and genuinely surprising.",
+      "url": "http://www.marrakechsf.com/events/"
     },
     {
       "title": "SF Comedy Showcase at Punch Line",
@@ -254,28 +230,16 @@
       "url": "https://www.punchlinecomedyclub.com"
     },
     {
-      "title": "Jay Alexander: San Francisco Magic Theater",
-      "date": "2026-06-19",
-      "time": "20:00",
-      "venue": "Marrakech Magic Theater",
-      "neighborhood": "Tenderloin",
-      "category": "comedy",
-      "cost": 0,
-      "cost_notes": "check marrakechsf.com — runs Thu–Sun",
-      "description": "75-minute magic and mentalism show by Jay Alexander. Pre-show close-up magic in the lounge one hour before. Intimate and genuinely surprising.",
-      "url": "http://www.marrakechsf.com/events/"
-    },
-    {
       "title": "Cheaper Than Therapy",
       "date": "2026-06-25",
       "time": "19:45",
-      "venue": "Shelton Theater (Cheaper Than Therapy)",
+      "venue": "Shelton Theater",
       "neighborhood": "Union Square",
       "category": "comedy",
       "cost": 0,
       "cost_notes": "check tickets.cttcomedy.com",
-      "description": "Five to six hand-picked stand-up comedians. Full bar, no drink minimum. Weekly Wed–Sun at the Shelton Theater.",
-      "url": "https://www.eventbrite.com/e/cheaper-than-therapy-stand-up-comedy-thu-jun-25-tickets-1985561339416"
+      "description": "Five to six hand-picked stand-up comedians. Full bar, no drink minimum. Runs Wed–Sun at the Shelton Theater — check the website for the current week's lineup.",
+      "url": "https://tickets.cttcomedy.com"
     },
     {
       "title": "SF Comedy Showcase at Punch Line",
@@ -291,19 +255,19 @@
     },
     {
       "title": "Minnesota Street Project — Gallery Complex",
-      "date": "2026-06-16",
+      "date": "2026-06-19",
       "time": "10:00",
       "venue": "1275 Minnesota St",
       "neighborhood": "Dogpatch",
       "category": "art",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Multiple galleries in one building. On now: Adler Guerrier's 'Prim and mottled forms' (re.riddle, through Jul 18); Arthur Drooker's 'Twilight' photos (Themes + Projects, through Jun 27); 'How to See Ruth Asawa' (through Jun 20 — closing soon); 'Memory Cradle' by Kate Tova & Anastasia Tumanova (Eleanor Harwood, through Jul 18).",
+      "description": "Multiple galleries in one building. On now: Adler Guerrier's 'Prim and mottled forms' (re.riddle, through Jul 18); 'Memory Cradle' by Kate Tova & Anastasia Tumanova (Eleanor Harwood, through Jul 18). Check minnesotastreetproject.com for current gallery hours.",
       "url": "https://www.minnesotastreetproject.com"
     },
     {
       "title": "ICA SF — Current Exhibitions",
-      "date": "2026-06-16",
+      "date": "2026-06-19",
       "time": "11:00",
       "venue": "ICA SF (various locations)",
       "neighborhood": "Various",
@@ -315,7 +279,7 @@
     },
     {
       "title": "Fraenkel Gallery — Slice of the Pie",
-      "date": "2026-06-16",
+      "date": "2026-06-19",
       "time": "10:30",
       "venue": "Fraenkel Gallery",
       "neighborhood": "Union Square / FiDi",
@@ -326,7 +290,7 @@
       "url": "https://fraenkelgallery.com"
     },
     {
-      "title": "The Living Hand — Opening Reception (Chung 24 Gallery)",
+      "title": "The Living Hand (Chung 24 Gallery)",
       "date": "2026-06-20",
       "time": "18:00",
       "venue": "Chung 24 Gallery",
@@ -336,6 +300,30 @@
       "cost_notes": "free",
       "description": "Opening reception for 'The Living Hand,' running June 17 – August 1. Free and open to the public.",
       "url": "https://www.sfstation.com/art-opening/calendar"
+    },
+    {
+      "title": "CCA Wattis Institute — The Tramp",
+      "date": "2026-06-19",
+      "time": "12:00",
+      "venue": "CCA Wattis Institute",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Major exhibition running through November 21. The CCA Wattis Institute presents contemporary art at the California College of the Arts. Check wattis.org for current programming and hours.",
+      "url": "https://www.wattis.org"
+    },
+    {
+      "title": "STUDIO Gallery — New Exhibition Opening",
+      "date": "2026-06-27",
+      "time": "15:00",
+      "venue": "STUDIO Gallery",
+      "neighborhood": "Russian Hill",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Opening reception for STUDIO Gallery's summer group exhibition. Runs June 25 – July 13. Reception 3–5pm Saturday June 27. 1300 Vallejo St.",
+      "url": "https://www.studiogallerysf.com"
     },
     {
       "title": "Dance Fridays — Salsa & Bachata",
@@ -360,18 +348,6 @@
       "cost_notes": "check website for current pricing",
       "description": "Weekly Friday Latin dance social — lessons followed by open social dancing till 1:30am. Two rooms: salsa and bachata. 21+ with ID.",
       "url": "https://www.dancefridays.fun"
-    },
-    {
-      "title": "Chat Room: Food and Gazetteer",
-      "date": "2026-06-18",
-      "time": "18:30",
-      "venue": "Swedish American Hall",
-      "neighborhood": "Castro",
-      "category": "bar",
-      "cost": 0,
-      "cost_notes": "check ticketweb for price, 21+",
-      "description": "Evening event at the beautiful Swedish American Hall. Check venue for details.",
-      "url": "https://www.ticketweb.com/event/chat-room-food-swedish-american-hall-tickets/14917753"
     },
     {
       "title": "Metalachi",

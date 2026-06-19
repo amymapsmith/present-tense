@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-19",
   "venues": [
     {
       "id": "deyoung",
@@ -54,7 +54,7 @@
       "current_exhibitions": [
         {
           "title": "Check famsf.org for current exhibitions",
-          "description": "famsf.org returned 403 this run — visit the website directly for current Legion of Honor shows.",
+          "description": "famsf.org blocked direct scraping this run — visit the website directly for current Legion of Honor shows.",
           "through": null,
           "url": "https://www.famsf.org/whats-on"
         }
