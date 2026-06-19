@@ -1,116 +1,116 @@
 {
   "updated": "2026-06-19",
   "destination": {
-    "city": "Seoul",
-    "country": "South Korea",
-    "flag": "🇰🇷",
-    "iata": "ICN",
-    "lat": 37.5665,
-    "lon": 126.9780,
-    "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G."
+    "city": "Taipei",
+    "country": "Taiwan",
+    "flag": "🇹🇼",
+    "iata": "TPE",
+    "lat": 25.0330,
+    "lon": 121.5654,
+    "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
   },
   "flight_search_date": "2026-06-19",
   "flights": [
     {
-      "airline": "Air Premia",
-      "price_usd": 850,
-      "outbound_dates": "Jul 15–22 (flexible; midweek departures 10–15% cheaper)",
-      "return_dates": "Jul 22–29",
+      "airline": "EVA Air",
+      "price_usd": 800,
+      "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)",
+      "return_dates": "Jul 14–21",
       "stops": 0,
-      "duration": "12h 55m",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
-      "notes": "Korean low-cost carrier, direct SFO→ICN. No frills but perfectly comfortable. Book via airpremia.com or search Google Flights filtering to Air Premia. Prices fluctuate — $473 one-way in mid-July, roughly $790–880 roundtrip."
+      "duration": "13h 25m",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html",
+      "notes": "Taiwan's flagship full-service carrier, excellent cabin crew and meal quality. Direct SFO→TPE. Skyscanner showing July roundtrip averages ~$500–850 depending on day — midweek is significantly cheaper. Book direct at evaair.com; use Google Flights to find the cheapest dates first."
     },
     {
-      "airline": "Asiana Airlines",
-      "price_usd": 920,
-      "outbound_dates": "Aug 6–13 (August runs ~$150 cheaper than July peak)",
-      "return_dates": "Aug 13–20",
+      "airline": "China Airlines",
+      "price_usd": 990,
+      "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)",
+      "return_dates": "flexible within sale window",
       "stops": 0,
-      "duration": "12h 45m",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
-      "notes": "Full service with meals, 2 checked bags, real legroom. Direct SFO→ICN. If you can push dates to August, prices drop to ~$780. Book via flyasiana.com."
+      "duration": "14h 5m",
+      "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/",
+      "notes": "Taiwan's national carrier. Early Summer Sale locks in $990 roundtrip for travel Jul 2–Dec 10, 2026. Full service with meals and 2 free checked bags. Sale pricing may sell out — book via china-airlines.com directly. 7 nonstop flights weekly from SFO."
     },
     {
-      "airline": "Korean Air",
-      "price_usd": 1100,
-      "outbound_dates": "Jul 14–21",
-      "return_dates": "Jul 21–28",
+      "airline": "STARLUX Airlines",
+      "price_usd": 1013,
+      "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)",
+      "return_dates": "Aug 12–19",
       "stops": 0,
-      "duration": "12h 45m",
-      "url": "https://www.koreanair.com/flights/en-us/flights-from-san-francisco-to-korea",
-      "notes": "Premium full service, best seat pitch in economy, reliably excellent food service. Worth it if you want to arrive rested. Drops to ~$920 in August."
+      "duration": "13h 30m",
+      "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei",
+      "notes": "New premium Taiwanese carrier with a noticeably better economy product — leather seats, larger IFE screens, more legroom than EVA/CI. July runs $1,138; push dates to August and it drops to $1,013. Worth the premium if you want to arrive comfortable and rested."
     }
   ],
   "lodging": [
     {
-      "name": "Zzzip Guesthouse in Hongdae",
+      "name": "Star Hostel Taipei Main Station",
       "type": "hostel",
       "price_per_night_usd": 40,
-      "neighborhood": "Hongdae",
-      "highlights": "9.8/10 on Hostelworld (2,400+ reviews) — spotless private rooms, breakfast included, 3 min walk from Hapjeong Station, 10 min from the Hongdae nightlife strip.",
-      "url": "https://www.hostelworld.com/bed-and-breakfasts/p/83226/zzzip-guesthouse-in-hongdae/",
+      "neighborhood": "Taipei Main Station / Datong",
+      "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast from 6am, Alchemist bar with local craft beer on-site, 3-minute walk to Taipei Main Station and every MRT line — the single best-located budget bed in the city.",
+      "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/",
       "source": "hostelworld"
     },
     {
-      "name": "Hotel Sunbee Insadong",
+      "name": "Journey Town Inn — Nanjing Branch",
       "type": "guesthouse",
-      "price_per_night_usd": 100,
-      "neighborhood": "Insadong",
-      "highlights": "Sitting in the cultural heart of Seoul — surrounded by galleries, tea houses, and antique shops, and a 15-min walk to Gyeongbokgung Palace.",
-      "url": "https://www.booking.com/hotel/kr/sunbee.html",
+      "price_per_night_usd": 93,
+      "neighborhood": "Zhongshan",
+      "highlights": "9.0/10 on Booking, self check-in, sits in Zhongshan's tree-lined boutique district — walkable to Ningxia Night Market, Dihua Street, and the city's best independent coffee shops.",
+      "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html",
       "source": "booking"
     },
     {
-      "name": "L7 HONGDAE by Lotte",
+      "name": "The Okura Prestige Taipei",
       "type": "hotel",
-      "price_per_night_usd": 180,
-      "neighborhood": "Hongdae",
-      "highlights": "4-star design hotel with a rooftop pool bar and industrial-cool aesthetic; insane city views from the upper floors, and you're already in the city's most energetic neighborhood.",
-      "url": "https://www.booking.com/hotel/kr/l7-hongdae-by-lotte.html",
+      "price_per_night_usd": 225,
+      "neighborhood": "Zhongshan / Nanjing",
+      "highlights": "5-star Japanese hospitality in the heart of Taipei's financial and diplomatic district — heated outdoor pool, 2-minute walk from Zhongshan MRT, and the kind of service that makes every other hotel feel effortful.",
+      "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Seoul rewards you immediately and keeps rewarding you — the palaces are legitimately awe-inspiring, the food is some of the best on earth at any price point, and the city stays interestingly weird until 4am. Go now while the won is weak (your dollar goes further than it has in years), summer evenings on the Han River are spectacular, and the restaurant scene in neighborhoods like Euljiro and Seongsu is at a genuine peak.",
+    "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning. The old port district of Dadaocheng has more authentic character than most 'heritage' neighborhoods in Asia; the hot springs at Beitou are a 30-minute MRT ride away; and the night market scene has enough variation that you could eat differently every night for a month. Go now: the NT dollar is weak, summer crowds are manageable outside of weekends, and the city's coffee and natural wine scene has quietly become world-class.",
     "days": [
       {
         "day": 1,
-        "title": "Palaces, Hanok Villages, and Euljiro Night",
-        "morning": "Get to Gyeongbokgung Palace before 9am — the light is better, the crowds are nonexistent, and you feel the scale of the thing properly. Rent a hanbok at the entrance (~$10-15/hour) for free admission and genuinely great photos. Catch the Guard Changing Ceremony at 10am, then walk northeast 10 minutes to Bukchon Hanok Village. Follow the Eight Views floor markers (small tiles embedded in the pavement) — these give you the angles of tiled roofs against N Seoul Tower that everyone's after. Stop at Cha-Teul tea house (renovated hanok, panoramic mountain views) before the masses arrive.",
-        "afternoon": "Head to Insadong for lunch at Myeongdong Kyoja — legendary kalguksu knife-cut noodles and steamed mandu dumplings, line out the door, worth every minute. (Different from the touristy Myeongdong shopping district.) Walk Insadong's antique shops and indie galleries. If you booked at least 6 days ahead, the 3pm slot at Changdeokgung's Secret Garden (Huwon) is one of the most beautiful places in the city — 100-person limit, guided, completely different feeling from the main palace. Otherwise the grounds alone are worth it.",
-        "evening": "Euljiro is quiet daytime workshops — metalworkers, printers, hardware stores. By 9pm it's Seoul's hottest outdoor drinking scene. Find a pojangmacha (orange tent) and order makgeolli (cloudy rice wine) with pajeon (savory scallion pancake). The crowd is young, local, and not particularly interested in tourists. Stay out."
+        "title": "Dadaocheng, Zhongshan Vintage, Raohe Night Market",
+        "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike in the city).",
+        "afternoon": "MRT to Zhongshan. Walk Lane 20, Section 2, Zhongshan North Road — this is the city's genuine vintage and indie shopping strip. Damn It! Vintage, Travis Vintage, and Mana are real curated shops with serious stock, nothing like the fast-fashion chaos of Ximending. The whole neighborhood has a quiet Japan-influenced aesthetic: tree-lined streets, small specialty cafes, independent bookshops. Grab coffee anywhere that looks busy with locals — the third-wave coffee density here rivals Tokyo.",
+        "evening": "Raohe Street Night Market. Arrive 5:30pm, before the evening rush. The market is 600 meters of concentrated eating — manageable, not overwhelming. Non-negotiable: Fuzhou Black Pepper Buns at the entrance (long line, worth every minute — charcoal-roasted pork buns with a flaky crust and juicy interior, TWD 60). Then Shi Boss Stinky Tofu (Michelin-recognized, the broth is addictive even if the concept sounds wrong). Close with Dongfahao oyster vermicelli (the 80-year no-cornstarch recipe — completely different texture from the tourist-market version). Taiwan Beer from a convenience store on the walk out."
       },
       {
         "day": 2,
-        "title": "Mangwon Market, Seongsu, Han River",
-        "morning": "Mangwon Market instead of Gwangjang — this is where actual Seoulites shop on weekends, and the street food is significantly better than the tourist-priced Gwangjang stalls (which had a widely-reported overcharging scandal in 2025). Get there by 10am: try the giant fried chili peppers stuffed with minced meat at Uirak. Walk 15 minutes east to Hongdae Walking Street where the busker scene starts around noon on weekends.",
-        "afternoon": "Take the Green Line metro across the river to Seongsu-dong, the city's pop-up district — a former industrial zone with tanneries and auto workshops now interspersed with impossibly cool concept stores and galleries like House NoWhere. Things open and close fast here; whatever's hot right now won't be Googled yet. Walk back toward the river and up the Seoullo 7017 Skygarden (a converted 1970s highway overpass turned into a garden path) for good sunset-angle city views.",
-        "evening": "Han River at sunset: this is the move. Go to Mangwon Hangang Park. Stop at a riverside 7-Eleven or GS25 — buy beer, buy the ramyeon cup you want, use the automated hot water machine to make it, and find a patch of grass. Half of Seoul is sitting within 500 meters of you doing the exact same thing. This is chimaek culture (fried chicken + beer) in its most elemental form. Stay until the city lights come up."
+        "title": "Beitou Hot Springs, Elephant Mountain, Da'an Night",
+        "morning": "MRT Red Line to Xinbeitou (45 minutes from Main Station, no transfers). The outdoor thermal pool at Millennium Hot Spring (天狺千禧溫泉, 195 Wenquan Rd) is TWD 40 — sulfurous mineral water, mountain views, elderly Taipei residents who've been coming here for decades sharing the pool with you. This is the non-Instagram version of the hot spring experience, and it's better for it. Alternatively, a private thermal room at one of the hillside hotels costs NT$500–800/hour and is worth it if you want the full soaking experience.",
+        "afternoon": "MRT back to Xiangshan station (end of the Red Line, south Taipei). The Elephant Mountain hike is 20 minutes of steep stairs — you come out on a rock ledge with the definitive Taipei 101 view. Go mid-afternoon on a weekday: hot, but not crowded. Then walk down into Da'an District. Yongkang Street: Tian Jin Scallion Flaky Pancakes at the corner stall (starting NT$30) is the best version of this dish in the city — layered, crispy, made fresh. Walk the residential streets around Da'an Park, which looks like a Tokyo neighborhood in the best way.",
+        "evening": "Tonghua Night Market (also called Linjiang Night Market, 2 stops on the MRT from Xiangshan). This is the locals' night market — young professionals from the surrounding apartments stopping for dinner, stalls that have been here for 30–40 years, zero tourist markup. Arrive around 6pm when stalls open fresh. Dessert at Snow King Ice Cream (since 1947, Wuchang St near Ximen): they make strange flavors — basil, tomato, beer, pork chop — intentionally, and they're excellent. Order one you wouldn't order anywhere else."
       },
       {
         "day": 3,
-        "title": "Ikseon-dong, Sindang Tteokbokki, DDP, Mullae Night",
-        "morning": "Ikseon-dong is Seoul's oldest hanok village (1920s construction, genuinely lived-in — not the fake new Eunpyeong Hanok Village that Instagram has been overselling). Tiny alley bakeries, vintage record shops, natural wine bars operating out of single-room storefronts. Get coffee at Onhwa in a renovated hanok with wooden-beam ceilings. Walk slowly. There's nothing to rush toward.",
-        "afternoon": "Taxi to Sindang-dong — this is where tteokbokki (spicy rice cakes) was invented in the 1950s, and the sit-down restaurants here do a completely different version than street carts: a whole spread with ramyeon, egg, fish cake, cheese on request, broth for refills. Order the cheese version at lunch. Afterwards, head to Dongdaemun Design Plaza (the Zaha Hadid blob building by the Dongdaemun Gate) — the nightly LED light show is interesting, but the design museum inside runs a rotating program of architecture and fashion exhibitions worth checking. Walk the old city wall fragment nearby for a good view back at the DDP.",
-        "evening": "Mullae-dong is a metal workshop district that transforms after 9pm — welders and machinists shut down, restaurant-bars open in the gaps between workshop units, and the crowd is creative/local/serious about eating. Eat wherever looks good and full. Then onwards: the Gyeongnidan Hill area (above Itaewon) is less expat-forward than it used to be and has some of the city's better late-night bars, particularly on the smaller side streets running off the main Gyeongnidan-gil strip."
+        "title": "Jiufen Morning, Treasure Hill, Gongguan Night",
+        "morning": "Early bus to Jiufen. From Zhongxiao Fuxing MRT station (Blue Line), take bus 1062 — about 1.5 hours, TWD 113. Get there by 9am. The red lantern alleys and steep stone staircases are legitimately beautiful before the tour groups arrive at 11am. Stop at Amei Tea House (near the top of the Old Street) for oolong with a view of the harbor and mountains — sit by the window. Buy a bag of taro balls for the walk down. The resemblance to the Spirited Away bathhouse is real and atmospheric. Leave by noon.",
+        "afternoon": "Back to Taipei. Treasure Hill Artist Village (near Gongguan MRT, follow the signs uphill) — a genuine hillside community of artists living and working in a reclaimed informal settlement. Free, mostly empty on weekday afternoons, with murals, open studios, and a coffee shop run by the resident community. Nothing institutional about it. After: 44 South Military Village (南村落, near Xinyi/Zhongzheng) — a former military dependents' village turned arts space with consistently good Taipei 101 sightlines without the viewing platform crowds or ticket price.",
+        "evening": "Gongguan Night Market for dinner (right outside Gongguan MRT). This is the most local and most Michelin Bib Gourmand-dense night market in Taipei — NTU students, professors, neighborhood regulars, no tour groups. Compact and unpretentious. Afterwards, Rongjin Gorgeous Time (溶金光景, near Zhongzheng District) — a former Japanese colonial-era prison building complex turned into a craft beer and bar district. The bars operate inside the actual prison structures. Stay late."
       }
     ],
     "tips": [
-      "Use Naver Map instead of Google Maps. Google is functionally broken in South Korea due to military mapping restrictions — walking routes are wrong, small businesses don't show up, and the transit directions are unreliable. Naver Map has an English mode and is what everyone actually uses.",
-      "Get a T-Money card at any convenience store (GS25, CU, 7-Eleven) for about $3, then top it up with cash. The free transfer window (30–60 min) lets you make up to 4 connected subway/bus trips on one fare — critical for getting around cheaply.",
-      "The call button at restaurant tables is not rude. It's how service works: press it when you're ready to order or need something. Waving and making eye contact the Western way will get you a confused look.",
-      "Gwangjang Market (the famous covered market in Jongno) is worth a walk-through but is now 90% tourist-facing and 10% for locals. Go to Mangwon Market on a weekend morning for the real version of the same experience at a third of the price.",
-      "Renting a hanbok at any palace gate (~$10–20/hour) gets you free admission to all royal palaces. It's not just a photo op — it's also genuinely the cheapest way in if you're hitting more than one palace.",
-      "Summer nights: palaces and hanok villages are best before 10am (heat + crowds both peak midday), the Han River parks are best after 6pm when locals arrive, and Euljiro only really starts after 9pm. Plan accordingly."
+      "Get an EasyCard (TWD 100) from any 7-Eleven, FamilyMart, or MRT station immediately on arrival. It works on all MRT, buses, YouBike city bikes, and most convenience stores. The transit transfer discount (30-minute window) saves real money if you're combining MRT and buses.",
+      "Gongguan beats Shilin for night markets. Shilin is famous because it was excellent 20 years ago — now it's 70% tourists. Gongguan is compact, genuinely cheap, Michelin Bib Gourmand recognized, and almost entirely locals. Don't let the famous one crowd out the good one.",
+      "Taiwan's 7-Elevens, FamilyMarts, and Hi-Life stores are not a fallback option. Hot food behind the counter, genuinely good coffee, cheap beer, prepared meals that are better than most fast food. The basement food courts inside department stores on Zhongxiao Dunhua are also legitimately worth a meal.",
+      "For Jiufen: weekday morning only. Weekend afternoons turn the narrow stone alleys into a single-file tourist bottleneck that's neither enjoyable nor photogenic. If you want photos without 200 other people in them, arrive before 9:30am and leave by noon.",
+      "YouBike city bike share stations are everywhere. The first 30 minutes is free with an EasyCard. The riverside cycling paths along the Danshui and Jingmei rivers are a completely different and very good version of Taipei — flat, fast, almost entirely locals.",
+      "The specialty coffee scene in Da'an and Zhongshan is world-class and almost entirely unwritten-about in English. The third-wave cafe density rivals Tokyo or Melbourne. Walk into any place that looks busy with locals, not tourists, and order the house filter."
     ],
     "sources": [
-      { "title": "Seoul Travel Guide 2026: Insider Secrets from an 8-Year Expat — Museum of Wander", "url": "https://museumofwander.com/seoul-travel-guide/" },
-      { "title": "25 Best Things to Do in Seoul: The Ultimate 2026 Travel Guide — Tripaholics", "url": "https://tripaholics.co.uk/25-best-things-to-do-in-seoul-the-ultimate-2026-travel-guide/" },
-      { "title": "Seoul Tourist Traps to Avoid — Dodo K Travel", "url": "https://www.dodo-ktravel.com/seoul-tourist-traps-locals-avoid/" },
-      { "title": "Seoul Neighborhoods Guide 2025: Where to Stay by a Local Expert — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/seoul-neighborhoods" },
-      { "title": "Hidden Gems in Seoul: Quiet Places Most Visitors Miss — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/hidden-gems-in-seoul" },
-      { "title": "Best Places to Visit in Seoul 2026: Hidden Gems & Hotspots — KCulture", "url": "https://kculture.com/best-places-to-visit-in-seoul-2026-hidden-gems-hotspots/" }
+      { "title": "25 Hidden Gems in Taipei from a Local Taiwanese — GoWithGuide", "url": "https://gowithguide.com/blog/25-hidden-gems-in-taipei-insider-tips-from-a-local-taiwanese-5931" },
+      { "title": "65 Top Taipei Things To Do In 2026 — Taiwanderers", "url": "https://taiwanderers.com/taipei-things-to-do/" },
+      { "title": "Raohe Night Market: What to Eat — Taiwan Obsessed", "url": "https://www.taiwanobsessed.com/raohe-night-market-taipei/" },
+      { "title": "Ningxia Night Market Taipei: 11 Must-Try Foods & Michelin Stalls — Just a Taiwan Tour", "url": "https://www.justaiwantour.com/ningxia-night-market-taipei-food-guide/" },
+      { "title": "50+ Things to Do in Taipei — Nickkembel Travels", "url": "https://www.nickkembel.com/things-to-do-in-taipei/" },
+      { "title": "Taipei Travel Guide: Best Things to Do, Where to Stay & Insider Tips — Lilla Green", "url": "https://lillagreen.com/taipei-taiwan-travel-guide/" }
     ]
   }
 }
