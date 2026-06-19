@@ -1,10 +1,18 @@
 let _yoloData = null;
+let _yoloHistory = [];
 
 async function loadYoloData() {
   try {
-    const res = await fetch('data/yolo.json');
-    if (!res.ok) return null;
-    const data = await res.json();
+    const [mainRes, histRes] = await Promise.all([
+      fetch('data/yolo.json'),
+      fetch('data/yolo-history.json')
+    ]);
+    if (histRes.ok) {
+      const hist = await histRes.json();
+      _yoloHistory = hist.destinations || [];
+    }
+    if (!mainRes.ok) return null;
+    const data = await mainRes.json();
     return data.destination ? data : null;
   } catch { return null; }
 }
@@ -93,6 +101,50 @@ function renderYoloMap(destination) {
   return `<div class="yolo-map"><iframe src="${src}" title="Map of ${city}" loading="lazy"></iframe></div>`;
 }
 
+function renderYoloPastDestinations(history) {
+  if (!history || !history.length) return '';
+  const cards = history.map((entry, i) => {
+    const d = entry.destination;
+    const cheapest = (entry.flights || []).reduce((min, f) => Math.min(min, f.price_usd), Infinity);
+    return `
+      <button class="yolo-past-card" onclick="showPastDestination(${i})">
+        <span class="yolo-past-flag">${d.flag}</span>
+        <div class="yolo-past-info">
+          <span class="yolo-past-city">${d.city}</span>
+          <span class="yolo-past-country">${d.country}</span>
+        </div>
+        ${isFinite(cheapest) ? `<span class="yolo-past-price">from $${cheapest}</span>` : ''}
+      </button>`;
+  }).join('');
+  return `
+    <div class="yolo-section yolo-past-section">
+      <h3 class="yolo-section-title">Previous destinations</h3>
+      <div class="yolo-past-list">${cards}</div>
+    </div>`;
+}
+
+function showPastDestination(index) {
+  const entry = _yoloHistory[index];
+  if (!entry) return;
+  const currentCity = _yoloData ? _yoloData.destination.city : null;
+  const { destination, flights, flight_search_date, lodging, itinerary } = entry;
+  document.getElementById('yolo-content').innerHTML = `
+    <div class="yolo-past-nav">
+      <button class="yolo-past-back-btn" onclick="renderYolo(_yoloData)">← ${currentCity || 'current'}</button>
+    </div>
+    <div class="yolo-hero">
+      <div class="yolo-flag">${destination.flag}</div>
+      <div class="yolo-dest">${destination.city}, ${destination.country}</div>
+      ${destination.vibe ? `<p class="yolo-vibe">${destination.vibe}</p>` : ''}
+    </div>
+    ${renderYoloMap(destination)}
+    ${renderYoloFlights(flights, flight_search_date)}
+    ${renderYoloLodging(lodging)}
+    ${renderYoloItinerary(itinerary)}
+  `;
+  window.scrollTo(0, 0);
+}
+
 function renderYolo(data) {
   const { destination, flights, flight_search_date, lodging, itinerary } = data;
   document.getElementById('yolo-content').innerHTML = `
@@ -105,6 +157,7 @@ function renderYolo(data) {
     ${renderYoloFlights(flights, flight_search_date)}
     ${renderYoloLodging(lodging)}
     ${renderYoloItinerary(itinerary)}
+    ${renderYoloPastDestinations(_yoloHistory)}
   `;
 }
 

@@ -754,6 +754,65 @@ body.yolo-active #yolo-view { display: block; min-height: 100vh; }
   border-radius: 2px;
 }
 
+.yolo-past-section { border-top: 1px solid var(--border); padding-top: 1.5rem; }
+
+.yolo-past-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.yolo-past-card {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+  transition: border-color 0.15s;
+}
+
+.yolo-past-card:hover { border-color: var(--text-muted); }
+
+.yolo-past-flag { font-size: 1.25rem; line-height: 1; }
+
+.yolo-past-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.yolo-past-city { font-size: 0.85rem; font-weight: 600; color: var(--text); }
+.yolo-past-country { font-size: 0.72rem; color: var(--text-muted); }
+
+.yolo-past-price {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+.yolo-past-nav {
+  margin-bottom: 1.25rem;
+}
+
+.yolo-past-back-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.yolo-past-back-btn:hover { color: var(--text); }
+
 /* ── Responsive ──────────────────────────────────── */
 @media (max-width: 800px) {
   .mix-row { grid-template-columns: 100px 1fr 32px 46px; }
