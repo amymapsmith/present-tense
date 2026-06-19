@@ -1,0 +1,120 @@
+{
+  "destinations": [
+    {
+      "updated": "2026-06-19",
+      "destination": {
+        "city": "Seoul",
+        "country": "South Korea",
+        "flag": "🇰🇷",
+        "iata": "ICN",
+        "lat": 37.5665,
+        "lon": 126.9780,
+        "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [
+        {
+          "airline": "Air Premia",
+          "price_usd": 850,
+          "outbound_dates": "Jul 15–22 (flexible; midweek departures 10–15% cheaper)",
+          "return_dates": "Jul 22–29",
+          "stops": 0,
+          "duration": "12h 55m",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
+          "notes": "Korean low-cost carrier, direct SFO→ICN. No frills but perfectly comfortable. Book via airpremia.com or search Google Flights filtering to Air Premia. Prices fluctuate — $473 one-way in mid-July, roughly $790–880 roundtrip."
+        },
+        {
+          "airline": "Asiana Airlines",
+          "price_usd": 920,
+          "outbound_dates": "Aug 6–13 (August runs ~$150 cheaper than July peak)",
+          "return_dates": "Aug 13–20",
+          "stops": 0,
+          "duration": "12h 45m",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
+          "notes": "Full service with meals, 2 checked bags, real legroom. Direct SFO→ICN. If you can push dates to August, prices drop to ~$780. Book via flyasiana.com."
+        },
+        {
+          "airline": "Korean Air",
+          "price_usd": 1100,
+          "outbound_dates": "Jul 14–21",
+          "return_dates": "Jul 21–28",
+          "stops": 0,
+          "duration": "12h 45m",
+          "url": "https://www.koreanair.com/flights/en-us/flights-from-san-francisco-to-korea",
+          "notes": "Premium full service, best seat pitch in economy, reliably excellent food service. Worth it if you want to arrive rested. Drops to ~$920 in August."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Zzzip Guesthouse in Hongdae",
+          "type": "hostel",
+          "price_per_night_usd": 40,
+          "neighborhood": "Hongdae",
+          "highlights": "9.8/10 on Hostelworld (2,400+ reviews) — spotless private rooms, breakfast included, 3 min walk from Hapjeong Station, 10 min from the Hongdae nightlife strip.",
+          "url": "https://www.hostelworld.com/bed-and-breakfasts/p/83226/zzzip-guesthouse-in-hongdae/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Hotel Sunbee Insadong",
+          "type": "guesthouse",
+          "price_per_night_usd": 100,
+          "neighborhood": "Insadong",
+          "highlights": "Sitting in the cultural heart of Seoul — surrounded by galleries, tea houses, and antique shops, and a 15-min walk to Gyeongbokgung Palace.",
+          "url": "https://www.booking.com/hotel/kr/sunbee.html",
+          "source": "booking"
+        },
+        {
+          "name": "L7 HONGDAE by Lotte",
+          "type": "hotel",
+          "price_per_night_usd": 180,
+          "neighborhood": "Hongdae",
+          "highlights": "4-star design hotel with a rooftop pool bar and industrial-cool aesthetic; insane city views from the upper floors, and you're already in the city's most energetic neighborhood.",
+          "url": "https://www.booking.com/hotel/kr/l7-hongdae-by-lotte.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Seoul rewards you immediately and keeps rewarding you — the palaces are legitimately awe-inspiring, the food is some of the best on earth at any price point, and the city stays interestingly weird until 4am. Go now while the won is weak (your dollar goes further than it has in years), summer evenings on the Han River are spectacular, and the restaurant scene in neighborhoods like Euljiro and Seongsu is at a genuine peak.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Palaces, Hanok Villages, and Euljiro Night",
+            "morning": "Get to Gyeongbokgung Palace before 9am — the light is better, the crowds are nonexistent, and you feel the scale of the thing properly. Rent a hanbok at the entrance (~$10-15/hour) for free admission and genuinely great photos. Catch the Guard Changing Ceremony at 10am, then walk northeast 10 minutes to Bukchon Hanok Village. Follow the Eight Views floor markers (small tiles embedded in the pavement) — these give you the angles of tiled roofs against N Seoul Tower that everyone's after. Stop at Cha-Teul tea house (renovated hanok, panoramic mountain views) before the masses arrive.",
+            "afternoon": "Head to Insadong for lunch at Myeongdong Kyoja — legendary kalguksu knife-cut noodles and steamed mandu dumplings, line out the door, worth every minute. (Different from the touristy Myeongdong shopping district.) Walk Insadong's antique shops and indie galleries. If you booked at least 6 days ahead, the 3pm slot at Changdeokgung's Secret Garden (Huwon) is one of the most beautiful places in the city — 100-person limit, guided, completely different feeling from the main palace. Otherwise the grounds alone are worth it.",
+            "evening": "Euljiro is quiet daytime workshops — metalworkers, printers, hardware stores. By 9pm it's Seoul's hottest outdoor drinking scene. Find a pojangmacha (orange tent) and order makgeolli (cloudy rice wine) with pajeon (savory scallion pancake). The crowd is young, local, and not particularly interested in tourists. Stay out."
+          },
+          {
+            "day": 2,
+            "title": "Mangwon Market, Seongsu, Han River",
+            "morning": "Mangwon Market instead of Gwangjang — this is where actual Seoulites shop on weekends, and the street food is significantly better than the tourist-priced Gwangjang stalls (which had a widely-reported overcharging scandal in 2025). Get there by 10am: try the giant fried chili peppers stuffed with minced meat at Uirak. Walk 15 minutes east to Hongdae Walking Street where the busker scene starts around noon on weekends.",
+            "afternoon": "Take the Green Line metro across the river to Seongsu-dong, the city's pop-up district — a former industrial zone with tanneries and auto workshops now interspersed with impossibly cool concept stores and galleries like House NoWhere. Things open and close fast here; whatever's hot right now won't be Googled yet. Walk back toward the river and up the Seoullo 7017 Skygarden (a converted 1970s highway overpass turned into a garden path) for good sunset-angle city views.",
+            "evening": "Han River at sunset: this is the move. Go to Mangwon Hangang Park. Stop at a riverside 7-Eleven or GS25 — buy beer, buy the ramyeon cup you want, use the automated hot water machine to make it, and find a patch of grass. Half of Seoul is sitting within 500 meters of you doing the exact same thing. This is chimaek culture (fried chicken + beer) in its most elemental form. Stay until the city lights come up."
+          },
+          {
+            "day": 3,
+            "title": "Ikseon-dong, Sindang Tteokbokki, DDP, Mullae Night",
+            "morning": "Ikseon-dong is Seoul's oldest hanok village (1920s construction, genuinely lived-in — not the fake new Eunpyeong Hanok Village that Instagram has been overselling). Tiny alley bakeries, vintage record shops, natural wine bars operating out of single-room storefronts. Get coffee at Onhwa in a renovated hanok with wooden-beam ceilings. Walk slowly. There's nothing to rush toward.",
+            "afternoon": "Taxi to Sindang-dong — this is where tteokbokki (spicy rice cakes) was invented in the 1950s, and the sit-down restaurants here do a completely different version than street carts: a whole spread with ramyeon, egg, fish cake, cheese on request, broth for refills. Order the cheese version at lunch. Afterwards, head to Dongdaemun Design Plaza (the Zaha Hadid blob building by the Dongdaemun Gate) — the nightly LED light show is interesting, but the design museum inside runs a rotating program of architecture and fashion exhibitions worth checking. Walk the old city wall fragment nearby for a good view back at the DDP.",
+            "evening": "Mullae-dong is a metal workshop district that transforms after 9pm — welders and machinists shut down, restaurant-bars open in the gaps between workshop units, and the crowd is creative/local/serious about eating. Eat wherever looks good and full. Then onwards: the Gyeongnidan Hill area (above Itaewon) is less expat-forward than it used to be and has some of the city's better late-night bars, particularly on the smaller side streets running off the main Gyeongnidan-gil strip."
+          }
+        ],
+        "tips": [
+          "Use Naver Map instead of Google Maps. Google is functionally broken in South Korea due to military mapping restrictions — walking routes are wrong, small businesses don't show up, and the transit directions are unreliable. Naver Map has an English mode and is what everyone actually uses.",
+          "Get a T-Money card at any convenience store (GS25, CU, 7-Eleven) for about $3, then top it up with cash. The free transfer window (30–60 min) lets you make up to 4 connected subway/bus trips on one fare — critical for getting around cheaply.",
+          "The call button at restaurant tables is not rude. It's how service works: press it when you're ready to order or need something. Waving and making eye contact the Western way will get you a confused look.",
+          "Gwangjang Market (the famous covered market in Jongno) is worth a walk-through but is now 90% tourist-facing and 10% for locals. Go to Mangwon Market on a weekend morning for the real version of the same experience at a third of the price.",
+          "Renting a hanbok at any palace gate (~$10–20/hour) gets you free admission to all royal palaces. It's not just a photo op — it's also genuinely the cheapest way in if you're hitting more than one palace.",
+          "Summer nights: palaces and hanok villages are best before 10am (heat + crowds both peak midday), the Han River parks are best after 6pm when locals arrive, and Euljiro only really starts after 9pm. Plan accordingly."
+        ],
+        "sources": [
+          { "title": "Seoul Travel Guide 2026: Insider Secrets from an 8-Year Expat — Museum of Wander", "url": "https://museumofwander.com/seoul-travel-guide/" },
+          { "title": "25 Best Things to Do in Seoul: The Ultimate 2026 Travel Guide — Tripaholics", "url": "https://tripaholics.co.uk/25-best-things-to-do-in-seoul-the-ultimate-2026-travel-guide/" },
+          { "title": "Seoul Tourist Traps to Avoid — Dodo K Travel", "url": "https://www.dodo-ktravel.com/seoul-tourist-traps-locals-avoid/" },
+          { "title": "Seoul Neighborhoods Guide 2025: Where to Stay by a Local Expert — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/seoul-neighborhoods" },
+          { "title": "Hidden Gems in Seoul: Quiet Places Most Visitors Miss — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/hidden-gems-in-seoul" },
+          { "title": "Best Places to Visit in Seoul 2026: Hidden Gems & Hotspots — KCulture", "url": "https://kculture.com/best-places-to-visit-in-seoul-2026-hidden-gems-hotspots/" }
+        ]
+      }
+    }
+  ]
+}
