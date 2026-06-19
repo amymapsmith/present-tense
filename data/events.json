@@ -70,8 +70,8 @@
       "category": "music",
       "cost": 0,
       "cost_notes": "free, no cover ever",
-      "description": "Chris Siebert on Hammond organ with rotating all-star jazz players, Wed–Sun 8–11pm. Cozy Mission saloon with a lineage dating to 1881. Walk in, order a drink, stay all night.",
-      "url": "https://www.royalcuckoo.com"
+      "description": "Hammond organ jazz nightly — Chris Siebert holds court most evenings, Lavay Smith joins Sundays. Open 7 nights/week, doors 4pm, music from 8pm. Cozy Mission saloon with a lineage dating to 1881. No cover, ever.",
+      "url": "https://www.yelp.com/biz/royal-cuckoo-san-francisco"
     },
     {
       "title": "North Beach Festival — Day 1",
@@ -348,6 +348,66 @@
       "cost_notes": "check website for current pricing",
       "description": "Weekly Friday Latin dance social — lessons followed by open social dancing till 1:30am. Two rooms: salsa and bachata. 21+ with ID.",
       "url": "https://www.dancefridays.fun"
+    },
+    {
+      "title": "Sensual Soiree — Bachata Night",
+      "date": "2026-06-24",
+      "time": "19:00",
+      "venue": "The Nook / Paname SF (alternating)",
+      "neighborhood": "Civic Center / North Beach",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$10–20",
+      "description": "Weekly Wednesday bachata social, alternating between The Nook (1242 Market St) and Paname SF (523 Broadway, North Beach). Workshop 7–8pm, social dancing 8–11pm. Check their Instagram or Eventbrite for the week's venue.",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/bachata/"
+    },
+    {
+      "title": "Bachata Afterglow at Paname",
+      "date": "2026-06-21",
+      "time": "21:00",
+      "venue": "Paname SF",
+      "neighborhood": "North Beach",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "check venue for pricing",
+      "description": "Bachata social at Paname SF (523 Broadway, North Beach). Check Paname's social media directly for upcoming dates — this one isn't consistently listed online.",
+      "url": "https://www.yelp.com/biz/paname-san-francisco"
+    },
+    {
+      "title": "Bachata Lab — Friday Social",
+      "date": "2026-06-19",
+      "time": "20:00",
+      "venue": "1830 17th St",
+      "neighborhood": "Mission / Potrero",
+      "category": "dance",
+      "cost": 20,
+      "cost_notes": "$20 class+social / $15 social only",
+      "description": "Weekly Friday bachata at 1830 17th St. Class 8–9:30pm, social dancing 9:30pm–1am. All levels welcome.",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/bachata/"
+    },
+    {
+      "title": "Bachata Takeover",
+      "date": "2026-06-27",
+      "time": "20:00",
+      "venue": "Golden City Dance Collective",
+      "neighborhood": "San Francisco",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "check venue for pricing",
+      "description": "Saturday bachata social — classes 8–9pm, social dancing 9:30pm–2am. Rotating venues: Jun 27 at Golden City Dance Collective; also held at Space 550 (550 Barneveld).",
+      "url": "https://www.eventbrite.com/d/ca--san-francisco/bachata/"
+    },
+    {
+      "title": "Bachata in North Beach — Special Edition",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "Broadway Studios",
+      "neighborhood": "North Beach",
+      "category": "dance",
+      "cost": 17,
+      "cost_notes": "$15–20 presale",
+      "description": "Special Saturday edition of the monthly Bachata in North Beach at Broadway Studios (435 Broadway). Normally 3rd Sunday 6pm; this special runs 8pm–2am. Class included.",
+      "url": "https://broadwaystudios.net"
     },
     {
       "title": "Metalachi",
