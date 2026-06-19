@@ -3,6 +3,122 @@
     {
       "updated": "2026-06-19",
       "destination": {
+        "city": "Taipei",
+        "country": "Taiwan",
+        "flag": "🇹🇼",
+        "iata": "TPE",
+        "lat": 25.0330,
+        "lon": 121.5654,
+        "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [
+        {
+          "airline": "EVA Air",
+          "price_usd": 800,
+          "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)",
+          "return_dates": "Jul 14–21",
+          "stops": 0,
+          "duration": "13h 25m",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html",
+          "notes": "Taiwan's flagship full-service carrier, excellent cabin crew and meal quality. Direct SFO→TPE. Skyscanner showing July roundtrip averages ~$500–850 depending on day — midweek is significantly cheaper. Book direct at evaair.com; use Google Flights to find the cheapest dates first."
+        },
+        {
+          "airline": "China Airlines",
+          "price_usd": 990,
+          "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)",
+          "return_dates": "flexible within sale window",
+          "stops": 0,
+          "duration": "14h 5m",
+          "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/",
+          "notes": "Taiwan's national carrier. Early Summer Sale locks in $990 roundtrip for travel Jul 2–Dec 10, 2026. Full service with meals and 2 free checked bags. Sale pricing may sell out — book via china-airlines.com directly. 7 nonstop flights weekly from SFO."
+        },
+        {
+          "airline": "STARLUX Airlines",
+          "price_usd": 1013,
+          "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)",
+          "return_dates": "Aug 12–19",
+          "stops": 0,
+          "duration": "13h 30m",
+          "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei",
+          "notes": "New premium Taiwanese carrier with a noticeably better economy product — leather seats, larger IFE screens, more legroom than EVA/CI. July runs $1,138; push dates to August and it drops to $1,013. Worth the premium if you want to arrive comfortable and rested."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Star Hostel Taipei Main Station",
+          "type": "hostel",
+          "price_per_night_usd": 40,
+          "neighborhood": "Taipei Main Station / Datong",
+          "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast from 6am, Alchemist bar with local craft beer on-site, 3-minute walk to Taipei Main Station and every MRT line — the single best-located budget bed in the city.",
+          "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Journey Town Inn — Nanjing Branch",
+          "type": "guesthouse",
+          "price_per_night_usd": 93,
+          "neighborhood": "Zhongshan",
+          "highlights": "9.0/10 on Booking, self check-in, sits in Zhongshan's tree-lined boutique district — walkable to Ningxia Night Market, Dihua Street, and the city's best independent coffee shops.",
+          "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html",
+          "source": "booking"
+        },
+        {
+          "name": "The Okura Prestige Taipei",
+          "type": "hotel",
+          "price_per_night_usd": 225,
+          "neighborhood": "Zhongshan / Nanjing",
+          "highlights": "5-star Japanese hospitality in the heart of Taipei's financial and diplomatic district — heated outdoor pool, 2-minute walk from Zhongshan MRT, and the kind of service that makes every other hotel feel effortful.",
+          "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning. The old port district of Dadaocheng has more authentic character than most 'heritage' neighborhoods in Asia; the hot springs at Beitou are a 30-minute MRT ride away; and the night market scene has enough variation that you could eat differently every night for a month. Go now: the NT dollar is weak, summer crowds are manageable outside of weekends, and the city's coffee and natural wine scene has quietly become world-class.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Dadaocheng, Zhongshan Vintage, Raohe Night Market",
+            "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike in the city).",
+            "afternoon": "MRT to Zhongshan. Walk Lane 20, Section 2, Zhongshan North Road — this is the city's genuine vintage and indie shopping strip. Damn It! Vintage, Travis Vintage, and Mana are real curated shops with serious stock, nothing like the fast-fashion chaos of Ximending. The whole neighborhood has a quiet Japan-influenced aesthetic: tree-lined streets, small specialty cafes, independent bookshops. Grab coffee anywhere that looks busy with locals — the third-wave coffee density here rivals Tokyo.",
+            "evening": "Raohe Street Night Market. Arrive 5:30pm, before the evening rush. The market is 600 meters of concentrated eating — manageable, not overwhelming. Non-negotiable: Fuzhou Black Pepper Buns at the entrance (long line, worth every minute — charcoal-roasted pork buns with a flaky crust and juicy interior, TWD 60). Then Shi Boss Stinky Tofu (Michelin-recognized, the broth is addictive even if the concept sounds wrong). Close with Dongfahao oyster vermicelli (the 80-year no-cornstarch recipe — completely different texture from the tourist-market version). Taiwan Beer from a convenience store on the walk out."
+          },
+          {
+            "day": 2,
+            "title": "Beitou Hot Springs, Elephant Mountain, Da'an Night",
+            "morning": "MRT Red Line to Xinbeitou (45 minutes from Main Station, no transfers). The outdoor thermal pool at Millennium Hot Spring (天狺千禧溫泉, 195 Wenquan Rd) is TWD 40 — sulfurous mineral water, mountain views, elderly Taipei residents who've been coming here for decades sharing the pool with you. This is the non-Instagram version of the hot spring experience, and it's better for it. Alternatively, a private thermal room at one of the hillside hotels costs NT$500–800/hour and is worth it if you want the full soaking experience.",
+            "afternoon": "MRT back to Xiangshan station (end of the Red Line, south Taipei). The Elephant Mountain hike is 20 minutes of steep stairs — you come out on a rock ledge with the definitive Taipei 101 view. Go mid-afternoon on a weekday: hot, but not crowded. Then walk down into Da'an District. Yongkang Street: Tian Jin Scallion Flaky Pancakes at the corner stall (starting NT$30) is the best version of this dish in the city — layered, crispy, made fresh. Walk the residential streets around Da'an Park, which looks like a Tokyo neighborhood in the best way.",
+            "evening": "Tonghua Night Market (also called Linjiang Night Market, 2 stops on the MRT from Xiangshan). This is the locals' night market — young professionals from the surrounding apartments stopping for dinner, stalls that have been here for 30–40 years, zero tourist markup. Arrive around 6pm when stalls open fresh. Dessert at Snow King Ice Cream (since 1947, Wuchang St near Ximen): they make strange flavors — basil, tomato, beer, pork chop — intentionally, and they're excellent. Order one you wouldn't order anywhere else."
+          },
+          {
+            "day": 3,
+            "title": "Jiufen Morning, Treasure Hill, Gongguan Night",
+            "morning": "Early bus to Jiufen. From Zhongxiao Fuxing MRT station (Blue Line), take bus 1062 — about 1.5 hours, TWD 113. Get there by 9am. The red lantern alleys and steep stone staircases are legitimately beautiful before the tour groups arrive at 11am. Stop at Amei Tea House (near the top of the Old Street) for oolong with a view of the harbor and mountains — sit by the window. Buy a bag of taro balls for the walk down. The resemblance to the Spirited Away bathhouse is real and atmospheric. Leave by noon.",
+            "afternoon": "Back to Taipei. Treasure Hill Artist Village (near Gongguan MRT, follow the signs uphill) — a genuine hillside community of artists living and working in a reclaimed informal settlement. Free, mostly empty on weekday afternoons, with murals, open studios, and a coffee shop run by the resident community. Nothing institutional about it. After: 44 South Military Village (南村落, near Xinyi/Zhongzheng) — a former military dependents' village turned arts space with consistently good Taipei 101 sightlines without the viewing platform crowds or ticket price.",
+            "evening": "Gongguan Night Market for dinner (right outside Gongguan MRT). This is the most local and most Michelin Bib Gourmand-dense night market in Taipei — NTU students, professors, neighborhood regulars, no tour groups. Compact and unpretentious. Afterwards, Rongjin Gorgeous Time (溶金光景, near Zhongzheng District) — a former Japanese colonial-era prison building complex turned into a craft beer and bar district. The bars operate inside the actual prison structures. Stay late."
+          }
+        ],
+        "tips": [
+          "Get an EasyCard (TWD 100) from any 7-Eleven, FamilyMart, or MRT station immediately on arrival. It works on all MRT, buses, YouBike city bikes, and most convenience stores. The transit transfer discount (30-minute window) saves real money if you're combining MRT and buses.",
+          "Gongguan beats Shilin for night markets. Shilin is famous because it was excellent 20 years ago — now it's 70% tourists. Gongguan is compact, genuinely cheap, Michelin Bib Gourmand recognized, and almost entirely locals. Don't let the famous one crowd out the good one.",
+          "Taiwan's 7-Elevens, FamilyMarts, and Hi-Life stores are not a fallback option. Hot food behind the counter, genuinely good coffee, cheap beer, prepared meals that are better than most fast food. The basement food courts inside department stores on Zhongxiao Dunhua are also legitimately worth a meal.",
+          "For Jiufen: weekday morning only. Weekend afternoons turn the narrow stone alleys into a single-file tourist bottleneck that's neither enjoyable nor photogenic. If you want photos without 200 other people in them, arrive before 9:30am and leave by noon.",
+          "YouBike city bike share stations are everywhere. The first 30 minutes is free with an EasyCard. The riverside cycling paths along the Danshui and Jingmei rivers are a completely different and very good version of Taipei — flat, fast, almost entirely locals.",
+          "The specialty coffee scene in Da'an and Zhongshan is world-class and almost entirely unwritten-about in English. The third-wave cafe density rivals Tokyo or Melbourne. Walk into any place that looks busy with locals, not tourists, and order the house filter."
+        ],
+        "sources": [
+          { "title": "25 Hidden Gems in Taipei from a Local Taiwanese — GoWithGuide", "url": "https://gowithguide.com/blog/25-hidden-gems-in-taipei-insider-tips-from-a-local-taiwanese-5931" },
+          { "title": "65 Top Taipei Things To Do In 2026 — Taiwanderers", "url": "https://taiwanderers.com/taipei-things-to-do/" },
+          { "title": "Raohe Night Market: What to Eat — Taiwan Obsessed", "url": "https://www.taiwanobsessed.com/raohe-night-market-taipei/" },
+          { "title": "Ningxia Night Market Taipei: 11 Must-Try Foods & Michelin Stalls — Just a Taiwan Tour", "url": "https://www.justaiwantour.com/ningxia-night-market-taipei-food-guide/" },
+          { "title": "50+ Things to Do in Taipei — Nickkembel Travels", "url": "https://www.nickkembel.com/things-to-do-in-taipei/" },
+          { "title": "Taipei Travel Guide: Best Things to Do, Where to Stay & Insider Tips — Lilla Green", "url": "https://lillagreen.com/taipei-taiwan-travel-guide/" }
+        ]
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
         "city": "Seoul",
         "country": "South Korea",
         "flag": "🇰🇷",

@@ -1,116 +1,116 @@
 {
   "updated": "2026-06-19",
   "destination": {
-    "city": "Taipei",
-    "country": "Taiwan",
-    "flag": "🇹🇼",
-    "iata": "TPE",
-    "lat": 25.0330,
-    "lon": 121.5654,
-    "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
+    "city": "Lisbon",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "iata": "LIS",
+    "lat": 38.7169,
+    "lon": -9.1399,
+    "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine."
   },
   "flight_search_date": "2026-06-19",
   "flights": [
     {
-      "airline": "EVA Air",
-      "price_usd": 800,
-      "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)",
-      "return_dates": "Jul 14–21",
+      "airline": "TAP Air Portugal",
+      "price_usd": 859,
+      "outbound_dates": "Jul 8–15 (Tuesday departures ~16% cheaper; avoid peak weekend)",
+      "return_dates": "Jul 15–22",
       "stops": 0,
-      "duration": "13h 25m",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html",
-      "notes": "Taiwan's flagship full-service carrier, excellent cabin crew and meal quality. Direct SFO→TPE. Skyscanner showing July roundtrip averages ~$500–850 depending on day — midweek is significantly cheaper. Book direct at evaair.com; use Google Flights to find the cheapest dates first."
+      "duration": "10h 15m",
+      "url": "https://www.flytap.com/en_us/flights-from-san-francisco-to-lisbon",
+      "notes": "The only nonstop option on this route — 5 flights/week SFO→LIS. $859 roundtrip in July (August edges up to $976). Full-service, meals included. Book direct at flytap.com; Tuesday departures are measurably cheaper than weekends."
     },
     {
-      "airline": "China Airlines",
-      "price_usd": 990,
-      "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)",
-      "return_dates": "flexible within sale window",
-      "stops": 0,
-      "duration": "14h 5m",
-      "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/",
-      "notes": "Taiwan's national carrier. Early Summer Sale locks in $990 roundtrip for travel Jul 2–Dec 10, 2026. Full service with meals and 2 free checked bags. Sale pricing may sell out — book via china-airlines.com directly. 7 nonstop flights weekly from SFO."
+      "airline": "Air Canada",
+      "price_usd": 837,
+      "outbound_dates": "Aug 15–28 (August is cheaper than July by ~$120)",
+      "return_dates": "Aug 28–Sep 4",
+      "stops": 1,
+      "duration": "15h 30m",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-lisbon.html",
+      "notes": "Cheapest option if you can push to August — connects through Toronto (YYZ) or Vancouver (YVR), adds about 5 hours vs. TAP nonstop. Use Google Flights to find the lowest-fare date combinations; prices fluctuate daily."
     },
     {
-      "airline": "STARLUX Airlines",
-      "price_usd": 1013,
-      "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)",
-      "return_dates": "Aug 12–19",
-      "stops": 0,
-      "duration": "13h 30m",
-      "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei",
-      "notes": "New premium Taiwanese carrier with a noticeably better economy product — leather seats, larger IFE screens, more legroom than EVA/CI. July runs $1,138; push dates to August and it drops to $1,013. Worth the premium if you want to arrive comfortable and rested."
+      "airline": "United Airlines",
+      "price_usd": 987,
+      "outbound_dates": "Jul 10–17 (flexible dates via hub)",
+      "return_dates": "Jul 17–24",
+      "stops": 1,
+      "duration": "14h 45m",
+      "url": "https://www.united.com/en-us/flights-from-san-francisco-to-lisbon",
+      "notes": "Connects through Newark (EWR) or Washington Dulles (IAD). Pricier than Air Canada with similar travel time. Only makes sense if you have miles or prefer Star Alliance routing."
     }
   ],
   "lodging": [
     {
-      "name": "Star Hostel Taipei Main Station",
+      "name": "Living Lounge Hostel",
       "type": "hostel",
-      "price_per_night_usd": 40,
-      "neighborhood": "Taipei Main Station / Datong",
-      "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast from 6am, Alchemist bar with local craft beer on-site, 3-minute walk to Taipei Main Station and every MRT line — the single best-located budget bed in the city.",
-      "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/",
+      "price_per_night_usd": 26,
+      "neighborhood": "City Centre / Baixa",
+      "highlights": "9.8/10 on Hostelworld (7,711 reviews), steps from Rossio Square in the dead center of the city — private rooms at hostel prices with a rooftop terrace that has become a Lisbon institution.",
+      "url": "https://www.hostelworld.com/hostels/p/29235/living-lounge-hostel/",
       "source": "hostelworld"
     },
     {
-      "name": "Journey Town Inn — Nanjing Branch",
-      "type": "guesthouse",
-      "price_per_night_usd": 93,
-      "neighborhood": "Zhongshan",
-      "highlights": "9.0/10 on Booking, self check-in, sits in Zhongshan's tree-lined boutique district — walkable to Ningxia Night Market, Dihua Street, and the city's best independent coffee shops.",
-      "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html",
-      "source": "booking"
+      "name": "Goodmorning Solo Traveller Hostel",
+      "type": "hostel",
+      "price_per_night_usd": 81,
+      "neighborhood": "City Centre",
+      "highlights": "9.9/10 on Hostelworld (7,107 reviews) — private rooms that function more like a boutique hotel, run by people who genuinely care about the experience; the highest-rated hostel in Lisbon.",
+      "url": "https://www.hostelworld.com/hostels/p/59901/goodmorning-solo-traveller-hostel/",
+      "source": "hostelworld"
     },
     {
-      "name": "The Okura Prestige Taipei",
+      "name": "Memmo Alfama Design Hotel",
       "type": "hotel",
-      "price_per_night_usd": 225,
-      "neighborhood": "Zhongshan / Nanjing",
-      "highlights": "5-star Japanese hospitality in the heart of Taipei's financial and diplomatic district — heated outdoor pool, 2-minute walk from Zhongshan MRT, and the kind of service that makes every other hotel feel effortful.",
-      "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/",
+      "price_per_night_usd": 210,
+      "neighborhood": "Alfama",
+      "highlights": "42 rooms with sweeping Tagus River views, rooftop pool, adults-only, part of the Design Hotels collection — the best view in Alfama from a bed, without the tourist-strip noise.",
+      "url": "https://www.designhotels.com/hotels/portugal/lisbon/memmo-alfama/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning. The old port district of Dadaocheng has more authentic character than most 'heritage' neighborhoods in Asia; the hot springs at Beitou are a 30-minute MRT ride away; and the night market scene has enough variation that you could eat differently every night for a month. Go now: the NT dollar is weak, summer crowds are manageable outside of weekends, and the city's coffee and natural wine scene has quietly become world-class.",
+    "overview": "Lisbon has been 'discovered' for a decade now, but it still rewards the visitor who walks past the tram line and into the actual city. The hills above Alfama — Graça, Mouraria, Intendente — are where Lisbon actually lives: multicultural, cheap, genuinely beautiful, almost no tour buses. The food is serious (Cervejaria Ramiro is one of the best seafood restaurants in Europe at any price), the natural wine scene is having a moment, and fado at a proper tasca rather than a dinner show is one of the more legitimately moving experiences you can have in a restaurant. Go before summer ends: September is measurably better than July for crowds and prices, but July works if you go early and late.",
     "days": [
       {
         "day": 1,
-        "title": "Dadaocheng, Zhongshan Vintage, Raohe Night Market",
-        "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike in the city).",
-        "afternoon": "MRT to Zhongshan. Walk Lane 20, Section 2, Zhongshan North Road — this is the city's genuine vintage and indie shopping strip. Damn It! Vintage, Travis Vintage, and Mana are real curated shops with serious stock, nothing like the fast-fashion chaos of Ximending. The whole neighborhood has a quiet Japan-influenced aesthetic: tree-lined streets, small specialty cafes, independent bookshops. Grab coffee anywhere that looks busy with locals — the third-wave coffee density here rivals Tokyo.",
-        "evening": "Raohe Street Night Market. Arrive 5:30pm, before the evening rush. The market is 600 meters of concentrated eating — manageable, not overwhelming. Non-negotiable: Fuzhou Black Pepper Buns at the entrance (long line, worth every minute — charcoal-roasted pork buns with a flaky crust and juicy interior, TWD 60). Then Shi Boss Stinky Tofu (Michelin-recognized, the broth is addictive even if the concept sounds wrong). Close with Dongfahao oyster vermicelli (the 80-year no-cornstarch recipe — completely different texture from the tourist-market version). Taiwan Beer from a convenience store on the walk out."
+        "title": "Mouraria, Graça, Tasca do Chico",
+        "morning": "Start in Mouraria — Lisbon's oldest neighborhood, Moorish roots, now the city's most multicultural district and genuinely undervisited. Walk Rua do Benformoso from Martim Moniz south: this single street has Nepali momo next to Portuguese cozido next to Indian biryani, all for €3–5 a plate. Cervejaria Ramiro (Av. Almirante Reis 1) opens at noon — go for the prego (garlic steak sandwich on soft bread) and garlic shrimp at lunch prices rather than dinner. Walk uphill toward the Castelo, but skip the castle itself (mid-20th century reconstruction, expensive, crowded) — instead stop at Largo das Portas do Sol for the same view for free. Locals sit on the wall with a beer. You should too.",
+        "afternoon": "Continue up into Graça — this is the neighborhood above Alfama that tourists skip. Miradouro da Graça has arguably the best panoramic view in Lisbon and is almost always empty of tour groups. Walk Travessa de Santa Helena for street art and crumbling tiled facades. The Panteão Nacional (São Vicente de Fora area) has an extraordinary rooftop terrace and far fewer visitors than the Castelo. For pastéis de nata: buy them anywhere marked 'Fabrica Próprio' (baked on premises) — there's no reason to queue at Pastéis de Belém in Belém when the same tart is available hot throughout the city. Walk the Escadinhas de São Cristóvão staircase down into Alfama.",
+        "evening": "Tasca do Chico (Rua do Diário de Notícias 39, Bairro Alto) for fado vadio — bohemian fado in a 30-seat restaurant where the performers are often amateurs or semi-professionals, singing in respectful silence from the crowd. This is not the dinner-show fado you get at tourist restaurants; it is the real version, and it is something else. Reservations are essential; book at least a week ahead. Get there for the first session (usually 8pm) and eat the petiscos. Do not leave early."
       },
       {
         "day": 2,
-        "title": "Beitou Hot Springs, Elephant Mountain, Da'an Night",
-        "morning": "MRT Red Line to Xinbeitou (45 minutes from Main Station, no transfers). The outdoor thermal pool at Millennium Hot Spring (天狺千禧溫泉, 195 Wenquan Rd) is TWD 40 — sulfurous mineral water, mountain views, elderly Taipei residents who've been coming here for decades sharing the pool with you. This is the non-Instagram version of the hot spring experience, and it's better for it. Alternatively, a private thermal room at one of the hillside hotels costs NT$500–800/hour and is worth it if you want the full soaking experience.",
-        "afternoon": "MRT back to Xiangshan station (end of the Red Line, south Taipei). The Elephant Mountain hike is 20 minutes of steep stairs — you come out on a rock ledge with the definitive Taipei 101 view. Go mid-afternoon on a weekday: hot, but not crowded. Then walk down into Da'an District. Yongkang Street: Tian Jin Scallion Flaky Pancakes at the corner stall (starting NT$30) is the best version of this dish in the city — layered, crispy, made fresh. Walk the residential streets around Da'an Park, which looks like a Tokyo neighborhood in the best way.",
-        "evening": "Tonghua Night Market (also called Linjiang Night Market, 2 stops on the MRT from Xiangshan). This is the locals' night market — young professionals from the surrounding apartments stopping for dinner, stalls that have been here for 30–40 years, zero tourist markup. Arrive around 6pm when stalls open fresh. Dessert at Snow King Ice Cream (since 1947, Wuchang St near Ximen): they make strange flavors — basil, tomato, beer, pork chop — intentionally, and they're excellent. Order one you wouldn't order anywhere else."
+        "title": "Chiado & Carmo, Belém, Cais do Sodré",
+        "morning": "Walk from Rossio up to Chiado — take the free route through Largo do Carmo (a tiny street beside Carmo Convent) rather than paying €6 for the Santa Justa Elevator; you end up at the same place. The Carmo Convent itself has its roof open to the sky (destroyed in the 1755 earthquake, never rebuilt) and holds an archaeology museum inside the roofless nave — strange and beautiful. Rua Garrett is the main drag: Livraria Bertrand at no. 73 is the world's oldest continuously operating bookshop (since 1732), genuinely worth 20 minutes. Take the Elevador da Bica (€3.90, short, steep, fun) down toward the river — not Tram 28, which has systematic pickpocketing problems and is always overcrowded.",
+        "afternoon": "Tram to Belém (Tram 15E from Praça da Figueira, ~25 minutes). The Jerónimos Monastery is the real deal — 16th-century Manueline architecture that wasn't reconstructed, still intact, genuinely awe-inspiring. Torre de Belém is lovely from the outside; skip the interior queue. The move in Belém that most visitors miss: MAAT (Museum of Art, Architecture and Technology) on the riverfront — rotating contemporary art exhibitions in a striking new building, almost no crowds, riverside terrace with a good coffee bar.",
+        "evening": "Back east to Cais do Sodré. This was Lisbon's sailors' red-light district until about 2010; now it's the most interesting waterfront drinking neighborhood in the city. Pink Street (Rua Nova do Carvalho) is painted actual pink and lined with bars — loud, fun, locals and tourists mixed. For food first: walk two blocks into Santos/Madragoa and eat at any tasca with a hand-written menu board and no pictures on the menu. Avoid the restaurants directly on the waterfront promenade."
       },
       {
         "day": 3,
-        "title": "Jiufen Morning, Treasure Hill, Gongguan Night",
-        "morning": "Early bus to Jiufen. From Zhongxiao Fuxing MRT station (Blue Line), take bus 1062 — about 1.5 hours, TWD 113. Get there by 9am. The red lantern alleys and steep stone staircases are legitimately beautiful before the tour groups arrive at 11am. Stop at Amei Tea House (near the top of the Old Street) for oolong with a view of the harbor and mountains — sit by the window. Buy a bag of taro balls for the walk down. The resemblance to the Spirited Away bathhouse is real and atmospheric. Leave by noon.",
-        "afternoon": "Back to Taipei. Treasure Hill Artist Village (near Gongguan MRT, follow the signs uphill) — a genuine hillside community of artists living and working in a reclaimed informal settlement. Free, mostly empty on weekday afternoons, with murals, open studios, and a coffee shop run by the resident community. Nothing institutional about it. After: 44 South Military Village (南村落, near Xinyi/Zhongzheng) — a former military dependents' village turned arts space with consistently good Taipei 101 sightlines without the viewing platform crowds or ticket price.",
-        "evening": "Gongguan Night Market for dinner (right outside Gongguan MRT). This is the most local and most Michelin Bib Gourmand-dense night market in Taipei — NTU students, professors, neighborhood regulars, no tour groups. Compact and unpretentious. Afterwards, Rongjin Gorgeous Time (溶金光景, near Zhongzheng District) — a former Japanese colonial-era prison building complex turned into a craft beer and bar district. The bars operate inside the actual prison structures. Stay late."
+        "title": "Príncipe Real, LX Factory, Natural Wine Night in Intendente",
+        "morning": "Príncipe Real — where old Lisbon money lives, and it shows in the most tasteful way. On Saturday morning, the jardim (garden at Praça do Príncipe Real) runs a small organic market. Walk in through Embaixada at Praça do Príncipe Real 26: a 19th-century neo-Moorish palace converted into an independent design shopping gallery, with each room taken by a different small Portuguese brand. Worth walking through even if you don't buy anything. Coffee at Copenhagen Coffee Lab (Rua Nova da Piedade 10) which is exactly what it sounds like — serious third-wave coffee in a calming, well-designed room.",
+        "afternoon": "Uber to LX Factory (Rua Rodrigues de Faria 103, Alcântara, under the 25 de Abril suspension bridge). This former industrial complex is where Lisbon's creative class works, eats, and runs Sunday markets. On any day: Livraria da Ler Devagar inside the main factory building is one of the most extraordinary bookshops in Europe — bicycles hanging from the ceiling, books stacked floor to ceiling in a multi-story atrium. Rio Maravilha restaurant (top floor, terrace) has a river view that justifies the slightly higher prices for an afternoon drink.",
+        "evening": "Return to Intendente/Anjos for the natural wine night. Start at Dois Corvos taproom (Calçada de Intendente 44A) — one of Portugal's best craft breweries, 12 rotating taps, excellent pub food including seafood snacks. Then walk to Rude Wine Bar on Rua do Benformoso: a former 1940s delicatessen in Mouraria with ~40 Portuguese natural and low-intervention wines and simple cold dishes. The clientele is local, the wine is honest, and you can stay very late. Finish at Graça do Vinho (on the street approaching Miradouro da Graça) for a final glass with the hill views."
       }
     ],
     "tips": [
-      "Get an EasyCard (TWD 100) from any 7-Eleven, FamilyMart, or MRT station immediately on arrival. It works on all MRT, buses, YouBike city bikes, and most convenience stores. The transit transfer discount (30-minute window) saves real money if you're combining MRT and buses.",
-      "Gongguan beats Shilin for night markets. Shilin is famous because it was excellent 20 years ago — now it's 70% tourists. Gongguan is compact, genuinely cheap, Michelin Bib Gourmand recognized, and almost entirely locals. Don't let the famous one crowd out the good one.",
-      "Taiwan's 7-Elevens, FamilyMarts, and Hi-Life stores are not a fallback option. Hot food behind the counter, genuinely good coffee, cheap beer, prepared meals that are better than most fast food. The basement food courts inside department stores on Zhongxiao Dunhua are also legitimately worth a meal.",
-      "For Jiufen: weekday morning only. Weekend afternoons turn the narrow stone alleys into a single-file tourist bottleneck that's neither enjoyable nor photogenic. If you want photos without 200 other people in them, arrive before 9:30am and leave by noon.",
-      "YouBike city bike share stations are everywhere. The first 30 minutes is free with an EasyCard. The riverside cycling paths along the Danshui and Jingmei rivers are a completely different and very good version of Taipei — flat, fast, almost entirely locals.",
-      "The specialty coffee scene in Da'an and Zhongshan is world-class and almost entirely unwritten-about in English. The third-wave cafe density rivals Tokyo or Melbourne. Walk into any place that looks busy with locals, not tourists, and order the house filter."
+      "Skip Tram 28 entirely. Pickpockets work it systematically, the ride isn't particularly scenic, and you can see the same hills faster on foot or via the Elevador da Bica (€3.90). Use Uber for longer distances — it's cheap, widely available, and you'll be grateful.",
+      "The 'couvert' trap: bread, olives, and cheese that appear automatically at your table are not free. Each item will be charged separately. If you don't want them, say 'não queremos, obrigado' when they're offered. It's not rude — it's just how it works.",
+      "Ginjinha (cherry liqueur) at Rossio tourist spots costs €3–5. Get it at A Ginjinha, Largo de São Domingos 8 — the historic original bar, tiny, standing room only, €1.50. Order it 'com elas' (with the cherries at the bottom).",
+      "Graça over Alfama for actually wandering. Alfama is beautiful but extremely tourist-forward now; Graça is 10 minutes uphill and has the best miradouro in the city (Miradouro da Graça), real neighborhood bakeries, and almost no tour buses.",
+      "For fado: the expensive dinner-show restaurants in Bairro Alto sell a performance. Tasca do Chico, O Faia, or Mesa de Frades sell an experience. The difference is real and significant. Book ahead — the good ones fill weeks in advance.",
+      "Mercado de Campo de Ourique (Rua Coelho da Rocha, western Lisbon) is the local version of Time Out Market — same food hall concept, a fraction of the tourist density, slightly cheaper, and actually where Lisboetas eat lunch."
     ],
     "sources": [
-      { "title": "25 Hidden Gems in Taipei from a Local Taiwanese — GoWithGuide", "url": "https://gowithguide.com/blog/25-hidden-gems-in-taipei-insider-tips-from-a-local-taiwanese-5931" },
-      { "title": "65 Top Taipei Things To Do In 2026 — Taiwanderers", "url": "https://taiwanderers.com/taipei-things-to-do/" },
-      { "title": "Raohe Night Market: What to Eat — Taiwan Obsessed", "url": "https://www.taiwanobsessed.com/raohe-night-market-taipei/" },
-      { "title": "Ningxia Night Market Taipei: 11 Must-Try Foods & Michelin Stalls — Just a Taiwan Tour", "url": "https://www.justaiwantour.com/ningxia-night-market-taipei-food-guide/" },
-      { "title": "50+ Things to Do in Taipei — Nickkembel Travels", "url": "https://www.nickkembel.com/things-to-do-in-taipei/" },
-      { "title": "Taipei Travel Guide: Best Things to Do, Where to Stay & Insider Tips — Lilla Green", "url": "https://lillagreen.com/taipei-taiwan-travel-guide/" }
+      { "title": "Lisbon Food Guide — Culinary Backstreets", "url": "https://culinarybackstreets.com/city-guides/lisbon" },
+      { "title": "7 Tourist Traps To Avoid In Lisbon — Gamin Traveler", "url": "https://www.gamintraveler.com/2025/04/25/tourist-traps-to-avoid-in-lisbon/" },
+      { "title": "Decoding Lisbon: 20 Tips for Visiting & Avoiding Tourist Traps — The Geographical Cure", "url": "https://www.thegeographicalcure.com/post/what-to-skip-in-lisbon" },
+      { "title": "Mouraria Food Guide: Lisbon's Most Authentic Neighbourhood — Do Eat Better", "url": "https://doeatbetterexperience.com/blog/mouraria-food-guide-lisbon/" },
+      { "title": "Lisbon Wine Bars Guide — Design Hunger", "url": "https://designhunger.co/magazine/lisbon-wine-bars-pbbpf" },
+      { "title": "Lisbon Secrets Unlocked: 15 Insider Tips — Travel and Tour World", "url": "https://www.travelandtourworld.com/news/article/wwpia7cv9rk8/" }
     ]
   }
 }
