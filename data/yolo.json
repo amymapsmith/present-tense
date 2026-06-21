@@ -1,116 +1,116 @@
 {
   "updated": "2026-06-19",
   "destination": {
-    "city": "Lisbon",
-    "country": "Portugal",
-    "flag": "🇵🇹",
-    "iata": "LIS",
-    "lat": 38.7169,
-    "lon": -9.1399,
-    "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine."
+    "city": "Mexico City",
+    "country": "Mexico",
+    "flag": "🇲🇽",
+    "iata": "MEX",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions — all at 7,350 feet elevation and about $30 a day if you're not being stupid about it."
   },
   "flight_search_date": "2026-06-19",
   "flights": [
     {
-      "airline": "TAP Air Portugal",
-      "price_usd": 859,
-      "outbound_dates": "Jul 8–15 (Tuesday departures ~16% cheaper; avoid peak weekend)",
-      "return_dates": "Jul 15–22",
+      "airline": "Aeromexico",
+      "price_usd": 444,
+      "outbound_dates": "Jul 8–22 (midweek cheapest — Tue/Wed departures save ~15% vs. weekend)",
+      "return_dates": "flexible 7–14 days",
       "stops": 0,
-      "duration": "10h 15m",
-      "url": "https://www.flytap.com/en_us/flights-from-san-francisco-to-lisbon",
-      "notes": "The only nonstop option on this route — 5 flights/week SFO→LIS. $859 roundtrip in July (August edges up to $976). Full-service, meals included. Book direct at flytap.com; Tuesday departures are measurably cheaper than weekends."
-    },
-    {
-      "airline": "Air Canada",
-      "price_usd": 837,
-      "outbound_dates": "Aug 15–28 (August is cheaper than July by ~$120)",
-      "return_dates": "Aug 28–Sep 4",
-      "stops": 1,
-      "duration": "15h 30m",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-lisbon.html",
-      "notes": "Cheapest option if you can push to August — connects through Toronto (YYZ) or Vancouver (YVR), adds about 5 hours vs. TAP nonstop. Use Google Flights to find the lowest-fare date combinations; prices fluctuate daily."
+      "duration": "4h 25m",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-mexico-city.html",
+      "notes": "14 weekly nonstop flights SFO→MEX — by far the best value on this route. $444 roundtrip in July; August edges slightly lower at $430–440 for flexible midweek dates. Full-service airline, meals included. Book direct at aeromexico.com for the best price; Google Flights to compare dates."
     },
     {
       "airline": "United Airlines",
-      "price_usd": 987,
-      "outbound_dates": "Jul 10–17 (flexible dates via hub)",
-      "return_dates": "Jul 17–24",
+      "price_usd": 461,
+      "outbound_dates": "Aug 1–20 (August slightly cheaper than July)",
+      "return_dates": "flexible",
       "stops": 1,
-      "duration": "14h 45m",
-      "url": "https://www.united.com/en-us/flights-from-san-francisco-to-lisbon",
-      "notes": "Connects through Newark (EWR) or Washington Dulles (IAD). Pricier than Air Canada with similar travel time. Only makes sense if you have miles or prefer Star Alliance routing."
+      "duration": "6h 30m",
+      "url": "https://www.united.com/en-us/flights-from-san-francisco-to-mexico-city",
+      "notes": "Connects through LAX or Houston (IAH). Only makes sense if you have miles or United status — otherwise nonstop Aeromexico wins on price and time. July prices run ~$481; August dips to ~$461."
+    },
+    {
+      "airline": "Alaska Airlines",
+      "price_usd": 498,
+      "outbound_dates": "Jul 15–Aug 15 (seasonal pricing, watch for flash sales)",
+      "return_dates": "flexible",
+      "stops": 1,
+      "duration": "7h 10m",
+      "url": "https://www.alaskaair.com/flights/san-francisco-sfo/mexico-city-mex",
+      "notes": "Connects through LAX or Guadalajara. Useful if you have Alaska miles — they partner with Aeromexico. Price-check against Aeromexico direct before booking."
     }
   ],
   "lodging": [
     {
-      "name": "Living Lounge Hostel",
+      "name": "Apapacho Hostel",
       "type": "hostel",
-      "price_per_night_usd": 26,
-      "neighborhood": "City Centre / Baixa",
-      "highlights": "9.8/10 on Hostelworld (7,711 reviews), steps from Rossio Square in the dead center of the city — private rooms at hostel prices with a rooftop terrace that has become a Lisbon institution.",
-      "url": "https://www.hostelworld.com/hostels/p/29235/living-lounge-hostel/",
+      "price_per_night_usd": 36,
+      "neighborhood": "Centro Histórico",
+      "highlights": "9.6/10 on Hostelworld (1,173 reviews), private rooms with ensuite bathrooms right in the historic center — walking distance to Zócalo, Templo Mayor, and Café de Tacuba, with a rooftop terrace and genuinely helpful staff.",
+      "url": "https://www.hostelworld.com/hostels/p/323772/apapacho/",
       "source": "hostelworld"
     },
     {
-      "name": "Goodmorning Solo Traveller Hostel",
-      "type": "hostel",
-      "price_per_night_usd": 81,
-      "neighborhood": "City Centre",
-      "highlights": "9.9/10 on Hostelworld (7,107 reviews) — private rooms that function more like a boutique hotel, run by people who genuinely care about the experience; the highest-rated hostel in Lisbon.",
-      "url": "https://www.hostelworld.com/hostels/p/59901/goodmorning-solo-traveller-hostel/",
-      "source": "hostelworld"
-    },
-    {
-      "name": "Memmo Alfama Design Hotel",
+      "name": "The Red Tree House",
       "type": "hotel",
-      "price_per_night_usd": 210,
-      "neighborhood": "Alfama",
-      "highlights": "42 rooms with sweeping Tagus River views, rooftop pool, adults-only, part of the Design Hotels collection — the best view in Alfama from a bed, without the tourist-strip noise.",
-      "url": "https://www.designhotels.com/hotels/portugal/lisbon/memmo-alfama/",
+      "price_per_night_usd": 120,
+      "neighborhood": "Condesa",
+      "highlights": "#1 B&B in Mexico City on Tripadvisor, 22 rooms in a converted 1930s mansion in Condesa with a garden courtyard, daily breakfast included, and staff who function more like a local concierge than a front desk.",
+      "url": "https://www.booking.com/hotel/mx/the-red-tree-house.html",
+      "source": "booking"
+    },
+    {
+      "name": "Condesa DF",
+      "type": "hotel",
+      "price_per_night_usd": 270,
+      "neighborhood": "Condesa",
+      "highlights": "Design Hotels member in a restored 1928 art deco building with interiors by India Mahdavi, rooftop bar with panoramic views over Parque México, 40 rooms where every detail has been thought through — the most stylish address in Condesa.",
+      "url": "https://www.designhotels.com/hotels/mexico/mexico-city/condesa-df/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Lisbon has been 'discovered' for a decade now, but it still rewards the visitor who walks past the tram line and into the actual city. The hills above Alfama — Graça, Mouraria, Intendente — are where Lisbon actually lives: multicultural, cheap, genuinely beautiful, almost no tour buses. The food is serious (Cervejaria Ramiro is one of the best seafood restaurants in Europe at any price), the natural wine scene is having a moment, and fado at a proper tasca rather than a dinner show is one of the more legitimately moving experiences you can have in a restaurant. Go before summer ends: September is measurably better than July for crowds and prices, but July works if you go early and late.",
+    "overview": "Mexico City rewards the visitor who gets past the Zócalo selfie and into the actual city — which starts about three blocks in any direction. The food is extraordinary at every price point (Contramar is one of the best lunch restaurants in the Americas; a taco de canasta from a street cart is also extraordinary). The museums are world-class and half of them are free. Condesa and Roma Norte are walkable, dense, architecturally coherent neighborhoods where you could spend a week just eating and reading in parks. The altitude hits harder than expected: 7,350 feet means you'll feel two drinks like four and need more water than you think.",
     "days": [
       {
         "day": 1,
-        "title": "Mouraria, Graça, Tasca do Chico",
-        "morning": "Start in Mouraria — Lisbon's oldest neighborhood, Moorish roots, now the city's most multicultural district and genuinely undervisited. Walk Rua do Benformoso from Martim Moniz south: this single street has Nepali momo next to Portuguese cozido next to Indian biryani, all for €3–5 a plate. Cervejaria Ramiro (Av. Almirante Reis 1) opens at noon — go for the prego (garlic steak sandwich on soft bread) and garlic shrimp at lunch prices rather than dinner. Walk uphill toward the Castelo, but skip the castle itself (mid-20th century reconstruction, expensive, crowded) — instead stop at Largo das Portas do Sol for the same view for free. Locals sit on the wall with a beer. You should too.",
-        "afternoon": "Continue up into Graça — this is the neighborhood above Alfama that tourists skip. Miradouro da Graça has arguably the best panoramic view in Lisbon and is almost always empty of tour groups. Walk Travessa de Santa Helena for street art and crumbling tiled facades. The Panteão Nacional (São Vicente de Fora area) has an extraordinary rooftop terrace and far fewer visitors than the Castelo. For pastéis de nata: buy them anywhere marked 'Fabrica Próprio' (baked on premises) — there's no reason to queue at Pastéis de Belém in Belém when the same tart is available hot throughout the city. Walk the Escadinhas de São Cristóvão staircase down into Alfama.",
-        "evening": "Tasca do Chico (Rua do Diário de Notícias 39, Bairro Alto) for fado vadio — bohemian fado in a 30-seat restaurant where the performers are often amateurs or semi-professionals, singing in respectful silence from the crowd. This is not the dinner-show fado you get at tourist restaurants; it is the real version, and it is something else. Reservations are essential; book at least a week ahead. Get there for the first session (usually 8pm) and eat the petiscos. Do not leave early."
+        "title": "Centro Histórico — Aztec ruins, Diego Rivera, old-school lunch",
+        "morning": "Start at the Zócalo at 8am before the tour buses arrive — it's one of the largest public squares in the world and genuinely impressive at dawn with the flag going up. Walk directly to Templo Mayor (Calle Seminario 8), open from 9am: an Aztec ceremonial complex uncovered in 1978 when Mexico City Electric Company workers hit ruins while laying cable. The site museum is excellent and included with the $85 MXN entrance fee. Then walk through the Palacio Nacional on the east side of the Zócalo — Diego Rivera's mural cycle 'Dream of a Sunday Afternoon in Alameda Park' and 'The History of Mexico' covers the entire first-floor staircase. This is publicly accessible and free. One of the great works of 20th-century art, in a government building, free, almost never crowded before 10am.",
+        "afternoon": "Walk 10 minutes to Mercado de San Juan (Ernesto Pugibet 21, Centro) — not the tourist-trap market, but the city's specialty food market where chefs shop: imported cheeses, Oaxacan mezcal, Japanese ingredients, excellent fresh juice. Eat at the market stalls. Then walk the Palacio de Bellas Artes on the edge of Alameda park — the exterior is genuinely stunning (Italian marble, art nouveau, art deco hybrid) and the interior holds more Diego Rivera murals. Free to enter the lobby and ground floor. Spend an hour in Alameda park watching the city move.",
+        "evening": "Dinner at Café de Tacuba (Calle de Tacuba 28, Centro, since 1912) — three floors of Mexican baroque décor, mariachi bands, and the menu hasn't changed in a century in the best possible way. Order the enchiladas, the mole, or the romeritos. After dinner, walk west through Centro into Colonia Juárez for mezcal: Expendio de Pulques y Mezcales La Paloma on Génova has 60+ mezcals by the pour, no cocktail menu, and costs about $4 a glass. Mezcal here is a serious regional product, not a trendy export — the difference is real."
       },
       {
         "day": 2,
-        "title": "Chiado & Carmo, Belém, Cais do Sodré",
-        "morning": "Walk from Rossio up to Chiado — take the free route through Largo do Carmo (a tiny street beside Carmo Convent) rather than paying €6 for the Santa Justa Elevator; you end up at the same place. The Carmo Convent itself has its roof open to the sky (destroyed in the 1755 earthquake, never rebuilt) and holds an archaeology museum inside the roofless nave — strange and beautiful. Rua Garrett is the main drag: Livraria Bertrand at no. 73 is the world's oldest continuously operating bookshop (since 1732), genuinely worth 20 minutes. Take the Elevador da Bica (€3.90, short, steep, fun) down toward the river — not Tram 28, which has systematic pickpocketing problems and is always overcrowded.",
-        "afternoon": "Tram to Belém (Tram 15E from Praça da Figueira, ~25 minutes). The Jerónimos Monastery is the real deal — 16th-century Manueline architecture that wasn't reconstructed, still intact, genuinely awe-inspiring. Torre de Belém is lovely from the outside; skip the interior queue. The move in Belém that most visitors miss: MAAT (Museum of Art, Architecture and Technology) on the riverfront — rotating contemporary art exhibitions in a striking new building, almost no crowds, riverside terrace with a good coffee bar.",
-        "evening": "Back east to Cais do Sodré. This was Lisbon's sailors' red-light district until about 2010; now it's the most interesting waterfront drinking neighborhood in the city. Pink Street (Rua Nova do Carvalho) is painted actual pink and lined with bars — loud, fun, locals and tourists mixed. For food first: walk two blocks into Santos/Madragoa and eat at any tasca with a hand-written menu board and no pictures on the menu. Avoid the restaurants directly on the waterfront promenade."
+        "title": "Roma Norte, Condesa, Contramar, Chapultepec",
+        "morning": "Breakfast at Mercado de Medellín (Coahuila and Medellín, Roma Sur) — the real neighborhood market, not a food hall. Arrive before 9am for fresh-squeezed juice, tamales, and the breakfast counter in the back where you order by pointing. Then walk north through Roma Norte: Álvaro Obregón is the main boulevard with a tree-lined median and the city's best street taco corridor. Look for the stands with the longest line of locals: huaraches (oblong masa cakes), tlayudas, or tacos de guisado (stewed filling, usually pork, in fresh tortillas). Spend the morning walking — the colonia was built by wealthy families fleeing the 1985 earthquake damage and the architecture is remarkably consistent: art deco apartment buildings, tile work, small parks.",
+        "afternoon": "Lunch at Contramar (Durango 200, Roma Norte) — book at least a day ahead online, go for the 2–4pm second seating. Order: tuna tostadas to start (the gold standard), then the pescado a la talla (half-red/half-green two-color whole snapper, grilled, the signature dish). This is not an expensive restaurant by US standards ($40–60 per person with drinks) and it is one of the best seafood restaurants in the Americas. Do not skip it. After lunch, walk 20 minutes into Bosque de Chapultepec — 1,600 acres of urban forest with a lake, a castle, and a zoo. Museo Tamayo (free on Sundays, $90 MXN weekdays) is the best contemporary art museum in the city.",
+        "evening": "Dinner: if you're at the Contramar level of budget, book Rosetta (Orizaba 9, Roma Norte) — Elena Reygadas has a Michelin star, and her pasta-heavy Mexican-European hybrid is the most interesting thing happening in the city right now. If not, eat standing up at the taco de canasta carts on Álvaro Obregón at night — these are the oil-bathed braised tacos that have been kept warm in baskets all day, which sounds less appealing than it tastes. Drinks after at Cafebrería El Péndulo (Álvaro Obregón 86) — a multi-level bookshop-bar hybrid with live music some nights and a mezcal list."
       },
       {
         "day": 3,
-        "title": "Príncipe Real, LX Factory, Natural Wine Night in Intendente",
-        "morning": "Príncipe Real — where old Lisbon money lives, and it shows in the most tasteful way. On Saturday morning, the jardim (garden at Praça do Príncipe Real) runs a small organic market. Walk in through Embaixada at Praça do Príncipe Real 26: a 19th-century neo-Moorish palace converted into an independent design shopping gallery, with each room taken by a different small Portuguese brand. Worth walking through even if you don't buy anything. Coffee at Copenhagen Coffee Lab (Rua Nova da Piedade 10) which is exactly what it sounds like — serious third-wave coffee in a calming, well-designed room.",
-        "afternoon": "Uber to LX Factory (Rua Rodrigues de Faria 103, Alcântara, under the 25 de Abril suspension bridge). This former industrial complex is where Lisbon's creative class works, eats, and runs Sunday markets. On any day: Livraria da Ler Devagar inside the main factory building is one of the most extraordinary bookshops in Europe — bicycles hanging from the ceiling, books stacked floor to ceiling in a multi-story atrium. Rio Maravilha restaurant (top floor, terrace) has a river view that justifies the slightly higher prices for an afternoon drink.",
-        "evening": "Return to Intendente/Anjos for the natural wine night. Start at Dois Corvos taproom (Calçada de Intendente 44A) — one of Portugal's best craft breweries, 12 rotating taps, excellent pub food including seafood snacks. Then walk to Rude Wine Bar on Rua do Benformoso: a former 1940s delicatessen in Mouraria with ~40 Portuguese natural and low-intervention wines and simple cold dishes. The clientele is local, the wine is honest, and you can stay very late. Finish at Graça do Vinho (on the street approaching Miradouro da Graça) for a final glass with the hill views."
+        "title": "Coyoacán, Frida Kahlo, Xochimilco trajineras",
+        "morning": "Uber to Coyoacán ($3–5 from Roma Norte) — this is the colonial neighborhood where Frida Kahlo and Diego Rivera lived, and it has held its character despite being thoroughly discovered. Casa Azul, the Frida Kahlo Museum (Londres 247), is the essential Mexico City experience: the actual house where she was born, lived, and died, with her studio, her medical corsets, her kitchen, her pre-Columbian art collection, and the room where she died. Tickets sell out 7–10 days in advance — book at museofridakahlo.org.mx as soon as you know your dates. Non-negotiable. After the museum, breakfast at Mercado de Coyoacán (two blocks from Casa Azul): tostadas de tinga (shredded chicken on fried tortillas) from the stalls in the back, $30–50 MXN each.",
+        "afternoon": "Walk Plaza Hidalgo and Jardín Centenario — the main Coyoacán squares with a fountain, good street food, and the kind of Sunday-afternoon energy the rest of the city loses track of. Then Uber 20 minutes south to Xochimilco: take a trajinera (flat-bottomed boat) from Embarcadero Nuevo Nativitas (cheapest and most local of the embarcaderos — avoid the tourist-forward ones near the town center). Negotiate 200–300 MXN/hour for the boat, which holds 10–15 people; share with strangers or hire alone. The canal system is a UNESCO World Heritage Site — the remaining chinampas (floating gardens) from Aztec-era agriculture. Floating food vendors and mariachi boats pull alongside. Buy tamales from the boat ladies and beer from the cooler boats. Two hours is enough; three is better.",
+        "evening": "Return to Roma Norte for dinner at Expendio de Maíz Nativo (Orizaba 161) — a masa-forward restaurant where every dish is built around heirloom corn: blue, yellow, red, black. This is the other end of the Mexican food conversation from Contramar: indigenous, agricultural, deeply rooted. The tasting format costs around $35 per person and is one of the most distinctive things you can eat in the city. Book ahead. End the night at any mezcalería that's still open — in Roma Norte, you won't have to look far."
       }
     ],
     "tips": [
-      "Skip Tram 28 entirely. Pickpockets work it systematically, the ride isn't particularly scenic, and you can see the same hills faster on foot or via the Elevador da Bica (€3.90). Use Uber for longer distances — it's cheap, widely available, and you'll be grateful.",
-      "The 'couvert' trap: bread, olives, and cheese that appear automatically at your table are not free. Each item will be charged separately. If you don't want them, say 'não queremos, obrigado' when they're offered. It's not rude — it's just how it works.",
-      "Ginjinha (cherry liqueur) at Rossio tourist spots costs €3–5. Get it at A Ginjinha, Largo de São Domingos 8 — the historic original bar, tiny, standing room only, €1.50. Order it 'com elas' (with the cherries at the bottom).",
-      "Graça over Alfama for actually wandering. Alfama is beautiful but extremely tourist-forward now; Graça is 10 minutes uphill and has the best miradouro in the city (Miradouro da Graça), real neighborhood bakeries, and almost no tour buses.",
-      "For fado: the expensive dinner-show restaurants in Bairro Alto sell a performance. Tasca do Chico, O Faia, or Mesa de Frades sell an experience. The difference is real and significant. Book ahead — the good ones fill weeks in advance.",
-      "Mercado de Campo de Ourique (Rua Coelho da Rocha, western Lisbon) is the local version of Time Out Market — same food hall concept, a fraction of the tourist density, slightly cheaper, and actually where Lisboetas eat lunch."
+      "Frida Kahlo Museum tickets (museofridakahlo.org.mx) sell out 7–10 days ahead. Book before you book your flight if you have to. There is no walk-up option that doesn't involve a 2-hour queue.",
+      "The altitude is real. Mexico City sits at 7,350 feet — higher than Denver. You'll feel dehydrated faster, alcohol hits harder, and if you're a runner or cyclist you'll notice reduced capacity. Drink two liters of water before you feel thirsty. Give yourself a half-day to acclimatize on arrival.",
+      "Uber is excellent here: cheap ($3–6 for most crosstown rides), safe, trackable, and you avoid the cab-driver-who-doesn't-know-where-he's-going problem. The Metro is $0.25 a ride and genuinely good for north-south Centro routes, but Uber is more flexible.",
+      "Street tacos should cost 25–50 MXN each (~$1.25–2.50). If you're paying more than 60 MXN for a street taco, you're at a tourist operation. The cheapest tacos are almost always the best: the stall with 40 years of seasoning on the comal and a 10-person queue at 7pm.",
+      "Avoid the rooftop restaurants around the Zócalo (Terraza Tenoch, Terraza Mexicana, etc.). They're notorious for menu-swapping: the host shows you a reasonable menu to get you seated, then the waiter brings a different menu with inflated prices. These are tourist traps operating openly and there's almost nothing in their view that isn't better from ground level anyway.",
+      "Mercado de San Juan (not to be confused with Mercado de Artesanías San Juan nearby) is the correct market. The artesanías market sells souvenirs. Mercado de San Juan sells food that chefs actually buy. They are in the same building but different sections — enter on Ernesto Pugibet."
     ],
     "sources": [
-      { "title": "Lisbon Food Guide — Culinary Backstreets", "url": "https://culinarybackstreets.com/city-guides/lisbon" },
-      { "title": "7 Tourist Traps To Avoid In Lisbon — Gamin Traveler", "url": "https://www.gamintraveler.com/2025/04/25/tourist-traps-to-avoid-in-lisbon/" },
-      { "title": "Decoding Lisbon: 20 Tips for Visiting & Avoiding Tourist Traps — The Geographical Cure", "url": "https://www.thegeographicalcure.com/post/what-to-skip-in-lisbon" },
-      { "title": "Mouraria Food Guide: Lisbon's Most Authentic Neighbourhood — Do Eat Better", "url": "https://doeatbetterexperience.com/blog/mouraria-food-guide-lisbon/" },
-      { "title": "Lisbon Wine Bars Guide — Design Hunger", "url": "https://designhunger.co/magazine/lisbon-wine-bars-pbbpf" },
-      { "title": "Lisbon Secrets Unlocked: 15 Insider Tips — Travel and Tour World", "url": "https://www.travelandtourworld.com/news/article/wwpia7cv9rk8/" }
+      { "title": "Mexico City Travel Guide — Culinary Backstreets", "url": "https://culinarybackstreets.com/city-guides/mexico-city/" },
+      { "title": "36 Hours in Mexico City — New York Times", "url": "https://www.nytimes.com/interactive/2019/travel/what-to-do-36-hours-mexico-city.html" },
+      { "title": "Mexico City Tourist Traps to Avoid — Atlas Obscura", "url": "https://www.atlasobscura.com/places/mexico-city" },
+      { "title": "r/mexicocity — Local tips and recommendations", "url": "https://www.reddit.com/r/mexicocity/" },
+      { "title": "Roma Norte and Condesa Guide — Time Out Mexico City", "url": "https://www.timeout.com/mexico-city/restaurants/best-restaurants-roma-norte" },
+      { "title": "Xochimilco Visitor Guide — Mexico Tourism Board", "url": "https://www.visitmexico.com/en/main-destinations/mexico-city/xochimilco" }
     ]
   }
 }
