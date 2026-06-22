@@ -3,6 +3,122 @@
     {
       "updated": "2026-06-19",
       "destination": {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "flag": "🇲🇽",
+        "iata": "MEX",
+        "lat": 19.4326,
+        "lon": -99.1332,
+        "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions — all at 7,350 feet elevation and about $30 a day if you're not being stupid about it."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [
+        {
+          "airline": "Aeromexico",
+          "price_usd": 444,
+          "outbound_dates": "Jul 8–22 (midweek cheapest — Tue/Wed departures save ~15% vs. weekend)",
+          "return_dates": "flexible 7–14 days",
+          "stops": 0,
+          "duration": "4h 25m",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-mexico-city.html",
+          "notes": "14 weekly nonstop flights SFO→MEX — by far the best value on this route. $444 roundtrip in July; August edges slightly lower at $430–440 for flexible midweek dates. Full-service airline, meals included. Book direct at aeromexico.com for the best price; Google Flights to compare dates."
+        },
+        {
+          "airline": "United Airlines",
+          "price_usd": 461,
+          "outbound_dates": "Aug 1–20 (August slightly cheaper than July)",
+          "return_dates": "flexible",
+          "stops": 1,
+          "duration": "6h 30m",
+          "url": "https://www.united.com/en-us/flights-from-san-francisco-to-mexico-city",
+          "notes": "Connects through LAX or Houston (IAH). Only makes sense if you have miles or United status — otherwise nonstop Aeromexico wins on price and time. July prices run ~$481; August dips to ~$461."
+        },
+        {
+          "airline": "Alaska Airlines",
+          "price_usd": 498,
+          "outbound_dates": "Jul 15–Aug 15 (seasonal pricing, watch for flash sales)",
+          "return_dates": "flexible",
+          "stops": 1,
+          "duration": "7h 10m",
+          "url": "https://www.alaskaair.com/flights/san-francisco-sfo/mexico-city-mex",
+          "notes": "Connects through LAX or Guadalajara. Useful if you have Alaska miles — they partner with Aeromexico. Price-check against Aeromexico direct before booking."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Apapacho Hostel",
+          "type": "hostel",
+          "price_per_night_usd": 36,
+          "neighborhood": "Centro Histórico",
+          "highlights": "9.6/10 on Hostelworld (1,173 reviews), private rooms with ensuite bathrooms right in the historic center — walking distance to Zócalo, Templo Mayor, and Café de Tacuba, with a rooftop terrace and genuinely helpful staff.",
+          "url": "https://www.hostelworld.com/hostels/p/323772/apapacho/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "The Red Tree House",
+          "type": "hotel",
+          "price_per_night_usd": 120,
+          "neighborhood": "Condesa",
+          "highlights": "#1 B&B in Mexico City on Tripadvisor, 22 rooms in a converted 1930s mansion in Condesa with a garden courtyard, daily breakfast included, and staff who function more like a local concierge than a front desk.",
+          "url": "https://www.booking.com/hotel/mx/the-red-tree-house.html",
+          "source": "booking"
+        },
+        {
+          "name": "Condesa DF",
+          "type": "hotel",
+          "price_per_night_usd": 270,
+          "neighborhood": "Condesa",
+          "highlights": "Design Hotels member in a restored 1928 art deco building with interiors by India Mahdavi, rooftop bar with panoramic views over Parque México, 40 rooms where every detail has been thought through — the most stylish address in Condesa.",
+          "url": "https://www.designhotels.com/hotels/mexico/mexico-city/condesa-df/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Mexico City rewards the visitor who gets past the Zócalo selfie and into the actual city — which starts about three blocks in any direction. The food is extraordinary at every price point (Contramar is one of the best lunch restaurants in the Americas; a taco de canasta from a street cart is also extraordinary). The museums are world-class and half of them are free. Condesa and Roma Norte are walkable, dense, architecturally coherent neighborhoods where you could spend a week just eating and reading in parks. The altitude hits harder than expected: 7,350 feet means you'll feel two drinks like four and need more water than you think.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Centro Histórico — Aztec ruins, Diego Rivera, old-school lunch",
+            "morning": "Start at the Zócalo at 8am before the tour buses arrive — it's one of the largest public squares in the world and genuinely impressive at dawn with the flag going up. Walk directly to Templo Mayor (Calle Seminario 8), open from 9am: an Aztec ceremonial complex uncovered in 1978 when Mexico City Electric Company workers hit ruins while laying cable. The site museum is excellent and included with the $85 MXN entrance fee. Then walk through the Palacio Nacional on the east side of the Zócalo — Diego Rivera's mural cycle 'Dream of a Sunday Afternoon in Alameda Park' and 'The History of Mexico' covers the entire first-floor staircase. This is publicly accessible and free. One of the great works of 20th-century art, in a government building, free, almost never crowded before 10am.",
+            "afternoon": "Walk 10 minutes to Mercado de San Juan (Ernesto Pugibet 21, Centro) — not the tourist-trap market, but the city's specialty food market where chefs shop: imported cheeses, Oaxacan mezcal, Japanese ingredients, excellent fresh juice. Eat at the market stalls. Then walk the Palacio de Bellas Artes on the edge of Alameda park — the exterior is genuinely stunning (Italian marble, art nouveau, art deco hybrid) and the interior holds more Diego Rivera murals. Free to enter the lobby and ground floor. Spend an hour in Alameda park watching the city move.",
+            "evening": "Dinner at Café de Tacuba (Calle de Tacuba 28, Centro, since 1912) — three floors of Mexican baroque décor, mariachi bands, and the menu hasn't changed in a century in the best possible way. Order the enchiladas, the mole, or the romeritos. After dinner, walk west through Centro into Colonia Juárez for mezcal: Expendio de Pulques y Mezcales La Paloma on Génova has 60+ mezcals by the pour, no cocktail menu, and costs about $4 a glass. Mezcal here is a serious regional product, not a trendy export — the difference is real."
+          },
+          {
+            "day": 2,
+            "title": "Roma Norte, Condesa, Contramar, Chapultepec",
+            "morning": "Breakfast at Mercado de Medellín (Coahuila and Medellín, Roma Sur) — the real neighborhood market, not a food hall. Arrive before 9am for fresh-squeezed juice, tamales, and the breakfast counter in the back where you order by pointing. Then walk north through Roma Norte: Álvaro Obregón is the main boulevard with a tree-lined median and the city's best street taco corridor. Look for the stands with the longest line of locals: huaraches (oblong masa cakes), tlayudas, or tacos de guisado (stewed filling, usually pork, in fresh tortillas). Spend the morning walking — the colonia was built by wealthy families fleeing the 1985 earthquake damage and the architecture is remarkably consistent: art deco apartment buildings, tile work, small parks.",
+            "afternoon": "Lunch at Contramar (Durango 200, Roma Norte) — book at least a day ahead online, go for the 2–4pm second seating. Order: tuna tostadas to start (the gold standard), then the pescado a la talla (half-red/half-green two-color whole snapper, grilled, the signature dish). This is not an expensive restaurant by US standards ($40–60 per person with drinks) and it is one of the best seafood restaurants in the Americas. Do not skip it. After lunch, walk 20 minutes into Bosque de Chapultepec — 1,600 acres of urban forest with a lake, a castle, and a zoo. Museo Tamayo (free on Sundays, $90 MXN weekdays) is the best contemporary art museum in the city.",
+            "evening": "Dinner: if you're at the Contramar level of budget, book Rosetta (Orizaba 9, Roma Norte) — Elena Reygadas has a Michelin star, and her pasta-heavy Mexican-European hybrid is the most interesting thing happening in the city right now. If not, eat standing up at the taco de canasta carts on Álvaro Obregón at night — these are the oil-bathed braised tacos that have been kept warm in baskets all day, which sounds less appealing than it tastes. Drinks after at Cafebrería El Péndulo (Álvaro Obregón 86) — a multi-level bookshop-bar hybrid with live music some nights and a mezcal list."
+          },
+          {
+            "day": 3,
+            "title": "Coyoacán, Frida Kahlo, Xochimilco trajineras",
+            "morning": "Uber to Coyoacán ($3–5 from Roma Norte) — this is the colonial neighborhood where Frida Kahlo and Diego Rivera lived, and it has held its character despite being thoroughly discovered. Casa Azul, the Frida Kahlo Museum (Londres 247), is the essential Mexico City experience: the actual house where she was born, lived, and died, with her studio, her medical corsets, her kitchen, her pre-Columbian art collection, and the room where she died. Tickets sell out 7–10 days in advance — book at museofridakahlo.org.mx as soon as you know your dates. Non-negotiable. After the museum, breakfast at Mercado de Coyoacán (two blocks from Casa Azul): tostadas de tinga (shredded chicken on fried tortillas) from the stalls in the back, $30–50 MXN each.",
+            "afternoon": "Walk Plaza Hidalgo and Jardín Centenario — the main Coyoacán squares with a fountain, good street food, and the kind of Sunday-afternoon energy the rest of the city loses track of. Then Uber 20 minutes south to Xochimilco: take a trajinera (flat-bottomed boat) from Embarcadero Nuevo Nativitas (cheapest and most local of the embarcaderos — avoid the tourist-forward ones near the town center). Negotiate 200–300 MXN/hour for the boat, which holds 10–15 people; share with strangers or hire alone. The canal system is a UNESCO World Heritage Site — the remaining chinampas (floating gardens) from Aztec-era agriculture. Floating food vendors and mariachi boats pull alongside. Buy tamales from the boat ladies and beer from the cooler boats. Two hours is enough; three is better.",
+            "evening": "Return to Roma Norte for dinner at Expendio de Maíz Nativo (Orizaba 161) — a masa-forward restaurant where every dish is built around heirloom corn: blue, yellow, red, black. This is the other end of the Mexican food conversation from Contramar: indigenous, agricultural, deeply rooted. The tasting format costs around $35 per person and is one of the most distinctive things you can eat in the city. Book ahead. End the night at any mezcalería that's still open — in Roma Norte, you won't have to look far."
+          }
+        ],
+        "tips": [
+          "Frida Kahlo Museum tickets (museofridakahlo.org.mx) sell out 7–10 days ahead. Book before you book your flight if you have to. There is no walk-up option that doesn't involve a 2-hour queue.",
+          "The altitude is real. Mexico City sits at 7,350 feet — higher than Denver. You'll feel dehydrated faster, alcohol hits harder, and if you're a runner or cyclist you'll notice reduced capacity. Drink two liters of water before you feel thirsty. Give yourself a half-day to acclimatize on arrival.",
+          "Uber is excellent here: cheap ($3–6 for most crosstown rides), safe, trackable, and you avoid the cab-driver-who-doesn't-know-where-he's-going problem. The Metro is $0.25 a ride and genuinely good for north-south Centro routes, but Uber is more flexible.",
+          "Street tacos should cost 25–50 MXN each (~$1.25–2.50). If you're paying more than 60 MXN for a street taco, you're at a tourist operation. The cheapest tacos are almost always the best: the stall with 40 years of seasoning on the comal and a 10-person queue at 7pm.",
+          "Avoid the rooftop restaurants around the Zócalo (Terraza Tenoch, Terraza Mexicana, etc.). They're notorious for menu-swapping: the host shows you a reasonable menu to get you seated, then the waiter brings a different menu with inflated prices. These are tourist traps operating openly and there's almost nothing in their view that isn't better from ground level anyway.",
+          "Mercado de San Juan (not to be confused with Mercado de Artesanías San Juan nearby) is the correct market. The artesanías market sells souvenirs. Mercado de San Juan sells food that chefs actually buy. They are in the same building but different sections — enter on Ernesto Pugibet."
+        ],
+        "sources": [
+          { "title": "Mexico City Travel Guide — Culinary Backstreets", "url": "https://culinarybackstreets.com/city-guides/mexico-city/" },
+          { "title": "36 Hours in Mexico City — New York Times", "url": "https://www.nytimes.com/interactive/2019/travel/what-to-do-36-hours-mexico-city.html" },
+          { "title": "Mexico City Tourist Traps to Avoid — Atlas Obscura", "url": "https://www.atlasobscura.com/places/mexico-city" },
+          { "title": "r/mexicocity — Local tips and recommendations", "url": "https://www.reddit.com/r/mexicocity/" },
+          { "title": "Roma Norte and Condesa Guide — Time Out Mexico City", "url": "https://www.timeout.com/mexico-city/restaurants/best-restaurants-roma-norte" },
+          { "title": "Xochimilco Visitor Guide — Mexico Tourism Board", "url": "https://www.visitmexico.com/en/main-destinations/mexico-city/xochimilco" }
+        ]
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
         "city": "Lisbon",
         "country": "Portugal",
         "flag": "🇵🇹",
