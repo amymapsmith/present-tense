@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-22",
   "venues": [
     {
       "id": "deyoung",
       "name": "de Young Museum",
       "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
-      "url": "https://www.famsf.org/visit/de-young",
+      "url": "https://www.famsf.org",
       "hours": {
-        "monday":    null,
+        "monday": null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
         "wednesday": { "open": "09:30", "close": "17:15" },
         "thursday":  { "open": "09:30", "close": "17:15" },
@@ -17,33 +17,46 @@
       },
       "current_exhibitions": [
         {
-          "title": "Rose B. Simpson: LEXICON",
-          "description": "A major survey of ceramics, sculpture, and mixed media by Rose B. Simpson (Santa Clara Pueblo), exploring Indigenous identity, embodiment, and cultural resilience.",
-          "through": "2027-02-07",
-          "url": "https://www.famsf.org/exhibitions"
+          "title": "About Place: Bay Area Artists from the Svane Gift",
+          "description": "Works by Bay Area artists drawn from a recent major gift to the de Young collection, exploring themes of place and belonging in the region.",
+          "through": "2026-07-05",
+          "url": "https://www.famsf.org/whats-on"
         },
         {
           "title": "Nengi Omuku: The Gathering",
-          "description": "Luminous figurative paintings by Nigerian-British artist Nengi Omuku, evoking community, memory, and collective experience through layered washes of color.",
-          "through": "2026-06-27",
-          "url": "https://www.famsf.org/exhibitions"
-        },
-        {
-          "title": "About Place: Bay Area Artists from the Svane Gift",
-          "description": "Works by Bay Area artists drawn from the Svane Gift, examining place, belonging, and local landscape.",
-          "through": "2026-07-05",
-          "url": "https://www.famsf.org/exhibitions"
+          "description": "Large-scale paintings by Nigerian artist Nengi Omuku depicting communal gathering and the beauty of collective experience through luminous, layered surfaces.",
+          "through": "2028-05-14",
+          "url": "https://www.famsf.org/whats-on"
         }
       ],
-      "events": []
+      "events": [
+        {
+          "title": "Free Saturday — Bay Area Residents",
+          "date": "2026-06-27",
+          "time": "09:30",
+          "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Membership not required — just show Bay Area ID. Docent tours at 11:30 AM and 1:30 PM.",
+          "cost": 0,
+          "cost_notes": "free for Bay Area residents",
+          "url": "https://ticketing.famsf.org/events/0191859e-ae61-6e35-b2cf-55f10d95ca3c"
+        },
+        {
+          "title": "Free Saturday — Bay Area Residents",
+          "date": "2026-07-04",
+          "time": "09:30",
+          "description": "Free general admission every Saturday for residents of the nine Bay Area counties.",
+          "cost": 0,
+          "cost_notes": "free for Bay Area residents",
+          "url": "https://ticketing.famsf.org/events/0191859e-ae61-6e35-b2cf-55f10d95ca3c"
+        }
+      ]
     },
     {
       "id": "legion",
       "name": "Legion of Honor",
       "address": "100 34th Ave, San Francisco, CA 94121",
-      "url": "https://www.famsf.org/visit/legion-of-honor",
+      "url": "https://www.famsf.org",
       "hours": {
-        "monday":    null,
+        "monday": null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
         "wednesday": { "open": "09:30", "close": "17:15" },
         "thursday":  { "open": "09:30", "close": "17:15" },
@@ -53,13 +66,23 @@
       },
       "current_exhibitions": [
         {
-          "title": "Check famsf.org for current exhibitions",
-          "description": "famsf.org blocked direct scraping this run — visit the website directly for current Legion of Honor shows.",
+          "title": "Ongoing Collection — European Masters",
+          "description": "Encyclopedic collection of European art spanning 4,000 years including Rodin sculpture, Impressionist paintings, and ancient Mediterranean works. The building itself — a replica of the Palais de la Légion d'Honneur — is part of the experience.",
           "through": null,
           "url": "https://www.famsf.org/whats-on"
         }
       ],
-      "events": []
+      "events": [
+        {
+          "title": "Docent Tour",
+          "date": "2026-06-23",
+          "time": "12:30",
+          "description": "Guided docent tour of the collection. Runs Tuesday–Sunday at 12:30 PM. Included with membership or general admission.",
+          "cost": 0,
+          "cost_notes": "included with membership",
+          "url": "https://www.famsf.org/calendar"
+        }
+      ]
     }
   ]
 }

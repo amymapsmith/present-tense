@@ -1,11 +1,12 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-22",
   "locations": [
     {
       "id": "sf",
       "name": "Bay Club San Francisco",
       "address": "150 Greenwich St, San Francisco, CA 94111",
       "url": "https://www.bayclubsf.com",
+      "_note": "Hours unverified this week — bayclubsf.com blocked direct scraping. Preserving prior values.",
       "hours": {
         "monday":    { "open": "05:00", "close": "22:00" },
         "tuesday":   { "open": "05:00", "close": "22:00" },

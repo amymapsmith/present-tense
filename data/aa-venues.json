@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-22",
   "venues": [
     {
       "id": "umma",
@@ -7,173 +7,202 @@
       "address": "525 S State St, Ann Arbor, MI 48109",
       "url": "https://umma.umich.edu",
       "hours": {
-        "monday": null,
-        "tuesday": { "open": "11:00", "close": "17:00" },
+        "monday":    null,
+        "tuesday":   { "open": "11:00", "close": "17:00" },
         "wednesday": { "open": "11:00", "close": "17:00" },
-        "thursday": { "open": "11:00", "close": "17:00" },
-        "friday": { "open": "11:00", "close": "17:00" },
-        "saturday": { "open": "11:00", "close": "17:00" },
-        "sunday": { "open": "12:00", "close": "17:00" }
+        "thursday":  { "open": "11:00", "close": "17:00" },
+        "friday":    { "open": "11:00", "close": "20:00" },
+        "saturday":  { "open": "10:00", "close": "17:00" },
+        "sunday":    { "open": "10:00", "close": "17:00" }
       },
       "current_exhibitions": [
         {
-          "title": "Zina Saro-Wiwa: Table Manners",
-          "description": "A multidisciplinary exploration of food, ritual, and collective memory. Runs through August 30, 2026.",
+          "title": "Zina Saro-Wiwa: Table Manners (Season 1)",
+          "description": "Digital displays exploring themes of identity and cultural practice by British-Nigerian artist Zina Saro-Wiwa.",
           "through": "2026-08-30",
-          "url": "https://umma.umich.edu/art/exhibitions/"
+          "url": "https://umma.umich.edu/exhibitions/"
         },
         {
-          "title": "Come Talk To Me",
-          "description": "Exhibition in the Jan and David Brandon Family Bridge gallery. Ongoing through summer 2026.",
-          "through": "2026-08-30",
-          "url": "https://umma.umich.edu/art/exhibitions/"
+          "title": "American Sampler: Activating the Archive",
+          "description": "Archival materials from UMMA's collection re-examined and activated through contemporary curatorial lens.",
+          "through": null,
+          "url": "https://umma.umich.edu/exhibitions/"
         },
         {
           "title": "We Write To You About Africa",
-          "description": "Ongoing exhibition exploring African diasporic perspectives. Free admission.",
+          "description": "A celebration of African voices and narratives through works from the permanent collection and on loan.",
           "through": null,
-          "url": "https://umma.umich.edu/art/exhibitions/"
+          "url": "https://umma.umich.edu/exhibitions/"
         },
         {
           "title": "Jaume Plensa: Behind the Walls",
-          "description": "Monumental figurative sculpture by renowned Spanish artist. Free admission.",
+          "description": "Large-scale monumental white head sculpture by internationally recognized Spanish artist, installed on the UMMA exterior.",
           "through": null,
-          "url": "https://umma.umich.edu/art/exhibitions/"
+          "url": "https://umma.umich.edu/exhibitions/"
         }
       ],
       "events": [
         {
-          "title": "Summer Artists' Workshop",
-          "date": "2026-06-23",
+          "title": "Regular gallery admission — free",
+          "date": "2026-06-24",
           "time": "11:00",
-          "description": "Drop-in summer workshop where visitors create alongside artist Mark Tucker and U-M students. Paint, glue, experiment — help build a colorful kinetic installation. Runs throughout the summer.",
+          "description": "Free admission to all galleries. Note: UMMA is closed July 4 (Friday). Extended hours Fridays until 8 PM.",
           "cost": 0,
           "cost_notes": "free",
-          "url": "https://umma.umich.edu/visit/events/"
+          "url": "https://umma.umich.edu/visit/"
         }
       ]
     },
     {
-      "id": "the-ark",
+      "id": "ark",
       "name": "The Ark",
       "address": "316 S Main St, Ann Arbor, MI 48104",
       "url": "https://theark.org",
       "hours": {
-        "monday": null,
-        "tuesday": null,
+        "monday":    null,
+        "tuesday":   null,
         "wednesday": null,
-        "thursday": null,
-        "friday": null,
-        "saturday": null,
-        "sunday": null
+        "thursday":  null,
+        "friday":    null,
+        "saturday":  null,
+        "sunday":    null
       },
+      "_hours_note": "The Ark is a concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
       "current_exhibitions": [],
       "events": [
         {
-          "title": "Ian Flanigan (Artist Spotlight — free)",
+          "title": "Ian Flanigan",
           "date": "2026-06-23",
           "time": "20:00",
-          "description": "Artist Spotlight Series. Donations to Food Gatherers encouraged.",
+          "description": "Country/Americana. Free — donations support Food Gatherers.",
           "cost": 0,
-          "cost_notes": "free",
-          "url": "https://theark.org/event/ian_flanigan-260623/"
+          "cost_notes": "free (donations)",
+          "url": "https://theark.org/events/"
         },
         {
           "title": "Esther Rose",
           "date": "2026-06-24",
           "time": "20:00",
-          "description": "New Orleans Americana songwriter.",
+          "description": "Country/pop on her fifth album.",
           "cost": 24,
           "cost_notes": "$24",
-          "url": "https://theark.org/event/esther-rose-260624/"
+          "url": "https://theark.org/events/"
         },
         {
           "title": "Handmade Moments",
           "date": "2026-06-25",
           "time": "20:00",
-          "description": "Live music.",
+          "description": "New Orleans American roots duo.",
           "cost": 24,
           "cost_notes": "$24",
-          "url": "https://theark.org/event/handmade-moments-260625/"
+          "url": "https://theark.org/events/"
         },
         {
           "title": "Gregory Stovetop",
           "date": "2026-06-26",
           "time": "20:00",
-          "description": "Live music.",
+          "description": "Cosmic folk/rock/soul from Chelsea-based singer-songwriter.",
           "cost": 29,
           "cost_notes": "$29",
-          "url": "https://theark.org/event/gregory-stovetop-260626/"
+          "url": "https://theark.org/events/"
         },
         {
           "title": "The RFD Boys",
           "date": "2026-06-27",
           "time": "20:00",
-          "description": "Live music.",
+          "description": "Michigan bluegrass legends since 1969.",
           "cost": 16,
-          "cost_notes": "$16",
+          "cost_notes": "$16 ($15 students/members)",
           "url": "https://theark.org/events/"
         },
         {
           "title": "Matt Watroba",
           "date": "2026-06-28",
           "time": "19:30",
-          "description": "Michigan folk singer and Michigan Radio host.",
+          "description": "Folk/roots — celebrating 40 years in radio and 50 years performing.",
           "cost": 29,
           "cost_notes": "$29",
           "url": "https://theark.org/events/"
         },
         {
-          "title": "The Ark's Open Stage",
+          "title": "Open Stage",
           "date": "2026-06-29",
           "time": "20:00",
-          "description": "Community open stage night for local and emerging musicians.",
+          "description": "8-minute open mic slots for all performers, $3 admission.",
           "cost": 3,
-          "cost_notes": "$3",
+          "cost_notes": "$3 ($0 students/members)",
           "url": "https://theark.org/events/"
         },
         {
-          "title": "Holly Near & Jan Martinelli",
+          "title": "Holly Near with Jan Martinelli",
           "date": "2026-07-01",
           "time": "19:30",
-          "description": "Legendary folk and activist singer with longtime collaborator.",
-          "cost": 0,
-          "cost_notes": "check website",
+          "description": "Peace-focused folk, 50-year career.",
+          "cost": 31,
+          "cost_notes": "$31",
           "url": "https://theark.org/events/"
         },
         {
-          "title": "Davy Knowles",
-          "date": "2026-07-07",
+          "title": "Blake Whyte",
+          "date": "2026-07-02",
           "time": "20:00",
-          "description": "Blues-rock guitarist from the Isle of Man.",
-          "cost": 0,
-          "cost_notes": "check website",
-          "url": "https://theark.org/event/davy-knowles-260707/"
+          "description": "Soul/theatre songwriter-actor.",
+          "cost": 24,
+          "cost_notes": "$24",
+          "url": "https://theark.org/events/"
         },
         {
-          "title": "Howie Day",
-          "date": "2026-07-10",
+          "title": "Pixie and the Partygrass Boys",
+          "date": "2026-07-03",
           "time": "20:00",
-          "description": "Singer-songwriter, known for \"Collide.\"",
-          "cost": 0,
-          "cost_notes": "check website",
+          "description": "High-energy Utah bluegrass.",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Open Stage",
+          "date": "2026-07-06",
+          "time": "20:00",
+          "description": "8-minute open mic slots. Free for students/members.",
+          "cost": 3,
+          "cost_notes": "$3 ($0 students/members)",
           "url": "https://theark.org/events/"
         }
       ]
+    },
+    {
+      "id": "michigan-theater",
+      "name": "Michigan Theater",
+      "address": "603 E Liberty St, Ann Arbor, MI 48104",
+      "url": "https://michigantheater.org",
+      "_hours_note": "Michigan Theater website unavailable for scraping this run. Check michigantheater.org directly for film and event schedule.",
+      "hours": {
+        "monday":    null,
+        "tuesday":   null,
+        "wednesday": null,
+        "thursday":  null,
+        "friday":    null,
+        "saturday":  null,
+        "sunday":    null
+      },
+      "current_exhibitions": [],
+      "events": []
     },
     {
       "id": "matthaei",
       "name": "Matthaei Botanical Gardens",
       "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
       "url": "https://mbgna.umich.edu",
+      "_hours_note": "Grounds typically open dawn to dusk; Conservatory hours not confirmed this run. Check mbgna.umich.edu for summer events.",
       "hours": {
-        "monday": { "open": "09:00", "close": "16:30" },
-        "tuesday": { "open": "09:00", "close": "16:30" },
-        "wednesday": { "open": "09:00", "close": "16:30" },
-        "thursday": { "open": "09:00", "close": "16:30" },
-        "friday": { "open": "09:00", "close": "16:30" },
-        "saturday": { "open": "09:00", "close": "16:30" },
-        "sunday": { "open": "09:00", "close": "16:30" }
+        "monday":    { "open": "07:00", "close": "20:00" },
+        "tuesday":   { "open": "07:00", "close": "20:00" },
+        "wednesday": { "open": "07:00", "close": "20:00" },
+        "thursday":  { "open": "07:00", "close": "20:00" },
+        "friday":    { "open": "07:00", "close": "20:00" },
+        "saturday":  { "open": "07:00", "close": "20:00" },
+        "sunday":    { "open": "07:00", "close": "20:00" }
       },
       "current_exhibitions": [],
       "events": []
