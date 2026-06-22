@@ -1,5 +1,43 @@
 {
   "updated": "2026-06-22",
+  "group_runs": [
+    {
+      "day": "Monday",
+      "display_time": "6:00 PM",
+      "title": "Monday Night Group Run",
+      "location": "Corner Brewery",
+      "address": "720 Norris St, Ypsilanti",
+      "distance": "0.1–5K · all paces",
+      "url": "https://www.annarborrunningcompany.com/pages/group-runs"
+    },
+    {
+      "day": "Tuesday",
+      "display_time": "6:00 PM",
+      "title": "Tuesday Night Intervals",
+      "location": "Rotating (check Strava)",
+      "address": "Ferry Field, Palmer Park, Argo Loop, B2B Trail, the Arb + more",
+      "distance": "4–10 miles · structured intervals, all levels",
+      "url": "https://www.annarborrunningcompany.com/pages/group-runs"
+    },
+    {
+      "day": "Thursday",
+      "display_time": "6:00 PM",
+      "title": "Thursday Night Group Run",
+      "location": "HOMES Brewery",
+      "address": "2321 Jackson Ave, Ann Arbor",
+      "distance": "0.1–5K · all paces",
+      "url": "https://www.annarborrunningcompany.com/pages/group-runs"
+    },
+    {
+      "day": "Saturday",
+      "display_time": "7:00 AM",
+      "title": "Saturday Morning Group Run",
+      "location": "AARC Traver Village",
+      "address": "2621 Plymouth Rd, Ann Arbor",
+      "distance": "longer workouts on marked course · beginner + fast groups",
+      "url": "https://www.annarborrunningcompany.com/pages/group-runs"
+    }
+  ],
   "events": [
     {
       "title": "A2SF Top of the Park — Swing Dance Lessons & Djangophonique",

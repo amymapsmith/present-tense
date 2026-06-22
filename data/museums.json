@@ -7,7 +7,7 @@
       "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
       "url": "https://www.famsf.org",
       "hours": {
-        "monday": null,
+        "monday":    null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
         "wednesday": { "open": "09:30", "close": "17:15" },
         "thursday":  { "open": "09:30", "close": "17:15" },
@@ -34,10 +34,10 @@
           "title": "Free Saturday — Bay Area Residents",
           "date": "2026-06-27",
           "time": "09:30",
-          "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Membership not required — just show Bay Area ID. Docent tours at 11:30 AM and 1:30 PM.",
+          "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Show Bay Area ID at the door. Docent tours at 11:30 AM and 1:30 PM.",
           "cost": 0,
           "cost_notes": "free for Bay Area residents",
-          "url": "https://ticketing.famsf.org/events/0191859e-ae61-6e35-b2cf-55f10d95ca3c"
+          "url": "https://www.famsf.org/whats-on"
         },
         {
           "title": "Free Saturday — Bay Area Residents",
@@ -46,7 +46,7 @@
           "description": "Free general admission every Saturday for residents of the nine Bay Area counties.",
           "cost": 0,
           "cost_notes": "free for Bay Area residents",
-          "url": "https://ticketing.famsf.org/events/0191859e-ae61-6e35-b2cf-55f10d95ca3c"
+          "url": "https://www.famsf.org/whats-on"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "address": "100 34th Ave, San Francisco, CA 94121",
       "url": "https://www.famsf.org",
       "hours": {
-        "monday": null,
+        "monday":    null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
         "wednesday": { "open": "09:30", "close": "17:15" },
         "thursday":  { "open": "09:30", "close": "17:15" },
@@ -78,6 +78,24 @@
           "date": "2026-06-23",
           "time": "12:30",
           "description": "Guided docent tour of the collection. Runs Tuesday–Sunday at 12:30 PM. Included with membership or general admission.",
+          "cost": 0,
+          "cost_notes": "included with membership",
+          "url": "https://www.famsf.org/calendar"
+        },
+        {
+          "title": "Docent Tour",
+          "date": "2026-06-24",
+          "time": "12:30",
+          "description": "Guided docent tour. Runs Tue–Sun at 12:30 PM.",
+          "cost": 0,
+          "cost_notes": "included with membership",
+          "url": "https://www.famsf.org/calendar"
+        },
+        {
+          "title": "Docent Tour",
+          "date": "2026-06-25",
+          "time": "12:30",
+          "description": "Guided docent tour. Runs Tue–Sun at 12:30 PM.",
           "cost": 0,
           "cost_notes": "included with membership",
           "url": "https://www.famsf.org/calendar"

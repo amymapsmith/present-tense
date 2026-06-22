@@ -1,6 +1,121 @@
 {
   "destinations": [
     {
+      "updated": "2026-06-22",
+      "destination": {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "flag": "🇹🇭",
+        "iata": "BKK",
+        "lat": 13.7563,
+        "lon": 100.5018,
+        "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years."
+      },
+      "flight_search_date": "2026-06-22",
+      "flights": [
+        {
+          "airline": "United Airlines",
+          "price_usd": 985,
+          "outbound_dates": "July — flexible dates (Tue/Wed cheapest)",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~22h total",
+          "url": "https://www.united.com/en-us/flights-from-san-francisco-to-bangkok",
+          "notes": "Typically routes via Tokyo NRT or Seoul ICN. Book Tue/Wed departures for lowest fares. No nonstop SFO→BKK exists on any carrier."
+        },
+        {
+          "airline": "Japan Airlines",
+          "price_usd": 995,
+          "outbound_dates": "August — via Tokyo NRT",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~21h total",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
+          "notes": "JAL via NRT is a comfortable routing with generous baggage allowance. August fares slightly higher than July."
+        },
+        {
+          "airline": "Cathay Pacific",
+          "price_usd": 1006,
+          "outbound_dates": "August — via Hong Kong HKG",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~20h total",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
+          "notes": "HKG connection is efficient — good food in the terminal, Cathay lounge access if traveling business. Marginally shorter routing than Tokyo connections."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "The Yard Hostel Bangkok",
+          "type": "hostel",
+          "price_per_night_usd": 23,
+          "neighborhood": "Ari",
+          "highlights": "9.1/10 on Hostelworld — private rooms in a converted house in Ari, Bangkok's low-key expat-and-local neighborhood, nowhere near Khao San Road.",
+          "url": "https://www.hostelworld.com/hostels/p/96020/the-yard-hostel-bangkok/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "G Boutique Silom Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 120,
+          "neighborhood": "Silom",
+          "highlights": "Boutique hotel in Silom's business and nightlife district — close to BTS Sala Daeng, rooftop pool, solid midrange value.",
+          "url": "https://www.booking.com/hotel/th/la-residence-bangkok.html",
+          "source": "booking"
+        },
+        {
+          "name": "Sala Rattanakosin Bangkok",
+          "type": "hotel",
+          "price_per_night_usd": 170,
+          "neighborhood": "Rattanakosin (Old City)",
+          "highlights": "14-room boutique on the Chao Phraya River with direct views of Wat Arun — wake up, open the window, there's the temple. One of Bangkok's most specific stays.",
+          "url": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Bangkok is the city that never resolves — ancient and hyper-modern, chaotic and deeply ordered, cheap and world-class all at once. Go in July and you'll catch shoulder season prices with afternoon rain that clears by evening; the heat is real but manageable if you move early and late. The baht is weak against the dollar right now, which means the already-absurd value gets even more absurd.",
+        "days": [
+          {
+            "day": 1,
+            "title": "The Old City on foot",
+            "morning": "Arrive at the Grand Palace compound by 8am before the tour groups hit — the complex opens at 8:30, get there at opening. Walk through to Wat Pho (separate ticket, 200 baht) to see the 46-meter reclining Buddha. Cross the river by ferry (3 baht, 5 minutes) to Wat Arun — climb the steep central prang for a view back across the river to where you just were.",
+            "afternoon": "Walk south along the river into Talat Noi, Bangkok's oldest Chinese neighborhood. It's not a tourist zone — just old shophouses, street shrines, and people living their lives. Good murals along Soi Wanit 2. Stop at Lek & Rut coffee for a traditional oliang (Thai iced coffee with corn and sesame) before the afternoon heat peaks.",
+            "evening": "Head to Yaowarat (Chinatown), which comes alive after dark. Eat your way through: Jek Pui for curry rice (under $2), T&K Seafood for grilled prawns, and the coconut pancakes at the corner stalls near the Odeon Circle arch. End with a beer at one of the rooftop bars facing the neon street below."
+          },
+          {
+            "day": 2,
+            "title": "The Green Lung and the river at night",
+            "morning": "Take a 30-minute express boat and short cab ride to Bang Krachao — a U-shaped bend in the Chao Phraya that's still 80% jungle, 20 minutes from downtown. Rent a bicycle (50 baht/hour) and ride the paths through mangrove and orchard. The Sri Nakhon Khuean Khan Park has a floating market on weekends. Locals picnic here. The contrast with the skyline visible across the water is disorienting in the best way.",
+            "afternoon": "Back to the city and over to Lumpini Park, Bangkok's central green space. The monitor lizards here are enormous and completely unbothered by people — they treat the lake like their personal property. Get a 90-minute Thai massage at one of the legitimate parlors on the park's south edge (300–400 baht).",
+            "evening": "Take the BTS to Saphan Taksin and the shuttle boat to Asiatique the Riverfront — a converted 1900s dockland turned night market. Skip the chain restaurants and eat at the hawker stalls inside. Then walk the pier at dusk: the river at night, ferries going past, the Wat Arun illuminated across the water."
+          },
+          {
+            "day": 3,
+            "title": "Local neighborhood and the heights",
+            "morning": "Start in Ari (north of downtown, BTS Ari station) — Bangkok's neighborhood for people who work in media, NGOs, and food. Or Tor Kor Market is a 5-minute walk: one of the city's best fresh markets, clean and well-organized, with prepared food stalls making some of the best khao man gai (Hainanese chicken rice) and pad kra pao (basil stir-fry) you'll find. Eat here, not at a tourist-adjacent restaurant.",
+            "afternoon": "Head to Sampheng Market (Chinatown's wholesale district) for fabrics, trinkets, and the sheer spectacle of Bangkok commerce at full speed. Then climb Wat Saket's Golden Mount — 318 steps, but the temple bells and the 360-degree view of the old city from the top earn it. Costs 50 baht.",
+            "evening": "Walk through Khao San Road once, quickly, just to see what all the noise is about — then immediately leave. Take a cab to a rooftop bar (Octave at the Marriott Sukhumvit has a three-story bar with a panoramic view, no cover if you're buying drinks). Watch the city lights come on. Bangkok from above at sunset is its own argument for why you came."
+          }
+        ],
+        "tips": [
+          "Use Grab for all transportation — fixed prices, no negotiating, works exactly like Uber. Never take a tuk-tuk for a 'tour' if a stranger offers it outside a tourist site; it ends at a gem store.",
+          "The 'temple is closed today' line from strangers near the Grand Palace is a scam. The temples are almost never closed. Just walk past and proceed to the entrance yourself.",
+          "Dress for temples: shoulders and knees covered, or carry a sarong. The Grand Palace will turn you away without one — they rent them at the gate, but it wastes time and money.",
+          "Bangkok's heat in July peaks 11am–4pm. Structure your day around it: outdoor sights before 10am and after 4pm, long lunches and markets in the midday. This is not optional.",
+          "The Saen Saep canal boats are Bangkok's hidden transit system — they connect the old city to Pratunam and the Sukhumvit area in 15 minutes for 20 baht. Stand back from the edge or the spray will soak you.",
+          "Chatuchak Weekend Market (one of the world's largest) runs Saturdays and Sundays only. JJ Green Night Bazaar (vintage, design, food trucks) is Thursday–Sunday evenings and skews younger and more local."
+        ],
+        "sources": [
+          { "title": "Off Path Thailand — Bangkok travel guide", "url": "https://offpaththailand.com/bangkok-travel-guide/" },
+          { "title": "Nomads Beyond — Bangkok itinerary", "url": "https://nomadsbeyond.com/bangkok-itinerary/" },
+          { "title": "North Abroad — 3 days in Bangkok", "url": "https://northabroad.com/3-days-in-bangkok/" },
+          { "title": "Thailand Routes — Bangkok travel tips", "url": "https://thailandroutes.com/bangkok/" },
+          { "title": "Next Stop Asia — Bangkok guide", "url": "https://nextstopasia.com/bangkok-travel-guide/" }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-19",
       "destination": {
         "city": "Mexico City",
@@ -311,7 +426,7 @@
           {
             "day": 1,
             "title": "Dadaocheng, Zhongshan Vintage, Raohe Night Market",
-            "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike in the city).",
+            "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike city bikes in the city).",
             "afternoon": "MRT to Zhongshan. Walk Lane 20, Section 2, Zhongshan North Road — this is the city's genuine vintage and indie shopping strip. Damn It! Vintage, Travis Vintage, and Mana are real curated shops with serious stock, nothing like the fast-fashion chaos of Ximending. The whole neighborhood has a quiet Japan-influenced aesthetic: tree-lined streets, small specialty cafes, independent bookshops. Grab coffee anywhere that looks busy with locals — the third-wave coffee density here rivals Tokyo.",
             "evening": "Raohe Street Night Market. Arrive 5:30pm, before the evening rush. The market is 600 meters of concentrated eating — manageable, not overwhelming. Non-negotiable: Fuzhou Black Pepper Buns at the entrance (long line, worth every minute — charcoal-roasted pork buns with a flaky crust and juicy interior, TWD 60). Then Shi Boss Stinky Tofu (Michelin-recognized, the broth is addictive even if the concept sounds wrong). Close with Dongfahao oyster vermicelli (the 80-year no-cornstarch recipe — completely different texture from the tourist-market version). Taiwan Beer from a convenience store on the walk out."
           },

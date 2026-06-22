@@ -8,10 +8,10 @@
       "high": 67,
       "low": 55,
       "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,14,13,12,11,10,9,8,7,7],
-      "precipitation_pct": 1,
-      "humidity": 75,
-      "description": "Mostly Sunny"
+      "wind_hourly": [7,7,6,6,6,6,7,8,9,10,11,12,12,13,14,14,14,13,12,11,10,10,9,9],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
     },
     {
       "date": "2026-06-23",
@@ -19,9 +19,9 @@
       "high": 69,
       "low": 55,
       "wind_mph": 12,
-      "wind_hourly": [6,6,5,5,5,5,5,6,7,8,9,10,11,12,12,11,10,9,8,7,6,6,5,5],
-      "precipitation_pct": 1,
-      "humidity": 75,
+      "wind_hourly": [6,6,5,5,5,5,6,7,8,9,10,11,11,12,12,12,12,11,10,9,8,8,7,6],
+      "precipitation_pct": 0,
+      "humidity": null,
       "description": "Mostly Sunny"
     },
     {
@@ -30,9 +30,9 @@
       "high": 70,
       "low": 56,
       "wind_mph": 13,
-      "wind_hourly": [6,6,5,5,5,5,5,6,7,8,10,11,12,13,13,12,11,10,8,7,6,6,5,5],
+      "wind_hourly": [6,6,5,5,5,5,6,7,8,10,11,12,12,13,13,13,13,12,11,10,9,8,7,6],
       "precipitation_pct": 0,
-      "humidity": 75,
+      "humidity": null,
       "description": "Mostly Sunny"
     },
     {
@@ -40,10 +40,10 @@
       "day": "Thursday",
       "high": 70,
       "low": 56,
-      "wind_mph": 15,
-      "wind_hourly": [6,5,5,5,5,5,5,6,8,10,11,13,14,15,15,14,13,11,9,7,6,6,5,5],
-      "precipitation_pct": 2,
-      "humidity": 75,
+      "wind_mph": 14,
+      "wind_hourly": [6,6,5,5,5,5,6,7,9,10,12,13,13,14,14,14,13,12,11,10,9,8,7,6],
+      "precipitation_pct": 0,
+      "humidity": null,
       "description": "Sunny"
     },
     {
@@ -51,10 +51,10 @@
       "day": "Friday",
       "high": 69,
       "low": 57,
-      "wind_mph": 20,
-      "wind_hourly": [10,10,10,10,10,10,10,11,13,15,16,17,18,19,20,20,18,16,14,12,11,10,10,10],
-      "precipitation_pct": 2,
-      "humidity": 72,
+      "wind_mph": 18,
+      "wind_hourly": [8,7,7,6,6,6,7,8,10,12,14,16,17,18,18,18,17,16,15,14,13,12,11,10],
+      "precipitation_pct": 0,
+      "humidity": null,
       "description": "Mostly Sunny"
     },
     {
@@ -62,44 +62,44 @@
       "day": "Saturday",
       "high": 67,
       "low": 55,
-      "wind_mph": 20,
-      "wind_hourly": [10,10,10,10,10,10,10,11,13,15,16,18,19,20,20,19,17,15,13,11,10,10,10,10],
-      "precipitation_pct": 3,
-      "humidity": 72,
+      "wind_mph": 18,
+      "wind_hourly": [8,7,7,6,6,6,7,8,10,12,14,16,17,18,18,18,17,16,14,13,12,11,10,9],
+      "precipitation_pct": 0,
+      "humidity": null,
       "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-28",
       "day": "Sunday",
       "high": 72,
-      "low": 56,
-      "wind_mph": 14,
-      "wind_hourly": [5,4,4,3,3,3,3,4,5,7,8,10,11,13,14,13,12,10,8,7,6,5,5,4],
+      "low": 55,
+      "wind_mph": 13,
+      "wind_hourly": [6,5,5,5,4,4,5,6,8,9,10,11,12,12,13,13,12,11,10,9,8,7,6,6],
       "precipitation_pct": 0,
-      "humidity": 72,
+      "humidity": null,
       "description": "Sunny"
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
-      "rating": "fair",
-      "reason": "Temps comfortable 67–70°F all week but WSW winds peak 14–20 mph Fri–Sat; best days Tue (12 mph) and Sun (14 mph)"
+      "rating": "good",
+      "reason": "Mon–Thu and Sun are ideal: mid-60s to low 70s, wind under 14 mph, zero rain. Fri–Sat winds reach 18 mph — manageable but plan for a westerly headwind."
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "Mild temps, near-zero rain all week; Fri–Sat winds hit 20 mph but still within running threshold"
+      "reason": "Great all week — temps 55–72°F, no precip, winds 12–14 mph Mon–Thu dropping to 13 Sun. Fri–Sat windier; run in the morning before it builds."
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club indoor pool available all week"
+      "reason": "Bay Club indoor pool available every day. No weather considerations; good fallback for Fri–Sat when winds make cycling less fun."
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Especially recommended Fri–Sat when outdoor winds reach 20 mph"
+      "reason": "Always good. Bay Club SF open until 10 PM Mon–Thu — useful for evenings after long work sessions."
     }
   ]
 }

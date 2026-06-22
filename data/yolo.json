@@ -1,115 +1,118 @@
 {
   "updated": "2026-06-22",
   "destination": {
-    "city": "Bangkok",
-    "country": "Thailand",
-    "flag": "🇹🇭",
-    "iata": "BKK",
-    "lat": 13.7563,
-    "lon": 100.5018,
-    "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years."
+    "city": "Medellín",
+    "country": "Colombia",
+    "flag": "🇨🇴",
+    "iata": "MDE",
+    "lat": 6.2442,
+    "lon": -75.5812,
+    "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
   },
   "flight_search_date": "2026-06-22",
   "flights": [
     {
-      "airline": "United Airlines",
-      "price_usd": 985,
-      "outbound_dates": "July — flexible dates (Tue/Wed cheapest)",
+      "airline": "Avianca",
+      "price_usd": 412,
+      "outbound_dates": "July–August (Tue/Wed departures cheapest; avoid Friday/Sunday)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~22h total",
-      "url": "https://www.united.com/en-us/flights-from-san-francisco-to-bangkok",
-      "notes": "Typically routes via Tokyo NRT or Seoul ICN. Book Tue/Wed departures for lowest fares. No nonstop SFO→BKK exists on any carrier."
+      "duration": "~9h total",
+      "url": "https://www.avianca.com/us/en/flights-from-san-francisco-to-medellin",
+      "notes": "Connects through San Salvador (SAL) — shortest layover option from SFO. Colombia's flagship carrier, solid service, meals included. Book direct at avianca.com; Tue/Wed departures run ~10% cheaper than weekends. Use Google Flights to find the lowest-fare date combo before booking."
     },
     {
-      "airline": "Japan Airlines",
-      "price_usd": 995,
-      "outbound_dates": "August — via Tokyo NRT",
+      "airline": "American Airlines",
+      "price_usd": 440,
+      "outbound_dates": "July–August flexible (midweek saves ~$30–40 vs. weekend)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~21h total",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
-      "notes": "JAL via NRT is a comfortable routing with generous baggage allowance. August fares slightly higher than July."
+      "duration": "~11h total",
+      "url": "https://www.aa.com/en-us/flights-from-san-francisco-to-medellin",
+      "notes": "Connects through Miami (MIA) — a smooth hub with Colombian food in the terminal. Good option if you have AAdvantage miles. August dates typically ~$20 cheaper than July. Check Google Flights for specific date pricing before booking."
     },
     {
-      "airline": "Cathay Pacific",
-      "price_usd": 1006,
-      "outbound_dates": "August — via Hong Kong HKG",
+      "airline": "JetBlue",
+      "price_usd": 475,
+      "outbound_dates": "August (August noticeably cheaper than July peak)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~20h total",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
-      "notes": "HKG connection is efficient — good food in the terminal, Cathay lounge access if traveling business. Marginally shorter routing than Tokyo connections."
+      "duration": "~12h total",
+      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-medellin.html",
+      "notes": "Routes via Fort Lauderdale (FLL) or JFK. JetBlue's economy product is comfortable and includes snacks/drinks. August fares drop roughly $40–60 vs. July. Price-check against Avianca before booking — the Avianca direct connection through SAL is usually faster and comparably priced."
     }
   ],
   "lodging": [
     {
-      "name": "The Yard Hostel Bangkok",
+      "name": "Hostel Rango Boutique",
       "type": "hostel",
-      "price_per_night_usd": 23,
-      "neighborhood": "Ari",
-      "highlights": "9.1/10 on Hostelworld — private rooms in a converted house in Ari, Bangkok's low-key expat-and-local neighborhood, nowhere near Khao San Road.",
-      "url": "https://www.hostelworld.com/hostels/p/96020/the-yard-hostel-bangkok/",
+      "price_per_night_usd": 35,
+      "neighborhood": "El Poblado",
+      "highlights": "9.6/10 on Hostelworld (1,478 reviews) — 14 private rooms, 1 minute from Parque Lleras, on-site Swiss bakery, rooftop pool with city views, free salsa classes and yoga weekly. The design-forward hostel that doesn't feel like a hostel.",
+      "url": "https://www.hostelworld.com/hostels/p/275821/hostel-rango-boutique/",
       "source": "hostelworld"
     },
     {
-      "name": "G Boutique Silom Hotel",
+      "name": "La Campana Hotel Boutique",
       "type": "hotel",
-      "price_per_night_usd": 120,
-      "neighborhood": "Silom",
-      "highlights": "Boutique hotel in Silom's business and nightlife district — close to BTS Sala Daeng, rooftop pool, solid midrange value.",
-      "url": "https://www.booking.com/hotel/th/la-residence-bangkok.html",
+      "price_per_night_usd": 95,
+      "neighborhood": "El Poblado",
+      "highlights": "13-room boutique with a garden courtyard, marble bathrooms, and a quiet residential location in El Poblado — walking distance to Parque Lleras without the noise of it. Good value for a proper hotel experience.",
+      "url": "https://www.booking.com/hotel/co/la-campana-boutique.html",
       "source": "booking"
     },
     {
-      "name": "Sala Rattanakosin Bangkok",
+      "name": "The Click Clack Hotel",
       "type": "hotel",
-      "price_per_night_usd": 170,
-      "neighborhood": "Rattanakosin (Old City)",
-      "highlights": "14-room boutique on the Chao Phraya River with direct views of Wat Arun — wake up, open the window, there's the temple. One of Bangkok's most specific stays.",
-      "url": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
+      "price_per_night_usd": 220,
+      "neighborhood": "El Poblado",
+      "highlights": "Biophilic jungle-design hotel with a rooftop pool and resident DJ on weekends — the room interiors bring the Andean landscape inside, and the restaurant downstairs is legitimately one of El Poblado's best.",
+      "url": "https://www.booking.com/hotel/co/the-click-clack-medellin.html",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Bangkok is the city that never resolves — ancient and hyper-modern, chaotic and deeply ordered, cheap and world-class all at once. Go in July and you'll catch shoulder season prices with afternoon rain that clears by evening; the heat is real but manageable if you move early and late. The baht is weak against the dollar right now, which means the already-absurd value gets even more absurd.",
+    "overview": "Medellín spent most of the 1990s as the most dangerous city on earth — 6,000 homicides a year, a cartel running the government, neighborhoods that police wouldn't enter. What it did with the next 25 years is one of the more remarkable urban stories of the century: an outdoor escalator system connecting hillside comunas to the metro, a cable car network that turned isolation into access, a street art movement that turned trauma into testimony. The result is a city with 3 million people, year-round spring weather (hence 'the city of eternal spring'), extraordinarily good food at every price point, and a specialty coffee scene that makes sense given you're 6 hours from some of the world's best coffee farms. Go in July or August and you'll catch either the pre-Flower Festival buildup or the Feria de las Flores itself (August) — one of the great civic celebrations in South America.",
     "days": [
       {
         "day": 1,
-        "title": "The Old City on foot",
-        "morning": "Arrive at the Grand Palace compound by 8am before the tour groups hit — the complex opens at 8:30, get there at opening. Walk through to Wat Pho (separate ticket, 200 baht) to see the 46-meter reclining Buddha. Cross the river by ferry (3 baht, 5 minutes) to Wat Arun — climb the steep central prang for a view back across the river to where you just were.",
-        "afternoon": "Walk south along the river into Talat Noi, Bangkok's oldest Chinese neighborhood. It's not a tourist zone — just old shophouses, street shrines, and people living their lives. Good murals along Soi Wanit 2. Stop at Lek & Rut coffee for a traditional oliang (Thai iced coffee with corn and sesame) before the afternoon heat peaks.",
-        "evening": "Head to Yaowarat (Chinatown), which comes alive after dark. Eat your way through: Jek Pui for curry rice (under $2), T&K Seafood for grilled prawns, and the coconut pancakes at the corner stalls near the Odeon Circle arch. End with a beer at one of the rooftop bars facing the neon street below."
+        "title": "El Centro, Plaza Botero, and Laureles by night",
+        "morning": "Start at Plaza Botero in El Centro — 23 bronze sculptures by Fernando Botero, donated to his hometown, sitting in an open plaza that is free, unenclosed, and genuinely used by Medellín residents. The figures are enormous and deliberately distorted: Botero's whole project was about volume and weight as aesthetic principles, and the sculptures are funnier and stranger in person than in photographs. Walk directly into the Museo de Antioquia next door (30,000 COP) — the collection includes Botero paintings and a substantial pre-Columbian and colonial floor. Spend 90 minutes. Then walk El Hueco, the surrounding wholesale market district: dozens of city blocks of open-air commerce, every category of goods, the pulse of downtown Medellín's actual economy. Loud, dense, fascinating. Buy a cholado (shaved ice with fruit and condensed milk) from a street cart for 3,000 COP.",
+        "afternoon": "Metro to Estadio station, walk into Laureles. This is where Medellín actually lives — a residential neighborhood named Time Out one of the coolest in the world, which it is, without feeling like it knows it. Walk Carrera 70 south from Estadio: coffee shops, restaurants, bakeries, and hardware stores in equal proportion. Stop at Rituales Café (just off Avenida Nutibara) for a pour-over — they source from 40 farming families in La Sierra and roast in-house; the Paraiso blend is their benchmark. Then Café Revolución (also Laureles) for espresso and a look at what the neighborhood does with a 1970s building and good taste. Walk the residential side streets east toward Parque de los Pies Descalzos.",
+        "evening": "Dinner at Mondongo's — the Laureles location on Carrera 70 is the original and the best. Order the bandeja paisa: the full Antioquian plate of rice, red beans, ground beef, chicharrón (crispy pork belly), chorizo, fried egg, avocado, and arepa. This is the working-class lunch of Antioquia made ceremonial. COP 35,000 (~$8). After dinner, walk the Estadio metro neighborhood — local bars, no tourist markup, sports game energy if Nacional or DIM are playing. The Atanasio Girardot stadium is three blocks away; if there's a match, go."
       },
       {
         "day": 2,
-        "title": "The Green Lung and the river at night",
-        "morning": "Take a 30-minute express boat and short cab ride to Bang Krachao — a U-shaped bend in the Chao Phraya that's still 80% jungle, 20 minutes from downtown. Rent a bicycle (50 baht/hour) and ride the paths through mangrove and orchard. The Sri Nakhon Khuean Khan Park has a floating market on weekends. Locals picnic here. The contrast with the skyline visible across the water is disorienting in the best way.",
-        "afternoon": "Back to the city and over to Lumpini Park, Bangkok's central green space. The monitor lizards here are enormous and completely unbothered by people — they treat the lake like their personal property. Get a 90-minute Thai massage at one of the legitimate parlors on the park's south edge (300–400 baht).",
-        "evening": "Take the BTS to Saphan Taksin and the shuttle boat to Asiatique the Riverfront — a converted 1900s dockland turned night market. Skip the chain restaurants and eat at the hawker stalls inside. Then walk the pier at dusk: the river at night, ferries going past, the Wat Arun illuminated across the water."
+        "title": "Guatapé day trip — El Peñol and the reservoir",
+        "morning": "Bus from Terminal del Norte (Metro Line B to Caribe, then walk to the terminal) — buses leave roughly every 30 minutes starting at 6am, 2-hour ride, 20,000 COP each way. Get on the first or second bus to reach El Peñol before the day-trip tours from Medellín arrive. El Peñol is a 218-meter granite monolith that erupts from the reservoir below — the stairs (740 zigzag steps cut directly into the rock face) take 30–40 minutes to climb. Go before 9am and the view from the top — an endless labyrinth of islands and water and farmed hills — is yours. By 11am it will be shared with 200 tour groups. The climb is real; bring water.",
+        "afternoon": "Walk 20 minutes downhill into Guatapé town. The zócalos — the painted bas-relief panels that decorate the lower third of every building facade — make this one of the most photographed streets in Colombia. Each panel is different: local history, agricultural scenes, family emblems. Walk slowly; the whole town is the attraction. Eat at a waterfront restaurant: mojarra (tilapia from the reservoir), fried plantains, and sancocho (the hearty Colombian stew). Rent a boat for an hour on the reservoir for 50,000–80,000 COP — the scale of the water and the rock from the surface is different from the view above it.",
+        "evening": "Buses back to Medellín leave hourly from 2pm; last bus around 6pm. Back in Medellín by 7–8pm. Light dinner in El Poblado — Mercado del Río (Calle 24 #46-68, near Suramericana metro) is the move: 40+ food stalls in a converted warehouse, every Colombian region and several international cuisines, no tourist markup relative to nearby restaurants. Order at multiple stalls. There's a bar at the back."
       },
       {
         "day": 3,
-        "title": "Local neighborhood and the heights",
-        "morning": "Start in Ari (north of downtown, BTS Ari station) — Bangkok's neighborhood for people who work in media, NGOs, and food. Or Tor Kor Market is a 5-minute walk: one of the city's best fresh markets, clean and well-organized, with prepared food stalls making some of the best khao man gai (Hainanese chicken rice) and pad kra pao (basil stir-fry) you'll find. Eat here, not at a tourist-adjacent restaurant.",
-        "afternoon": "Head to Sampheng Market (Chinatown's wholesale district) for fabrics, trinkets, and the sheer spectacle of Bangkok commerce at full speed. Then climb Wat Saket's Golden Mount — 318 steps, but the temple bells and the 360-degree view of the old city from the top earn it. Costs 50 baht.",
-        "evening": "Walk through Khao San Road once, quickly, just to see what all the noise is about — then immediately leave. Take a cab to a rooftop bar (Octave at the Marriott Sukhumvit has a three-story bar with a panoramic view, no cover if you're buying drinks). Watch the city lights come on. Bangkok from above at sunset is its own argument for why you came."
+        "title": "Comuna 13, Jardín Botánico, Casa de la Memoria",
+        "morning": "Metro to San Javier station for Comuna 13. The context matters: this neighborhood was the site of Operation Orion in 2002, a military offensive that displaced 3,000 residents and left over 300 dead. The outdoor escalators installed in 2011 — six escalator sections connecting the hillside community to the metro grid — were a physical statement about the city's relationship to its comunas. Walk up through the neighborhood before 10am, when the day-trip buses from El Poblado arrive. The murals are not decorative: they're political, memorial, and technically sophisticated. Avoid the packaged tour groups; the local guides who grew up in the neighborhood and wait near the bottom of the escalators are better and support the community directly. Tip generously.",
+        "afternoon": "Metro to Universidad station for the Jardín Botánico (Botanical Garden) — 14 hectares, 4,500 plants, 139 bird species, and the Orquidieorama, a pavilion whose roof structure mimics the cell patterns of plant life and is one of the more quietly remarkable pieces of architecture in Colombia. Free entry (closed Mondays). Eat at In Situ restaurant inside the garden — they use produce grown on-site and the kitchen takes it seriously. Then walk 10 minutes to Casa de la Memoria (Calle 51 #36-66): a museum about the decades of armed conflict that shaped modern Medellín. The permanent collection includes survivor testimonies, photographs, and sound installations that are harrowing and necessary. Free, with audio guide. Do not skip it because you want to feel good on your last afternoon."
+        ,
+        "evening": "Last night in Laureles or El Poblado. For coffee: Pergamino (Carrera 37 #8A-37, El Poblado) is the city's best-known specialty roaster and the shop functions as a café, bar, and gathering place — it stays lively late. For a proper last dinner: Relato (check current location) does upscale Colombian fusion that earns its price. Or end simply: find a local tienda, buy a beer, sit on the sidewalk, and watch Medellín do what it does — a city that has earned the right to be easy."
       }
     ],
     "tips": [
-      "Use Grab for all transportation — fixed prices, no negotiating, works exactly like Uber. Never take a tuk-tuk for a 'tour' if a stranger offers it outside a tourist site; it ends at a gem store.",
-      "The 'temple is closed today' line from strangers near the Grand Palace is a scam. The temples are almost never closed. Just walk past and proceed to the entrance yourself.",
-      "Dress for temples: shoulders and knees covered, or carry a sarong. The Grand Palace will turn you away without one — they rent them at the gate, but it wastes time and money.",
-      "Bangkok's heat in July peaks 11am–4pm. Structure your day around it: outdoor sights before 10am and after 4pm, long lunches and markets in the midday. This is not optional.",
-      "The Saen Saep canal boats are Bangkok's hidden transit system — they connect the old city to Pratunam and the Sukhumvit area in 15 minutes for 20 baht. Stand back from the edge or the spray will soak you.",
-      "Chatuchak Weekend Market (one of the world's largest) runs Saturdays and Sundays only. JJ Green Night Bazaar (vintage, design, food trucks) is Thursday–Sunday evenings and skews younger and more local."
+      "Do not do an Escobar tour. The local term is 'Pablo tours' and several operators have rebranded under pressure, but they're still running. Medellín residents — particularly in the comunas most affected by the cartel years — don't use his name and find these tours deeply disrespectful. The city has built an entire narrative about transformation precisely to get past this history; you don't need to dig it up for content.",
+      "Scopolamine ('burundanga') is a real and documented threat, primarily through dating apps. Tinder and Bumble have been used to set up meetings where drinks are drugged, causing loss of consciousness and allowing theft. Meet people in bars you walked into yourself, not from app-arranged meetings. This is not paranoia — Medellín's tourism board has published warnings about this specifically.",
+      "'No dar papaya' — the local expression literally means 'don't give someone a papaya (easy opportunity).' Practically: keep your phone in your front pocket, not on the restaurant table. Step into a café to check your map. Carry only what you need. Do these things and Medellín's risk for a careful tourist is lower than most US cities (2025 homicide rate: 11.7 per 100,000, lower than Indianapolis).",
+      "The metro is excellent and the point. Medellín's Metro was the first urban rail system in Colombia, opened in 1995, and the city treats it with extraordinary care — it is genuinely clean, on-time, and safe. The Metrocable gondola lines (Lines J, K, L, M) connect hillside comunas to the metro grid and are worth riding for the views alone. Get a rechargeable card at any station.",
+      "August is the Feria de las Flores (Flower Festival) — one of the great civic celebrations in South America. The Silleteros parade on the final Sunday is the centerpiece: Antioquian farmers carry elaborate flower arrangements called silletas on their backs through the city center, some weighing over 100 pounds. The city is genuinely alive in a way that even Medellín's normal energy doesn't prepare you for. Book accommodation well ahead if your dates overlap.",
+      "Coffee context: you're 6 hours from the Eje Cafetero (Coffee Axis), where most Colombian specialty coffee is grown. The tinto (basic black coffee) at a carretilla cart costs 500 COP and is made from whatever's cheapest. The pour-over at Rituales or Pergamino uses award-winning heirloom varietals and costs 8,000 COP. Both are worth having, for different reasons. Never order Nescafé — in a country with this much fresh coffee, it's an insult to everyone."
     ],
     "sources": [
-      { "title": "Off Path Thailand — Bangkok travel guide", "url": "https://offpaththailand.com/bangkok-travel-guide/" },
-      { "title": "Nomads Beyond — Bangkok itinerary", "url": "https://nomadsbeyond.com/bangkok-itinerary/" },
-      { "title": "North Abroad — 3 days in Bangkok", "url": "https://northabroad.com/3-days-in-bangkok/" },
-      { "title": "Thailand Routes — Bangkok travel tips", "url": "https://thailandroutes.com/bangkok/" },
-      { "title": "Next Stop Asia — Bangkok guide", "url": "https://nextstopasia.com/bangkok-travel-guide/" }
+      { "title": "Medellín 2026: When to visit, where to stay, what to do — National Geographic", "url": "https://www.nationalgeographic.com/travel/best-of-the-world-2026/article/medellin-colombia" },
+      { "title": "14 Things to Do (and 1 Not to Do) in Medellin — Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blogs/ultimate-list-medellin/" },
+      { "title": "21 coolest things to do in Medellín — The Haute Bohemian", "url": "https://courtneymuro.com/21-cool-things-to-do-in-medellin-colombia/" },
+      { "title": "Laureles Medellín: Food, Coffee, and Culture — Seissta", "url": "https://seissta.com/blog/what-to-do-in-laureles-medellin" },
+      { "title": "Where to Eat in Laureles: 20 Top Restaurants — Medellin Guru", "url": "https://medellinguru.com/best-restaurants-in-laureles/" },
+      { "title": "Is Medellín Safe in 2026? — Guanabana Tours", "url": "https://guanabanatours.com/is-it-safe-for-americans-to-travel-to-colombia-in-2026/" },
+      { "title": "15 Dos and Don'ts While Traveling in Medellin — Under 30 Experiences", "url": "https://under30experiences.com/blog/15-dos-and-donts-while-traveling-in-medellin" }
     ]
   }
 }

@@ -6,28 +6,29 @@
     "culture": 0.15
   },
   "actuals": {
-    "professional": 0.0,
-    "health": 0.0,
-    "social": 0.0,
-    "culture": 0.0
+    "professional": null,
+    "health": null,
+    "social": null,
+    "culture": null,
+    "note": "No history.json found — actuals not available yet. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
     "updated": "2026-06-22",
-    "summary": "No hours logged yet this week — and you're leaving for Ann Arbor tomorrow, so today is your only SF window. Start with a Bay Club session this morning to anchor health before travel, then handle one professional task (application or outreach) before you go; don't let the transition eat the week.",
+    "summary": "No tracked activity yet this week — a clean slate. The highest-ROI moves right now are one professional touchpoint (the AWS Agentic AI Summit is Tuesday, free) and getting outside while SF weather is dry and calm before the wind picks up Friday.",
     "suggested": [
       {
-        "category": "health",
-        "title": "Bay Club — morning session before travel",
-        "source_section": "gym"
-      },
-      {
         "category": "professional",
-        "title": "AI Tinkerers SF — check next event date and register",
+        "title": "AWS Agentic AI Summit — June Edition (free, Tue Jun 24)",
         "source_section": "professional"
       },
       {
+        "category": "health",
+        "title": "Cycling or running Mon–Thu — weather good, winds 12–14 mph, no rain through Thursday",
+        "source_section": "gym"
+      },
+      {
         "category": "culture",
-        "title": "Creativity Explored — 'Down the Hills' opening (Thu Jun 25, Mission)",
+        "title": "Minnesota Street Project — Memory Cradle + Mark Perlman shows (free, Dogpatch, through Jul 18)",
         "source_section": "events"
       }
     ]

@@ -293,8 +293,9 @@ function renderWealth(gym, eventsData, filter = 'all') {
 
   const todayName = getDayName();
   const dateFilter = currentLocation === 'sf' ? isThisWeek : isFutureOrToday;
-  const showGym   = currentLocation === 'sf' && (filter === 'all' || filter === 'gym');
-  const showDance = filter === 'all' || filter === 'dance';
+  const showGym     = currentLocation === 'sf' && (filter === 'all' || filter === 'gym');
+  const showDance   = filter === 'all' || filter === 'dance';
+  const showRunning = currentLocation === 'aa' && (filter === 'all' || filter === 'running');
 
   const gymHtml = showGym ? (gym.locations || []).map(loc => {
     const h = loc.hours?.[todayName];
@@ -327,7 +328,31 @@ function renderWealth(gym, eventsData, filter = 'all') {
     }
   }
 
-  body.innerHTML = gymHtml + danceHtml || '<p class="empty">Nothing here for this filter.</p>';
+  let runningHtml = '';
+  if (showRunning) {
+    const runs = eventsData.group_runs || [];
+    if (runs.length) {
+      const runsMarkup = runs.map(r => {
+        const isToday = r.day.toLowerCase() === todayName;
+        return `
+          <div class="gym-location${isToday ? ' gym-location--today' : ''}">
+            <div class="gym-location-header">
+              <span class="gym-name">
+                <a href="${r.url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${r.day} · ${r.display_time}</a>
+              </span>
+              <span class="gym-hours">${isToday ? 'today' : ''}</span>
+            </div>
+            <div class="gym-address">${r.title} @ ${r.location}</div>
+            <div class="gym-address" style="opacity:0.7">${r.distance}</div>
+          </div>
+        `;
+      }).join('');
+      const sep = (gymHtml || danceHtml) ? ' event-group--sep' : '';
+      runningHtml = `<div class="event-group${sep}"><h3><i class="iconoir-gym"></i> Group Runs · AARC</h3>${runsMarkup}</div>`;
+    }
+  }
+
+  body.innerHTML = gymHtml + danceHtml + runningHtml || '<p class="empty">Nothing here for this filter.</p>';
 }
 
 // ── Whimsy ─────────────────────────────────────────
@@ -477,9 +502,12 @@ function switchLocation(loc) {
     b.classList.toggle('active', b.dataset.filter === 'all');
   });
 
-  // Gym filter only relevant in SF
+  // Gym filter only relevant in SF; Run filter only relevant in AA
   document.querySelectorAll('.sfilt-btn[data-filter="gym"]').forEach(b => {
     b.style.display = loc === 'sf' ? '' : 'none';
+  });
+  document.querySelectorAll('.sfilt-btn[data-filter="running"]').forEach(b => {
+    b.style.display = loc === 'aa' ? '' : 'none';
   });
 
   const eventsData = (loc === 'sf' ? _sfData.events : _aaData.events) || { events: [] };
@@ -522,6 +550,8 @@ function setupSparklineTooltips() {
 async function init() {
   renderWeekLabel();
   await loadData();
+  // Run filter is AA-only; hide on initial SF load
+  document.querySelectorAll('.sfilt-btn[data-filter="running"]').forEach(b => { b.style.display = 'none'; });
   renderWeather(_sfData.weather || {});
   renderWork(_sfData.professional || {});
   renderWealth(_sfData.gym || {}, _sfData.events || { events: [] });
