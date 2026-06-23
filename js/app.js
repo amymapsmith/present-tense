@@ -295,7 +295,7 @@ function renderWealth(gym, eventsData, filter = 'all') {
   const dateFilter = currentLocation === 'sf' ? isThisWeek : isFutureOrToday;
   const showGym     = currentLocation === 'sf' && (filter === 'all' || filter === 'gym');
   const showDance   = filter === 'all' || filter === 'dance';
-  const showRunning = currentLocation === 'aa' && (filter === 'all' || filter === 'running');
+  const showRunning = currentLocation === 'ann-arbor' && (filter === 'all' || filter === 'running');
 
   const gymHtml = showGym ? (gym.locations || []).map(loc => {
     const h = loc.hours?.[todayName];
@@ -507,7 +507,7 @@ function switchLocation(loc) {
     b.style.display = loc === 'sf' ? '' : 'none';
   });
   document.querySelectorAll('.sfilt-btn[data-filter="running"]').forEach(b => {
-    b.style.display = loc === 'aa' ? '' : 'none';
+    b.style.display = loc === 'ann-arbor' ? '' : 'none';
   });
 
   const eventsData = (loc === 'sf' ? _sfData.events : _aaData.events) || { events: [] };
