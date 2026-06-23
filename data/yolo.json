@@ -1,118 +1,115 @@
 {
   "updated": "2026-06-22",
   "destination": {
-    "city": "Medellín",
-    "country": "Colombia",
-    "flag": "🇨🇴",
-    "iata": "MDE",
-    "lat": 6.2442,
-    "lon": -75.5812,
-    "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
+    "city": "Bologna",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "iata": "BLQ",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "vibe": "The city that taught Europe to eat — 900 years of university life, the world's longest portico, tagliatelle al ragù that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them."
   },
   "flight_search_date": "2026-06-22",
   "flights": [
     {
-      "airline": "Avianca",
-      "price_usd": 412,
-      "outbound_dates": "July–August (Tue/Wed departures cheapest; avoid Friday/Sunday)",
+      "airline": "Air France",
+      "price_usd": 749,
+      "outbound_dates": "July–August (Tue/Wed departures cheapest; midweek saves ~$50 vs. weekend)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~9h total",
-      "url": "https://www.avianca.com/us/en/flights-from-san-francisco-to-medellin",
-      "notes": "Connects through San Salvador (SAL) — shortest layover option from SFO. Colombia's flagship carrier, solid service, meals included. Book direct at avianca.com; Tue/Wed departures run ~10% cheaper than weekends. Use Google Flights to find the lowest-fare date combo before booking."
+      "duration": "~14h total",
+      "url": "https://wwws.airfrance.us/en-us/flights-from-san-francisco-to-bologna",
+      "notes": "Connects through Paris CDG — Air France's home hub, short and reliable layover (1.5–2h typical), CDG-BLQ leg is ~2 hours. Full-service with meals included. Summer roundtrip averages $749–798; midweek departures consistently cheaper. Book via airfrance.com and use Google Flights to identify the lowest-fare date pair first."
     },
     {
-      "airline": "American Airlines",
-      "price_usd": 440,
-      "outbound_dates": "July–August flexible (midweek saves ~$30–40 vs. weekend)",
+      "airline": "Lufthansa",
+      "price_usd": 766,
+      "outbound_dates": "July–August flexible (midweek best; August slightly cheaper than July)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~11h total",
-      "url": "https://www.aa.com/en-us/flights-from-san-francisco-to-medellin",
-      "notes": "Connects through Miami (MIA) — a smooth hub with Colombian food in the terminal. Good option if you have AAdvantage miles. August dates typically ~$20 cheaper than July. Check Google Flights for specific date pricing before booking."
+      "duration": "~15h total",
+      "url": "https://www.lufthansa.com/us/en/flights-from-san-francisco-to-bologna",
+      "notes": "Connects through Munich (MUC) or Frankfurt (FRA) — both well-run hubs with good food and lounge access if you have Star Alliance Gold. MUC-BLQ leg is under 2 hours. Roughly $766 summer roundtrip; August drops about $30 vs. July peak. Book direct at lufthansa.com for best availability."
     },
     {
-      "airline": "JetBlue",
-      "price_usd": 475,
-      "outbound_dates": "August (August noticeably cheaper than July peak)",
+      "airline": "Swiss International Air Lines",
+      "price_usd": 767,
+      "outbound_dates": "August (August measurably cheaper than July; off-peak dates can hit $619)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~12h total",
-      "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-medellin.html",
-      "notes": "Routes via Fort Lauderdale (FLL) or JFK. JetBlue's economy product is comfortable and includes snacks/drinks. August fares drop roughly $40–60 vs. July. Price-check against Avianca before booking — the Avianca direct connection through SAL is usually faster and comparably priced."
+      "duration": "~14h 30m total",
+      "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/san-francisco-bologna.html",
+      "notes": "Connects through Zurich (ZRH) — one of Europe's most pleasant airports to connect through, ZRH-BLQ leg is only 1.5 hours. Swiss economy product is above-average. Summer ~$767 roundtrip; off-peak dates on Google Flights can drop to $619. Check Google Flights explore tool for cheapest available date combos."
     }
   ],
   "lodging": [
     {
-      "name": "Hostel Rango Boutique",
+      "name": "Ostello Bello Bologna",
       "type": "hostel",
-      "price_per_night_usd": 35,
-      "neighborhood": "El Poblado",
-      "highlights": "9.6/10 on Hostelworld (1,478 reviews) — 14 private rooms, 1 minute from Parque Lleras, on-site Swiss bakery, rooftop pool with city views, free salsa classes and yoga weekly. The design-forward hostel that doesn't feel like a hostel.",
-      "url": "https://www.hostelworld.com/hostels/p/275821/hostel-rango-boutique/",
+      "price_per_night_usd": 70,
+      "neighborhood": "University Quarter",
+      "highlights": "9.5/10 on Hostelworld — Via del Porto 6/a, 0.8km from city center, 10 min walk from Piazza Maggiore. Free daily events (family dinners, pub crawls, walking tours), multilingual staff, unlimited coffee/tea, fully-equipped kitchen. The best-rated budget bed in Bologna, in the right neighborhood.",
+      "url": "https://www.hostelworld.com/hostels/p/333560/ostello-bello-bologna/",
       "source": "hostelworld"
     },
     {
-      "name": "La Campana Hotel Boutique",
+      "name": "Art Hotel Orologio",
       "type": "hotel",
-      "price_per_night_usd": 95,
-      "neighborhood": "El Poblado",
-      "highlights": "13-room boutique with a garden courtyard, marble bathrooms, and a quiet residential location in El Poblado — walking distance to Parque Lleras without the noise of it. Good value for a proper hotel experience.",
-      "url": "https://www.booking.com/hotel/co/la-campana-boutique.html",
+      "price_per_night_usd": 145,
+      "neighborhood": "Centro Storico / Piazza Maggiore",
+      "highlights": "24 rooms and 8 suites literally on Piazza Maggiore, opposite the Palazzo Comunale's clock tower. Free breakfast, free bike rental, 19th-century building loaded with art — the location is what you're paying for, and the location is unbeatable.",
+      "url": "https://www.art-hotel-orologio.com/en/",
       "source": "booking"
     },
     {
-      "name": "The Click Clack Hotel",
+      "name": "Art Hotel Commercianti",
       "type": "hotel",
       "price_per_night_usd": 220,
-      "neighborhood": "El Poblado",
-      "highlights": "Biophilic jungle-design hotel with a rooftop pool and resident DJ on weekends — the room interiors bring the Andean landscape inside, and the restaurant downstairs is legitimately one of El Poblado's best.",
-      "url": "https://www.booking.com/hotel/co/the-click-clack-medellin.html",
+      "neighborhood": "Centro Storico / Piazza Maggiore",
+      "highlights": "A 12th-century building that was once Bologna's town hall, now 34 rooms with original vaulted ceilings, wooden beams, and windows looking directly onto the Gothic stained glass of Basilica San Petronio. The most historically specific address in Bologna, in a pedestrian zone with private parking.",
+      "url": "https://en.art-hotel-commercianti.com/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Medellín spent most of the 1990s as the most dangerous city on earth — 6,000 homicides a year, a cartel running the government, neighborhoods that police wouldn't enter. What it did with the next 25 years is one of the more remarkable urban stories of the century: an outdoor escalator system connecting hillside comunas to the metro, a cable car network that turned isolation into access, a street art movement that turned trauma into testimony. The result is a city with 3 million people, year-round spring weather (hence 'the city of eternal spring'), extraordinarily good food at every price point, and a specialty coffee scene that makes sense given you're 6 hours from some of the world's best coffee farms. Go in July or August and you'll catch either the pre-Flower Festival buildup or the Feria de las Flores itself (August) — one of the great civic celebrations in South America.",
+    "overview": "Bologna is the city Italian food people actually talk about among themselves — not Rome, not Florence, not the Amalfi Coast. It's La Grassa (the fat one) because the cooking is the serious kind: fresh egg pasta hand-cut to 8mm wide, tortellini in capon broth, mortadella sliced thick, and a wine culture built on Sangiovese that's been happening here for 900 years. It's also La Dotta (the learned) — home to the oldest university in the Western world (est. 1088), which means the city has been young, left-wing, and argumentative in the best way for nearly a millennium. And La Rossa (the red one) — not just the terracotta, but the politics: Bologna has elected communist or center-left governments continuously since 1945 and is quietly proud of it. The porticos — 38 miles of covered walkways woven through the city — are a UNESCO World Heritage Site and also just how Bolognesi move around in the rain. Go in July and you'll have the city largely to yourself; the tourists are in Florence and Venice.",
     "days": [
       {
         "day": 1,
-        "title": "El Centro, Plaza Botero, and Laureles by night",
-        "morning": "Start at Plaza Botero in El Centro — 23 bronze sculptures by Fernando Botero, donated to his hometown, sitting in an open plaza that is free, unenclosed, and genuinely used by Medellín residents. The figures are enormous and deliberately distorted: Botero's whole project was about volume and weight as aesthetic principles, and the sculptures are funnier and stranger in person than in photographs. Walk directly into the Museo de Antioquia next door (30,000 COP) — the collection includes Botero paintings and a substantial pre-Columbian and colonial floor. Spend 90 minutes. Then walk El Hueco, the surrounding wholesale market district: dozens of city blocks of open-air commerce, every category of goods, the pulse of downtown Medellín's actual economy. Loud, dense, fascinating. Buy a cholado (shaved ice with fruit and condensed milk) from a street cart for 3,000 COP.",
-        "afternoon": "Metro to Estadio station, walk into Laureles. This is where Medellín actually lives — a residential neighborhood named Time Out one of the coolest in the world, which it is, without feeling like it knows it. Walk Carrera 70 south from Estadio: coffee shops, restaurants, bakeries, and hardware stores in equal proportion. Stop at Rituales Café (just off Avenida Nutibara) for a pour-over — they source from 40 farming families in La Sierra and roast in-house; the Paraiso blend is their benchmark. Then Café Revolución (also Laureles) for espresso and a look at what the neighborhood does with a 1970s building and good taste. Walk the residential side streets east toward Parque de los Pies Descalzos.",
-        "evening": "Dinner at Mondongo's — the Laureles location on Carrera 70 is the original and the best. Order the bandeja paisa: the full Antioquian plate of rice, red beans, ground beef, chicharrón (crispy pork belly), chorizo, fried egg, avocado, and arepa. This is the working-class lunch of Antioquia made ceremonial. COP 35,000 (~$8). After dinner, walk the Estadio metro neighborhood — local bars, no tourist markup, sports game energy if Nacional or DIM are playing. The Atanasio Girardot stadium is three blocks away; if there's a match, go."
+        "title": "The Quadrilatero, the Towers, aperitivo the right way",
+        "morning": "Start in the Quadrilatero — the ancient market district that has operated in the same blocks since medieval times. Enter at Via Pescherie Vecchie and walk slowly: cheese wheels and cured meats hang in doorways, fishmongers on one side, butchers on another, wine bars opening at 9am because this is a market. Stop at Salumeria Simoni (Via Drapperie 5) for a mortadella sandwich — the real version, thick-sliced, served on a tigella or in a panino with squacquerone cheese. Then Tamburini (Via Caprarie 1, since 1932) for the spectacle alone: one of the great Italian salumerias, standing at the counter with a glass of Sangiovese and a plate of prosciutto before noon is completely acceptable here. Walk the surrounding streets: Via Drapperie, Via Clavature, Via Orefici — the Quadrilatero is not a grid, it's a medieval tangle, and getting slightly lost is the method.",
+        "afternoon": "Walk to the Two Towers (Le Due Torri) at Piazza di Porta Ravegnana — these were medieval status symbols, two rival noble families building as high as possible to intimidate each other, and the asymmetry (one tilts) makes them stranger and better than photographs suggest. Climb Torre degli Asinelli (498 steps, €5) for the definitive Bologna view: terracotta as far as you can see, porticos threading between every building, the Apennines behind it all. Afterward, find the Archiginnasio (Piazza Galvani 1) — the original seat of the University of Bologna, a stunning courtyard covered with 7,000 coats of arms of students and professors from the 13th century onward. In the library upstairs: the Anatomical Theater (Teatro Anatomico), where 17th-century medicine students watched dissections from tiered wooden seating, flanked by skinned statues of ecorché figures flanking the demonstrator's chair. It costs €3 and is one of the strangest, most beautiful rooms in Italy.",
+        "evening": "Aperitivo: Bologna invented spritz culture before it was called that. The move is a Sangiovese or Pignoletto (the local white) with a free spread of bar snacks — many bars in the university district still do complimentary aperitivo boards with cheese, cured meats, and olives with a drink order. Zerocinquantuno (Via Pescherie Vecchie 3, in the Quadrilatero) and Medulla Vini (nearby) are both excellent. Dinner at Osteria dell'Orsa (Via Mentana 1) — always full of locals, generous portions, reasonable prices, proper Bolognese cooking without tourist markup. Order the tagliatelle al ragù. This is not a bolognese 'sauce' that sits on top of pasta — it is a slow-cooked meat ragù, barely wet, tossed with fresh egg tagliatelle. If there's any liquid pooling at the bottom of the bowl, something went wrong."
       },
       {
         "day": 2,
-        "title": "Guatapé day trip — El Peñol and the reservoir",
-        "morning": "Bus from Terminal del Norte (Metro Line B to Caribe, then walk to the terminal) — buses leave roughly every 30 minutes starting at 6am, 2-hour ride, 20,000 COP each way. Get on the first or second bus to reach El Peñol before the day-trip tours from Medellín arrive. El Peñol is a 218-meter granite monolith that erupts from the reservoir below — the stairs (740 zigzag steps cut directly into the rock face) take 30–40 minutes to climb. Go before 9am and the view from the top — an endless labyrinth of islands and water and farmed hills — is yours. By 11am it will be shared with 200 tour groups. The climb is real; bring water.",
-        "afternoon": "Walk 20 minutes downhill into Guatapé town. The zócalos — the painted bas-relief panels that decorate the lower third of every building facade — make this one of the most photographed streets in Colombia. Each panel is different: local history, agricultural scenes, family emblems. Walk slowly; the whole town is the attraction. Eat at a waterfront restaurant: mojarra (tilapia from the reservoir), fried plantains, and sancocho (the hearty Colombian stew). Rent a boat for an hour on the reservoir for 50,000–80,000 COP — the scale of the water and the rock from the surface is different from the view above it.",
-        "evening": "Buses back to Medellín leave hourly from 2pm; last bus around 6pm. Back in Medellín by 7–8pm. Light dinner in El Poblado — Mercado del Río (Calle 24 #46-68, near Suramericana metro) is the move: 40+ food stalls in a converted warehouse, every Colombian region and several international cuisines, no tourist markup relative to nearby restaurants. Order at multiple stalls. There's a bar at the back."
+        "title": "Mercato Ritrovato, San Luca pilgrimage, Bolognina by night",
+        "morning": "Saturday or Wednesday: Mercato Ritrovato at Cineteca di Bologna (Via Riva di Reno 72) — the city's genuinely local organic market, producers selling direct, fresh pasta vendors, seasonal vegetables, good coffee. Wednesday evenings and Saturday mornings. If you're not there on those days, Mercato delle Erbe (Via Ugo Bassi 2) is the covered municipal market, more permanent, good for supplies and sitting at the wine bar inside. Skip Mercato di Mezzo in the Quadrilatero for actual eating — it's a pretty medieval building but the food court inside has tourist prices.",
+        "afternoon": "Walk the Portico di San Luca. This is the claim: 3.8km of continuous covered walkway, 666 arches, climbing from the city's medieval gate at Porta Saragozza up to the Santuario della Madonna di San Luca on the hill above the city. The portico was built in stages between 1674 and 1793 specifically so worshippers could make the pilgrimage in rain or heat without getting wet — which is very Bolognese problem-solving. Walk up mid-afternoon: the light comes through the arches in a particular way, you'll have the path mostly to yourself on a weekday, and the view of Bologna from the hilltop sanctuary is one of the better payoffs per unit of effort in Italy. Pilgrims and joggers share this path. Both are correct.",
+        "evening": "Bolognina — the neighborhood north of the train station, once the working-class industrial district, now the most genuinely diverse and interesting part of the city. Street art, cheaper bars, multicultural restaurants, and none of the self-consciousness of the historic center. Walk Viale Angelo Masini and the streets radiating off it. Eat at whatever looks busy and local — the Chinese restaurants here are legitimately good (large Chinese community, the real kind). Bar Paolo (local) is the unpretentious beer-and-food spot that guides never mention. Ruggine (former bicycle shop, great vibes) if you want something more designed."
       },
       {
         "day": 3,
-        "title": "Comuna 13, Jardín Botánico, Casa de la Memoria",
-        "morning": "Metro to San Javier station for Comuna 13. The context matters: this neighborhood was the site of Operation Orion in 2002, a military offensive that displaced 3,000 residents and left over 300 dead. The outdoor escalators installed in 2011 — six escalator sections connecting the hillside community to the metro grid — were a physical statement about the city's relationship to its comunas. Walk up through the neighborhood before 10am, when the day-trip buses from El Poblado arrive. The murals are not decorative: they're political, memorial, and technically sophisticated. Avoid the packaged tour groups; the local guides who grew up in the neighborhood and wait near the bottom of the escalators are better and support the community directly. Tip generously.",
-        "afternoon": "Metro to Universidad station for the Jardín Botánico (Botanical Garden) — 14 hectares, 4,500 plants, 139 bird species, and the Orquidieorama, a pavilion whose roof structure mimics the cell patterns of plant life and is one of the more quietly remarkable pieces of architecture in Colombia. Free entry (closed Mondays). Eat at In Situ restaurant inside the garden — they use produce grown on-site and the kitchen takes it seriously. Then walk 10 minutes to Casa de la Memoria (Calle 51 #36-66): a museum about the decades of armed conflict that shaped modern Medellín. The permanent collection includes survivor testimonies, photographs, and sound installations that are harrowing and necessary. Free, with audio guide. Do not skip it because you want to feel good on your last afternoon."
-        ,
-        "evening": "Last night in Laureles or El Poblado. For coffee: Pergamino (Carrera 37 #8A-37, El Poblado) is the city's best-known specialty roaster and the shop functions as a café, bar, and gathering place — it stays lively late. For a proper last dinner: Relato (check current location) does upscale Colombian fusion that earns its price. Or end simply: find a local tienda, buy a beer, sit on the sidewalk, and watch Medellín do what it does — a city that has earned the right to be easy."
+        "title": "Modena day trip, Finestrella, last aperitivo at Camera con Vista",
+        "morning": "High-speed train to Modena — 17 minutes, €5–6 each way. Modena is what happens when you give a small city Ferraris, balsamic vinegar acetaias, and Massimo Bottura. The Mercato Albinelli (Via Luigi Albinelli) is one of the most beautiful covered markets in Italy — a 1931 glass-and-iron pavilion where the vendors are the same families who've been there for generations. Buy proper Aceto Balsamico Tradizionale (the DOP kind, aged 12+ years in a series of wood barrels, fundamentally different from the supermarket product) from one of the acetaias selling at the market. The Modena Cathedral (Duomo di Modena) is a 12th-century Romanesque landmark with Wiligelmo's relief sculptures on the facade — worth 30 minutes. If you booked Osteria Francescana years in advance and have Michelin three-star budget: Bottura's restaurant is here.",
+        "afternoon": "Back to Bologna by 2pm. Walk to Via Piella — find the Finestrella di Via Piella, a small window cut into an alleyway wall (it looks like a gate in a wooden fence). Open it: behind the window is one of the few remaining visible stretches of Bologna's medieval canal system, the Canale di Reno, which once powered the silk mills that made Bologna wealthy and was subsequently covered over. This is not in any guidebook. It's just a window in an alley, and behind it is a fragment of the medieval city that the modern city forgot to bury. Stand there for a minute.",
+        "evening": "Walk to Piazza Santo Stefano — a triangular piazza with a 7th-century basilica complex (actually seven interconnected churches) on one end, and Camera con Vista (Strada Maggiore 40a, third floor) for the aperitivo. The name means 'room with a view' and the view is directly over the piazza and the Santo Stefano rooflines. Order a Pignoletto Frizzante (the local Bolognese sparkling white, not prosecco — this matters). For dinner, walk 10 minutes to Caffè Terzi (Via Guglielmo Oberdan 10) for the best coffee of the trip — a specialty roaster that takes the craft seriously and is open into the evening. Then find somewhere along Via del Pratello (the street the students have been drinking on since the 13th century) and stay as long as you want. Bologna is a city that stays up because it has always stayed up."
       }
     ],
     "tips": [
-      "Do not do an Escobar tour. The local term is 'Pablo tours' and several operators have rebranded under pressure, but they're still running. Medellín residents — particularly in the comunas most affected by the cartel years — don't use his name and find these tours deeply disrespectful. The city has built an entire narrative about transformation precisely to get past this history; you don't need to dig it up for content.",
-      "Scopolamine ('burundanga') is a real and documented threat, primarily through dating apps. Tinder and Bumble have been used to set up meetings where drinks are drugged, causing loss of consciousness and allowing theft. Meet people in bars you walked into yourself, not from app-arranged meetings. This is not paranoia — Medellín's tourism board has published warnings about this specifically.",
-      "'No dar papaya' — the local expression literally means 'don't give someone a papaya (easy opportunity).' Practically: keep your phone in your front pocket, not on the restaurant table. Step into a café to check your map. Carry only what you need. Do these things and Medellín's risk for a careful tourist is lower than most US cities (2025 homicide rate: 11.7 per 100,000, lower than Indianapolis).",
-      "The metro is excellent and the point. Medellín's Metro was the first urban rail system in Colombia, opened in 1995, and the city treats it with extraordinary care — it is genuinely clean, on-time, and safe. The Metrocable gondola lines (Lines J, K, L, M) connect hillside comunas to the metro grid and are worth riding for the views alone. Get a rechargeable card at any station.",
-      "August is the Feria de las Flores (Flower Festival) — one of the great civic celebrations in South America. The Silleteros parade on the final Sunday is the centerpiece: Antioquian farmers carry elaborate flower arrangements called silletas on their backs through the city center, some weighing over 100 pounds. The city is genuinely alive in a way that even Medellín's normal energy doesn't prepare you for. Book accommodation well ahead if your dates overlap.",
-      "Coffee context: you're 6 hours from the Eje Cafetero (Coffee Axis), where most Colombian specialty coffee is grown. The tinto (basic black coffee) at a carretilla cart costs 500 COP and is made from whatever's cheapest. The pour-over at Rituales or Pergamino uses award-winning heirloom varietals and costs 8,000 COP. Both are worth having, for different reasons. Never order Nescafé — in a country with this much fresh coffee, it's an insult to everyone."
+      "The pasta rules: tagliatelle al ragù is what Bolognese people eat. 'Spaghetti bolognese' does not exist here — if a restaurant is serving it to you on spaghetti, you're in a tourist restaurant. Tortellini in brodo (in capon broth) is the other essential, and the broth matters as much as the pasta. Tigelle (small flatbreads) with mortadella and squacquerone (a fresh, spreadable cheese) is the bar snack/lunch of choice. Eat all three and report back.",
+      "Mercato Ritrovato vs. Mercato di Mezzo: the former is the real local market (Wednesday evenings and Saturday mornings at Cineteca); the latter is a photogenic medieval building turned tourist food court. Both are worth visiting for different reasons — but eat at Ritrovato, photograph Mezzo.",
+      "Senza Nome (Via Caprarie 4, near the Quadrilatero) is the only deaf-owned bar in Bologna, possibly in Italy — you order using Italian Sign Language (ISL), there are prompt cards, and the staff are entirely members of the deaf community. It is genuinely worth going and worth being a slightly awkward tourist about. The aperitivo is good and the experience is unlike any other bar you'll enter.",
+      "Modena is 17 minutes by high-speed train and costs about €5. Bologna is a hub: Florence is 35 minutes, Venice is 80 minutes, Milan is 60 minutes. The location makes day trips trivially easy and the prices don't change just because you're in the center of Italy's most expensive rail corridor.",
+      "Giusti Boutique (near the Quadrilatero) lets you taste multiple balsamic vinegars before buying — and the difference between the 12-year, 25-year, and 50-year traditional Modena balsamic is not subtle. The real product (DOP label, minimum 12 years in wood barrels) costs €40–150 for a small bottle and is nothing like the grocery store balsamic. One bottle lasts years. Buy it here instead of at the Modena tourist shops where the provenance is murkier.",
+      "The whispering wall: in the passage under the Palazzo del Podestà (the arcaded building in the middle of Piazza Maggiore) there are four corner alcoves. Stand in one corner facing the wall and have a companion stand in the diagonally opposite corner facing their wall. You can hear each other clearly in what otherwise looks like ordinary architecture. The legend is that medieval lepers used this to confess to priests without proximity. The acoustic is real regardless of the legend."
     ],
     "sources": [
-      { "title": "Medellín 2026: When to visit, where to stay, what to do — National Geographic", "url": "https://www.nationalgeographic.com/travel/best-of-the-world-2026/article/medellin-colombia" },
-      { "title": "14 Things to Do (and 1 Not to Do) in Medellin — Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blogs/ultimate-list-medellin/" },
-      { "title": "21 coolest things to do in Medellín — The Haute Bohemian", "url": "https://courtneymuro.com/21-cool-things-to-do-in-medellin-colombia/" },
-      { "title": "Laureles Medellín: Food, Coffee, and Culture — Seissta", "url": "https://seissta.com/blog/what-to-do-in-laureles-medellin" },
-      { "title": "Where to Eat in Laureles: 20 Top Restaurants — Medellin Guru", "url": "https://medellinguru.com/best-restaurants-in-laureles/" },
-      { "title": "Is Medellín Safe in 2026? — Guanabana Tours", "url": "https://guanabanatours.com/is-it-safe-for-americans-to-travel-to-colombia-in-2026/" },
-      { "title": "15 Dos and Don'ts While Traveling in Medellin — Under 30 Experiences", "url": "https://under30experiences.com/blog/15-dos-and-donts-while-traveling-in-medellin" }
+      { "title": "20 Best Things to Do in Bologna, Italy (2026 Guide) — Earth Trekkers", "url": "https://www.earthtrekkers.com/things-to-do-in-bologna/" },
+      { "title": "Bologna, Italy Travel Guide: 3 Insiders Share Where to Eat, Drink, and Play — W Magazine", "url": "https://www.wmagazine.com/life/bologna-italy-travel-guide-summer-2025" },
+      { "title": "Bologna Italy: 20 Best Things to Do (2025 Travel Guide) — What's Down That Street", "url": "https://whatsdownthatstreet.com/2025/01/03/top-things-to-do-in-bologna/" },
+      { "title": "Advice for Bologna solo... casual eats? — Rick Steves Travel Forum", "url": "https://community.ricksteves.com/travel-forum/italy/advice-for-bologna-solo-casual-eats" },
+      { "title": "Bologna Welcome — Official Tourist Office", "url": "https://www.bolognawelcome.com/en" }
     ]
   }
 }

@@ -3,6 +3,123 @@
     {
       "updated": "2026-06-22",
       "destination": {
+        "city": "Medellín",
+        "country": "Colombia",
+        "flag": "🇨🇴",
+        "iata": "MDE",
+        "lat": 6.2442,
+        "lon": -75.5812,
+        "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
+      },
+      "flight_search_date": "2026-06-22",
+      "flights": [
+        {
+          "airline": "Avianca",
+          "price_usd": 412,
+          "outbound_dates": "July–August (Tue/Wed departures cheapest; avoid Friday/Sunday)",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~9h total",
+          "url": "https://www.avianca.com/us/en/flights-from-san-francisco-to-medellin",
+          "notes": "Connects through San Salvador (SAL) — shortest layover option from SFO. Colombia's flagship carrier, solid service, meals included. Book direct at avianca.com; Tue/Wed departures run ~10% cheaper than weekends. Use Google Flights to find the lowest-fare date combo before booking."
+        },
+        {
+          "airline": "American Airlines",
+          "price_usd": 440,
+          "outbound_dates": "July–August flexible (midweek saves ~$30–40 vs. weekend)",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~11h total",
+          "url": "https://www.aa.com/en-us/flights-from-san-francisco-to-medellin",
+          "notes": "Connects through Miami (MIA) — a smooth hub with Colombian food in the terminal. Good option if you have AAdvantage miles. August dates typically ~$20 cheaper than July. Check Google Flights for specific date pricing before booking."
+        },
+        {
+          "airline": "JetBlue",
+          "price_usd": 475,
+          "outbound_dates": "August (August noticeably cheaper than July peak)",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~12h total",
+          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-medellin.html",
+          "notes": "Routes via Fort Lauderdale (FLL) or JFK. JetBlue's economy product is comfortable and includes snacks/drinks. August fares drop roughly $40–60 vs. July. Price-check against Avianca before booking — the Avianca direct connection through SAL is usually faster and comparably priced."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Hostel Rango Boutique",
+          "type": "hostel",
+          "price_per_night_usd": 35,
+          "neighborhood": "El Poblado",
+          "highlights": "9.6/10 on Hostelworld (1,478 reviews) — 14 private rooms, 1 minute from Parque Lleras, on-site Swiss bakery, rooftop pool with city views, free salsa classes and yoga weekly. The design-forward hostel that doesn't feel like a hostel.",
+          "url": "https://www.hostelworld.com/hostels/p/275821/hostel-rango-boutique/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "La Campana Hotel Boutique",
+          "type": "hotel",
+          "price_per_night_usd": 95,
+          "neighborhood": "El Poblado",
+          "highlights": "13-room boutique with a garden courtyard, marble bathrooms, and a quiet residential location in El Poblado — walking distance to Parque Lleras without the noise of it. Good value for a proper hotel experience.",
+          "url": "https://www.booking.com/hotel/co/la-campana-boutique.html",
+          "source": "booking"
+        },
+        {
+          "name": "The Click Clack Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 220,
+          "neighborhood": "El Poblado",
+          "highlights": "Biophilic jungle-design hotel with a rooftop pool and resident DJ on weekends — the room interiors bring the Andean landscape inside, and the restaurant downstairs is legitimately one of El Poblado's best.",
+          "url": "https://www.booking.com/hotel/co/the-click-clack-medellin.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Medellín spent most of the 1990s as the most dangerous city on earth — 6,000 homicides a year, a cartel running the government, neighborhoods that police wouldn't enter. What it did with the next 25 years is one of the more remarkable urban stories of the century: an outdoor escalator system connecting hillside comunas to the metro, a cable car network that turned isolation into access, a street art movement that turned trauma into testimony. The result is a city with 3 million people, year-round spring weather (hence 'the city of eternal spring'), extraordinarily good food at every price point, and a specialty coffee scene that makes sense given you're 6 hours from some of the world's best coffee farms. Go in July or August and you'll catch either the pre-Flower Festival buildup or the Feria de las Flores itself (August) — one of the great civic celebrations in South America.",
+        "days": [
+          {
+            "day": 1,
+            "title": "El Centro, Plaza Botero, and Laureles by night",
+            "morning": "Start at Plaza Botero in El Centro — 23 bronze sculptures by Fernando Botero, donated to his hometown, sitting in an open plaza that is free, unenclosed, and genuinely used by Medellín residents. The figures are enormous and deliberately distorted: Botero's whole project was about volume and weight as aesthetic principles, and the sculptures are funnier and stranger in person than in photographs. Walk directly into the Museo de Antioquia next door (30,000 COP) — the collection includes Botero paintings and a substantial pre-Columbian and colonial floor. Spend 90 minutes. Then walk El Hueco, the surrounding wholesale market district: dozens of city blocks of open-air commerce, every category of goods, the pulse of downtown Medellín's actual economy. Loud, dense, fascinating. Buy a cholado (shaved ice with fruit and condensed milk) from a street cart for 3,000 COP.",
+            "afternoon": "Metro to Estadio station, walk into Laureles. This is where Medellín actually lives — a residential neighborhood named Time Out one of the coolest in the world, which it is, without feeling like it knows it. Walk Carrera 70 south from Estadio: coffee shops, restaurants, bakeries, and hardware stores in equal proportion. Stop at Rituales Café (just off Avenida Nutibara) for a pour-over — they source from 40 farming families in La Sierra and roast in-house; the Paraiso blend is their benchmark. Then Café Revolución (also Laureles) for espresso and a look at what the neighborhood does with a 1970s building and good taste. Walk the residential side streets east toward Parque de los Pies Descalzos.",
+            "evening": "Dinner at Mondongo's — the Laureles location on Carrera 70 is the original and the best. Order the bandeja paisa: the full Antioquian plate of rice, red beans, ground beef, chicharrón (crispy pork belly), chorizo, fried egg, avocado, and arepa. This is the working-class lunch of Antioquia made ceremonial. COP 35,000 (~$8). After dinner, walk the Estadio metro neighborhood — local bars, no tourist markup, sports game energy if Nacional or DIM are playing. The Atanasio Girardot stadium is three blocks away; if there's a match, go."
+          },
+          {
+            "day": 2,
+            "title": "Guatapé day trip — El Peñol and the reservoir",
+            "morning": "Bus from Terminal del Norte (Metro Line B to Caribe, then walk to the terminal) — buses leave roughly every 30 minutes starting at 6am, 2-hour ride, 20,000 COP each way. Get on the first or second bus to reach El Peñol before the day-trip tours from Medellín arrive. El Peñol is a 218-meter granite monolith that erupts from the reservoir below — the stairs (740 zigzag steps cut directly into the rock face) take 30–40 minutes to climb. Go before 9am and the view from the top — an endless labyrinth of islands and water and farmed hills — is yours. By 11am it will be shared with 200 tour groups. The climb is real; bring water.",
+            "afternoon": "Walk 20 minutes downhill into Guatapé town. The zócalos — the painted bas-relief panels that decorate the lower third of every building facade — make this one of the most photographed streets in Colombia. Each panel is different: local history, agricultural scenes, family emblems. Walk slowly; the whole town is the attraction. Eat at a waterfront restaurant: mojarra (tilapia from the reservoir), fried plantains, and sancocho (the hearty Colombian stew). Rent a boat for an hour on the reservoir for 50,000–80,000 COP — the scale of the water and the rock from the surface is different from the view above it.",
+            "evening": "Buses back to Medellín leave hourly from 2pm; last bus around 6pm. Back in Medellín by 7–8pm. Light dinner in El Poblado — Mercado del Río (Calle 24 #46-68, near Suramericana metro) is the move: 40+ food stalls in a converted warehouse, every Colombian region and several international cuisines, no tourist markup relative to nearby restaurants. Order at multiple stalls. There's a bar at the back."
+          },
+          {
+            "day": 3,
+            "title": "Comuna 13, Jardín Botánico, Casa de la Memoria",
+            "morning": "Metro to San Javier station for Comuna 13. The context matters: this neighborhood was the site of Operation Orion in 2002, a military offensive that displaced 3,000 residents and left over 300 dead. The outdoor escalators installed in 2011 — six escalator sections connecting the hillside community to the metro grid — were a physical statement about the city's relationship to its comunas. Walk up through the neighborhood before 10am, when the day-trip buses from El Poblado arrive. The murals are not decorative: they're political, memorial, and technically sophisticated. Avoid the packaged tour groups; the local guides who grew up in the neighborhood and wait near the bottom of the escalators are better and support the community directly. Tip generously.",
+            "afternoon": "Metro to Universidad station for the Jardín Botánico (Botanical Garden) — 14 hectares, 4,500 plants, 139 bird species, and the Orquidieorama, a pavilion whose roof structure mimics the cell patterns of plant life and is one of the more quietly remarkable pieces of architecture in Colombia. Free entry (closed Mondays). Eat at In Situ restaurant inside the garden — they use produce grown on-site and the kitchen takes it seriously. Then walk 10 minutes to Casa de la Memoria (Calle 51 #36-66): a museum about the decades of armed conflict that shaped modern Medellín. The permanent collection includes survivor testimonies, photographs, and sound installations that are harrowing and necessary. Free, with audio guide. Do not skip it because you want to feel good on your last afternoon.",
+            "evening": "Last night in Laureles or El Poblado. For coffee: Pergamino (Carrera 37 #8A-37, El Poblado) is the city's best-known specialty roaster and the shop functions as a café, bar, and gathering place — it stays lively late. For a proper last dinner: Relato (check current location) does upscale Colombian fusion that earns its price. Or end simply: find a local tienda, buy a beer, sit on the sidewalk, and watch Medellín do what it does — a city that has earned the right to be easy."
+          }
+        ],
+        "tips": [
+          "Do not do an Escobar tour. The local term is 'Pablo tours' and several operators have rebranded under pressure, but they're still running. Medellín residents — particularly in the comunas most affected by the cartel years — don't use his name and find these tours deeply disrespectful. The city has built an entire narrative about transformation precisely to get past this history; you don't need to dig it up for content.",
+          "Scopolamine ('burundanga') is a real and documented threat, primarily through dating apps. Tinder and Bumble have been used to set up meetings where drinks are drugged, causing loss of consciousness and allowing theft. Meet people in bars you walked into yourself, not from app-arranged meetings. This is not paranoia — Medellín's tourism board has published warnings about this specifically.",
+          "'No dar papaya' — the local expression literally means 'don't give someone a papaya (easy opportunity).' Practically: keep your phone in your front pocket, not on the restaurant table. Step into a café to check your map. Carry only what you need. Do these things and Medellín's risk for a careful tourist is lower than most US cities (2025 homicide rate: 11.7 per 100,000, lower than Indianapolis).",
+          "The metro is excellent and the point. Medellín's Metro was the first urban rail system in Colombia, opened in 1995, and the city treats it with extraordinary care — it is genuinely clean, on-time, and safe. The Metrocable gondola lines (Lines J, K, L, M) connect hillside comunas to the metro grid and are worth riding for the views alone. Get a rechargeable card at any station.",
+          "August is the Feria de las Flores (Flower Festival) — one of the great civic celebrations in South America. The Silleteros parade on the final Sunday is the centerpiece: Antioquian farmers carry elaborate flower arrangements called silletas on their backs through the city center, some weighing over 100 pounds. The city is genuinely alive in a way that even Medellín's normal energy doesn't prepare you for. Book accommodation well ahead if your dates overlap.",
+          "Coffee context: you're 6 hours from the Eje Cafetero (Coffee Axis), where most Colombian specialty coffee is grown. The tinto (basic black coffee) at a carretilla cart costs 500 COP and is made from whatever's cheapest. The pour-over at Rituales or Pergamino uses award-winning heirloom varietals and costs 8,000 COP. Both are worth having, for different reasons. Never order Nescafé — in a country with this much fresh coffee, it's an insult to everyone."
+        ],
+        "sources": [
+          { "title": "Medellín 2026: When to visit, where to stay, what to do — National Geographic", "url": "https://www.nationalgeographic.com/travel/best-of-the-world-2026/article/medellin-colombia" },
+          { "title": "14 Things to Do (and 1 Not to Do) in Medellin — Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blogs/ultimate-list-medellin/" },
+          { "title": "21 coolest things to do in Medellín — The Haute Bohemian", "url": "https://courtneymuro.com/21-cool-things-to-do-in-medellin-colombia/" },
+          { "title": "Laureles Medellín: Food, Coffee, and Culture — Seissta", "url": "https://seissta.com/blog/what-to-do-in-laureles-medellin" },
+          { "title": "Where to Eat in Laureles: 20 Top Restaurants — Medellin Guru", "url": "https://medellinguru.com/best-restaurants-in-laureles/" },
+          { "title": "Is Medellín Safe in 2026? — Guanabana Tours", "url": "https://guanabanatours.com/is-it-safe-for-americans-to-travel-to-colombia-in-2026/" },
+          { "title": "15 Dos and Don'ts While Traveling in Medellin — Under 30 Experiences", "url": "https://under30experiences.com/blog/15-dos-and-donts-while-traveling-in-medellin" }
+        ]
+      }
+    },
+    {
+      "updated": "2026-06-22",
+      "destination": {
         "city": "Bangkok",
         "country": "Thailand",
         "flag": "🇹🇭",
@@ -307,27 +424,9 @@
       "itinerary": {
         "overview": "Lisbon has been 'discovered' for a decade now, but it still rewards the visitor who walks past the tram line and into the actual city. The hills above Alfama — Graça, Mouraria, Intendente — are where Lisbon actually lives: multicultural, cheap, genuinely beautiful, almost no tour buses. The food is serious (Cervejaria Ramiro is one of the best seafood restaurants in Europe at any price), the natural wine scene is having a moment, and fado at a proper tasca rather than a dinner show is one of the more legitimately moving experiences you can have in a restaurant. Go before summer ends: September is measurably better than July for crowds and prices, but July works if you go early and late.",
         "days": [
-          {
-            "day": 1,
-            "title": "Mouraria, Graça, Tasca do Chico",
-            "morning": "Start in Mouraria — Lisbon's oldest neighborhood, Moorish roots, now the city's most multicultural district and genuinely undervisited. Walk Rua do Benformoso from Martim Moniz south: this single street has Nepali momo next to Portuguese cozido next to Indian biryani, all for €3–5 a plate. Cervejaria Ramiro (Av. Almirante Reis 1) opens at noon — go for the prego (garlic steak sandwich on soft bread) and garlic shrimp at lunch prices rather than dinner. Walk uphill toward the Castelo, but skip the castle itself (mid-20th century reconstruction, expensive, crowded) — instead stop at Largo das Portas do Sol for the same view for free. Locals sit on the wall with a beer. You should too.",
-            "afternoon": "Continue up into Graça — this is the neighborhood above Alfama that tourists skip. Miradouro da Graça has arguably the best panoramic view in Lisbon and is almost always empty of tour groups. Walk Travessa de Santa Helena for street art and crumbling tiled facades. The Panteão Nacional (São Vicente de Fora area) has an extraordinary rooftop terrace and far fewer visitors than the Castelo. For pastéis de nata: buy them anywhere marked 'Fabrica Próprio' (baked on premises) — there's no reason to queue at Pastéis de Belém in Belém when the same tart is available hot throughout the city. Walk the Escadinhas de São Cristóvão staircase down into Alfama.",
-            "evening": "Tasca do Chico (Rua do Diário de Notícias 39, Bairro Alto) for fado vadio — bohemian fado in a 30-seat restaurant where the performers are often amateurs or semi-professionals, singing in respectful silence from the crowd. This is not the dinner-show fado you get at tourist restaurants; it is the real version, and it is something else. Reservations are essential; book at least a week ahead. Get there for the first session (usually 8pm) and eat the petiscos. Do not leave early."
-          },
-          {
-            "day": 2,
-            "title": "Chiado & Carmo, Belém, Cais do Sodré",
-            "morning": "Walk from Rossio up to Chiado — take the free route through Largo do Carmo (a tiny street beside Carmo Convent) rather than paying €6 for the Santa Justa Elevator; you end up at the same place. The Carmo Convent itself has its roof open to the sky (destroyed in the 1755 earthquake, never rebuilt) and holds an archaeology museum inside the roofless nave — strange and beautiful. Rua Garrett is the main drag: Livraria Bertrand at no. 73 is the world's oldest continuously operating bookshop (since 1732), genuinely worth 20 minutes. Take the Elevador da Bica (€3.90, short, steep, fun) down toward the river — not Tram 28, which has systematic pickpocketing problems and is always overcrowded.",
-            "afternoon": "Tram to Belém (Tram 15E from Praça da Figueira, ~25 minutes). The Jerónimos Monastery is the real deal — 16th-century Manueline architecture that wasn't reconstructed, still intact, genuinely awe-inspiring. Torre de Belém is lovely from the outside; skip the interior queue. The move in Belém that most visitors miss: MAAT (Museum of Art, Architecture and Technology) on the riverfront — rotating contemporary art exhibitions in a striking new building, almost no crowds, riverside terrace with a good coffee bar.",
-            "evening": "Back east to Cais do Sodré. This was Lisbon's sailors' red-light district until about 2010; now it's the most interesting waterfront drinking neighborhood in the city. Pink Street (Rua Nova do Carvalho) is painted actual pink and lined with bars — loud, fun, locals and tourists mixed. For food first: walk two blocks into Santos/Madragoa and eat at any tasca with a hand-written menu board and no pictures on the menu. Avoid the restaurants directly on the waterfront promenade."
-          },
-          {
-            "day": 3,
-            "title": "Príncipe Real, LX Factory, Natural Wine Night in Intendente",
-            "morning": "Príncipe Real — where old Lisbon money lives, and it shows in the most tasteful way. On Saturday morning, the jardim (garden at Praça do Príncipe Real) runs a small organic market. Walk in through Embaixada at Praça do Príncipe Real 26: a 19th-century neo-Moorish palace converted into an independent design shopping gallery, with each room taken by a different small Portuguese brand. Worth walking through even if you don't buy anything. Coffee at Copenhagen Coffee Lab (Rua Nova da Piedade 10) which is exactly what it sounds like — serious third-wave coffee in a calming, well-designed room.",
-            "afternoon": "Uber to LX Factory (Rua Rodrigues de Faria 103, Alcântara, under the 25 de Abril suspension bridge). This former industrial complex is where Lisbon's creative class works, eats, and runs Sunday markets. On any day: Livraria da Ler Devagar inside the main factory building is one of the most extraordinary bookshops in Europe — bicycles hanging from the ceiling, books stacked floor to ceiling in a multi-story atrium. Rio Maravilha restaurant (top floor, terrace) has a river view that justifies the slightly higher prices for an afternoon drink.",
-            "evening": "Return to Intendente/Anjos for the natural wine night. Start at Dois Corvos taproom (Calçada de Intendente 44A) — one of Portugal's best craft breweries, 12 rotating taps, excellent pub food including seafood snacks. Then walk to Rude Wine Bar on Rua do Benformoso: a former 1940s delicatessen in Mouraria with ~40 Portuguese natural and low-intervention wines and simple cold dishes. The clientele is local, the wine is honest, and you can stay very late. Finish at Graça do Vinho (on the street approaching Miradouro da Graça) for a final glass with the hill views."
-          }
+          { "day": 1, "title": "Mouraria, Graça, Tasca do Chico", "morning": "Start in Mouraria — Lisbon's oldest neighborhood, Moorish roots, now the city's most multicultural district and genuinely undervisited. Walk Rua do Benformoso from Martim Moniz south: this single street has Nepali momo next to Portuguese cozido next to Indian biryani, all for €3–5 a plate. Cervejaria Ramiro (Av. Almirante Reis 1) opens at noon — go for the prego (garlic steak sandwich on soft bread) and garlic shrimp at lunch prices rather than dinner. Walk uphill toward the Castelo, but skip the castle itself (mid-20th century reconstruction, expensive, crowded) — instead stop at Largo das Portas do Sol for the same view for free. Locals sit on the wall with a beer. You should too.", "afternoon": "Continue up into Graça — this is the neighborhood above Alfama that tourists skip. Miradouro da Graça has arguably the best panoramic view in Lisbon and is almost always empty of tour groups. Walk Travessa de Santa Helena for street art and crumbling tiled facades. The Panteão Nacional (São Vicente de Fora area) has an extraordinary rooftop terrace and far fewer visitors than the Castelo. For pastéis de nata: buy them anywhere marked 'Fabrica Próprio' (baked on premises) — there's no reason to queue at Pastéis de Belém in Belém when the same tart is available hot throughout the city. Walk the Escadinhas de São Cristóvão staircase down into Alfama.", "evening": "Tasca do Chico (Rua do Diário de Notícias 39, Bairro Alto) for fado vadio — bohemian fado in a 30-seat restaurant where the performers are often amateurs or semi-professionals, singing in respectful silence from the crowd. This is not the dinner-show fado you get at tourist restaurants; it is the real version, and it is something else. Reservations are essential; book at least a week ahead. Get there for the first session (usually 8pm) and eat the petiscos. Do not leave early." },
+          { "day": 2, "title": "Chiado & Carmo, Belém, Cais do Sodré", "morning": "Walk from Rossio up to Chiado — take the free route through Largo do Carmo (a tiny street beside Carmo Convent) rather than paying €6 for the Santa Justa Elevator; you end up at the same place. The Carmo Convent itself has its roof open to the sky (destroyed in the 1755 earthquake, never rebuilt) and holds an archaeology museum inside the roofless nave — strange and beautiful. Rua Garrett is the main drag: Livraria Bertrand at no. 73 is the world's oldest continuously operating bookshop (since 1732), genuinely worth 20 minutes. Take the Elevador da Bica (€3.90, short, steep, fun) down toward the river — not Tram 28, which has systematic pickpocketing problems and is always overcrowded.", "afternoon": "Tram to Belém (Tram 15E from Praça da Figueira, ~25 minutes). The Jerónimos Monastery is the real deal — 16th-century Manueline architecture that wasn't reconstructed, still intact, genuinely awe-inspiring. Torre de Belém is lovely from the outside; skip the interior queue. The move in Belém that most visitors miss: MAAT (Museum of Art, Architecture and Technology) on the riverfront — rotating contemporary art exhibitions in a striking new building, almost no crowds, riverside terrace with a good coffee bar.", "evening": "Back east to Cais do Sodré. This was Lisbon's sailors' red-light district until about 2010; now it's the most interesting waterfront drinking neighborhood in the city. Pink Street (Rua Nova do Carvalho) is painted actual pink and lined with bars — loud, fun, locals and tourists mixed. For food first: walk two blocks into Santos/Madragoa and eat at any tasca with a hand-written menu board and no pictures on the menu. Avoid the restaurants directly on the waterfront promenade." },
+          { "day": 3, "title": "Príncipe Real, LX Factory, Natural Wine Night in Intendente", "morning": "Príncipe Real — where old Lisbon money lives, and it shows in the most tasteful way. On Saturday morning, the jardim (garden at Praça do Príncipe Real) runs a small organic market. Walk in through Embaixada at Praça do Príncipe Real 26: a 19th-century neo-Moorish palace converted into an independent design shopping gallery, with each room taken by a different small Portuguese brand. Worth walking through even if you don't buy anything. Coffee at Copenhagen Coffee Lab (Rua Nova da Piedade 10) which is exactly what it sounds like — serious third-wave coffee in a calming, well-designed room.", "afternoon": "Uber to LX Factory (Rua Rodrigues de Faria 103, Alcântara, under the 25 de Abril suspension bridge). This former industrial complex is where Lisbon's creative class works, eats, and runs Sunday markets. On any day: Livraria da Ler Devagar inside the main factory building is one of the most extraordinary bookshops in Europe — bicycles hanging from the ceiling, books stacked floor to ceiling in a multi-story atrium. Rio Maravilha restaurant (top floor, terrace) has a river view that justifies the slightly higher prices for an afternoon drink.", "evening": "Return to Intendente/Anjos for the natural wine night. Start at Dois Corvos taproom (Calçada de Intendente 44A) — one of Portugal's best craft breweries, 12 rotating taps, excellent pub food including seafood snacks. Then walk to Rude Wine Bar on Rua do Benformoso: a former 1940s delicatessen in Mouraria with ~40 Portuguese natural and low-intervention wines and simple cold dishes. The clientele is local, the wine is honest, and you can stay very late. Finish at Graça do Vinho (on the street approaching Miradouro da Graça) for a final glass with the hill views." }
         ],
         "tips": [
           "Skip Tram 28 entirely. Pickpockets work it systematically, the ride isn't particularly scenic, and you can see the same hills faster on foot or via the Elevador da Bica (€3.90). Use Uber for longer distances — it's cheap, widely available, and you'll be grateful.",
@@ -360,108 +459,16 @@
       },
       "flight_search_date": "2026-06-19",
       "flights": [
-        {
-          "airline": "EVA Air",
-          "price_usd": 800,
-          "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)",
-          "return_dates": "Jul 14–21",
-          "stops": 0,
-          "duration": "13h 25m",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html",
-          "notes": "Taiwan's flagship full-service carrier, excellent cabin crew and meal quality. Direct SFO→TPE. Skyscanner showing July roundtrip averages ~$500–850 depending on day — midweek is significantly cheaper. Book direct at evaair.com; use Google Flights to find the cheapest dates first."
-        },
-        {
-          "airline": "China Airlines",
-          "price_usd": 990,
-          "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)",
-          "return_dates": "flexible within sale window",
-          "stops": 0,
-          "duration": "14h 5m",
-          "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/",
-          "notes": "Taiwan's national carrier. Early Summer Sale locks in $990 roundtrip for travel Jul 2–Dec 10, 2026. Full service with meals and 2 free checked bags. Sale pricing may sell out — book via china-airlines.com directly. 7 nonstop flights weekly from SFO."
-        },
-        {
-          "airline": "STARLUX Airlines",
-          "price_usd": 1013,
-          "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)",
-          "return_dates": "Aug 12–19",
-          "stops": 0,
-          "duration": "13h 30m",
-          "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei",
-          "notes": "New premium Taiwanese carrier with a noticeably better economy product — leather seats, larger IFE screens, more legroom than EVA/CI. July runs $1,138; push dates to August and it drops to $1,013. Worth the premium if you want to arrive comfortable and rested."
-        }
+        { "airline": "EVA Air", "price_usd": 800, "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)", "return_dates": "Jul 14–21", "stops": 0, "duration": "13h 25m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html", "notes": "Taiwan's flagship full-service carrier, excellent cabin crew and meal quality. Direct SFO→TPE. Skyscanner showing July roundtrip averages ~$500–850 depending on day — midweek is significantly cheaper. Book direct at evaair.com; use Google Flights to find the cheapest dates first." },
+        { "airline": "China Airlines", "price_usd": 990, "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)", "return_dates": "flexible within sale window", "stops": 0, "duration": "14h 5m", "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/", "notes": "Taiwan's national carrier. Early Summer Sale locks in $990 roundtrip for travel Jul 2–Dec 10, 2026. Full service with meals and 2 free checked bags. Sale pricing may sell out — book via china-airlines.com directly. 7 nonstop flights weekly from SFO." },
+        { "airline": "STARLUX Airlines", "price_usd": 1013, "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)", "return_dates": "Aug 12–19", "stops": 0, "duration": "13h 30m", "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei", "notes": "New premium Taiwanese carrier with a noticeably better economy product — leather seats, larger IFE screens, more legroom than EVA/CI. July runs $1,138; push dates to August and it drops to $1,013. Worth the premium if you want to arrive comfortable and rested." }
       ],
       "lodging": [
-        {
-          "name": "Star Hostel Taipei Main Station",
-          "type": "hostel",
-          "price_per_night_usd": 40,
-          "neighborhood": "Taipei Main Station / Datong",
-          "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast from 6am, Alchemist bar with local craft beer on-site, 3-minute walk to Taipei Main Station and every MRT line — the single best-located budget bed in the city.",
-          "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Journey Town Inn — Nanjing Branch",
-          "type": "guesthouse",
-          "price_per_night_usd": 93,
-          "neighborhood": "Zhongshan",
-          "highlights": "9.0/10 on Booking, self check-in, sits in Zhongshan's tree-lined boutique district — walkable to Ningxia Night Market, Dihua Street, and the city's best independent coffee shops.",
-          "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html",
-          "source": "booking"
-        },
-        {
-          "name": "The Okura Prestige Taipei",
-          "type": "hotel",
-          "price_per_night_usd": 225,
-          "neighborhood": "Zhongshan / Nanjing",
-          "highlights": "5-star Japanese hospitality in the heart of Taipei's financial and diplomatic district — heated outdoor pool, 2-minute walk from Zhongshan MRT, and the kind of service that makes every other hotel feel effortful.",
-          "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/",
-          "source": "booking"
-        }
+        { "name": "Star Hostel Taipei Main Station", "type": "hostel", "price_per_night_usd": 40, "neighborhood": "Taipei Main Station / Datong", "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast from 6am, Alchemist bar with local craft beer on-site, 3-minute walk to Taipei Main Station and every MRT line — the single best-located budget bed in the city.", "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/", "source": "hostelworld" },
+        { "name": "Journey Town Inn — Nanjing Branch", "type": "guesthouse", "price_per_night_usd": 93, "neighborhood": "Zhongshan", "highlights": "9.0/10 on Booking, self check-in, sits in Zhongshan's tree-lined boutique district — walkable to Ningxia Night Market, Dihua Street, and the city's best independent coffee shops.", "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html", "source": "booking" },
+        { "name": "The Okura Prestige Taipei", "type": "hotel", "price_per_night_usd": 225, "neighborhood": "Zhongshan / Nanjing", "highlights": "5-star Japanese hospitality in the heart of Taipei's financial and diplomatic district — heated outdoor pool, 2-minute walk from Zhongshan MRT, and the kind of service that makes every other hotel feel effortful.", "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/", "source": "booking" }
       ],
-      "itinerary": {
-        "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning. The old port district of Dadaocheng has more authentic character than most 'heritage' neighborhoods in Asia; the hot springs at Beitou are a 30-minute MRT ride away; and the night market scene has enough variation that you could eat differently every night for a month. Go now: the NT dollar is weak, summer crowds are manageable outside of weekends, and the city's coffee and natural wine scene has quietly become world-class.",
-        "days": [
-          {
-            "day": 1,
-            "title": "Dadaocheng, Zhongshan Vintage, Raohe Night Market",
-            "morning": "Start in Dadaocheng — Taipei's old port district, untouched in the best way. Walk Dihua Street from the south end: Chinese medicine shops, dried goods, fabric merchants, all operating out of 19th-century shophouses. Stop at Cisheng Temple Food Street (Minsheng W. Rd. side) for breakfast — pig trotters, fried oysters, braised dishes under banyan trees, all for under NT$100. Walk 10 minutes north to Dalongdong Baoan Temple: the Qing Dynasty murals inside are genuinely world-class and almost nobody from outside Taiwan knows this. Pick up an EasyCard at the 7-Eleven on the way out (TWD 100, rechargeable, works on every MRT, bus, and YouBike city bikes in the city).",
-            "afternoon": "MRT to Zhongshan. Walk Lane 20, Section 2, Zhongshan North Road — this is the city's genuine vintage and indie shopping strip. Damn It! Vintage, Travis Vintage, and Mana are real curated shops with serious stock, nothing like the fast-fashion chaos of Ximending. The whole neighborhood has a quiet Japan-influenced aesthetic: tree-lined streets, small specialty cafes, independent bookshops. Grab coffee anywhere that looks busy with locals — the third-wave coffee density here rivals Tokyo.",
-            "evening": "Raohe Street Night Market. Arrive 5:30pm, before the evening rush. The market is 600 meters of concentrated eating — manageable, not overwhelming. Non-negotiable: Fuzhou Black Pepper Buns at the entrance (long line, worth every minute — charcoal-roasted pork buns with a flaky crust and juicy interior, TWD 60). Then Shi Boss Stinky Tofu (Michelin-recognized, the broth is addictive even if the concept sounds wrong). Close with Dongfahao oyster vermicelli (the 80-year no-cornstarch recipe — completely different texture from the tourist-market version). Taiwan Beer from a convenience store on the walk out."
-          },
-          {
-            "day": 2,
-            "title": "Beitou Hot Springs, Elephant Mountain, Da'an Night",
-            "morning": "MRT Red Line to Xinbeitou (45 minutes from Main Station, no transfers). The outdoor thermal pool at Millennium Hot Spring (天狺千禧溫泉, 195 Wenquan Rd) is TWD 40 — sulfurous mineral water, mountain views, elderly Taipei residents who've been coming here for decades sharing the pool with you. This is the non-Instagram version of the hot spring experience, and it's better for it. Alternatively, a private thermal room at one of the hillside hotels costs NT$500–800/hour and is worth it if you want the full soaking experience.",
-            "afternoon": "MRT back to Xiangshan station (end of the Red Line, south Taipei). The Elephant Mountain hike is 20 minutes of steep stairs — you come out on a rock ledge with the definitive Taipei 101 view. Go mid-afternoon on a weekday: hot, but not crowded. Then walk down into Da'an District. Yongkang Street: Tian Jin Scallion Flaky Pancakes at the corner stall (starting NT$30) is the best version of this dish in the city — layered, crispy, made fresh. Walk the residential streets around Da'an Park, which looks like a Tokyo neighborhood in the best way.",
-            "evening": "Tonghua Night Market (also called Linjiang Night Market, 2 stops on the MRT from Xiangshan). This is the locals' night market — young professionals from the surrounding apartments stopping for dinner, stalls that have been here for 30–40 years, zero tourist markup. Arrive around 6pm when stalls open fresh. Dessert at Snow King Ice Cream (since 1947, Wuchang St near Ximen): they make strange flavors — basil, tomato, beer, pork chop — intentionally, and they're excellent. Order one you wouldn't order anywhere else."
-          },
-          {
-            "day": 3,
-            "title": "Jiufen Morning, Treasure Hill, Gongguan Night",
-            "morning": "Early bus to Jiufen. From Zhongxiao Fuxing MRT station (Blue Line), take bus 1062 — about 1.5 hours, TWD 113. Get there by 9am. The red lantern alleys and steep stone staircases are legitimately beautiful before the tour groups arrive at 11am. Stop at Amei Tea House (near the top of the Old Street) for oolong with a view of the harbor and mountains — sit by the window. Buy a bag of taro balls for the walk down. The resemblance to the Spirited Away bathhouse is real and atmospheric. Leave by noon.",
-            "afternoon": "Back to Taipei. Treasure Hill Artist Village (near Gongguan MRT, follow the signs uphill) — a genuine hillside community of artists living and working in a reclaimed informal settlement. Free, mostly empty on weekday afternoons, with murals, open studios, and a coffee shop run by the resident community. Nothing institutional about it. After: 44 South Military Village (南村落, near Xinyi/Zhongzheng) — a former military dependents' village turned arts space with consistently good Taipei 101 sightlines without the viewing platform crowds or ticket price.",
-            "evening": "Gongguan Night Market for dinner (right outside Gongguan MRT). This is the most local and most Michelin Bib Gourmand-dense night market in Taipei — NTU students, professors, neighborhood regulars, no tour groups. Compact and unpretentious. Afterwards, Rongjin Gorgeous Time (溶金光景, near Zhongzheng District) — a former Japanese colonial-era prison building complex turned into a craft beer and bar district. The bars operate inside the actual prison structures. Stay late."
-          }
-        ],
-        "tips": [
-          "Get an EasyCard (TWD 100) from any 7-Eleven, FamilyMart, or MRT station immediately on arrival. It works on all MRT, buses, YouBike city bikes, and most convenience stores. The transit transfer discount (30-minute window) saves real money if you're combining MRT and buses.",
-          "Gongguan beats Shilin for night markets. Shilin is famous because it was excellent 20 years ago — now it's 70% tourists. Gongguan is compact, genuinely cheap, Michelin Bib Gourmand recognized, and almost entirely locals. Don't let the famous one crowd out the good one.",
-          "Taiwan's 7-Elevens, FamilyMarts, and Hi-Life stores are not a fallback option. Hot food behind the counter, genuinely good coffee, cheap beer, prepared meals that are better than most fast food. The basement food courts inside department stores on Zhongxiao Dunhua are also legitimately worth a meal.",
-          "For Jiufen: weekday morning only. Weekend afternoons turn the narrow stone alleys into a single-file tourist bottleneck that's neither enjoyable nor photogenic. If you want photos without 200 other people in them, arrive before 9:30am and leave by noon.",
-          "YouBike city bike share stations are everywhere. The first 30 minutes is free with an EasyCard. The riverside cycling paths along the Danshui and Jingmei rivers are a completely different and very good version of Taipei — flat, fast, almost entirely locals.",
-          "The specialty coffee scene in Da'an and Zhongshan is world-class and almost entirely unwritten-about in English. The third-wave cafe density rivals Tokyo or Melbourne. Walk into any place that looks busy with locals, not tourists, and order the house filter."
-        ],
-        "sources": [
-          { "title": "25 Hidden Gems in Taipei from a Local Taiwanese — GoWithGuide", "url": "https://gowithguide.com/blog/25-hidden-gems-in-taipei-insider-tips-from-a-local-taiwanese-5931" },
-          { "title": "65 Top Taipei Things To Do In 2026 — Taiwanderers", "url": "https://taiwanderers.com/taipei-things-to-do/" },
-          { "title": "Raohe Night Market: What to Eat — Taiwan Obsessed", "url": "https://www.taiwanobsessed.com/raohe-night-market-taipei/" },
-          { "title": "Ningxia Night Market Taipei: 11 Must-Try Foods & Michelin Stalls — Just a Taiwan Tour", "url": "https://www.justaiwantour.com/ningxia-night-market-taipei-food-guide/" },
-          { "title": "50+ Things to Do in Taipei — Nickkembel Travels", "url": "https://www.nickkembel.com/things-to-do-in-taipei/" },
-          { "title": "Taipei Travel Guide: Best Things to Do, Where to Stay & Insider Tips — Lilla Green", "url": "https://lillagreen.com/taipei-taiwan-travel-guide/" }
-        ]
-      }
+      "itinerary": { "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning.", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -476,108 +483,16 @@
       },
       "flight_search_date": "2026-06-19",
       "flights": [
-        {
-          "airline": "Air Premia",
-          "price_usd": 850,
-          "outbound_dates": "Jul 15–22 (flexible; midweek departures 10–15% cheaper)",
-          "return_dates": "Jul 22–29",
-          "stops": 0,
-          "duration": "12h 55m",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
-          "notes": "Korean low-cost carrier, direct SFO→ICN. No frills but perfectly comfortable. Book via airpremia.com or search Google Flights filtering to Air Premia. Prices fluctuate — $473 one-way in mid-July, roughly $790–880 roundtrip."
-        },
-        {
-          "airline": "Asiana Airlines",
-          "price_usd": 920,
-          "outbound_dates": "Aug 6–13 (August runs ~$150 cheaper than July peak)",
-          "return_dates": "Aug 13–20",
-          "stops": 0,
-          "duration": "12h 45m",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html",
-          "notes": "Full service with meals, 2 checked bags, real legroom. Direct SFO→ICN. If you can push dates to August, prices drop to ~$780. Book via flyasiana.com."
-        },
-        {
-          "airline": "Korean Air",
-          "price_usd": 1100,
-          "outbound_dates": "Jul 14–21",
-          "return_dates": "Jul 21–28",
-          "stops": 0,
-          "duration": "12h 45m",
-          "url": "https://www.koreanair.com/flights/en-us/flights-from-san-francisco-to-korea",
-          "notes": "Premium full service, best seat pitch in economy, reliably excellent food service. Worth it if you want to arrive rested. Drops to ~$920 in August."
-        }
+        { "airline": "Air Premia", "price_usd": 850, "outbound_dates": "Jul 15–22", "return_dates": "Jul 22–29", "stops": 0, "duration": "12h 55m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html", "notes": "Korean low-cost carrier, direct SFO→ICN." },
+        { "airline": "Asiana Airlines", "price_usd": 920, "outbound_dates": "Aug 6–13", "return_dates": "Aug 13–20", "stops": 0, "duration": "12h 45m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html", "notes": "Full service with meals, 2 checked bags. Book via flyasiana.com." },
+        { "airline": "Korean Air", "price_usd": 1100, "outbound_dates": "Jul 14–21", "return_dates": "Jul 21–28", "stops": 0, "duration": "12h 45m", "url": "https://www.koreanair.com/flights/en-us/flights-from-san-francisco-to-korea", "notes": "Premium full service. Drops to ~$920 in August." }
       ],
       "lodging": [
-        {
-          "name": "Zzzip Guesthouse in Hongdae",
-          "type": "hostel",
-          "price_per_night_usd": 40,
-          "neighborhood": "Hongdae",
-          "highlights": "9.8/10 on Hostelworld (2,400+ reviews) — spotless private rooms, breakfast included, 3 min walk from Hapjeong Station, 10 min from the Hongdae nightlife strip.",
-          "url": "https://www.hostelworld.com/bed-and-breakfasts/p/83226/zzzip-guesthouse-in-hongdae/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Hotel Sunbee Insadong",
-          "type": "guesthouse",
-          "price_per_night_usd": 100,
-          "neighborhood": "Insadong",
-          "highlights": "Sitting in the cultural heart of Seoul — surrounded by galleries, tea houses, and antique shops, and a 15-min walk to Gyeongbokgung Palace.",
-          "url": "https://www.booking.com/hotel/kr/sunbee.html",
-          "source": "booking"
-        },
-        {
-          "name": "L7 HONGDAE by Lotte",
-          "type": "hotel",
-          "price_per_night_usd": 180,
-          "neighborhood": "Hongdae",
-          "highlights": "4-star design hotel with a rooftop pool bar and industrial-cool aesthetic; insane city views from the upper floors, and you're already in the city's most energetic neighborhood.",
-          "url": "https://www.booking.com/hotel/kr/l7-hongdae-by-lotte.html",
-          "source": "booking"
-        }
+        { "name": "Zzzip Guesthouse in Hongdae", "type": "hostel", "price_per_night_usd": 40, "neighborhood": "Hongdae", "highlights": "9.8/10 on Hostelworld — spotless private rooms, breakfast included.", "url": "https://www.hostelworld.com/bed-and-breakfasts/p/83226/zzzip-guesthouse-in-hongdae/", "source": "hostelworld" },
+        { "name": "Hotel Sunbee Insadong", "type": "guesthouse", "price_per_night_usd": 100, "neighborhood": "Insadong", "highlights": "In the cultural heart of Seoul, surrounded by galleries and tea houses.", "url": "https://www.booking.com/hotel/kr/sunbee.html", "source": "booking" },
+        { "name": "L7 HONGDAE by Lotte", "type": "hotel", "price_per_night_usd": 180, "neighborhood": "Hongdae", "highlights": "4-star design hotel with a rooftop pool bar and industrial-cool aesthetic.", "url": "https://www.booking.com/hotel/kr/l7-hongdae-by-lotte.html", "source": "booking" }
       ],
-      "itinerary": {
-        "overview": "Seoul rewards you immediately and keeps rewarding you — the palaces are legitimately awe-inspiring, the food is some of the best on earth at any price point, and the city stays interestingly weird until 4am. Go now while the won is weak (your dollar goes further than it has in years), summer evenings on the Han River are spectacular, and the restaurant scene in neighborhoods like Euljiro and Seongsu is at a genuine peak.",
-        "days": [
-          {
-            "day": 1,
-            "title": "Palaces, Hanok Villages, and Euljiro Night",
-            "morning": "Get to Gyeongbokgung Palace before 9am — the light is better, the crowds are nonexistent, and you feel the scale of the thing properly. Rent a hanbok at the entrance (~$10-15/hour) for free admission and genuinely great photos. Catch the Guard Changing Ceremony at 10am, then walk northeast 10 minutes to Bukchon Hanok Village. Follow the Eight Views floor markers (small tiles embedded in the pavement) — these give you the angles of tiled roofs against N Seoul Tower that everyone's after. Stop at Cha-Teul tea house (renovated hanok, panoramic mountain views) before the masses arrive.",
-            "afternoon": "Head to Insadong for lunch at Myeongdong Kyoja — legendary kalguksu knife-cut noodles and steamed mandu dumplings, line out the door, worth every minute. (Different from the touristy Myeongdong shopping district.) Walk Insadong's antique shops and indie galleries. If you booked at least 6 days ahead, the 3pm slot at Changdeokgung's Secret Garden (Huwon) is one of the most beautiful places in the city — 100-person limit, guided, completely different feeling from the main palace. Otherwise the grounds alone are worth it.",
-            "evening": "Euljiro is quiet daytime workshops — metalworkers, printers, hardware stores. By 9pm it's Seoul's hottest outdoor drinking scene. Find a pojangmacha (orange tent) and order makgeolli (cloudy rice wine) with pajeon (savory scallion pancake). The crowd is young, local, and not particularly interested in tourists. Stay out."
-          },
-          {
-            "day": 2,
-            "title": "Mangwon Market, Seongsu, Han River",
-            "morning": "Mangwon Market instead of Gwangjang — this is where actual Seoulites shop on weekends, and the street food is significantly better than the tourist-priced Gwangjang stalls (which had a widely-reported overcharging scandal in 2025). Get there by 10am: try the giant fried chili peppers stuffed with minced meat at Uirak. Walk 15 minutes east to Hongdae Walking Street where the busker scene starts around noon on weekends.",
-            "afternoon": "Take the Green Line metro across the river to Seongsu-dong, the city's pop-up district — a former industrial zone with tanneries and auto workshops now interspersed with impossibly cool concept stores and galleries like House NoWhere. Things open and close fast here; whatever's hot right now won't be Googled yet. Walk back toward the river and up the Seoullo 7017 Skygarden (a converted 1970s highway overpass turned into a garden path) for good sunset-angle city views.",
-            "evening": "Han River at sunset: this is the move. Go to Mangwon Hangang Park. Stop at a riverside 7-Eleven or GS25 — buy beer, buy the ramyeon cup you want, use the automated hot water machine to make it, and find a patch of grass. Half of Seoul is sitting within 500 meters of you doing the exact same thing. This is chimaek culture (fried chicken + beer) in its most elemental form. Stay until the city lights come up."
-          },
-          {
-            "day": 3,
-            "title": "Ikseon-dong, Sindang Tteokbokki, DDP, Mullae Night",
-            "morning": "Ikseon-dong is Seoul's oldest hanok village (1920s construction, genuinely lived-in — not the fake new Eunpyeong Hanok Village that Instagram has been overselling). Tiny alley bakeries, vintage record shops, natural wine bars operating out of single-room storefronts. Get coffee at Onhwa in a renovated hanok with wooden-beam ceilings. Walk slowly. There's nothing to rush toward.",
-            "afternoon": "Taxi to Sindang-dong — this is where tteokbokki (spicy rice cakes) was invented in the 1950s, and the sit-down restaurants here do a completely different version than street carts: a whole spread with ramyeon, egg, fish cake, cheese on request, broth for refills. Order the cheese version at lunch. Afterwards, head to Dongdaemun Design Plaza (the Zaha Hadid blob building by the Dongdaemun Gate) — the nightly LED light show is interesting, but the design museum inside runs a rotating program of architecture and fashion exhibitions worth checking. Walk the old city wall fragment nearby for a good view back at the DDP.",
-            "evening": "Mullae-dong is a metal workshop district that transforms after 9pm — welders and machinists shut down, restaurant-bars open in the gaps between workshop units, and the crowd is creative/local/serious about eating. Eat wherever looks good and full. Then onwards: the Gyeongnidan Hill area (above Itaewon) is less expat-forward than it used to be and has some of the city's better late-night bars, particularly on the smaller side streets running off the main Gyeongnidan-gil strip."
-          }
-        ],
-        "tips": [
-          "Use Naver Map instead of Google Maps. Google is functionally broken in South Korea due to military mapping restrictions — walking routes are wrong, small businesses don't show up, and the transit directions are unreliable. Naver Map has an English mode and is what everyone actually uses.",
-          "Get a T-Money card at any convenience store (GS25, CU, 7-Eleven) for about $3, then top it up with cash. The free transfer window (30–60 min) lets you make up to 4 connected subway/bus trips on one fare — critical for getting around cheaply.",
-          "The call button at restaurant tables is not rude. It's how service works: press it when you're ready to order or need something. Waving and making eye contact the Western way will get you a confused look.",
-          "Gwangjang Market (the famous covered market in Jongno) is worth a walk-through but is now 90% tourist-facing and 10% for locals. Go to Mangwon Market on a weekend morning for the real version of the same experience at a third of the price.",
-          "Renting a hanbok at any palace gate (~$10–20/hour) gets you free admission to all royal palaces. It's not just a photo op — it's also genuinely the cheapest way in if you're hitting more than one palace.",
-          "Summer nights: palaces and hanok villages are best before 10am (heat + crowds both peak midday), the Han River parks are best after 6pm when locals arrive, and Euljiro only really starts after 9pm. Plan accordingly."
-        ],
-        "sources": [
-          { "title": "Seoul Travel Guide 2026: Insider Secrets from an 8-Year Expat — Museum of Wander", "url": "https://museumofwander.com/seoul-travel-guide/" },
-          { "title": "25 Best Things to Do in Seoul: The Ultimate 2026 Travel Guide — Tripaholics", "url": "https://tripaholics.co.uk/25-best-things-to-do-in-seoul-the-ultimate-2026-travel-guide/" },
-          { "title": "Seoul Tourist Traps to Avoid — Dodo K Travel", "url": "https://www.dodo-ktravel.com/seoul-tourist-traps-locals-avoid/" },
-          { "title": "Seoul Neighborhoods Guide 2025: Where to Stay by a Local Expert — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/seoul-neighborhoods" },
-          { "title": "Hidden Gems in Seoul: Quiet Places Most Visitors Miss — City Unscripted", "url": "https://www.cityunscripted.com/travel-magazine/hidden-gems-in-seoul" },
-          { "title": "Best Places to Visit in Seoul 2026: Hidden Gems & Hotspots — KCulture", "url": "https://kculture.com/best-places-to-visit-in-seoul-2026-hidden-gems-hotspots/" }
-        ]
-      }
+      "itinerary": { "overview": "Seoul rewards you immediately and keeps rewarding you — the palaces are legitimately awe-inspiring, the food is some of the best on earth at any price point, and the city stays interestingly weird until 4am.", "days": [], "tips": [], "sources": [] }
     }
   ]
 }
