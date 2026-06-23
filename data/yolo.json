@@ -1,117 +1,117 @@
 {
   "updated": "2026-06-23",
   "destination": {
-    "city": "Seville",
-    "country": "Spain",
-    "flag": "🇪🇸",
-    "iata": "SVQ",
-    "lat": 37.3891,
-    "lon": -5.9845,
-    "vibe": "The flattest big city in Europe, wrapped in Moorish palaces and orange trees, with 180km of dedicated bike lanes connecting neighborhoods that haven't changed in 500 years — you just have to be on the road before the sun gets serious."
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "flag": "🇸🇮",
+    "iata": "LJU",
+    "lat": 46.0569,
+    "lon": 14.5058,
+    "vibe": "Home turf of Tadej Pogačar — where 50 cobbled hairpins climb to 1,611 meters on a road built by Russian WWI prisoners, the Soča runs glacier-turquoise through raw limestone gorges, and summer temperatures in the low 20s mean you can push 80-mile days in the Julian Alps without a 5am alarm."
   },
   "flight_search_date": "2026-06-23",
   "flights": [
     {
-      "airline": "Turkish Airlines",
-      "price_usd": 849,
+      "airline": "Lufthansa",
+      "price_usd": 879,
       "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 4–6 weeks out)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~17h total",
-      "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-seville",
-      "notes": "Connects through Istanbul (IST) — Turkish flies from DTW with good IST connection frequency. Full-service airline with meals and 2 checked bags included. Important: call ahead to confirm bike-as-checked-baggage policy and fees (typically €50–80 each way in a hard case or bike box); book on turkishairlines.com directly for clearest fee disclosure."
+      "duration": "~15h total",
+      "url": "https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/ljubljana-detroit",
+      "notes": "Connects through Frankfurt (FRA→LJU, ~2h connection). DTW→FRA direct is available daily; FRA→LJU is operated by Lufthansa or partner Adria. Bike-as-checked-baggage: Lufthansa accepts bikes in a hard case or bike box for €100 each way (Economy) — add during booking or call +1-800-645-3880 to confirm and add before travel. Deflate tires, remove pedals, lower saddle. July fares from $807 off-peak; midweek July rates around $879."
     },
     {
-      "airline": "Iberia",
-      "price_usd": 910,
-      "outbound_dates": "July–August flexible (midweek cheapest; August slightly cheaper than July)",
+      "airline": "Austrian Airlines",
+      "price_usd": 925,
+      "outbound_dates": "July–August flexible (midweek best; avoid Friday/Sunday peak)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
       "duration": "~14h total",
-      "url": "https://www.google.com/travel/flights/flights-from-detroit-to-seville.html",
-      "notes": "Connects through Madrid Barajas (MAD) — the most logical routing since MAD→SVQ is only 1h15m on Iberia's Puente Aéreo shuttle (flights every 30–60 min). Bike fees: Iberia charges €50–100 each way for bikes in a case; confirm at iberia.com. From MAD to SVQ you could also take the AVE high-speed train (2.5h, €30–60) if the connection time allows — Renfe allows bikes in bike-specific spaces on some trains, so worth checking."
+      "url": "https://www.austrian.com/lhg/si/en/o-d/cy-cy/ljubljana-vienna",
+      "notes": "Connects through Vienna (VIE→LJU, ~1h — the shortest final leg of any routing). Austrian is the natural carrier for Ljubljana; Vienna hub has the tightest and most frequent LJU connections. Bike fee: Austrian charges €75–100 each way in a hard case; confirm at austrian.com or call ahead. Part of Lufthansa Group — miles earn on Star Alliance."
     },
     {
-      "airline": "KLM",
-      "price_usd": 952,
-      "outbound_dates": "July–August flexible (Amsterdam hub, midweek best)",
+      "airline": "SWISS",
+      "price_usd": 999,
+      "outbound_dates": "July–August flexible (August slightly cheaper than July peak)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~13h 30m total",
-      "url": "https://www.klm.com/flights/en-us/flights-from-detroit-to-seville",
-      "notes": "Connects through Amsterdam Schiphol (AMS) — KLM is part of SkyTeam. Short AMS→SVQ leg (~3h). KLM bike policy: bikes accepted as checked baggage at €50–75 each way; must be in a hard case or bike box and deflated/pedals removed. Book at klm.com and add the bike during checkout."
+      "duration": "~15h 30m total",
+      "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/detroit-ljubljana.html",
+      "notes": "Connects through Zurich (ZRH→LJU, ~1h30m). SWISS bike policy: bikes accepted as checked baggage in a hard case or properly boxed, €80–100 each way; pedals removed, bars turned, tires deflated. Book at swiss.com and add the bike as special baggage during checkout. Zurich is a large, well-organized hub with easy connections."
     }
   ],
   "lodging": [
     {
-      "name": "La Banda Rooftop Hostel",
-      "type": "hostel",
-      "price_per_night_usd": 45,
-      "neighborhood": "Arenal / Centro",
-      "highlights": "Well-reviewed hostel steps from the Torre del Oro and Guadalquivir riverfront — the best starting point for the city cycling circuit. Ask at check-in for secure indoor bike storage (policy: confirm before booking). Rooftop terrace with views of the Cathedral tower.",
-      "url": "https://www.hostelworld.com/hostels/europe/spain/seville/",
-      "source": "hostelworld"
-    },
-    {
-      "name": "Hotel Palacio Alcázar",
+      "name": "Reset Apartments — Bike Resort Kranjska Gora",
       "type": "hotel",
-      "price_per_night_usd": 135,
-      "neighborhood": "Santa Cruz / Barrio de Santa Cruz",
-      "highlights": "Boutique hotel in a 19th-century palace 200m from the Real Alcázar walls, central for city cycling circuits and the Guadalquivir promenade. Confirm secure bike storage when booking — standard at most Seville hotel category; this one has interior parking. 4.3/5 on Booking.",
-      "url": "https://www.booking.com/hotel/es/palacio-alcazar.html",
+      "price_per_night_usd": 75,
+      "neighborhood": "Kranjska Gora village center",
+      "highlights": "Officially designated 'Bike Resort' in Slovenia's national cyclist-accommodation certification system — secure indoor bike storage, bike wash station, and drying room on-site. Apartments with kitchen from ~€65–75/night; walking distance to the Vršič Pass road start. The most logical base for Vršič days: you wake up, clip in, and the climb begins within 500 meters of the front door.",
+      "url": "https://resetapartments.com/kranjska-gora-and-sorrundings/bike-resort-kranjska-gora/",
       "source": "booking"
     },
     {
-      "name": "Hotel Corral del Rey",
+      "name": "Hotel Kompas Kranjska Gora",
       "type": "hotel",
-      "price_per_night_usd": 280,
-      "neighborhood": "Santa Cruz",
-      "highlights": "A 17th-century merchant's townhouse restored to 13 rooms in the oldest part of the city — four courtyards, original stone, genuinely beautiful. Secure bike storage available. This is the most atmospheric address in Seville and worth it for two nights.",
-      "url": "https://www.corraldelrey.com/en/",
+      "price_per_night_usd": 145,
+      "neighborhood": "Kranjska Gora village center",
+      "highlights": "Slovenia's premier cyclist-specialist mountain hotel — certified cycling accommodation with secure bike storage, bike assembly area, technical support, and route guidance. Listed by Cycling for Softies as the Julian Alps' top cycling base. Pool and wellness after big days. Walking distance to the Vršič climb start; 45-minute ride from Bled.",
+      "url": "https://www.cyclingforsofties.com/destinations/slovenia-cycling-holidays/julian-alps-tours/accommodations/hotel-kranjska-gora",
+      "source": "booking"
+    },
+    {
+      "name": "Hotel Cubo Ljubljana",
+      "type": "hotel",
+      "price_per_night_usd": 220,
+      "neighborhood": "Ljubljana Old Town — 400m from Triple Bridge",
+      "highlights": "Cycle-friendly certified hotel in the heart of Ljubljana — confirmed secure bike storage, 400m from the Triple Bridge and Prešeren Square. Perfect first/last night lodging: collect your bike from the airport, stay one night in the city center, then head for the Julian Alps the next morning. Design-forward rooms in a converted industrial building; bar and restaurant on-site.",
+      "url": "https://www.booking.com/hotel/si/cubo.html",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Seville is one of the great surprises of European cycling — not because anyone expects it to be bad, but because 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars is a combination that doesn't quite make sense until you're riding it at 6:30am with the Cathedral lit gold and nobody else on the road. The terrain is completely flat: the Guadalquivir delta has been filling in for ten thousand years and the result is a city where every elevation change is a bridge. The surrounding countryside is more varied — the Sierra Norte to the north, the Doñana wetlands to the southwest, whitewashed hill towns to the east — and all of it is accessible by bike via greenways and quiet provincial roads. The catch, and it is a real one: July in Seville is genuinely hostile. Temperatures regularly hit 40–43°C by noon. All serious cycling must happen before 9am (ideally departing by 5:45–6am in summer) or after 6:30pm. Local cyclists know this and operate accordingly — the city's cycling infrastructure comes alive at dawn and at dusk, and the middle of the day belongs to shade, cold drinks, and the siesta. Plan the same way and Seville rewards you completely.",
+    "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. The city itself is charming — a compact baroque-and-Art-Nouveau old town on a river bend, car-free center, castle on the hill — but it's not why you're here. You're here because 45 minutes north by bike the roads climb into the Triglav National Park, and within a day's ride you're at 1,611 meters on the Vršič Pass (the highest paved road in Slovenia, 50 hairpin turns, cobbled bends 5 through 9) and looking at the Soča Valley turquoise below. Slovenia's road infrastructure is well-maintained, traffic is light outside ski season, and drivers are cyclist-aware — a cycling culture rooted in alpine terrain and a WorldTour champion who grew up 40km from here. July temperatures in the Julian Alps average 20–25°C at valley level, cooler above 1,000m: no 5am alarms required. The logistical strategy for maximum riding: one night in Ljubljana at arrival, transfer to Kranjska Gora for the Vršič stage, then Bovec for the Mangart day, return via Soča Valley.",
     "days": [
       {
         "day": 1,
-        "title": "The Great Seville Circuit — 32km city loop at dawn, then monuments on foot",
-        "morning": "Wheels rolling by 6am. The route: start at the Torre del Oro on the Guadalquivir riverside, head south along the river's tree-lined bike boulevard past the Parque de María Luisa to the Plaza de España (the 1929 World's Fair semicircular palace complex — deserted at this hour, extraordinary). Loop north through the Barrio de Santa Cruz, past the Cathedral's south transept, through the Barrio de Triana via the Puente de Isabel II, and north along the Cartuja island's cycling path to the Alamillo Park and bridge. The full circuit is roughly 32km on dedicated infrastructure and takes 2–2.5 hours at a moderate touring pace. The city is a different thing at this hour: light low and orange, the orange trees still fragrant from the night, delivery workers and cleaning crews the only other people moving, the Cathedral tower slowly appearing above rooflines as you approach from the south. Back at the hotel by 8:30am for breakfast and a shower before the heat arrives.",
-        "afternoon": "On foot during the hottest hours. The Real Alcázar (book timed entry online at the gate or via alcazarsevilla.org, €14.50) is one of the great buildings in Europe: a Moorish palace continuously occupied and expanded since the 10th century, with courtyard gardens that stay cool even in July (the water channels were designed for exactly this). The Cathedral next door is the world's largest Gothic church — climb the Giralda tower (the former minaret) for the definitive city view. Between them, two hours passes easily. Afterwards: the Barrio de Santa Cruz on foot for shade, narrow alleys, and a cold fino sherry at a bar.",
-        "evening": "Evening ride: 6:30pm departure for the Guadalquivir riverside south. The Vía Verde de los Colegios follows the river south from the city toward Coria del Río (12km, flat, completely paved) — at dusk the light on the river and Triana's coloured facades is the payoff for surviving the afternoon. Coria del Río has bars on the waterfront. Ride back under the rising moon. Dinner in Triana after 9pm: tapas at one of the old azulejo-tiled bars on Calle Pelay Correa — coquinas (tiny clams, €4 a plate), montaditos, and a cold cerveza."
+        "title": "Ljubljana → Bled via Sava Valley — 75 miles / 120km, 1,200m climbing",
+        "morning": "Collect bike at LJU, assemble at the hotel (Hotel Cubo has a designated space). Roll from the Dragon Bridge in Ljubljana's old town and head northwest through the Šiška district, following quiet roads and the dedicated cycle lane along the Sava River. The terrain opens into farmland and orchard country immediately outside the city — limestone ridges on your left, Karawanken Alps appearing ahead. Kranj (32km from Ljubljana) is worth a 20-minute stop: Slovenia's fourth city has a compact medieval peninsula above the Sava gorge and a good coffee bar on the main square. From Kranj continue northwest through Lesce toward the Bled junction — the road climbs gently and the Julian Alps begin to dominate the horizon in front of you. At Lesce junction turn south into the Radovna Valley: this is the quiet approach to Bled, almost no traffic, beech forest on both sides, the first views of Triglav National Park. Total Ljubljana → Bled: ~60km.",
+        "afternoon": "Arrive Bled and claim your accommodation. Afternoon ride: the Lake Bled circuit is 6km of flat paved lakefront road (more touristy than scenic from a cycling perspective, but obligatory). The real climb is the short access road to Ojstrica viewpoint (600m ascent of 20%, unpaved last 100m — worth it for the best overhead Bled photograph you've ever seen, no drones required). Then the Pokljuka Plateau if legs are there: 18km from Bled with 800m gain, peaking at 1,330m. The plateau is the site of the Biathlon World Cup venue — wide open meadows, silence, no settlements, birch and spruce. The descent back to Bled is fast and clean. Total afternoon: 40–50km depending on Pokljuka extension.",
+        "evening": "Dinner in Bled: Gostilna Pri Planincu (Grajska cesta 8) is the local choice in a town full of tourist restaurants — wooden interior, local prices, good Slovenian trout and strukljli (rolled pastry, savory or sweet). Then the walk up to Bled Castle (perched on a 130m cliff above the lake, lit at night) for the view of the island church and the Alps that you'll spend the next two days riding through. Transfer to Kranjska Gora the next morning (26km, easy flat road along the Sava) or stay in KG from night one."
       },
       {
         "day": 2,
-        "title": "Italica greenway + Guadalquivir Marismas — road and gravel day",
-        "morning": "5:45am departure for the longest day. Route north on the Vía Verde greenway toward Santiponce (12km, paved, flat) — the town of Santiponce contains the Roman city of Italica, founded 206 BC, birthplace of emperors Trajan and Hadrian. The amphitheater is one of the largest in the Roman world (capacity 25,000), open from 9am (€1.50), and at 7am you'll have the surrounding ruins to yourself to circle on the bike. Continue north via quiet provincial roads toward La Algaba and El Garrobo (cumulative ~45km from Seville, 275m elevation — the one genuine climb of the trip, through holm oak and wildflower scrub into the Sierra Norte foothills). The village of Venta del Alto at the high point has a roadside restaurant that opens early for cyclists. Descend back through Salteras and Valencina (archaeological site: megalithic tomb complex dating to 3000 BC, often open on the roadside with no entrance booth) to the city on the dedicated bike lane via Camas.",
-        "afternoon": "Rest, shower, long lunch, siesta. This is mandatory, not optional — two hours of serious riding in Andalusian summer requires recovery. The city's covered mercado (Mercado de Triana, Calle San Jorge) has cooked fish and cold drinks at market stalls.",
-        "evening": "Evening exploration: short social ride through the Macarena neighborhood — the working-class barrio north of the historic center, genuinely non-touristic, with some of the best tapas bars in the city (Bar Europa, Bar Eslava on Calle Eslava, consistently considered one of the best tapas bars in all of Seville). The Basílica de la Macarena houses the city's most beloved Semana Santa float; if the door is open, go in. Ride back south through the old city walls at dusk."
+        "title": "Vršič Pass Queen Stage — 88km / 55 miles, 1,900m climbing",
+        "morning": "Start from Kranjska Gora by 7am. The Vršič Pass road (Cesta čez Vršič) begins at the eastern edge of the village — you'll know it from the numbered hairpin markers starting immediately. The climb is 12km to the 1,611m summit. The first four bends are forested and relatively gentle. Bends 5 through 9 are the famous cobbled section — the original 1916 road surface laid by Russian prisoners of war, irregular paving stones, gradients touching 15–17% on the steepest ramps. Commit to a steady gear before the cobbles start; a gear change at 15% on rough stone is a mechanical. Above bend 9 the cobbles end and the surface is clean asphalt for the remaining 41 hairpins. Pause at bend #8 on the ascent: the Russian Orthodox Chapel (Ruska kapelica, 1916) is a wooden structure built in honor of the ~400 Russian soldiers killed by an avalanche here during construction — the most moving 5 minutes of the ride. Summit at 1,611m: the view north is into the Trenta Valley and Triglav National Park, the Julian Alps raw limestone all around, Triglav's north face visible to the east. 50 numbered hairpin turns total — the most of any pass in Europe.",
+        "afternoon": "The descent into the Soča Valley: 26 hairpins on the south face (steeper than the north), the road carved into a limestone cliff above the Trenta Valley. At the valley floor, the Soča River source is 3km east of the road junction — a cold blue-green pool erupting from a grotto in the rock face, genuinely startling color. Turn west along the valley floor and follow the Soča to Bovec: 26km of flat road along one of Europe's great rivers. The water is glacier-fed and Tiffany-blue, the canyon walls 200–300m limestone, the road almost empty on weekday mornings. The Great Soča Gorge (Velika Korita Soče) just before Bovec is a narrow slot canyon where the river drops through layered limestone — the road runs directly above it. Total Kranjska Gora → Vršič → Bovec: 55km, 1,900m climbing. Allow 4–5 hours.",
+        "evening": "Lunch in Bovec — there's a gostilna on the main square serving local Bovška trout (the river fish of the Soča) with polenta, and a decent espresso bar for a mid-afternoon sit. Bovec is a small alpine town (population 1,600) with an outsized outdoor-sports culture: kayaking, white-water rafting, paragliding. After riding, wade into the Soča: the water temperature is 8–12°C even in July — 10 minutes in the river is better ice therapy than anything you'll find at a hotel. Dinner: Gostilna Sovdat (the long-standing local choice in Bovec, traditional Primorska cuisine) or one of the terrace restaurants on the main square. Stay in Bovec for the Mangart day."
       },
       {
         "day": 3,
-        "title": "Via Verde de los Alcores — Alcalá de Guadaíra to Carmona, 60km gravel",
-        "morning": "Take the Cercanías C-4 commuter train from Santa Justa station to Alcalá de Guadaíra (25 min, €1.80, non-folding bikes allowed in designated areas on Cercanías — confirm on the renfe.com or via the Cercanías app before travel; avoid peak commute hours). In Alcalá: the Moorish castle (Castillo de Alcalá, free, open early) overlooks the Guadaira River and is worth 20 minutes before rolling east. The Via Verde de los Alcores departs east from Alcalá and runs 60km to Carmona along a converted railway alignment through the Los Alcores escarpment: a long limestone ridge rising from the Guadalquivir plain, with views south toward the Doñana wetlands and east toward the Sierra. Surface is a mix of compacted gravel and paved sections; 430m cumulative elevation gain makes this the most challenging day but nothing sustained. The route passes through ancient mill sites on the Guadaira (Molino de Algarrobo, Molino de la Aceña) and a spectacular 123-meter dragon bridge structure near Alcalá.",
-        "afternoon": "Arrive in Carmona (~4 hours riding at touring pace). Carmona is a medieval hilltop town of 28,000 people with a disproportionate number of excellent places to eat and an almost complete absence of tourist infrastructure. Lunch at any bar on the Plaza de San Fernando — the local half-ration of salmorejo (a thicker, richer Córdoban version of gazpacho) with jamón ibérico is the correct order. The Roman Necropolis of Carmona (Avenida de Jorge Bonsor, €1.50) is one of the best-preserved Roman burial sites in Spain — family tombs with frescoed interiors cut into the rock. Walk the walls. The Parador of Carmona (an Alcázar converted to a state-run hotel) has a terrace bar with a view over the Guadalquivir plain that is worth buying one drink for.",
-        "evening": "Return to Seville by bus (Damas/Casal buses run Carmona–Seville regularly, ~45 min, €2.50; bikes may not be accepted depending on the coach — check in advance, or arrange a taxi for the final leg). OR: if legs permit, ride back west to Alcalá via the Via Verde and catch the Cercanías back. Final night in Seville: dinner at Bar Eslava if you missed it on Day 2, or anywhere on the Alameda de Hércules (the long tree-lined boulevard north of the historic center) which is the city's outdoor living room on summer evenings — locals dining outside until midnight, impromptu flamenco at the corners, the temperature finally dropping to something manageable."
+        "title": "Mangart Saddle — Slovenia's Highest Drivable Road — 90km / 56 miles, 2,200m climbing",
+        "morning": "Depart Bovec by 7am heading southeast along the Soča. At the Koritnica Valley junction (6km from Bovec), turn east and follow the Koritnica River upstream toward the Italian border. The Mangart approach road begins at the toll gate (~€10 for cars; cyclists are either waved through or pay a nominal fee — have small cash ready). The climb: 10km from the valley floor to the Mangart Saddle at 2,072m. Average gradient 8.8%; the steepest ramps hit 25% briefly in the upper section. Five rock tunnels cut through the limestone face — each is short (30–90 seconds) but completely dark. A front light is not optional here: it's a safety requirement for oncoming traffic and your own sightlines. Above the treeline the road becomes a narrow ledge on the face of the mountain, the exposure dramatic. Summit: Mangart Saddle at 2,072m — the highest drivable point in Slovenia and one of the highest in the Eastern Alps. The view extends north into Austria (Carinthia), south into Italy (Friuli), and east across the Julian Alps to Triglav. The Mangart peak itself (2,677m) is a scramble another 600m above; the saddle is the road's end.",
+        "afternoon": "Descend back to Bovec (same road — early morning means you'll likely have it to yourself on the way up; afternoon may have more traffic). Continue south along the Soča Valley to Kobarid, 12km past Bovec. Kobarid is the site of the 1917 Battle of Caporetto — the Italian army's catastrophic defeat by German and Austrian forces, described in Hemingway's A Farewell to Arms (he served here with the Italian Red Cross ambulance corps). The Kobarid Museum (Gregorčičeva 10) won European Museum of the Year in 1993 and is one of the best WWI museums in Europe: scale models, diaries, photographs, the original battle plans. The outdoor walk covers preserved Italian defence lines in the hills above town. Allow 90 minutes. Lunch in Kobarid: Hiša Franko (one of the most acclaimed restaurants in Slovenia, Ana Roš's restaurant) is 4km north — if you planned ahead and have a reservation, this is the meal of the trip. Otherwise, the village restaurant on the main square serves honest local food.",
+        "evening": "Return north along the Soča Valley toward Trenta and over Vršič back to Kranjska Gora (or arrange a transfer/taxi for the return leg if legs are spent after the Mangart day — the climb back over Vršič adds another 1,000m and shouldn't be underestimated at the end of a 2,200m-gain day). Transfer to Ljubljana for the flight connection: Kranjska Gora to LJU is 85km by road (1h15m by car or transfer shuttle). Most LJU departures are morning, so a final night in Kranjska Gora or Ljubljana makes sense before the outbound flight."
       }
     ],
     "tips": [
-      "The heat rule, non-negotiable: Seville in July regularly hits 42°C by noon. All outdoor cycling must happen before 9am or after 6:30pm — full stop. This is not about comfort; it's about safety. Locals have a phrase for it: 'Seville in July, only the mad and the foreigners are outside at noon.' Set an alarm for 5:30am every riding day. The reward is the city at its most beautiful — golden light, empty roads, temperature in the low 20s.",
-      "Bike transport logistics: international airlines charge €50–100 each way for bikes as checked baggage in a hard case or properly boxed. Factor this into the trip cost. In Seville, ATD BIKES (Calle Fray Isidoro de Sevilla, near the Plaza de Armas bus station) is a well-regarded repair shop open all day (unusual in Spain, where most shops close 2–6pm) — good to know if you need a tube, cable, or emergency fix. Spanish mechanics are generally excellent and used to working on touring and road bikes.",
-      "Water: the route guides mention public water fountains at intervals on the city bike lanes and at village fuentes (street fountains) on the rural routes. Spanish tap water is safe and high quality. Carry two large bottles minimum on any ride leaving the city — the terrain is flat but the heat creates sweat rates you may not be used to. The local 'alimentaciones' (corner stores) in every village stock water, fruit, and snacks and are often open even on Sunday mornings.",
-      "Bike on Spanish trains: Cercanías (local/commuter trains) allow non-folding bikes in designated bike carriages for free during off-peak hours; confirm current policy at renfe.com or the Cercanías app. High-speed AVE trains have strict, limited bike rules (usually folded bikes only, or disassembled in a bag). If you're planning the Alcalá day trip by Cercanías, go before 7am or after 9am to avoid the peak crush.",
-      "Sherry territory: Seville is 80km from Jerez de la Frontera, the capital of the sherry-producing region — an entirely flat, windswept route through sunflower fields and white villages. If you have a fourth day or want to extend, the ride from Seville to Jerez (or just as far as Lebrija, 60km) and a bodega visit is an obvious extension. Bodegas González Byass (Jerez) and Bodegas Tradición (also Jerez) both accept visitor appointments; the latter is also one of the best private collections of Spanish Golden Age painting in the country.",
-      "July timing caveat: most professional cycling guides recommend Seville in October–March for optimal riding. July is when the committed and the heat-adapted go. The cycling infrastructure means city riding is always doable in the early hours; the countryside routes are best with a pre-dawn start. If you're flexible on dates, late September or October would give you all the same routes plus four extra hours of comfortable outdoor window per day."
+      "Vršič cobbled hairpins (bends 5–9): the famous cobbled section hits 15–17% on uneven paving stones. Commit to your gear before the cobbles start — a gear shift at that gradient on rough stone can snap a chain or throw you off rhythm. Wide tires (28–32c) handle this surface more confidently than skinny race tires (23–25c), which work but require more attention. If you've already crested the cobbled section and need to recover, there's a flat pull-off just above bend #9.",
+      "Mangart tunnel lighting is mandatory: five tunnels on the climb, all dark, all cut through solid limestone. The longest is about 90 seconds at climbing pace. A front light is a safety requirement — for you to see and for any descending vehicles to see you. Carry one even if your bike normally doesn't run lights.",
+      "Alpine weather window: the Julian Alps generate their own afternoon weather. July mornings are typically clear; by 1–2pm, cumulus clouds build over Triglav and thunderstorms develop fast. Start Vršič and Mangart before 7:30am and aim to be off the exposed ridges by noon. The storms are brief but violent — lightning on an open limestone ridge at 2,000m is serious.",
+      "Tadej Pogačar's training roads: Pogačar grew up near Komenda, 30km east of Ljubljana. The Pokljuka Plateau climb (Day 1 afternoon extension), the Radovna Valley approach to Bled, and the Vršič Pass are all in his documented junior training routes. Slovenians are proud of this in a quiet way — mentioning it to locals in Kranjska Gora is the fastest way to get into a real conversation.",
+      "Soča River recovery: the river temperature is 8–12°C even in peak summer (it's glacier-fed). A 10-minute wade or submersion after Day 2 in Bovec is the best ice-bath substitute you'll find at altitude. The water is also safe to drink if you're filtering — the color is genuine (suspended limestone and glacial flour) not algae.",
+      "Bike logistics at LJU: Ljubljana Airport (LJU) is small and well-organized. The baggage hall has space to unpack and assemble bikes; most airlines deliver oversize baggage to a separate carousel or oversize belt near the main hall. Bring a torque wrench, spare tubes, and a multi-tool in your carry-on (remove from checked bag for flight) — Ljubljana city has bike shops but Kranjska Gora's are limited. If you need a repair, Sport Bernik in Kranjska Gora (Koroška cesta) is the main option in the mountain area."
     ],
     "sources": [
-      { "title": "Cycling in Seville: an insider's guide (includes routes + GPS) — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-spain/seville/" },
-      { "title": "The best cycling routes in Sevilla — Komoot", "url": "https://www.komoot.com/guide/59490/cycling-in-sevilla" },
-      { "title": "Routes to explore Seville by bike — Spain Tourism", "url": "https://sustainability.spain.info/en/discover-spain/bike-routes-seville-what-to-see/" },
-      { "title": "The best cycling routes around National Park Sierra Norte de Sevilla — Komoot", "url": "https://www.komoot.com/guide/162567/cycling-around-national-park-sierra-norte-de-sevilla" },
-      { "title": "Via Verde de la Sierra: nature and slow travel in Andalusia — EcoBnb", "url": "https://ecobnb.com/blog/2025/07/via-verde-de-la-sierra-andalusia/" },
-      { "title": "Cycle to the south — Seville to Doñana and Cadiz — Komoot Collection", "url": "https://www.komoot.com/collection/1609234/cycle-to-the-south-seville-to-el-rocio-donana-and-cadiz-in-spain" },
-      { "title": "Climate & when to Cycle Andalusia — Cycling Spain", "url": "https://www.cyclingspain.com/inspiration/climate-when-to-cycle-andalusia/" }
+      { "title": "Cycling Slovenia's Julian Alps: routes, GPS files, hotels + more — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/" },
+      { "title": "Slovenia Road Bike Tour — Best of Slovenia in 8 Days — 57hours", "url": "https://57hours.com/adventure/slovenia-road-bike-tour/" },
+      { "title": "Vršič Pass climb stats — Pjamm Cycling", "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic" },
+      { "title": "Cycling at Vršič — Erjavčeva mountain hut cyclist stop guide", "url": "https://www.erjavcevakoca.com/cycling-at-vrsic-kranjska-gora-slovenia-a-perfect-stop-at-erjavceva-mountain-hut/" },
+      { "title": "Which is the best cycle route in Slovenia — Eat Sleep Cycle", "url": "https://www.eatsleepcycle.com/us/which-is-the-best-cycle-route-in-slovenia/" },
+      { "title": "Specialised accommodation for cyclists — Slovenia Outdoor", "url": "https://slovenia-outdoor.com/en/specialised-accommodation-for-cyclists/" },
+      { "title": "Ljubljana to Bled bike tour — Greenhills Bike Tours Slovenia", "url": "https://greenhills.si/bike-holidays-in-slovenia/ljubljana-to-bled-bike-tour/" }
     ]
   }
 }
