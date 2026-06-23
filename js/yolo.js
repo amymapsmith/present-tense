@@ -1,6 +1,31 @@
 let _yoloData = null;
 let _yoloHistory = [];
 
+function cityToSlug(city) {
+  return city.toLowerCase().replace(/\s+/g, '-');
+}
+
+function setYoloHash(slug) {
+  history.replaceState(null, '', `#yolo=${encodeURIComponent(slug)}`);
+}
+
+function clearYoloHash() {
+  history.replaceState(null, '', window.location.pathname + window.location.search);
+}
+
+function copyYoloLink() {
+  navigator.clipboard.writeText(window.location.href).then(() => {
+    const btn = document.getElementById('yolo-share-btn');
+    if (!btn) return;
+    btn.textContent = 'copied!';
+    btn.classList.add('yolo-share-copied');
+    setTimeout(() => {
+      btn.textContent = 'copy link';
+      btn.classList.remove('yolo-share-copied');
+    }, 2000);
+  });
+}
+
 async function loadYoloData() {
   try {
     const [mainRes, histRes] = await Promise.all([
@@ -128,6 +153,7 @@ function showPastDestination(index) {
   if (!entry) return;
   const currentCity = _yoloData ? _yoloData.destination.city : null;
   const { destination, flights, flight_search_date, lodging, itinerary } = entry;
+  setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-past-nav">
       <button class="yolo-past-back-btn" onclick="renderYolo(_yoloData)">← ${currentCity || 'current'}</button>
@@ -136,6 +162,7 @@ function showPastDestination(index) {
       <div class="yolo-flag">${destination.flag}</div>
       <div class="yolo-dest">${destination.city}, ${destination.country}</div>
       ${destination.vibe ? `<p class="yolo-vibe">${destination.vibe}</p>` : ''}
+      <button class="yolo-share-btn" id="yolo-share-btn" onclick="copyYoloLink()">copy link</button>
     </div>
     ${renderYoloMap(destination)}
     ${renderYoloFlights(flights, flight_search_date)}
@@ -147,11 +174,13 @@ function showPastDestination(index) {
 
 function renderYolo(data) {
   const { destination, flights, flight_search_date, lodging, itinerary } = data;
+  setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-hero">
       <div class="yolo-flag">${destination.flag}</div>
       <div class="yolo-dest">${destination.city}, ${destination.country}</div>
       ${destination.vibe ? `<p class="yolo-vibe">${destination.vibe}</p>` : ''}
+      <button class="yolo-share-btn" id="yolo-share-btn" onclick="copyYoloLink()">copy link</button>
     </div>
     ${renderYoloMap(destination)}
     ${renderYoloFlights(flights, flight_search_date)}
@@ -172,11 +201,23 @@ function showYolo() {
 
 function closeYolo() {
   document.body.classList.remove('yolo-active');
+  clearYoloHash();
 }
 
 async function initYolo() {
   _yoloData = await loadYoloData();
   if (_yoloData) renderYolo(_yoloData);
+
+  const hash = window.location.hash;
+  if (hash.startsWith('#yolo=')) {
+    const slug = decodeURIComponent(hash.slice(6));
+    const currentSlug = _yoloData ? cityToSlug(_yoloData.destination.city) : null;
+    if (slug && slug !== currentSlug) {
+      const histIdx = _yoloHistory.findIndex(e => cityToSlug(e.destination.city) === slug);
+      if (histIdx >= 0) showPastDestination(histIdx);
+    }
+    showYolo();
+  }
 
   document.getElementById('yolo-btn').addEventListener('click', showYolo);
   document.getElementById('yolo-back-btn').addEventListener('click', closeYolo);

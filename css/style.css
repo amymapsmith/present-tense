@@ -601,6 +601,24 @@ body.yolo-active #yolo-view { display: block; min-height: 100vh; }
   max-width: 540px;
 }
 
+.yolo-share-btn {
+  margin-top: 0.75rem;
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.25rem 0.6rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.yolo-share-btn:hover { color: var(--text); border-color: var(--text-muted); }
+.yolo-share-btn.yolo-share-copied { color: var(--accent, #2a9d8f); border-color: var(--accent, #2a9d8f); }
+
 /* ── Yolo sections ───────────────────────────────── */
 .yolo-section {
   margin-top: 2.25rem;
