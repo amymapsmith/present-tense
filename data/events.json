@@ -1,17 +1,17 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "events": [
     {
-      "title": "Stern Grove Festival: Japanese Breakfast",
-      "date": "2026-06-28",
-      "time": "14:00",
-      "venue": "Stern Grove",
-      "neighborhood": "West Portal",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free — ticket lottery required (sterngrove.org)",
-      "description": "Japanese Breakfast (Michelle Zauner) headlines the free Stern Grove summer series. Tickets are distributed by lottery — reserve at sterngrove.org. Set in a redwood amphitheater; blanket required, arrive early.",
-      "url": "https://www.sterngrove.org/lineup2026"
+      "title": "Comedy Allstars",
+      "date": "2026-06-23",
+      "time": "19:30",
+      "venue": "Punch Line SF",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 22,
+      "cost_notes": "~$22",
+      "description": "Rotating lineup of Bay Area and touring stand-up comedians. Punch Line's Monday night showcase format — good variety, tight sets.",
+      "url": "https://www.punchlinecomedyclub.com"
     },
     {
       "title": "Heavenly",
@@ -21,9 +21,57 @@
       "neighborhood": "Tenderloin",
       "category": "music",
       "cost": 37,
-      "cost_notes": "$35–$39",
-      "description": "British shoegaze/dream-pop band at GAMH. Doors 7 PM.",
-      "url": "https://wl.seetickets.us/event/heavenly/675141?afflky=GreatAmericanMusicHall"
+      "cost_notes": "$35–39",
+      "description": "London indie pop band and their distinctly melodic, wry sound. GAMH is one of the best mid-size rooms in the city — ornate balconies, good sightlines.",
+      "url": "https://www.gamh.com"
+    },
+    {
+      "title": "Scott Capurro Has Friends",
+      "date": "2026-06-24",
+      "time": "19:30",
+      "venue": "Punch Line SF",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 22,
+      "cost_notes": "~$22",
+      "description": "SF comedy veteran Scott Capurro hosts with guest comedians. Sharp, often provocative — not for every crowd, but always memorable.",
+      "url": "https://www.punchlinecomedyclub.com"
+    },
+    {
+      "title": "Zach Noe Towers",
+      "date": "2026-06-25",
+      "time": "20:00",
+      "venue": "Punch Line SF",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "$25",
+      "description": "Stand-up comedian known for wry observational humor and deadpan delivery. Thursday headliner show.",
+      "url": "https://www.punchlinecomedyclub.com"
+    },
+    {
+      "title": "2nd Thursday Salsa Social",
+      "date": "2026-06-25",
+      "time": "20:00",
+      "venue": "Dance Mission Theater",
+      "neighborhood": "Mission",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$10–15 suggested",
+      "description": "Monthly salsa social with live music or DJ, open floor for all levels. Mission neighborhood dance community staple.",
+      "url": "https://www.dancemission.com"
+    },
+    {
+      "title": "Zach Noe Towers",
+      "date": "2026-06-26",
+      "time": "19:30",
+      "venue": "Punch Line SF",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "$25",
+      "description": "Zach Noe Towers continues his Punch Line run — Friday show has an earlier start time.",
+      "url": "https://www.punchlinecomedyclub.com"
     },
     {
       "title": "This Charming Band",
@@ -33,9 +81,45 @@
       "neighborhood": "Tenderloin",
       "category": "music",
       "cost": 27,
-      "cost_notes": "$25–$30",
-      "description": "The Bay Area's definitive Smiths tribute band. They've been doing this for years and they're very good at it. Doors 7 PM.",
-      "url": "https://wl.seetickets.us/event/this-charming-band/688755?afflky=GreatAmericanMusicHall"
+      "cost_notes": "$25–30",
+      "description": "One of the most accurate Smiths/Morrissey tribute acts in the world, consistently sold-out at GAMH. 'There Is a Light That Never Goes Out' performed exactly as intended.",
+      "url": "https://www.gamh.com"
+    },
+    {
+      "title": "Dance Fridays",
+      "date": "2026-06-26",
+      "time": "19:45",
+      "venue": "550 Barneveld Ave",
+      "neighborhood": "Bayview",
+      "category": "dance",
+      "cost": 20,
+      "cost_notes": "$20 at door",
+      "description": "SF's long-running weekly salsa and Latin dance event. Instruction at 7:45 PM, social dancing until late. All levels welcome, large floor, excellent DJs.",
+      "url": "https://www.dancefridays.com"
+    },
+    {
+      "title": "Moleskine Project XIII — Opening Reception",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "venue": "Hashimoto Contemporary (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "13th edition of the global Moleskine artist collaboration — curated works created in Moleskine notebooks by artists worldwide. Opening reception at Hashimoto Contemporary, Minnesota Street Project.",
+      "url": "https://www.minnesotastreetproject.com"
+    },
+    {
+      "title": "Introductions — Opening Reception",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "venue": "Ruth Asawa Lanier (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Group show introducing emerging artists to the Bay Area gallery circuit. Opening reception at Ruth Asawa Lanier gallery within Minnesota Street Project.",
+      "url": "https://www.minnesotastreetproject.com"
     },
     {
       "title": "Wheelchair Sports Camp",
@@ -45,117 +129,69 @@
       "neighborhood": "Tenderloin",
       "category": "music",
       "cost": 28,
-      "cost_notes": "$27–$30",
-      "description": "Denver hip-hop collective known for politically engaged lyricism and high-energy live sets. Doors 6 PM.",
-      "url": "https://wl.seetickets.us/event/wheelchair-sports-camp/689133?afflky=GreatAmericanMusicHall"
+      "cost_notes": "$27–30",
+      "description": "Oakland hip-hop collective led by Kalyn Heffernan — wheelchair user, disability justice advocate, and genuinely powerful performer. Critically acclaimed live show.",
+      "url": "https://www.gamh.com"
+    },
+    {
+      "title": "Memory Cradle",
+      "date": "2026-06-23",
+      "time": "11:00",
+      "venue": "Eleanor Harwood Gallery (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Ongoing exhibition through July 18 at Eleanor Harwood Gallery within Minnesota Street Project. Works exploring memory, material, and personal archive. Wed–Sat 11am–5pm.",
+      "url": "https://www.minnesotastreetproject.com"
+    },
+    {
+      "title": "Mark Perlman — Recent Works",
+      "date": "2026-06-23",
+      "time": "11:00",
+      "venue": "Nancy Toomey Fine Art (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Ongoing exhibition through July 18 at Nancy Toomey Fine Art, Minnesota Street Project. Paintings drawing from landscape and abstraction.",
+      "url": "https://www.minnesotastreetproject.com"
+    },
+    {
+      "title": "Japanese Breakfast at Stern Grove",
+      "date": "2026-06-28",
+      "time": "14:00",
+      "venue": "Stern Grove Festival",
+      "neighborhood": "West Portal / Sunset",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free — lottery entry only (sold out)",
+      "description": "Michelle Zauner's Michelle Zauner-led indie rock project headlining Stern Grove's free outdoor amphitheater. Lottery tickets were required and are sold out — check the wait list or arrive early for standby.",
+      "url": "https://www.sterngrove.org"
     },
     {
       "title": "Bird & Beckett Sunday Jazz",
       "date": "2026-06-28",
-      "time": "17:00",
-      "venue": "Bird & Beckett Books & Records",
+      "time": "16:00",
+      "venue": "Bird & Beckett Books and Records",
       "neighborhood": "Glen Park",
       "category": "bar",
       "cost": 0,
-      "cost_notes": "free / donation",
-      "description": "The beloved Glen Park jazz-bookshop hosts Sunday afternoon happy hour sets most weeks. Check birdbeckett.com for the specific lineup — typically local jazz and swing musicians in an intimate room among the stacks.",
-      "url": "https://birdbeckett.com/"
-    },
-    {
-      "title": "Dance Fridays — Salsa & Bachata Night",
-      "date": "2026-06-26",
-      "time": "19:45",
-      "venue": "550 Barneveld Ave",
-      "neighborhood": "Bayview / Dogpatch",
-      "category": "dance",
-      "cost": 20,
-      "cost_notes": "cover varies — check dancefridays.fun",
-      "description": "The Bay Area's largest Latin social dance club, every Friday. Beginner lessons included, two rooms (salsa main floor, bachata second room). 7:45 PM–1:45 AM. 21+.",
-      "url": "https://www.dancefridays.fun/"
+      "cost_notes": "free / suggested donation",
+      "description": "Weekly Sunday afternoon jazz sessions at the beloved Glen Park bookstore and record shop. Intimate space, rotating local musicians, free with a suggested donation. Doors at 3:30 PM.",
+      "url": "https://www.birdbeckett.com"
     },
     {
       "title": "SalsaCrazy Mondays",
-      "date": "2026-06-22",
+      "date": "2026-06-29",
       "time": "18:30",
-      "venue": "SalsaCrazy",
-      "neighborhood": "Mission",
+      "venue": "406 Clement St",
+      "neighborhood": "Inner Richmond",
       "category": "dance",
       "cost": 15,
-      "cost_notes": "$15 cover, lessons included",
-      "description": "Weekly salsa and bachata social dancing Monday nights. Lessons start at 6:30 PM followed by open social. Runs every Monday.",
-      "url": "https://salsacrazysf.com/"
-    },
-    {
-      "title": "2nd Thursday Salsa & Bachata Social",
-      "date": "2026-06-25",
-      "time": "19:00",
-      "venue": "Bay Area Latin Dance",
-      "neighborhood": "SF / varies",
-      "category": "dance",
-      "cost": 0,
-      "cost_notes": "typically free or low cover",
-      "description": "2nd and 4th Thursday Latin socials — lessons 7–8 PM followed by open dancing. Check DanceUs.org or Salsa Vida's SF Bay Area calendar for exact venue.",
-      "url": "https://www.danceus.org/events/salsa/san-francisco-ca-salsa-calendar/"
-    },
-    {
-      "title": "Memory Cradle — Eleanor Harwood Gallery",
-      "date": "2026-06-22",
-      "time": "12:00",
-      "venue": "Eleanor Harwood Gallery @ Minnesota Street Project",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Group exhibition running May 15–Jul 18 at Minnesota Street Project (1275 Minnesota St). Gallery hours typically Tue–Sat 11–6. 14 galleries under one roof in Dogpatch; worth making a day of it.",
-      "url": "https://minnesotastreetproject.com/exhibitions"
-    },
-    {
-      "title": "Mark Perlman: Comes and Goes — Nancy Toomey Fine Art",
-      "date": "2026-06-22",
-      "time": "11:00",
-      "venue": "Nancy Toomey Fine Art @ Minnesota Street Project",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Solo exhibition June 10–Jul 18 at MSP (1275 Minnesota St). Perlman's paintings explore memory, narrative, and the uncanny.",
-      "url": "https://minnesotastreetproject.com/exhibitions"
-    },
-    {
-      "title": "STUDIO Gallery Opening: Julia Foug, Robert Frank & Mila Kirillova",
-      "date": "2026-06-27",
-      "time": "15:00",
-      "venue": "STUDIO Gallery",
-      "neighborhood": "Civic Center / Hayes Valley",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Opening reception Saturday June 27, 3–5 PM. Three-artist show at STUDIO Gallery — one of SF's longest-running artist-run galleries. Reception is free and open to the public.",
-      "url": "https://www.studiogallerysf.com/whats-coming-up"
-    },
-    {
-      "title": "Shapel Lacey",
-      "date": "2026-06-28",
-      "time": "20:00",
-      "venue": "Cobb's Comedy Club",
-      "neighborhood": "Fisherman's Wharf",
-      "category": "comedy",
-      "cost": 30,
-      "cost_notes": "varies by seating",
-      "description": "San Francisco-based comedian with a sharp, absurdist take on identity and everyday life. Sunday late show at Cobb's.",
-      "url": "https://www.cobbscomedy.com/"
-    },
-    {
-      "title": "SF Comedy Showcase",
-      "date": "2026-06-30",
-      "time": "20:00",
-      "venue": "Punch Line SF",
-      "neighborhood": "Embarcadero / Financial District",
-      "category": "comedy",
-      "cost": 20,
-      "cost_notes": "varies",
-      "description": "Weekly rotating showcase of Bay Area's best stand-up comedians at the legendary Punch Line. Tuesday late show.",
-      "url": "https://www.punchlinecomedyclub.com/"
+      "cost_notes": "$15",
+      "description": "Weekly salsa social in the Richmond. Class at 6:30 PM, social dancing until 10 PM. Consistent crowd, multi-level, welcoming to newcomers.",
+      "url": "https://www.salsacrazy.com"
     }
   ]
 }

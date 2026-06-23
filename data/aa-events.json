@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "group_runs": [
     {
       "day": "Monday",
@@ -64,18 +64,6 @@
       "url": "https://a2dancerevolution.com/"
     },
     {
-      "title": "A2 Dance Revolution — Bachata Wednesdays",
-      "date": "2026-06-24",
-      "time": "18:30",
-      "venue": "Cahoots (206 E Huron St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$15 adults / $12 students drop-in",
-      "description": "Weekly bachata classes at 6:30 PM with social dancing after. Level 1 + Level 3 from 6:30–7:45 PM, Level 2 + Level 4 from 8–9:15 PM. Runs every Wednesday.",
-      "url": "https://a2dancerevolution.com/"
-    },
-    {
       "title": "Ian Flanigan — The Ark",
       "date": "2026-06-23",
       "time": "20:00",
@@ -86,6 +74,18 @@
       "cost_notes": "free (donations support Food Gatherers)",
       "description": "Country/Americana singer with 'worn leather' vocals — Voice finalist with a road-tested sound. One of The Ark's periodic free donation shows.",
       "url": "https://theark.org/events/"
+    },
+    {
+      "title": "A2 Dance Revolution — Bachata Wednesdays",
+      "date": "2026-06-24",
+      "time": "18:30",
+      "venue": "Cahoots (206 E Huron St)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly bachata classes at 6:30 PM with social dancing after. Level 1 + Level 3 from 6:30–7:45 PM, Level 2 + Level 4 from 8–9:15 PM. Runs every Wednesday.",
+      "url": "https://a2dancerevolution.com/"
     },
     {
       "title": "Esther Rose — The Ark",
@@ -100,6 +100,18 @@
       "url": "https://theark.org/events/"
     },
     {
+      "title": "A2SF Top of the Park — Jive Colossus",
+      "date": "2026-06-24",
+      "time": "20:15",
+      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free (suggested $10 donation)",
+      "description": "High-energy swing/jazz band. Free outdoor concert at Ann Arbor Summer Festival's nightly Top of the Park series.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
       "title": "Handmade Moments — The Ark",
       "date": "2026-06-25",
       "time": "20:00",
@@ -109,6 +121,18 @@
       "cost": 24,
       "cost_notes": "$24",
       "description": "New Orleans duo playing American roots music with diverse instrumentation and tag-team beatboxing. Expect surprises.",
+      "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Gregory Stovetop — The Ark",
+      "date": "2026-06-26",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 29,
+      "cost_notes": "$29",
+      "description": "Cosmic folk/rock/soul from the Chelsea-based singer-songwriter — wry lyrics, warm sound, the kind of artist who fills intimate rooms for a reason.",
       "url": "https://theark.org/events/"
     },
     {
@@ -124,6 +148,18 @@
       "url": "https://theark.org/events/"
     },
     {
+      "title": "A2SF Top of the Park — My Brightest Diamond",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free (suggested $10 donation)",
+      "description": "Shara Nova's project blending indie, art pop, and chamber pop — a genuinely singular voice. Free outdoor concert at the Ann Arbor Summer Festival.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
       "title": "Matt Watroba — The Ark",
       "date": "2026-06-28",
       "time": "19:30",
@@ -133,6 +169,30 @@
       "cost": 29,
       "cost_notes": "$29",
       "description": "Celebrating 40 years in radio and 50 years performing — a folk/roots Michigan legend. Sunday matinee-adjacent timing.",
+      "url": "https://theark.org/events/"
+    },
+    {
+      "title": "A2SF Top of the Park — Lady Sunshine and the X Band",
+      "date": "2026-06-28",
+      "time": "19:00",
+      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free (suggested $10 donation)",
+      "description": "Energetic funk/soul/rock band. Final weekend of the Ann Arbor Summer Festival's free outdoor Top of the Park series.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "A2SF Top of the Park — Open Stage & Film",
+      "date": "2026-06-29",
+      "time": "20:00",
+      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 3,
+      "cost_notes": "$3 for Open Stage open mic; outdoor film follows",
+      "description": "The Ark's Open Stage (8-minute slots, open to all) at 8 PM. Followed by an outdoor film screening. Part of Top of the Park's nightly programming.",
       "url": "https://theark.org/events/"
     },
     {
@@ -148,6 +208,18 @@
       "url": "https://theark.org/events/"
     },
     {
+      "title": "Blake Whyte — The Ark",
+      "date": "2026-07-02",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 24,
+      "cost_notes": "$24",
+      "description": "Soul/theatre songwriter-actor — theatrical storytelling through music, strong voice.",
+      "url": "https://theark.org/events/"
+    },
+    {
       "title": "Pixie and the Partygrass Boys — The Ark",
       "date": "2026-07-03",
       "time": "20:00",
@@ -160,15 +232,15 @@
       "url": "https://theark.org/events/"
     },
     {
-      "title": "A2SF Top of the Park — Open Stage & Film",
-      "date": "2026-06-29",
+      "title": "Davy Knowles — The Ark",
+      "date": "2026-07-07",
       "time": "20:00",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "venue": "The Ark",
       "neighborhood": "Downtown Ann Arbor",
       "category": "music",
-      "cost": 3,
-      "cost_notes": "$3 for Open Stage open mic; outdoor film follows",
-      "description": "The Ark's Open Stage (8-minute slots, open to all) at 8 PM. Followed by an outdoor film screening. Part of Top of the Park's nightly programming.",
+      "cost": 29,
+      "cost_notes": "$29",
+      "description": "Isle of Man-born blues-rock guitarist and singer with serious chops — a cult favorite at intimate venues. Expect extended guitar work and songs that earn it.",
       "url": "https://theark.org/events/"
     },
     {

@@ -13,22 +13,22 @@
     "note": "No history.json found — actuals not available yet. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
-    "updated": "2026-06-22",
-    "summary": "No tracked activity yet this week — a clean slate. The highest-ROI moves right now are one professional touchpoint (the AWS Agentic AI Summit is Tuesday, free) and getting outside while SF weather is dry and calm before the wind picks up Friday.",
+    "updated": "2026-06-23",
+    "summary": "Clean slate — no logged activity yet. You're in Ann Arbor now, so the local weather window matters: today is the outdoor day (76°F, sunny, calm) before Wed–Thu storms roll in. Two fresh Anthropic TPM roles and Gregory Stovetop at The Ark on Thursday are the highest-signal picks this week.",
     "suggested": [
       {
         "category": "professional",
-        "title": "AWS Agentic AI Summit — June Edition (free, Tue Jun 24)",
+        "title": "Anthropic TPM Apps Platform + TPM Research — both posted this week, $365k–$435k",
         "source_section": "professional"
       },
       {
         "category": "health",
-        "title": "Cycling or running Mon–Thu — weather good, winds 12–14 mph, no rain through Thursday",
+        "title": "Run or bike outside today (Tue Jun 23) — 76°F, sunny, winds under 8 mph all day",
         "source_section": "gym"
       },
       {
         "category": "culture",
-        "title": "Minnesota Street Project — Memory Cradle + Mark Perlman shows (free, Dogpatch, through Jul 18)",
+        "title": "Gregory Stovetop at The Ark — Thu Jun 26, $29 (cosmic folk/rock/soul, intimate venue)",
         "source_section": "events"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "venues": [
     {
       "id": "umma",
@@ -167,6 +167,15 @@
           "description": "8-minute open mic slots. Free for students/members.",
           "cost": 3,
           "cost_notes": "$3 ($0 students/members)",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Davy Knowles",
+          "date": "2026-07-07",
+          "time": "20:00",
+          "description": "Blues-rock guitarist from the Isle of Man — cult favorite with serious chops.",
+          "cost": 29,
+          "cost_notes": "$29",
           "url": "https://theark.org/events/"
         }
       ]

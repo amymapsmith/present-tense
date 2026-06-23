@@ -1,37 +1,26 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "location": "San Francisco, CA",
   "forecast": [
     {
-      "date": "2026-06-22",
-      "day": "Monday",
-      "high": 67,
-      "low": 55,
-      "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,7,8,9,10,11,12,12,13,14,14,14,13,12,11,10,10,9,9],
-      "precipitation_pct": 0,
-      "humidity": null,
-      "description": "Sunny"
-    },
-    {
       "date": "2026-06-23",
       "day": "Tuesday",
-      "high": 69,
+      "high": 66,
       "low": 55,
       "wind_mph": 12,
-      "wind_hourly": [6,6,5,5,5,5,6,7,8,9,10,11,11,12,12,12,12,11,10,9,8,8,7,6],
-      "precipitation_pct": 0,
+      "wind_hourly": [5,5,5,5,5,5,5,5,5,5,6,7,8,9,10,12,12,12,12,12,10,9,8,8],
+      "precipitation_pct": 1,
       "humidity": null,
       "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-24",
       "day": "Wednesday",
-      "high": 70,
-      "low": 56,
+      "high": 66,
+      "low": 55,
       "wind_mph": 13,
-      "wind_hourly": [6,6,5,5,5,5,6,7,8,10,11,12,12,13,13,13,13,12,11,10,9,8,7,6],
-      "precipitation_pct": 0,
+      "wind_hourly": [8,7,7,6,6,5,5,5,6,6,6,8,8,8,12,12,12,13,13,13,12,12,12,9],
+      "precipitation_pct": 1,
       "humidity": null,
       "description": "Mostly Sunny"
     },
@@ -40,20 +29,20 @@
       "day": "Thursday",
       "high": 70,
       "low": 56,
-      "wind_mph": 14,
-      "wind_hourly": [6,6,5,5,5,5,6,7,9,10,12,13,13,14,14,14,13,12,11,10,9,8,7,6],
+      "wind_mph": 16,
+      "wind_hourly": [9,9,7,7,7,5,5,5,5,5,5,7,7,7,12,12,12,16,16,16,16,16,16,15],
       "precipitation_pct": 0,
       "humidity": null,
-      "description": "Sunny"
+      "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-26",
       "day": "Friday",
-      "high": 69,
+      "high": 68,
       "low": 57,
-      "wind_mph": 18,
-      "wind_hourly": [8,7,7,6,6,6,7,8,10,12,14,16,17,18,18,18,17,16,15,14,13,12,11,10],
-      "precipitation_pct": 0,
+      "wind_mph": 21,
+      "wind_hourly": [15,15,12,12,12,10,10,10,10,10,10,14,14,14,18,18,18,20,20,20,21,21,21,20],
+      "precipitation_pct": 2,
       "humidity": null,
       "description": "Mostly Sunny"
     },
@@ -62,8 +51,8 @@
       "day": "Saturday",
       "high": 67,
       "low": 55,
-      "wind_mph": 18,
-      "wind_hourly": [8,7,7,6,6,6,7,8,10,12,14,16,17,18,18,18,17,16,14,13,12,11,10,9],
+      "wind_mph": 20,
+      "wind_hourly": [20,20,15,15,13,13,12,12,12,13,13,15,16,17,18,18,18,17,16,15,14,13,12,12],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Mostly Sunny"
@@ -71,10 +60,21 @@
     {
       "date": "2026-06-28",
       "day": "Sunday",
-      "high": 72,
-      "low": 55,
+      "high": 73,
+      "low": 56,
       "wind_mph": 13,
-      "wind_hourly": [6,5,5,5,4,4,5,6,8,9,10,11,12,12,13,13,12,11,10,9,8,7,6,6],
+      "wind_hourly": [8,7,6,5,4,4,4,5,6,7,8,9,10,11,12,13,13,12,11,10,9,8,7,6],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
+    },
+    {
+      "date": "2026-06-29",
+      "day": "Monday",
+      "high": 72,
+      "low": 56,
+      "wind_mph": 12,
+      "wind_hourly": [7,6,5,5,4,4,4,5,6,7,8,9,10,11,12,12,11,10,9,8,7,6,5,5],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Sunny"
@@ -83,23 +83,23 @@
   "recommendations": [
     {
       "activity": "cycling",
-      "rating": "good",
-      "reason": "Mon–Thu and Sun are ideal: mid-60s to low 70s, wind under 14 mph, zero rain. Fri–Sat winds reach 18 mph — manageable but plan for a westerly headwind."
+      "rating": "fair",
+      "reason": "Tue morning best (winds 5–10 mph before noon); fair Wed–Thu (13–16 mph peak); avoid Fri–Sat afternoon when gusts reach 18–21 mph; Sun–Mon improves to 12–13 mph"
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "Great all week — temps 55–72°F, no precip, winds 12–14 mph Mon–Thu dropping to 13 Sun. Fri–Sat windier; run in the morning before it builds."
+      "reason": "Good all week — rain-free, temps 55–73°F; move runs to morning Fri–Sat when afternoon winds exceed 18 mph; Sun–Mon afternoon is the sweet spot"
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club indoor pool available every day. No weather considerations; good fallback for Fri–Sat when winds make cycling less fun."
+      "reason": "Bay Club SF pool open Mon–Thu 5am–10pm, Fri 5am–9pm, weekends 7am–7pm; FiDi weekdays 5am–8pm"
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Always good. Bay Club SF open until 10 PM Mon–Thu — useful for evenings after long work sessions."
+      "reason": "Especially recommended Fri–Sat afternoon when gusts peak at 18–21 mph outdoors"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "opportunities": [
     {
       "type": "role",
@@ -30,6 +30,36 @@
       "seniority": "senior",
       "location": "any",
       "tags": ["technical-program-management", "ai", "infrastructure", "anthropic", "san-francisco"]
+    },
+    {
+      "type": "role",
+      "title": "Technical Program Manager, Apps Platform",
+      "organization": "Anthropic",
+      "description": "Drive execution and cross-functional coordination for Anthropic's Apps Platform — the product surface that most developers and consumers interact with. Program management across Engineering, Product, and Design. Hybrid SF/Seattle. $365k–$435k.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5251609008",
+      "source": "linkedin",
+      "seniority": "senior",
+      "location": "any",
+      "tags": ["technical-program-management", "ai", "product", "anthropic", "san-francisco"]
+    },
+    {
+      "type": "role",
+      "title": "Technical Program Manager, Research",
+      "organization": "Anthropic",
+      "description": "Coordinate across Anthropic's research organization — managing roadmaps and dependencies between fundamental AI research teams and the infrastructure/product teams that build on their outputs. SF or NYC. $365k–$435k.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5203545008",
+      "source": "linkedin",
+      "seniority": "senior",
+      "location": "any",
+      "tags": ["technical-program-management", "ai", "research", "anthropic", "san-francisco"]
     },
     {
       "type": "role",
