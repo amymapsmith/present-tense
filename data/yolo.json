@@ -1,116 +1,117 @@
 {
   "updated": "2026-06-23",
   "destination": {
-    "city": "Athens",
-    "country": "Greece",
-    "flag": "🇬🇷",
-    "iata": "ATH",
-    "lat": 37.9838,
-    "lon": 23.7275,
-    "vibe": "The birthplace of democracy, tragedy, and the gyro — where a 2,500-year-old citadel glows gold at sunset over a city of five million, a souvlaki costs €4, and nothing serious happens before 9pm."
+    "city": "Seville",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "iata": "SVQ",
+    "lat": 37.3891,
+    "lon": -5.9845,
+    "vibe": "The flattest big city in Europe, wrapped in Moorish palaces and orange trees, with 180km of dedicated bike lanes connecting neighborhoods that haven't changed in 500 years — you just have to be on the road before the sun gets serious."
   },
   "flight_search_date": "2026-06-23",
   "flights": [
     {
       "airline": "Turkish Airlines",
       "price_usd": 849,
-      "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; book 4–6 weeks out)",
+      "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 4–6 weeks out)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~15h total",
-      "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens",
-      "notes": "Connects through Istanbul (IST) — Turkish Airlines flies 7x/week from DTW. IST is an enormous and efficient hub with great transit lounges; the ATH leg from Istanbul is only 2h. Full-service airline with meals, 2 checked bags included. Turkish is often the lowest-priced European carrier on this route. Book direct at turkishairlines.com for the best fare."
-    },
-    {
-      "airline": "Delta Air Lines",
-      "price_usd": 981,
-      "outbound_dates": "Jul 12–28 (lowest-cost window found; midweek departures save ~$60 vs. weekend)",
-      "return_dates": "flexible +7–14 days",
-      "stops": 1,
       "duration": "~17h total",
-      "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html",
-      "notes": "Connects through JFK or ATL — Delta offers 12 connecting flights weekly from DTW. JFK routing connects to Athens nonstop on Delta's transatlantic service; longer but comfortable. $981 roundtrip for Jul 12–28 per current search. Use Google Flights to find the cheapest specific dates before booking at delta.com."
+      "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-seville",
+      "notes": "Connects through Istanbul (IST) — Turkish flies from DTW with good IST connection frequency. Full-service airline with meals and 2 checked bags included. Important: call ahead to confirm bike-as-checked-baggage policy and fees (typically €50–80 each way in a hard case or bike box); book on turkishairlines.com directly for clearest fee disclosure."
     },
     {
-      "airline": "United Airlines",
-      "price_usd": 1030,
-      "outbound_dates": "Aug 1–20 (August slightly cheaper than July peak)",
-      "return_dates": "flexible +7–14 days",
+      "airline": "Iberia",
+      "price_usd": 910,
+      "outbound_dates": "July–August flexible (midweek cheapest; August slightly cheaper than July)",
+      "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~14h 30m total",
-      "url": "https://www.united.com/en-us/flights-from-detroit-to-athens",
-      "notes": "Connects through Newark (EWR) — United's hub has good international connections and the EWR→ATH leg is nonstop. Slightly shorter overall than Delta's JFK routing. $1,030 roundtrip; prices drop slightly in late August. Good option with United miles or Star Alliance status."
+      "duration": "~14h total",
+      "url": "https://www.google.com/travel/flights/flights-from-detroit-to-seville.html",
+      "notes": "Connects through Madrid Barajas (MAD) — the most logical routing since MAD→SVQ is only 1h15m on Iberia's Puente Aéreo shuttle (flights every 30–60 min). Bike fees: Iberia charges €50–100 each way for bikes in a case; confirm at iberia.com. From MAD to SVQ you could also take the AVE high-speed train (2.5h, €30–60) if the connection time allows — Renfe allows bikes in bike-specific spaces on some trains, so worth checking."
+    },
+    {
+      "airline": "KLM",
+      "price_usd": 952,
+      "outbound_dates": "July–August flexible (Amsterdam hub, midweek best)",
+      "return_dates": "flexible +7–10 days",
+      "stops": 1,
+      "duration": "~13h 30m total",
+      "url": "https://www.klm.com/flights/en-us/flights-from-detroit-to-seville",
+      "notes": "Connects through Amsterdam Schiphol (AMS) — KLM is part of SkyTeam. Short AMS→SVQ leg (~3h). KLM bike policy: bikes accepted as checked baggage at €50–75 each way; must be in a hard case or bike box and deflated/pedals removed. Book at klm.com and add the bike during checkout."
     }
   ],
   "lodging": [
     {
-      "name": "City Circus Athens",
+      "name": "La Banda Rooftop Hostel",
       "type": "hostel",
-      "price_per_night_usd": 65,
-      "neighborhood": "Psirri / Monastiraki",
-      "highlights": "9.6/10 on Hostelworld — a neoclassical building with antique furnishings and retro character, 0.97km from city center in the thick of Psirri's bar and taverna scene, steps from Monastiraki Metro. One of the most distinctive budget stays in Athens and a 2026 Hoscar Award winner.",
-      "url": "https://www.hostelworld.com/hostels/europe/greece/athens/",
+      "price_per_night_usd": 45,
+      "neighborhood": "Arenal / Centro",
+      "highlights": "Well-reviewed hostel steps from the Torre del Oro and Guadalquivir riverfront — the best starting point for the city cycling circuit. Ask at check-in for secure indoor bike storage (policy: confirm before booking). Rooftop terrace with views of the Cathedral tower.",
+      "url": "https://www.hostelworld.com/hostels/europe/spain/seville/",
       "source": "hostelworld"
     },
     {
-      "name": "Sweet Home Hotel",
+      "name": "Hotel Palacio Alcázar",
       "type": "hotel",
-      "price_per_night_usd": 126,
-      "neighborhood": "Plaka",
-      "highlights": "9.3/10 on Booking (1,600 reviews) — elegant rooms in a restored building 400m from Syntagma Square, some with Acropolis views, homemade breakfast included. The most approachable mid-range option in the historic heart of the city.",
-      "url": "https://www.booking.com/district/gr/athens/plaka.html",
+      "price_per_night_usd": 135,
+      "neighborhood": "Santa Cruz / Barrio de Santa Cruz",
+      "highlights": "Boutique hotel in a 19th-century palace 200m from the Real Alcázar walls, central for city cycling circuits and the Guadalquivir promenade. Confirm secure bike storage when booking — standard at most Seville hotel category; this one has interior parking. 4.3/5 on Booking.",
+      "url": "https://www.booking.com/hotel/es/palacio-alcazar.html",
       "source": "booking"
     },
     {
-      "name": "AthensWas Design Hotel",
+      "name": "Hotel Corral del Rey",
       "type": "hotel",
-      "price_per_night_usd": 210,
-      "neighborhood": "Makrygianni / Dionysiou Areopagitou",
-      "highlights": "21 rooms on Dionysiou Areopagitou — the pedestrian promenade directly below the Acropolis — with unobstructed Parthenon views from the rooms and rooftop terrace. Greek contemporary design in every detail. The most specific address in Athens if you came for the marble.",
-      "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html",
+      "price_per_night_usd": 280,
+      "neighborhood": "Santa Cruz",
+      "highlights": "A 17th-century merchant's townhouse restored to 13 rooms in the oldest part of the city — four courtyards, original stone, genuinely beautiful. Secure bike storage available. This is the most atmospheric address in Seville and worth it for two nights.",
+      "url": "https://www.corraldelrey.com/en/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Athens is not a museum with a city around it — it's a city of five million that happens to have an intact 5th-century BC temple on its central hill. The Acropolis is genuinely awe-inspiring and you should see it, but the city underneath it rewards the visitor who keeps walking: Psirri's tavernas where Greek blues (rebetiko) still gets performed live, the Ancient Agora where democracy was argued over in real time, Exarcheia's anarchist bookstores and Saturday farmers' market, the Kerameikos cemetery that has been burying Athenians since the 11th century BC. July is hot — genuinely, occasionally brutally hot (40°C is possible) — but the city doesn't stop: it just moves later, eats at 9pm, and stays out until 3am in a way that makes everything else feel provincial.",
+    "overview": "Seville is one of the great surprises of European cycling — not because anyone expects it to be bad, but because 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars is a combination that doesn't quite make sense until you're riding it at 6:30am with the Cathedral lit gold and nobody else on the road. The terrain is completely flat: the Guadalquivir delta has been filling in for ten thousand years and the result is a city where every elevation change is a bridge. The surrounding countryside is more varied — the Sierra Norte to the north, the Doñana wetlands to the southwest, whitewashed hill towns to the east — and all of it is accessible by bike via greenways and quiet provincial roads. The catch, and it is a real one: July in Seville is genuinely hostile. Temperatures regularly hit 40–43°C by noon. All serious cycling must happen before 9am (ideally departing by 5:45–6am in summer) or after 6:30pm. Local cyclists know this and operate accordingly — the city's cycling infrastructure comes alive at dawn and at dusk, and the middle of the day belongs to shade, cold drinks, and the siesta. Plan the same way and Seville rewards you completely.",
     "days": [
       {
         "day": 1,
-        "title": "Acropolis at dawn, Anafiotika, Ancient Agora, rebetiko by night",
-        "morning": "Book your Acropolis tickets in advance at odysseus.culture.gr (€30, time slots required). Go at opening — 8am in summer — before the heat peaks and before the tour groups arrive. The Parthenon is still extraordinary despite everything, but the thing most visitors miss is what happens when you walk off the main path on the north slope: Anafiotika, a whitewashed island-village of 45 tiny houses built in the 1840s by craftsmen from the island of Anafi who exploited a legal clause allowing squatters who built overnight to keep the land. Blue doors, bougainvillea, cats, stone steps too narrow for a moped, and zero tour buses because the streets don't fit them. This is what the tourist brochures photograph from a distance — walk into it instead. Give yourself at least an hour up here before the heat drives you down.",
-        "afternoon": "Walk down to the Ancient Agora — the actual civic and commercial heart of ancient Athens, less famous than the Acropolis and far less crowded. The Temple of Hephaestus at the Agora's western edge is better preserved than the Parthenon (the Christians converted it to a church early enough to protect it) and gives a clearer sense of what a working Greek temple actually looked like. Then the Acropolis Museum (Dionysiou Areopagitou 15) for the afternoon: go after the hill so you understand what you just saw. The museum is climate-controlled, which matters at 1pm in July, and the new building by Bernard Tschumi is worth experiencing for the architecture alone — the building's lower floor is glass, with an archaeological dig visible underneath through the floor. The Caryatid porch sculptures are here in the original.",
-        "evening": "Dinner in Psirri — the neighborhood directly north of Monastiraki, gritty and genuine and the right place to eat. Koudounaki (Psirri) is a tiny family-run spot where two sisters cook from a handwritten menu; the food is legitimately one of the best meals you can have in the city for €15–20. Enastron (also Psirri) is the classic taverna option with generous mezedes and tables on the pavement. After dinner: Stoa Athanaton (Athanasiou Diakou 19, off Ermou) for rebetiko — Athens' Greek blues, born in the 1920s among refugees and prison yards and still played live here 30 years running. The performance usually starts late (10–11pm) and the crowd is a mix of old Athenian families and people who know. Confirm hours before going; it occasionally closes for summer tours."
+        "title": "The Great Seville Circuit — 32km city loop at dawn, then monuments on foot",
+        "morning": "Wheels rolling by 6am. The route: start at the Torre del Oro on the Guadalquivir riverside, head south along the river's tree-lined bike boulevard past the Parque de María Luisa to the Plaza de España (the 1929 World's Fair semicircular palace complex — deserted at this hour, extraordinary). Loop north through the Barrio de Santa Cruz, past the Cathedral's south transept, through the Barrio de Triana via the Puente de Isabel II, and north along the Cartuja island's cycling path to the Alamillo Park and bridge. The full circuit is roughly 32km on dedicated infrastructure and takes 2–2.5 hours at a moderate touring pace. The city is a different thing at this hour: light low and orange, the orange trees still fragrant from the night, delivery workers and cleaning crews the only other people moving, the Cathedral tower slowly appearing above rooflines as you approach from the south. Back at the hotel by 8:30am for breakfast and a shower before the heat arrives.",
+        "afternoon": "On foot during the hottest hours. The Real Alcázar (book timed entry online at the gate or via alcazarsevilla.org, €14.50) is one of the great buildings in Europe: a Moorish palace continuously occupied and expanded since the 10th century, with courtyard gardens that stay cool even in July (the water channels were designed for exactly this). The Cathedral next door is the world's largest Gothic church — climb the Giralda tower (the former minaret) for the definitive city view. Between them, two hours passes easily. Afterwards: the Barrio de Santa Cruz on foot for shade, narrow alleys, and a cold fino sherry at a bar.",
+        "evening": "Evening ride: 6:30pm departure for the Guadalquivir riverside south. The Vía Verde de los Colegios follows the river south from the city toward Coria del Río (12km, flat, completely paved) — at dusk the light on the river and Triana's coloured facades is the payoff for surviving the afternoon. Coria del Río has bars on the waterfront. Ride back under the rising moon. Dinner in Triana after 9pm: tapas at one of the old azulejo-tiled bars on Calle Pelay Correa — coquinas (tiny clams, €4 a plate), montaditos, and a cold cerveza."
       },
       {
         "day": 2,
-        "title": "Kerameikos, Varvakios Market, Exarcheia, rooftop Acropolis view",
-        "morning": "Varvakios Central Market (Athinas Street) at 8am — one of the great covered markets of Europe, operating since 1884. The meat and fish halls are the show: marble counters, whole animals, vendors who've worked the same stall for decades. Eat breakfast at one of the soup counters inside (patsas, the tripe soup, is the traditional market breakfast — excellent if you can get past the concept). Walk through the surrounding streets: butchers, spice vendors, dried goods. Then 10 minutes west to Kerameikos — the ancient cemetery of Athens, where the city has been burying its dead since the 11th century BC. It sits just outside the old city walls, adjacent to the neighborhood now named for it. Quiet, underpopulated, genuinely moving. The on-site museum holds an extraordinary collection of marble grave stelae — relief portraits of the Athenian dead that are among the most quietly human objects from antiquity. Entrance €8.",
-        "afternoon": "Walk north from Monastiraki up toward Exarcheia — a 20-minute walk through increasingly interesting streets. Exarcheia is Athens' self-declared anarchist neighborhood: bookshops, left-wing bars, murals covering every surface, a small park that locals have maintained as a commons against city development plans. It's not performatively dangerous, just genuinely its own thing. On Saturdays, the Kallidromiou Street Farmers' Market (Plateia Kallidromiou) is one of the best in the city — locals shopping for the week, small farmers selling produce, cheap street food. Walk Fokionos Negri (a pedestrian boulevard in the adjacent Kypseli neighborhood) for an Art Deco street that most tourists never reach. Stop at Gamay wine bar (open from mid-afternoon) for a glass of Greek low-intervention wine and simple food.",
-        "evening": "Back toward Monastiraki for the moment the city is made for: the Acropolis illuminated at night from a rooftop. A for Athens (Miaouli 2, overlooking Monastiraki Square) is the most famous option — 6th floor bar with unobstructed Parthenon views, worth the slightly elevated drink prices. 360 Degrees (Ifaistou 2) is the adjacent rooftop, slightly more relaxed. Go after 9pm when the light is fully gone and the hill is lit. Order a Mythos or an Assyrtiko and stay until you've had enough of looking at it. You won't be rushed. Then if you have stamina: Cine Thission (Apostolou Pavlou 7, Thissio neighborhood) is an outdoor cinema operating since 1935 where films are projected against a backdrop of the Acropolis — the screen on one side, the hill on the other, a chair in between. Check the schedule; it runs nightly in summer."
+        "title": "Italica greenway + Guadalquivir Marismas — road and gravel day",
+        "morning": "5:45am departure for the longest day. Route north on the Vía Verde greenway toward Santiponce (12km, paved, flat) — the town of Santiponce contains the Roman city of Italica, founded 206 BC, birthplace of emperors Trajan and Hadrian. The amphitheater is one of the largest in the Roman world (capacity 25,000), open from 9am (€1.50), and at 7am you'll have the surrounding ruins to yourself to circle on the bike. Continue north via quiet provincial roads toward La Algaba and El Garrobo (cumulative ~45km from Seville, 275m elevation — the one genuine climb of the trip, through holm oak and wildflower scrub into the Sierra Norte foothills). The village of Venta del Alto at the high point has a roadside restaurant that opens early for cyclists. Descend back through Salteras and Valencina (archaeological site: megalithic tomb complex dating to 3000 BC, often open on the roadside with no entrance booth) to the city on the dedicated bike lane via Camas.",
+        "afternoon": "Rest, shower, long lunch, siesta. This is mandatory, not optional — two hours of serious riding in Andalusian summer requires recovery. The city's covered mercado (Mercado de Triana, Calle San Jorge) has cooked fish and cold drinks at market stalls.",
+        "evening": "Evening exploration: short social ride through the Macarena neighborhood — the working-class barrio north of the historic center, genuinely non-touristic, with some of the best tapas bars in the city (Bar Europa, Bar Eslava on Calle Eslava, consistently considered one of the best tapas bars in all of Seville). The Basílica de la Macarena houses the city's most beloved Semana Santa float; if the door is open, go in. Ride back south through the old city walls at dusk."
       },
       {
         "day": 3,
-        "title": "Cape Sounion day trip, Dionysiou Areopagitou walk, Koukaki dinner",
-        "morning": "Take the early KTEL Attica bus from Areos Park terminal (Mavromateon Street) toward Cape Sounion — buses leave roughly every 1–2 hours starting at 6:30am, 1.5–2h ride, €7 each way. Get on the first or second bus to arrive before the tour groups. Cape Sounion is 70km south of Athens on a dramatic limestone cliff 65 meters above the Aegean — the Temple of Poseidon sits at the edge, its columns intact (fewer than the Parthenon, but dramatically positioned). On the way down the coast, the road traces the Attic Riviera: beach clubs, small bays, the kind of clear Aegean water that makes sense of why the ancient Greeks thought the gods lived here. At Sounion itself: walk the temple circuit, look at the graffiti on one of the columns where Byron carved his name in 1810 (he was 22), have a coffee at the café overlooking the cape. Go early, stay two hours, be back at the bus by noon.",
-        "afternoon": "Back in Athens by 2pm. Walk Dionysiou Areopagitou — the pedestrian promenade that wraps around the southern base of the Acropolis hill, connecting the Acropolis Museum through Thissio to Kerameikos. Every guide calls it one of the most beautiful walks in Europe and they are not wrong: 3km of marble-paved pedestrian street, the Parthenon rising on the hill to your left, the city falling away to your right, musicians playing at intervals, no cars. Stop at Philopappos Hill (accessed via the promenade) for the quieter, often completely empty hillside view of the Acropolis from the southwest — different angle, no entrance fee, and the same hill where Socrates was supposedly arrested.",
-        "evening": "Dinner in Koukaki — the neighborhood south of the Acropolis Museum that is Athens without the tourist markup. This is where young Athenians eat: lower prices, better food, chalkboard menus. Dia Tafta (near the Psirri/Monastiraki border, also reachable from Koukaki) is the philosophy of 'good food, good drinks, good company' expressed as a taverna. To Steki Tou Ilia (Thissio, 5 min away on Eptachalkou Street) is famous for a single dish done perfectly: grilled lamb chops, sold by weight, with fried potatoes that are somehow also the point. This is not a place with a wine list; it's a place with one thing and it's right. After dinner, walk back through the illuminated Acropolis promenade one more time. It's better the second time."
+        "title": "Via Verde de los Alcores — Alcalá de Guadaíra to Carmona, 60km gravel",
+        "morning": "Take the Cercanías C-4 commuter train from Santa Justa station to Alcalá de Guadaíra (25 min, €1.80, non-folding bikes allowed in designated areas on Cercanías — confirm on the renfe.com or via the Cercanías app before travel; avoid peak commute hours). In Alcalá: the Moorish castle (Castillo de Alcalá, free, open early) overlooks the Guadaira River and is worth 20 minutes before rolling east. The Via Verde de los Alcores departs east from Alcalá and runs 60km to Carmona along a converted railway alignment through the Los Alcores escarpment: a long limestone ridge rising from the Guadalquivir plain, with views south toward the Doñana wetlands and east toward the Sierra. Surface is a mix of compacted gravel and paved sections; 430m cumulative elevation gain makes this the most challenging day but nothing sustained. The route passes through ancient mill sites on the Guadaira (Molino de Algarrobo, Molino de la Aceña) and a spectacular 123-meter dragon bridge structure near Alcalá.",
+        "afternoon": "Arrive in Carmona (~4 hours riding at touring pace). Carmona is a medieval hilltop town of 28,000 people with a disproportionate number of excellent places to eat and an almost complete absence of tourist infrastructure. Lunch at any bar on the Plaza de San Fernando — the local half-ration of salmorejo (a thicker, richer Córdoban version of gazpacho) with jamón ibérico is the correct order. The Roman Necropolis of Carmona (Avenida de Jorge Bonsor, €1.50) is one of the best-preserved Roman burial sites in Spain — family tombs with frescoed interiors cut into the rock. Walk the walls. The Parador of Carmona (an Alcázar converted to a state-run hotel) has a terrace bar with a view over the Guadalquivir plain that is worth buying one drink for.",
+        "evening": "Return to Seville by bus (Damas/Casal buses run Carmona–Seville regularly, ~45 min, €2.50; bikes may not be accepted depending on the coach — check in advance, or arrange a taxi for the final leg). OR: if legs permit, ride back west to Alcalá via the Via Verde and catch the Cercanías back. Final night in Seville: dinner at Bar Eslava if you missed it on Day 2, or anywhere on the Alameda de Hércules (the long tree-lined boulevard north of the historic center) which is the city's outdoor living room on summer evenings — locals dining outside until midnight, impromptu flamenco at the corners, the temperature finally dropping to something manageable."
       }
     ],
     "tips": [
-      "Acropolis timing: book at odysseus.culture.gr (€30 combined ticket includes the Agora, Kerameikos, and several other sites — buy the combination). Time slots are required in summer; 8am is the best opening slot for heat and crowds. The site has closed during extreme heat events (midday in July); plan outdoor ancient sites for early morning or late afternoon — never noon. Bring water.",
-      "The freddo espresso is not optional. Greek cold coffee is not iced coffee — it's a shot of espresso shaken with ice until frothy and served in a glass. €3.50 everywhere, infinitely better than anything in an Italian bar, and the default way to drink coffee in Athens from May through September. Order it immediately after sitting anywhere or you'll be handed a full menu.",
-      "ATM and card reader trap: always choose to pay in EUROS when given the option at an ATM or payment terminal. The other option is 'dynamic currency conversion' — your bank's exchange rate applied by the vendor rather than Mastercard's rate, which adds a silent 5–10% to every transaction. This happens constantly and is legal. Just always choose euros.",
-      "Rebetiko is Greece's blues and it's still alive. Born in the 1920s in the hashish coffeehouses and prisons of Piraeus among refugees from Asia Minor, banned twice by authoritarian governments, it is now the country's most distinctly Greek music form — bouzouki, mournful improvised verses, late-night rooms. Stoa Athanaton (30 years running) and Palia Markiza (since 1963, Fri–Sun) are the two most reliable venues. Neither starts before 10pm. This is not a tourist performance; it's a real thing that still happens.",
-      "Anafiotika is the hidden village that guidebooks mention and no one actually finds. It's on the north slope of the Acropolis, above Plaka, inside a confusing network of stone paths. From Plaka square, walk uphill on any path heading toward the Acropolis rock and keep going when it gets narrow. The houses are genuinely tiny (some are 20 square meters), the streets are the width of a person, and the residents have lived here for generations against every development pressure. It feels more like a Cycladic island than a European capital and it's 800 meters from the tourist center.",
-      "The Acropolis Museum and the Acropolis hill are separate. The museum (at the base of the hill) has the surviving sculpture, the context, and air conditioning. The hill has the ruins and the view. Do the hill first so you know what you're looking at, then the museum to understand it. The museum is free the first and third Sunday of each month from November to March — paid admission in July, but worth it regardless."
+      "The heat rule, non-negotiable: Seville in July regularly hits 42°C by noon. All outdoor cycling must happen before 9am or after 6:30pm — full stop. This is not about comfort; it's about safety. Locals have a phrase for it: 'Seville in July, only the mad and the foreigners are outside at noon.' Set an alarm for 5:30am every riding day. The reward is the city at its most beautiful — golden light, empty roads, temperature in the low 20s.",
+      "Bike transport logistics: international airlines charge €50–100 each way for bikes as checked baggage in a hard case or properly boxed. Factor this into the trip cost. In Seville, ATD BIKES (Calle Fray Isidoro de Sevilla, near the Plaza de Armas bus station) is a well-regarded repair shop open all day (unusual in Spain, where most shops close 2–6pm) — good to know if you need a tube, cable, or emergency fix. Spanish mechanics are generally excellent and used to working on touring and road bikes.",
+      "Water: the route guides mention public water fountains at intervals on the city bike lanes and at village fuentes (street fountains) on the rural routes. Spanish tap water is safe and high quality. Carry two large bottles minimum on any ride leaving the city — the terrain is flat but the heat creates sweat rates you may not be used to. The local 'alimentaciones' (corner stores) in every village stock water, fruit, and snacks and are often open even on Sunday mornings.",
+      "Bike on Spanish trains: Cercanías (local/commuter trains) allow non-folding bikes in designated bike carriages for free during off-peak hours; confirm current policy at renfe.com or the Cercanías app. High-speed AVE trains have strict, limited bike rules (usually folded bikes only, or disassembled in a bag). If you're planning the Alcalá day trip by Cercanías, go before 7am or after 9am to avoid the peak crush.",
+      "Sherry territory: Seville is 80km from Jerez de la Frontera, the capital of the sherry-producing region — an entirely flat, windswept route through sunflower fields and white villages. If you have a fourth day or want to extend, the ride from Seville to Jerez (or just as far as Lebrija, 60km) and a bodega visit is an obvious extension. Bodegas González Byass (Jerez) and Bodegas Tradición (also Jerez) both accept visitor appointments; the latter is also one of the best private collections of Spanish Golden Age painting in the country.",
+      "July timing caveat: most professional cycling guides recommend Seville in October–March for optimal riding. July is when the committed and the heat-adapted go. The cycling infrastructure means city riding is always doable in the early hours; the countryside routes are best with a pre-dawn start. If you're flexible on dates, late September or October would give you all the same routes plus four extra hours of comfortable outdoor window per day."
     ],
     "sources": [
-      { "title": "The Ultimate Athens Travel Guide (2026 Edition): A Local's Master Plan — Travel the Greek Way", "url": "https://travelthegreekway.com/athens-guide/" },
-      { "title": "2026 Athens Travel Guide: Explore Greece's Capital Like a Local — Greeking.me", "url": "https://greeking.me/blog/athens/athens-travel-guide" },
-      { "title": "Athens Travel Guide 2026: Best Things to Do, Hotels & Itineraries — Santorini Dave", "url": "https://santorinidave.com/athens" },
-      { "title": "10 Unique Things to Do in Athens 2026 — Julia's Days Off", "url": "https://juliasdaysoff.com/greece/10-unique-things-to-do-in-athens/" },
-      { "title": "Athens, Greece — Hip Trip Guide — Dip a Toe", "url": "https://www.dipatoe.com/guides/athens" },
-      { "title": "Monastiraki and Psirri Travel Guide — Fodor's Travel", "url": "https://www.fodors.com/world/europe/greece/athens/neighborhoods/monastiraki" }
+      { "title": "Cycling in Seville: an insider's guide (includes routes + GPS) — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-spain/seville/" },
+      { "title": "The best cycling routes in Sevilla — Komoot", "url": "https://www.komoot.com/guide/59490/cycling-in-sevilla" },
+      { "title": "Routes to explore Seville by bike — Spain Tourism", "url": "https://sustainability.spain.info/en/discover-spain/bike-routes-seville-what-to-see/" },
+      { "title": "The best cycling routes around National Park Sierra Norte de Sevilla — Komoot", "url": "https://www.komoot.com/guide/162567/cycling-around-national-park-sierra-norte-de-sevilla" },
+      { "title": "Via Verde de la Sierra: nature and slow travel in Andalusia — EcoBnb", "url": "https://ecobnb.com/blog/2025/07/via-verde-de-la-sierra-andalusia/" },
+      { "title": "Cycle to the south — Seville to Doñana and Cadiz — Komoot Collection", "url": "https://www.komoot.com/collection/1609234/cycle-to-the-south-seville-to-el-rocio-donana-and-cadiz-in-spain" },
+      { "title": "Climate & when to Cycle Andalusia — Cycling Spain", "url": "https://www.cyclingspain.com/inspiration/climate-when-to-cycle-andalusia/" }
     ]
   }
 }

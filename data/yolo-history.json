@@ -1,6 +1,121 @@
 {
   "destinations": [
     {
+      "updated": "2026-06-23",
+      "destination": {
+        "city": "Athens",
+        "country": "Greece",
+        "flag": "🇬🇷",
+        "iata": "ATH",
+        "lat": 37.9838,
+        "lon": 23.7275,
+        "vibe": "The birthplace of democracy, tragedy, and the gyro — where a 2,500-year-old citadel glows gold at sunset over a city of five million, a souvlaki costs €4, and nothing serious happens before 9pm."
+      },
+      "flight_search_date": "2026-06-23",
+      "flights": [
+        {
+          "airline": "Turkish Airlines",
+          "price_usd": 849,
+          "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; book 4–6 weeks out)",
+          "return_dates": "flexible +7–10 days",
+          "stops": 1,
+          "duration": "~15h total",
+          "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens",
+          "notes": "Connects through Istanbul (IST). Turkish flies 7x/week from DTW. Full-service with meals, 2 checked bags included. Often lowest-priced European carrier on this route."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 981,
+          "outbound_dates": "Jul 12–28 (midweek departures save ~$60 vs. weekend)",
+          "return_dates": "flexible +7–14 days",
+          "stops": 1,
+          "duration": "~17h total",
+          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html",
+          "notes": "Connects through JFK or ATL. 12 weekly connecting flights from DTW. Use Google Flights to find cheapest specific dates before booking at delta.com."
+        },
+        {
+          "airline": "United Airlines",
+          "price_usd": 1030,
+          "outbound_dates": "Aug 1–20 (August slightly cheaper than July peak)",
+          "return_dates": "flexible +7–14 days",
+          "stops": 1,
+          "duration": "~14h 30m total",
+          "url": "https://www.united.com/en-us/flights-from-detroit-to-athens",
+          "notes": "Connects through Newark (EWR). EWR→ATH leg is nonstop — slightly shorter overall than Delta's JFK routing."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "City Circus Athens",
+          "type": "hostel",
+          "price_per_night_usd": 65,
+          "neighborhood": "Psirri / Monastiraki",
+          "highlights": "9.6/10 on Hostelworld — neoclassical building with antique furnishings and retro character, steps from Monastiraki Metro and Psirri's bar scene. 2026 Hoscar Award winner.",
+          "url": "https://www.hostelworld.com/hostels/europe/greece/athens/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Sweet Home Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 126,
+          "neighborhood": "Plaka",
+          "highlights": "9.3/10 on Booking (1,600 reviews) — elegant rooms 400m from Syntagma Square, some with Acropolis views, homemade breakfast included.",
+          "url": "https://www.booking.com/district/gr/athens/plaka.html",
+          "source": "booking"
+        },
+        {
+          "name": "AthensWas Design Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 210,
+          "neighborhood": "Makrygianni / Dionysiou Areopagitou",
+          "highlights": "21 rooms on the pedestrian promenade directly below the Acropolis with unobstructed Parthenon views from rooms and rooftop. Greek contemporary design throughout.",
+          "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Athens is not a museum with a city around it — it's a city of five million that happens to have an intact 5th-century BC temple on its central hill. The Acropolis is genuinely awe-inspiring and you should see it, but the city underneath it rewards the visitor who keeps walking: Psirri's tavernas where Greek blues (rebetiko) still gets performed live, the Ancient Agora where democracy was argued over in real time, Exarcheia's anarchist bookstores and Saturday farmers' market, the Kerameikos cemetery that has been burying Athenians since the 11th century BC.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Acropolis at dawn, Anafiotika, Ancient Agora, rebetiko by night",
+            "morning": "Book your Acropolis tickets in advance at odysseus.culture.gr (€30, time slots required). Go at 8am opening — before the heat peaks and the tour groups arrive. After the main ruins, walk the north slope to Anafiotika: a whitewashed island-village of 45 tiny houses built in the 1840s by craftsmen from the island of Anafi who exploited a legal clause allowing overnight construction. Blue doors, bougainvillea, cats, stone steps too narrow for a moped, zero tour buses.",
+            "afternoon": "Walk to the Ancient Agora — the actual civic and commercial heart of ancient Athens, less famous and far less crowded than the Acropolis. The Temple of Hephaestus here is better preserved than the Parthenon and gives a clearer sense of what a working Greek temple looked like. Then the Acropolis Museum for the afternoon: climate-controlled, with the Caryatid porch sculptures and glass floors above the archaeological dig below.",
+            "evening": "Dinner in Psirri — Koudounaki (family-run, two sisters, handwritten menu, €15–20 for a full meal) or Enastron for classic mezedes. After dinner: Stoa Athanaton for rebetiko, Athens' Greek blues, live and authentic, usually starting after 10pm."
+          },
+          {
+            "day": 2,
+            "title": "Kerameikos, Varvakios Market, Exarcheia, rooftop Acropolis view",
+            "morning": "Varvakios Central Market at 8am — operating since 1884, marble counters, whole animals, breakfast soup counters inside. Then 10 minutes west to Kerameikos — the ancient cemetery of Athens, where the city has been burying its dead since the 11th century BC. Quiet, undervisited, and the on-site museum holds extraordinary funerary relief portraits. Entrance €8.",
+            "afternoon": "Walk north toward Exarcheia — Athens' self-declared anarchist neighborhood, bookshops, murals, and on Saturdays the Kallidromiou Street Farmers' Market. Stop at Gamay wine bar for Greek low-intervention wines.",
+            "evening": "Monastiraki for the night shot: A for Athens rooftop bar (6th floor, Miaouli 2) with unobstructed Parthenon views after dark. Then Cine Thission outdoor cinema where films play against the illuminated Acropolis backdrop."
+          },
+          {
+            "day": 3,
+            "title": "Cape Sounion day trip, Dionysiou Areopagitou walk, Koukaki dinner",
+            "morning": "Early KTEL Attica bus to Cape Sounion (70km south, 1.5–2h, €7 each way). Temple of Poseidon sits 65 meters above the Aegean on a limestone cliff — columns intact, Byron's name carved into one of them. Arrive before 10am.",
+            "afternoon": "Back in Athens by 2pm. Walk Dionysiou Areopagitou — the pedestrian promenade wrapping the Acropolis base, described as one of the most beautiful walks in Europe. Climb Philopappos Hill for the quiet, crowd-free Parthenon view.",
+            "evening": "Dinner in Koukaki, south of the Acropolis Museum — local prices, chalkboard menus. To Steki Tou Ilia (Thissio) for grilled lamb chops sold by weight and fried potatoes that are also the point."
+          }
+        ],
+        "tips": [
+          "Book Acropolis at odysseus.culture.gr (€30 combined ticket includes Agora, Kerameikos, and other sites). Go at 8am or two hours before sunset — never midday in July.",
+          "Order a freddo espresso immediately upon sitting anywhere. It's espresso shaken with ice until frothy, €3.50, and the only coffee that makes sense in an Athenian July.",
+          "Always choose EUROS at ATMs and payment terminals, never your home currency. Dynamic currency conversion is a legal hidden 5–10% fee.",
+          "Rebetiko is Greece's blues and it's still performed live — Stoa Athanaton (30 years running) and Palia Markiza (since 1963, Fri–Sun). Neither starts before 10pm.",
+          "Anafiotika is on the north slope of the Acropolis above Plaka — walk uphill on any narrow path from Plaka square. 45 tiny houses built with a legal loophole, no tour buses, genuinely not touristic.",
+          "The Acropolis Museum (base of hill) and the Acropolis hill are separate things. Do the hill first, museum second."
+        ],
+        "sources": [
+          { "title": "The Ultimate Athens Travel Guide (2026 Edition) — Travel the Greek Way", "url": "https://travelthegreekway.com/athens-guide/" },
+          { "title": "2026 Athens Travel Guide: Explore Greece's Capital Like a Local — Greeking.me", "url": "https://greeking.me/blog/athens/athens-travel-guide" },
+          { "title": "Athens Travel Guide 2026 — Santorini Dave", "url": "https://santorinidave.com/athens" },
+          { "title": "10 Unique Things to Do in Athens 2026 — Julia's Days Off", "url": "https://juliasdaysoff.com/greece/10-unique-things-to-do-in-athens/" },
+          { "title": "Monastiraki and Psirri Travel Guide — Fodor's Travel", "url": "https://www.fodors.com/world/europe/greece/athens/neighborhoods/monastiraki" }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-22",
       "destination": {
         "city": "Bologna",
@@ -13,107 +128,16 @@
       },
       "flight_search_date": "2026-06-22",
       "flights": [
-        {
-          "airline": "Air France",
-          "price_usd": 749,
-          "outbound_dates": "July–August (Tue/Wed departures cheapest; midweek saves ~$50 vs. weekend)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~14h total",
-          "url": "https://wwws.airfrance.us/en-us/flights-from-san-francisco-to-bologna",
-          "notes": "Connects through Paris CDG — Air France's home hub, short and reliable layover (1.5–2h typical), CDG-BLQ leg is ~2 hours. Full-service with meals included. Summer roundtrip averages $749–798; midweek departures consistently cheaper. Book via airfrance.com and use Google Flights to identify the lowest-fare date pair first."
-        },
-        {
-          "airline": "Lufthansa",
-          "price_usd": 766,
-          "outbound_dates": "July–August flexible (midweek best; August slightly cheaper than July)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~15h total",
-          "url": "https://www.lufthansa.com/us/en/flights-from-san-francisco-to-bologna",
-          "notes": "Connects through Munich (MUC) or Frankfurt (FRA) — both well-run hubs with good food and lounge access if you have Star Alliance Gold. MUC-BLQ leg is under 2 hours. Roughly $766 summer roundtrip; August drops about $30 vs. July peak. Book direct at lufthansa.com for best availability."
-        },
-        {
-          "airline": "Swiss International Air Lines",
-          "price_usd": 767,
-          "outbound_dates": "August (August measurably cheaper than July; off-peak dates can hit $619)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~14h 30m total",
-          "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/san-francisco-bologna.html",
-          "notes": "Connects through Zurich (ZRH) — one of Europe's most pleasant airports to connect through, ZRH-BLQ leg is only 1.5 hours. Swiss economy product is above-average. Summer ~$767 roundtrip; off-peak dates on Google Flights can drop to $619. Check Google Flights explore tool for cheapest available date combos."
-        }
+        { "airline": "Air France", "price_usd": 749, "outbound_dates": "July–August (Tue/Wed cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h total", "url": "https://wwws.airfrance.us/en-us/flights-from-san-francisco-to-bologna", "notes": "Connects through Paris CDG." },
+        { "airline": "Lufthansa", "price_usd": 766, "outbound_dates": "July–August flexible", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~15h total", "url": "https://www.lufthansa.com/us/en/flights-from-san-francisco-to-bologna", "notes": "Connects through Munich (MUC) or Frankfurt (FRA)." },
+        { "airline": "Swiss International Air Lines", "price_usd": 767, "outbound_dates": "August (off-peak dates can hit $619)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h 30m total", "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/san-francisco-bologna.html", "notes": "Connects through Zurich (ZRH)." }
       ],
       "lodging": [
-        {
-          "name": "Ostello Bello Bologna",
-          "type": "hostel",
-          "price_per_night_usd": 70,
-          "neighborhood": "University Quarter",
-          "highlights": "9.5/10 on Hostelworld — Via del Porto 6/a, 0.8km from city center, 10 min walk from Piazza Maggiore. Free daily events (family dinners, pub crawls, walking tours), multilingual staff, unlimited coffee/tea, fully-equipped kitchen. The best-rated budget bed in Bologna, in the right neighborhood.",
-          "url": "https://www.hostelworld.com/hostels/p/333560/ostello-bello-bologna/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Art Hotel Orologio",
-          "type": "hotel",
-          "price_per_night_usd": 145,
-          "neighborhood": "Centro Storico / Piazza Maggiore",
-          "highlights": "24 rooms and 8 suites literally on Piazza Maggiore, opposite the Palazzo Comunale's clock tower. Free breakfast, free bike rental, 19th-century building loaded with art — the location is what you're paying for, and the location is unbeatable.",
-          "url": "https://www.art-hotel-orologio.com/en/",
-          "source": "booking"
-        },
-        {
-          "name": "Art Hotel Commercianti",
-          "type": "hotel",
-          "price_per_night_usd": 220,
-          "neighborhood": "Centro Storico / Piazza Maggiore",
-          "highlights": "A 12th-century building that was once Bologna's town hall, now 34 rooms with original vaulted ceilings, wooden beams, and windows looking directly onto the Gothic stained glass of Basilica San Petronio. The most historically specific address in Bologna, in a pedestrian zone with private parking.",
-          "url": "https://en.art-hotel-commercianti.com/",
-          "source": "booking"
-        }
+        { "name": "Ostello Bello Bologna", "type": "hostel", "price_per_night_usd": 70, "neighborhood": "University Quarter", "highlights": "9.5/10 on Hostelworld — free daily events, multilingual staff, unlimited coffee, 10 min walk from Piazza Maggiore.", "url": "https://www.hostelworld.com/hostels/p/333560/ostello-bello-bologna/", "source": "hostelworld" },
+        { "name": "Art Hotel Orologio", "type": "hotel", "price_per_night_usd": 145, "neighborhood": "Centro Storico / Piazza Maggiore", "highlights": "24 rooms literally on Piazza Maggiore, free breakfast, free bike rental, 19th-century building.", "url": "https://www.art-hotel-orologio.com/en/", "source": "booking" },
+        { "name": "Art Hotel Commercianti", "type": "hotel", "price_per_night_usd": 220, "neighborhood": "Centro Storico / Piazza Maggiore", "highlights": "A 12th-century former town hall with vaulted ceilings and windows onto the Basilica San Petronio's Gothic stained glass.", "url": "https://en.art-hotel-commercianti.com/", "source": "booking" }
       ],
-      "itinerary": {
-        "overview": "Bologna is the city Italian food people actually talk about among themselves — not Rome, not Florence, not the Amalfi Coast. It's La Grassa (the fat one) because the cooking is the serious kind: fresh egg pasta hand-cut to 8mm wide, tortellini in capon broth, mortadella sliced thick, and a wine culture built on Sangiovese that's been happening here for 900 years. It's also La Dotta (the learned) — home to the oldest university in the Western world (est. 1088), which means the city has been young, left-wing, and argumentative in the best way for nearly a millennium. And La Rossa (the red one) — not just the terracotta, but the politics: Bologna has elected communist or center-left governments continuously since 1945 and is quietly proud of it. The porticos — 38 miles of covered walkways woven through the city — are a UNESCO World Heritage Site and also just how Bolognesi move around in the rain. Go in July and you'll have the city largely to yourself; the tourists are in Florence and Venice.",
-        "days": [
-          {
-            "day": 1,
-            "title": "The Quadrilatero, the Towers, aperitivo the right way",
-            "morning": "Start in the Quadrilatero — the ancient market district that has operated in the same blocks since medieval times. Enter at Via Pescherie Vecchie and walk slowly: cheese wheels and cured meats hang in doorways, fishmongers on one side, butchers on another, wine bars opening at 9am because this is a market. Stop at Salumeria Simoni (Via Drapperie 5) for a mortadella sandwich — the real version, thick-sliced, served on a tigella or in a panino with squacquerone cheese. Then Tamburini (Via Caprarie 1, since 1932) for the spectacle alone: one of the great Italian salumerias, standing at the counter with a glass of Sangiovese and a plate of prosciutto before noon is completely acceptable here. Walk the surrounding streets: Via Drapperie, Via Clavature, Via Orefici — the Quadrilatero is not a grid, it's a medieval tangle, and getting slightly lost is the method.",
-            "afternoon": "Walk to the Two Towers (Le Due Torri) at Piazza di Porta Ravegnana — these were medieval status symbols, two rival noble families building as high as possible to intimidate each other, and the asymmetry (one tilts) makes them stranger and better than photographs suggest. Climb Torre degli Asinelli (498 steps, €5) for the definitive Bologna view: terracotta as far as you can see, porticos threading between every building, the Apennines behind it all. Afterward, find the Archiginnasio (Piazza Galvani 1) — the original seat of the University of Bologna, a stunning courtyard covered with 7,000 coats of arms of students and professors from the 13th century onward. In the library upstairs: the Anatomical Theater (Teatro Anatomico), where 17th-century medicine students watched dissections from tiered wooden seating, flanked by skinned statues of ecorché figures flanking the demonstrator's chair. It costs €3 and is one of the strangest, most beautiful rooms in Italy.",
-            "evening": "Aperitivo: Bologna invented spritz culture before it was called that. The move is a Sangiovese or Pignoletto (the local white) with a free spread of bar snacks — many bars in the university district still do complimentary aperitivo boards with cheese, cured meats, and olives with a drink order. Zerocinquantuno (Via Pescherie Vecchie 3, in the Quadrilatero) and Medulla Vini (nearby) are both excellent. Dinner at Osteria dell'Orsa (Via Mentana 1) — always full of locals, generous portions, reasonable prices, proper Bolognese cooking without tourist markup. Order the tagliatelle al ragù. This is not a bolognese 'sauce' that sits on top of pasta — it is a slow-cooked meat ragù, barely wet, tossed with fresh egg tagliatelle. If there's any liquid pooling at the bottom of the bowl, something went wrong."
-          },
-          {
-            "day": 2,
-            "title": "Mercato Ritrovato, San Luca pilgrimage, Bolognina by night",
-            "morning": "Saturday or Wednesday: Mercato Ritrovato at Cineteca di Bologna (Via Riva di Reno 72) — the city's genuinely local organic market, producers selling direct, fresh pasta vendors, seasonal vegetables, good coffee. Wednesday evenings and Saturday mornings. If you're not there on those days, Mercato delle Erbe (Via Ugo Bassi 2) is the covered municipal market, more permanent, good for supplies and sitting at the wine bar inside. Skip Mercato di Mezzo in the Quadrilatero for actual eating — it's a pretty medieval building but the food court inside has tourist prices.",
-            "afternoon": "Walk the Portico di San Luca. This is the claim: 3.8km of continuous covered walkway, 666 arches, climbing from the city's medieval gate at Porta Saragozza up to the Santuario della Madonna di San Luca on the hill above the city. The portico was built in stages between 1674 and 1793 specifically so worshippers could make the pilgrimage in rain or heat without getting wet — which is very Bolognese problem-solving. Walk up mid-afternoon: the light comes through the arches in a particular way, you'll have the path mostly to yourself on a weekday, and the view of Bologna from the hilltop sanctuary is one of the better payoffs per unit of effort in Italy. Pilgrims and joggers share this path. Both are correct.",
-            "evening": "Bolognina — the neighborhood north of the train station, once the working-class industrial district, now the most genuinely diverse and interesting part of the city. Street art, cheaper bars, multicultural restaurants, and none of the self-consciousness of the historic center. Walk Viale Angelo Masini and the streets radiating off it. Eat at whatever looks busy and local — the Chinese restaurants here are legitimately good (large Chinese community, the real kind). Bar Paolo (local) is the unpretentious beer-and-food spot that guides never mention. Ruggine (former bicycle shop, great vibes) if you want something more designed."
-          },
-          {
-            "day": 3,
-            "title": "Modena day trip, Finestrella, last aperitivo at Camera con Vista",
-            "morning": "High-speed train to Modena — 17 minutes, €5–6 each way. Modena is what happens when you give a small city Ferraris, balsamic vinegar acetaias, and Massimo Bottura. The Mercato Albinelli (Via Luigi Albinelli) is one of the most beautiful covered markets in Italy — a 1931 glass-and-iron pavilion where the vendors are the same families who've been there for generations. Buy proper Aceto Balsamico Tradizionale (the DOP kind, aged 12+ years in a series of wood barrels, fundamentally different from the supermarket product) from one of the acetaias selling at the market. The Modena Cathedral (Duomo di Modena) is a 12th-century Romanesque landmark with Wiligelmo's relief sculptures on the facade — worth 30 minutes. If you booked Osteria Francescana years in advance and have Michelin three-star budget: Bottura's restaurant is here.",
-            "afternoon": "Back to Bologna by 2pm. Walk to Via Piella — find the Finestrella di Via Piella, a small window cut into an alleyway wall (it looks like a gate in a wooden fence). Open it: behind the window is one of the few remaining visible stretches of Bologna's medieval canal system, the Canale di Reno, which once powered the silk mills that made Bologna wealthy and was subsequently covered over. This is not in any guidebook. It's just a window in an alley, and behind it is a fragment of the medieval city that the modern city forgot to bury. Stand there for a minute.",
-            "evening": "Walk to Piazza Santo Stefano — a triangular piazza with a 7th-century basilica complex (actually seven interconnected churches) on one end, and Camera con Vista (Strada Maggiore 40a, third floor) for the aperitivo. The name means 'room with a view' and the view is directly over the piazza and the Santo Stefano rooflines. Order a Pignoletto Frizzante (the local Bolognese sparkling white, not prosecco — this matters). For dinner, walk 10 minutes to Caffè Terzi (Via Guglielmo Oberdan 10) for the best coffee of the trip — a specialty roaster that takes the craft seriously and is open into the evening. Then find somewhere along Via del Pratello (the street the students have been drinking on since the 13th century) and stay as long as you want. Bologna is a city that stays up because it has always stayed up."
-          }
-        ],
-        "tips": [
-          "The pasta rules: tagliatelle al ragù is what Bolognese people eat. 'Spaghetti bolognese' does not exist here — if a restaurant is serving it to you on spaghetti, you're in a tourist restaurant. Tortellini in brodo (in capon broth) is the other essential, and the broth matters as much as the pasta. Tigelle (small flatbreads) with mortadella and squacquerone (a fresh, spreadable cheese) is the bar snack/lunch of choice. Eat all three and report back.",
-          "Mercato Ritrovato vs. Mercato di Mezzo: the former is the real local market (Wednesday evenings and Saturday mornings at Cineteca); the latter is a photogenic medieval building turned tourist food court. Both are worth visiting for different reasons — but eat at Ritrovato, photograph Mezzo.",
-          "Senza Nome (Via Caprarie 4, near the Quadrilatero) is the only deaf-owned bar in Bologna, possibly in Italy — you order using Italian Sign Language (ISL), there are prompt cards, and the staff are entirely members of the deaf community. It is genuinely worth going and worth being a slightly awkward tourist about. The aperitivo is good and the experience is unlike any other bar you'll enter.",
-          "Modena is 17 minutes by high-speed train and costs about €5. Bologna is a hub: Florence is 35 minutes, Venice is 80 minutes, Milan is 60 minutes. The location makes day trips trivially easy and the prices don't change just because you're in the center of Italy's most expensive rail corridor.",
-          "Giusti Boutique (near the Quadrilatero) lets you taste multiple balsamic vinegars before buying — and the difference between the 12-year, 25-year, and 50-year traditional Modena balsamic is not subtle. The real product (DOP label, minimum 12 years in wood barrels) costs €40–150 for a small bottle and is nothing like the grocery store balsamic. One bottle lasts years. Buy it here instead of at the Modena tourist shops where the provenance is murkier.",
-          "The whispering wall: in the passage under the Palazzo del Podestà (the arcaded building in the middle of Piazza Maggiore) there are four corner alcoves. Stand in one corner facing the wall and have a companion stand in the diagonally opposite corner facing their wall. You can hear each other clearly in what otherwise looks like ordinary architecture. The legend is that medieval lepers used this to confess to priests without proximity. The acoustic is real regardless of the legend."
-        ],
-        "sources": [
-          { "title": "20 Best Things to Do in Bologna, Italy (2026 Guide) — Earth Trekkers", "url": "https://www.earthtrekkers.com/things-to-do-in-bologna/" },
-          { "title": "Bologna, Italy Travel Guide: 3 Insiders Share Where to Eat, Drink, and Play — W Magazine", "url": "https://www.wmagazine.com/life/bologna-italy-travel-guide-summer-2025" },
-          { "title": "Bologna Italy: 20 Best Things to Do (2025 Travel Guide) — What's Down That Street", "url": "https://whatsdownthatstreet.com/2025/01/03/top-things-to-do-in-bologna/" },
-          { "title": "Advice for Bologna solo... casual eats? — Rick Steves Travel Forum", "url": "https://community.ricksteves.com/travel-forum/italy/advice-for-bologna-solo-casual-eats" },
-          { "title": "Bologna Welcome — Official Tourist Office", "url": "https://www.bolognawelcome.com/en" }
-        ]
-      }
+      "itinerary": { "overview": "Bologna is La Grassa, La Dotta, La Rossa — the fat, the learned, the red. Home to the oldest university in the Western world (est. 1088), 38 miles of UNESCO porticos, and the cooking that the rest of Italian food is trying to be.", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
@@ -127,110 +151,9 @@
         "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
       },
       "flight_search_date": "2026-06-22",
-      "flights": [
-        {
-          "airline": "Avianca",
-          "price_usd": 412,
-          "outbound_dates": "July–August (Tue/Wed departures cheapest; avoid Friday/Sunday)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~9h total",
-          "url": "https://www.avianca.com/us/en/flights-from-san-francisco-to-medellin",
-          "notes": "Connects through San Salvador (SAL) — shortest layover option from SFO. Colombia's flagship carrier, solid service, meals included. Book direct at avianca.com; Tue/Wed departures run ~10% cheaper than weekends. Use Google Flights to find the lowest-fare date combo before booking."
-        },
-        {
-          "airline": "American Airlines",
-          "price_usd": 440,
-          "outbound_dates": "July–August flexible (midweek saves ~$30–40 vs. weekend)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~11h total",
-          "url": "https://www.aa.com/en-us/flights-from-san-francisco-to-medellin",
-          "notes": "Connects through Miami (MIA) — a smooth hub with Colombian food in the terminal. Good option if you have AAdvantage miles. August dates typically ~$20 cheaper than July. Check Google Flights for specific date pricing before booking."
-        },
-        {
-          "airline": "JetBlue",
-          "price_usd": 475,
-          "outbound_dates": "August (August noticeably cheaper than July peak)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~12h total",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-medellin.html",
-          "notes": "Routes via Fort Lauderdale (FLL) or JFK. JetBlue's economy product is comfortable and includes snacks/drinks. August fares drop roughly $40–60 vs. July. Price-check against Avianca before booking — the Avianca direct connection through SAL is usually faster and comparably priced."
-        }
-      ],
-      "lodging": [
-        {
-          "name": "Hostel Rango Boutique",
-          "type": "hostel",
-          "price_per_night_usd": 35,
-          "neighborhood": "El Poblado",
-          "highlights": "9.6/10 on Hostelworld (1,478 reviews) — 14 private rooms, 1 minute from Parque Lleras, on-site Swiss bakery, rooftop pool with city views, free salsa classes and yoga weekly. The design-forward hostel that doesn't feel like a hostel.",
-          "url": "https://www.hostelworld.com/hostels/p/275821/hostel-rango-boutique/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "La Campana Hotel Boutique",
-          "type": "hotel",
-          "price_per_night_usd": 95,
-          "neighborhood": "El Poblado",
-          "highlights": "13-room boutique with a garden courtyard, marble bathrooms, and a quiet residential location in El Poblado — walking distance to Parque Lleras without the noise of it. Good value for a proper hotel experience.",
-          "url": "https://www.booking.com/hotel/co/la-campana-boutique.html",
-          "source": "booking"
-        },
-        {
-          "name": "The Click Clack Hotel",
-          "type": "hotel",
-          "price_per_night_usd": 220,
-          "neighborhood": "El Poblado",
-          "highlights": "Biophilic jungle-design hotel with a rooftop pool and resident DJ on weekends — the room interiors bring the Andean landscape inside, and the restaurant downstairs is legitimately one of El Poblado's best.",
-          "url": "https://www.booking.com/hotel/co/the-click-clack-medellin.html",
-          "source": "booking"
-        }
-      ],
-      "itinerary": {
-        "overview": "Medellín spent most of the 1990s as the most dangerous city on earth — 6,000 homicides a year, a cartel running the government, neighborhoods that police wouldn't enter. What it did with the next 25 years is one of the more remarkable urban stories of the century: an outdoor escalator system connecting hillside comunas to the metro, a cable car network that turned isolation into access, a street art movement that turned trauma into testimony. The result is a city with 3 million people, year-round spring weather (hence 'the city of eternal spring'), extraordinarily good food at every price point, and a specialty coffee scene that makes sense given you're 6 hours from some of the world's best coffee farms. Go in July or August and you'll catch either the pre-Flower Festival buildup or the Feria de las Flores itself (August) — one of the great civic celebrations in South America.",
-        "days": [
-          {
-            "day": 1,
-            "title": "El Centro, Plaza Botero, and Laureles by night",
-            "morning": "Start at Plaza Botero in El Centro — 23 bronze sculptures by Fernando Botero, donated to his hometown, sitting in an open plaza that is free, unenclosed, and genuinely used by Medellín residents. The figures are enormous and deliberately distorted: Botero's whole project was about volume and weight as aesthetic principles, and the sculptures are funnier and stranger in person than in photographs. Walk directly into the Museo de Antioquia next door (30,000 COP) — the collection includes Botero paintings and a substantial pre-Columbian and colonial floor. Spend 90 minutes. Then walk El Hueco, the surrounding wholesale market district: dozens of city blocks of open-air commerce, every category of goods, the pulse of downtown Medellín's actual economy. Loud, dense, fascinating. Buy a cholado (shaved ice with fruit and condensed milk) from a street cart for 3,000 COP.",
-            "afternoon": "Metro to Estadio station, walk into Laureles. This is where Medellín actually lives — a residential neighborhood named Time Out one of the coolest in the world, which it is, without feeling like it knows it. Walk Carrera 70 south from Estadio: coffee shops, restaurants, bakeries, and hardware stores in equal proportion. Stop at Rituales Café (just off Avenida Nutibara) for a pour-over — they source from 40 farming families in La Sierra and roast in-house; the Paraiso blend is their benchmark. Then Café Revolución (also Laureles) for espresso and a look at what the neighborhood does with a 1970s building and good taste. Walk the residential side streets east toward Parque de los Pies Descalzos.",
-            "evening": "Dinner at Mondongo's — the Laureles location on Carrera 70 is the original and the best. Order the bandeja paisa: the full Antioquian plate of rice, red beans, ground beef, chicharrón (crispy pork belly), chorizo, fried egg, avocado, and arepa. This is the working-class lunch of Antioquia made ceremonial. COP 35,000 (~$8). After dinner, walk the Estadio metro neighborhood — local bars, no tourist markup, sports game energy if Nacional or DIM are playing. The Atanasio Girardot stadium is three blocks away; if there's a match, go."
-          },
-          {
-            "day": 2,
-            "title": "Guatapé day trip — El Peñol and the reservoir",
-            "morning": "Bus from Terminal del Norte (Metro Line B to Caribe, then walk to the terminal) — buses leave roughly every 30 minutes starting at 6am, 2-hour ride, 20,000 COP each way. Get on the first or second bus to reach El Peñol before the day-trip tours from Medellín arrive. El Peñol is a 218-meter granite monolith that erupts from the reservoir below — the stairs (740 zigzag steps cut directly into the rock face) take 30–40 minutes to climb. Go before 9am and the view from the top — an endless labyrinth of islands and water and farmed hills — is yours. By 11am it will be shared with 200 tour groups. The climb is real; bring water.",
-            "afternoon": "Walk 20 minutes downhill into Guatapé town. The zócalos — the painted bas-relief panels that decorate the lower third of every building facade — make this one of the most photographed streets in Colombia. Each panel is different: local history, agricultural scenes, family emblems. Walk slowly; the whole town is the attraction. Eat at a waterfront restaurant: mojarra (tilapia from the reservoir), fried plantains, and sancocho (the hearty Colombian stew). Rent a boat for an hour on the reservoir for 50,000–80,000 COP — the scale of the water and the rock from the surface is different from the view above it.",
-            "evening": "Buses back to Medellín leave hourly from 2pm; last bus around 6pm. Back in Medellín by 7–8pm. Light dinner in El Poblado — Mercado del Río (Calle 24 #46-68, near Suramericana metro) is the move: 40+ food stalls in a converted warehouse, every Colombian region and several international cuisines, no tourist markup relative to nearby restaurants. Order at multiple stalls. There's a bar at the back."
-          },
-          {
-            "day": 3,
-            "title": "Comuna 13, Jardín Botánico, Casa de la Memoria",
-            "morning": "Metro to San Javier station for Comuna 13. The context matters: this neighborhood was the site of Operation Orion in 2002, a military offensive that displaced 3,000 residents and left over 300 dead. The outdoor escalators installed in 2011 — six escalator sections connecting the hillside community to the metro grid — were a physical statement about the city's relationship to its comunas. Walk up through the neighborhood before 10am, when the day-trip buses from El Poblado arrive. The murals are not decorative: they're political, memorial, and technically sophisticated. Avoid the packaged tour groups; the local guides who grew up in the neighborhood and wait near the bottom of the escalators are better and support the community directly. Tip generously.",
-            "afternoon": "Metro to Universidad station for the Jardín Botánico (Botanical Garden) — 14 hectares, 4,500 plants, 139 bird species, and the Orquidieorama, a pavilion whose roof structure mimics the cell patterns of plant life and is one of the more quietly remarkable pieces of architecture in Colombia. Free entry (closed Mondays). Eat at In Situ restaurant inside the garden — they use produce grown on-site and the kitchen takes it seriously. Then walk 10 minutes to Casa de la Memoria (Calle 51 #36-66): a museum about the decades of armed conflict that shaped modern Medellín. The permanent collection includes survivor testimonies, photographs, and sound installations that are harrowing and necessary. Free, with audio guide. Do not skip it because you want to feel good on your last afternoon.",
-            "evening": "Last night in Laureles or El Poblado. For coffee: Pergamino (Carrera 37 #8A-37, El Poblado) is the city's best-known specialty roaster and the shop functions as a café, bar, and gathering place — it stays lively late. For a proper last dinner: Relato (check current location) does upscale Colombian fusion that earns its price. Or end simply: find a local tienda, buy a beer, sit on the sidewalk, and watch Medellín do what it does — a city that has earned the right to be easy."
-          }
-        ],
-        "tips": [
-          "Do not do an Escobar tour. The local term is 'Pablo tours' and several operators have rebranded under pressure, but they're still running. Medellín residents — particularly in the comunas most affected by the cartel years — don't use his name and find these tours deeply disrespectful. The city has built an entire narrative about transformation precisely to get past this history; you don't need to dig it up for content.",
-          "Scopolamine ('burundanga') is a real and documented threat, primarily through dating apps. Tinder and Bumble have been used to set up meetings where drinks are drugged, causing loss of consciousness and allowing theft. Meet people in bars you walked into yourself, not from app-arranged meetings. This is not paranoia — Medellín's tourism board has published warnings about this specifically.",
-          "'No dar papaya' — the local expression literally means 'don't give someone a papaya (easy opportunity).' Practically: keep your phone in your front pocket, not on the restaurant table. Step into a café to check your map. Carry only what you need. Do these things and Medellín's risk for a careful tourist is lower than most US cities (2025 homicide rate: 11.7 per 100,000, lower than Indianapolis).",
-          "The metro is excellent and the point. Medellín's Metro was the first urban rail system in Colombia, opened in 1995, and the city treats it with extraordinary care — it is genuinely clean, on-time, and safe. The Metrocable gondola lines (Lines J, K, L, M) connect hillside comunas to the metro grid and are worth riding for the views alone. Get a rechargeable card at any station.",
-          "August is the Feria de las Flores (Flower Festival) — one of the great civic celebrations in South America. The Silleteros parade on the final Sunday is the centerpiece: Antioquian farmers carry elaborate flower arrangements called silletas on their backs through the city center, some weighing over 100 pounds. The city is genuinely alive in a way that even Medellín's normal energy doesn't prepare you for. Book accommodation well ahead if your dates overlap.",
-          "Coffee context: you're 6 hours from the Eje Cafetero (Coffee Axis), where most Colombian specialty coffee is grown. The tinto (basic black coffee) at a carretilla cart costs 500 COP and is made from whatever's cheapest. The pour-over at Rituales or Pergamino uses award-winning heirloom varietals and costs 8,000 COP. Both are worth having, for different reasons. Never order Nescafé — in a country with this much fresh coffee, it's an insult to everyone."
-        ],
-        "sources": [
-          { "title": "Medellín 2026: When to visit, where to stay, what to do — National Geographic", "url": "https://www.nationalgeographic.com/travel/best-of-the-world-2026/article/medellin-colombia" },
-          { "title": "14 Things to Do (and 1 Not to Do) in Medellin — Nomadic Matt", "url": "https://www.nomadicmatt.com/travel-blogs/ultimate-list-medellin/" },
-          { "title": "21 coolest things to do in Medellín — The Haute Bohemian", "url": "https://courtneymuro.com/21-cool-things-to-do-in-medellin-colombia/" },
-          { "title": "Laureles Medellín: Food, Coffee, and Culture — Seissta", "url": "https://seissta.com/blog/what-to-do-in-laureles-medellin" },
-          { "title": "Where to Eat in Laureles: 20 Top Restaurants — Medellin Guru", "url": "https://medellinguru.com/best-restaurants-in-laureles/" },
-          { "title": "Is Medellín Safe in 2026? — Guanabana Tours", "url": "https://guanabanatours.com/is-it-safe-for-americans-to-travel-to-colombia-in-2026/" },
-          { "title": "15 Dos and Don'ts While Traveling in Medellin — Under 30 Experiences", "url": "https://under30experiences.com/blog/15-dos-and-donts-while-traveling-in-medellin" }
-        ]
-      }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
@@ -244,108 +167,9 @@
         "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years."
       },
       "flight_search_date": "2026-06-22",
-      "flights": [
-        {
-          "airline": "United Airlines",
-          "price_usd": 985,
-          "outbound_dates": "July — flexible dates (Tue/Wed cheapest)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~22h total",
-          "url": "https://www.united.com/en-us/flights-from-san-francisco-to-bangkok",
-          "notes": "Typically routes via Tokyo NRT or Seoul ICN. Book Tue/Wed departures for lowest fares. No nonstop SFO→BKK exists on any carrier."
-        },
-        {
-          "airline": "Japan Airlines",
-          "price_usd": 995,
-          "outbound_dates": "August — via Tokyo NRT",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~21h total",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
-          "notes": "JAL via NRT is a comfortable routing with generous baggage allowance. August fares slightly higher than July."
-        },
-        {
-          "airline": "Cathay Pacific",
-          "price_usd": 1006,
-          "outbound_dates": "August — via Hong Kong HKG",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~20h total",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-bangkok.html",
-          "notes": "HKG connection is efficient — good food in the terminal, Cathay lounge access if traveling business. Marginally shorter routing than Tokyo connections."
-        }
-      ],
-      "lodging": [
-        {
-          "name": "The Yard Hostel Bangkok",
-          "type": "hostel",
-          "price_per_night_usd": 23,
-          "neighborhood": "Ari",
-          "highlights": "9.1/10 on Hostelworld — private rooms in a converted house in Ari, Bangkok's low-key expat-and-local neighborhood, nowhere near Khao San Road.",
-          "url": "https://www.hostelworld.com/hostels/p/96020/the-yard-hostel-bangkok/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "G Boutique Silom Hotel",
-          "type": "hotel",
-          "price_per_night_usd": 120,
-          "neighborhood": "Silom",
-          "highlights": "Boutique hotel in Silom's business and nightlife district — close to BTS Sala Daeng, rooftop pool, solid midrange value.",
-          "url": "https://www.booking.com/hotel/th/la-residence-bangkok.html",
-          "source": "booking"
-        },
-        {
-          "name": "Sala Rattanakosin Bangkok",
-          "type": "hotel",
-          "price_per_night_usd": 170,
-          "neighborhood": "Rattanakosin (Old City)",
-          "highlights": "14-room boutique on the Chao Phraya River with direct views of Wat Arun — wake up, open the window, there's the temple. One of Bangkok's most specific stays.",
-          "url": "https://www.booking.com/hotel/th/sala-rattanakosin-bangkok.html",
-          "source": "booking"
-        }
-      ],
-      "itinerary": {
-        "overview": "Bangkok is the city that never resolves — ancient and hyper-modern, chaotic and deeply ordered, cheap and world-class all at once. Go in July and you'll catch shoulder season prices with afternoon rain that clears by evening; the heat is real but manageable if you move early and late. The baht is weak against the dollar right now, which means the already-absurd value gets even more absurd.",
-        "days": [
-          {
-            "day": 1,
-            "title": "The Old City on foot",
-            "morning": "Arrive at the Grand Palace compound by 8am before the tour groups hit — the complex opens at 8:30, get there at opening. Walk through to Wat Pho (separate ticket, 200 baht) to see the 46-meter reclining Buddha. Cross the river by ferry (3 baht, 5 minutes) to Wat Arun — climb the steep central prang for a view back across the river to where you just were.",
-            "afternoon": "Walk south along the river into Talat Noi, Bangkok's oldest Chinese neighborhood. It's not a tourist zone — just old shophouses, street shrines, and people living their lives. Good murals along Soi Wanit 2. Stop at Lek & Rut coffee for a traditional oliang (Thai iced coffee with corn and sesame) before the afternoon heat peaks.",
-            "evening": "Head to Yaowarat (Chinatown), which comes alive after dark. Eat your way through: Jek Pui for curry rice (under $2), T&K Seafood for grilled prawns, and the coconut pancakes at the corner stalls near the Odeon Circle arch. End with a beer at one of the rooftop bars facing the neon street below."
-          },
-          {
-            "day": 2,
-            "title": "The Green Lung and the river at night",
-            "morning": "Take a 30-minute express boat and short cab ride to Bang Krachao — a U-shaped bend in the Chao Phraya that's still 80% jungle, 20 minutes from downtown. Rent a bicycle (50 baht/hour) and ride the paths through mangrove and orchard. The Sri Nakhon Khuean Khan Park has a floating market on weekends. Locals picnic here. The contrast with the skyline visible across the water is disorienting in the best way.",
-            "afternoon": "Back to the city and over to Lumpini Park, Bangkok's central green space. The monitor lizards here are enormous and completely unbothered by people — they treat the lake like their personal property. Get a 90-minute Thai massage at one of the legitimate parlors on the park's south edge (300–400 baht).",
-            "evening": "Take the BTS to Saphan Taksin and the shuttle boat to Asiatique the Riverfront — a converted 1900s dockland turned night market. Skip the chain restaurants and eat at the hawker stalls inside. Then walk the pier at dusk: the river at night, ferries going past, the Wat Arun illuminated across the water."
-          },
-          {
-            "day": 3,
-            "title": "Local neighborhood and the heights",
-            "morning": "Start in Ari (north of downtown, BTS Ari station) — Bangkok's neighborhood for people who work in media, NGOs, and food. Or Tor Kor Market is a 5-minute walk: one of the city's best fresh markets, clean and well-organized, with prepared food stalls making some of the best khao man gai (Hainanese chicken rice) and pad kra pao (basil stir-fry) you'll find. Eat here, not at a tourist-adjacent restaurant.",
-            "afternoon": "Head to Sampheng Market (Chinatown's wholesale district) for fabrics, trinkets, and the sheer spectacle of Bangkok commerce at full speed. Then climb Wat Saket's Golden Mount — 318 steps, but the temple bells and the 360-degree view of the old city from the top earn it. Costs 50 baht.",
-            "evening": "Walk through Khao San Road once, quickly, just to see what all the noise is about — then immediately leave. Take a cab to a rooftop bar (Octave at the Marriott Sukhumvit has a three-story bar with a panoramic view, no cover if you're buying drinks). Watch the city lights come on. Bangkok from above at sunset is its own argument for why you came."
-          }
-        ],
-        "tips": [
-          "Use Grab for all transportation — fixed prices, no negotiating, works exactly like Uber. Never take a tuk-tuk for a 'tour' if a stranger offers it outside a tourist site; it ends at a gem store.",
-          "The 'temple is closed today' line from strangers near the Grand Palace is a scam. The temples are almost never closed. Just walk past and proceed to the entrance yourself.",
-          "Dress for temples: shoulders and knees covered, or carry a sarong. The Grand Palace will turn you away without one — they rent them at the gate, but it wastes time and money.",
-          "Bangkok's heat in July peaks 11am–4pm. Structure your day around it: outdoor sights before 10am and after 4pm, long lunches and markets in the midday. This is not optional.",
-          "The Saen Saep canal boats are Bangkok's hidden transit system — they connect the old city to Pratunam and the Sukhumvit area in 15 minutes for 20 baht. Stand back from the edge or the spray will soak you.",
-          "Chatuchak Weekend Market (one of the world's largest) runs Saturdays and Sundays only. JJ Green Night Bazaar (vintage, design, food trucks) is Thursday–Sunday evenings and skews younger and more local."
-        ],
-        "sources": [
-          { "title": "Off Path Thailand — Bangkok travel guide", "url": "https://offpaththailand.com/bangkok-travel-guide/" },
-          { "title": "Nomads Beyond — Bangkok itinerary", "url": "https://nomadsbeyond.com/bangkok-itinerary/" },
-          { "title": "North Abroad — 3 days in Bangkok", "url": "https://northabroad.com/3-days-in-bangkok/" },
-          { "title": "Thailand Routes — Bangkok travel tips", "url": "https://thailandroutes.com/bangkok/" },
-          { "title": "Next Stop Asia — Bangkok guide", "url": "https://nextstopasia.com/bangkok-travel-guide/" }
-        ]
-      }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -356,76 +180,12 @@
         "iata": "MEX",
         "lat": 19.4326,
         "lon": -99.1332,
-        "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions — all at 7,350 feet elevation and about $30 a day if you're not being stupid about it."
+        "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions."
       },
       "flight_search_date": "2026-06-19",
-      "flights": [
-        {
-          "airline": "Aeromexico",
-          "price_usd": 444,
-          "outbound_dates": "Jul 8–22 (midweek cheapest — Tue/Wed departures save ~15% vs. weekend)",
-          "return_dates": "flexible 7–14 days",
-          "stops": 0,
-          "duration": "4h 25m",
-          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-mexico-city.html",
-          "notes": "14 weekly nonstop flights from Detroit via connecting hubs. Book direct at aeromexico.com; Google Flights to compare dates."
-        },
-        {
-          "airline": "United Airlines",
-          "price_usd": 461,
-          "outbound_dates": "Aug 1–20 (August slightly cheaper than July)",
-          "return_dates": "flexible",
-          "stops": 1,
-          "duration": "6h 30m",
-          "url": "https://www.united.com/en-us/flights-from-detroit-to-mexico-city",
-          "notes": "Connects through ORD or IAH. Only makes sense if you have miles or United status."
-        },
-        {
-          "airline": "Alaska Airlines",
-          "price_usd": 498,
-          "outbound_dates": "Jul 15–Aug 15 (seasonal pricing, watch for flash sales)",
-          "return_dates": "flexible",
-          "stops": 1,
-          "duration": "7h 10m",
-          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-mexico-city.html",
-          "notes": "Connects through LAX or Guadalajara. Price-check against direct options before booking."
-        }
-      ],
-      "lodging": [
-        {
-          "name": "Apapacho Hostel",
-          "type": "hostel",
-          "price_per_night_usd": 36,
-          "neighborhood": "Centro Histórico",
-          "highlights": "9.6/10 on Hostelworld (1,173 reviews), private rooms with ensuite bathrooms right in the historic center — walking distance to Zócalo, Templo Mayor, and Café de Tacuba, with a rooftop terrace and genuinely helpful staff.",
-          "url": "https://www.hostelworld.com/hostels/p/323772/apapacho/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "The Red Tree House",
-          "type": "hotel",
-          "price_per_night_usd": 120,
-          "neighborhood": "Condesa",
-          "highlights": "#1 B&B in Mexico City on Tripadvisor, 22 rooms in a converted 1930s mansion in Condesa with a garden courtyard, daily breakfast included, and staff who function more like a local concierge than a front desk.",
-          "url": "https://www.booking.com/hotel/mx/the-red-tree-house.html",
-          "source": "booking"
-        },
-        {
-          "name": "Condesa DF",
-          "type": "hotel",
-          "price_per_night_usd": 270,
-          "neighborhood": "Condesa",
-          "highlights": "Design Hotels member in a restored 1928 art deco building with interiors by India Mahdavi, rooftop bar with panoramic views over Parque México, 40 rooms where every detail has been thought through — the most stylish address in Condesa.",
-          "url": "https://www.designhotels.com/hotels/mexico/mexico-city/condesa-df/",
-          "source": "booking"
-        }
-      ],
-      "itinerary": {
-        "overview": "Mexico City rewards the visitor who gets past the Zócalo selfie and into the actual city — which starts about three blocks in any direction. The food is extraordinary at every price point (Contramar is one of the best lunch restaurants in the Americas; a taco de canasta from a street cart is also extraordinary). The museums are world-class and half of them are free. Condesa and Roma Norte are walkable, dense, architecturally coherent neighborhoods where you could spend a week just eating and reading in parks. The altitude hits harder than expected: 7,350 feet means you'll feel two drinks like four and need more water than you think.",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -439,68 +199,9 @@
         "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine."
       },
       "flight_search_date": "2026-06-19",
-      "flights": [
-        {
-          "airline": "TAP Air Portugal",
-          "price_usd": 859,
-          "outbound_dates": "Jul 8–15 (Tuesday departures ~16% cheaper; avoid peak weekend)",
-          "return_dates": "Jul 15–22",
-          "stops": 0,
-          "duration": "10h 15m",
-          "url": "https://www.flytap.com/en_us/flights-from-san-francisco-to-lisbon",
-          "notes": "The only nonstop option on this route — 5 flights/week SFO→LIS. $859 roundtrip in July. Full-service, meals included."
-        },
-        {
-          "airline": "Air Canada",
-          "price_usd": 837,
-          "outbound_dates": "Aug 15–28 (August is cheaper than July by ~$120)",
-          "return_dates": "Aug 28–Sep 4",
-          "stops": 1,
-          "duration": "15h 30m",
-          "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-lisbon.html",
-          "notes": "Cheapest option if you can push to August — connects through Toronto (YYZ) or Vancouver (YVR)."
-        },
-        {
-          "airline": "United Airlines",
-          "price_usd": 987,
-          "outbound_dates": "Jul 10–17",
-          "return_dates": "Jul 17–24",
-          "stops": 1,
-          "duration": "14h 45m",
-          "url": "https://www.united.com/en-us/flights-from-san-francisco-to-lisbon",
-          "notes": "Connects through Newark (EWR) or Washington Dulles (IAD). Only makes sense with miles or Star Alliance preference."
-        }
-      ],
-      "lodging": [
-        {
-          "name": "Living Lounge Hostel",
-          "type": "hostel",
-          "price_per_night_usd": 26,
-          "neighborhood": "City Centre / Baixa",
-          "highlights": "9.8/10 on Hostelworld (7,711 reviews), steps from Rossio Square — private rooms at hostel prices with a rooftop terrace that has become a Lisbon institution.",
-          "url": "https://www.hostelworld.com/hostels/p/29235/living-lounge-hostel/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Goodmorning Solo Traveller Hostel",
-          "type": "hostel",
-          "price_per_night_usd": 81,
-          "neighborhood": "City Centre",
-          "highlights": "9.9/10 on Hostelworld (7,107 reviews) — the highest-rated hostel in Lisbon, private rooms that function like a boutique hotel.",
-          "url": "https://www.hostelworld.com/hostels/p/59901/goodmorning-solo-traveller-hostel/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Memmo Alfama Design Hotel",
-          "type": "hotel",
-          "price_per_night_usd": 210,
-          "neighborhood": "Alfama",
-          "highlights": "42 rooms with sweeping Tagus River views, rooftop pool, adults-only, part of the Design Hotels collection.",
-          "url": "https://www.designhotels.com/hotels/portugal/lisbon/memmo-alfama/",
-          "source": "booking"
-        }
-      ],
-      "itinerary": { "overview": "Lisbon has been 'discovered' for a decade now, but it still rewards the visitor who walks past the tram line and into the actual city. The hills above Alfama are where Lisbon actually lives: multicultural, cheap, genuinely beautiful, almost no tour buses.", "days": [], "tips": [], "sources": [] }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -514,17 +215,9 @@
         "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
       },
       "flight_search_date": "2026-06-19",
-      "flights": [
-        { "airline": "EVA Air", "price_usd": 800, "outbound_dates": "Jul 7–14 (midweek Tue/Wed departures 10–15% cheaper than weekend)", "return_dates": "Jul 14–21", "stops": 0, "duration": "13h 25m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-taipei-city.html", "notes": "Taiwan's flagship full-service carrier. Direct SFO→TPE." },
-        { "airline": "China Airlines", "price_usd": 990, "outbound_dates": "Jul 2–Dec 10 (Early Summer Sale window)", "return_dates": "flexible within sale window", "stops": 0, "duration": "14h 5m", "url": "https://northamerica.china-airlines.com/2026-early-summer-sale_en/", "notes": "Taiwan's national carrier. 7 nonstop flights weekly from SFO." },
-        { "airline": "STARLUX Airlines", "price_usd": 1013, "outbound_dates": "Aug 5–12 (August ~$125 cheaper than July peak)", "return_dates": "Aug 12–19", "stops": 0, "duration": "13h 30m", "url": "https://www.starlux-airlines.com/flights/en-us/flights-from-san-francisco-to-taipei", "notes": "New premium Taiwanese carrier with noticeably better economy product." }
-      ],
-      "lodging": [
-        { "name": "Star Hostel Taipei Main Station", "type": "hostel", "price_per_night_usd": 40, "neighborhood": "Taipei Main Station / Datong", "highlights": "9.8/10 on Hostelworld (2,595 reviews), free gourmet breakfast, Alchemist bar on-site, 3-minute walk to every MRT line.", "url": "https://www.hostelworld.com/hostels/p/85980/star-hostel-taipei-main-station/", "source": "hostelworld" },
-        { "name": "Journey Town Inn — Nanjing Branch", "type": "guesthouse", "price_per_night_usd": 93, "neighborhood": "Zhongshan", "highlights": "9.0/10 on Booking, walkable to Ningxia Night Market and the city's best independent coffee shops.", "url": "https://www.booking.com/hotel/tw/journey-town-inn-lu-cheng-yi-zhen.html", "source": "booking" },
-        { "name": "The Okura Prestige Taipei", "type": "hotel", "price_per_night_usd": 225, "neighborhood": "Zhongshan / Nanjing", "highlights": "5-star Japanese hospitality, heated outdoor pool, 2-minute walk from Zhongshan MRT.", "url": "https://okura.com/taiwan/taipei/the-okura-prestige-taipei/", "source": "booking" }
-      ],
-      "itinerary": { "overview": "Taipei is one of the most underrated cities on earth — safe, genuinely cheap, staggeringly good at food, and dense with experiences that reward wandering over planning.", "days": [], "tips": [], "sources": [] }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -538,17 +231,9 @@
         "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G."
       },
       "flight_search_date": "2026-06-19",
-      "flights": [
-        { "airline": "Air Premia", "price_usd": 850, "outbound_dates": "Jul 15–22", "return_dates": "Jul 22–29", "stops": 0, "duration": "12h 55m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html", "notes": "Korean low-cost carrier, direct SFO→ICN." },
-        { "airline": "Asiana Airlines", "price_usd": 920, "outbound_dates": "Aug 6–13", "return_dates": "Aug 13–20", "stops": 0, "duration": "12h 45m", "url": "https://www.google.com/travel/flights/flights-from-san-francisco-to-seoul.html", "notes": "Full service with meals, 2 checked bags." },
-        { "airline": "Korean Air", "price_usd": 1100, "outbound_dates": "Jul 14–21", "return_dates": "Jul 21–28", "stops": 0, "duration": "12h 45m", "url": "https://www.koreanair.com/flights/en-us/flights-from-san-francisco-to-korea", "notes": "Premium full service. Drops to ~$920 in August." }
-      ],
-      "lodging": [
-        { "name": "Zzzip Guesthouse in Hongdae", "type": "hostel", "price_per_night_usd": 40, "neighborhood": "Hongdae", "highlights": "9.8/10 on Hostelworld — spotless private rooms, breakfast included.", "url": "https://www.hostelworld.com/bed-and-breakfasts/p/83226/zzzip-guesthouse-in-hongdae/", "source": "hostelworld" },
-        { "name": "Hotel Sunbee Insadong", "type": "guesthouse", "price_per_night_usd": 100, "neighborhood": "Insadong", "highlights": "In the cultural heart of Seoul, surrounded by galleries and tea houses.", "url": "https://www.booking.com/hotel/kr/sunbee.html", "source": "booking" },
-        { "name": "L7 HONGDAE by Lotte", "type": "hotel", "price_per_night_usd": 180, "neighborhood": "Hongdae", "highlights": "4-star design hotel with a rooftop pool bar and industrial-cool aesthetic.", "url": "https://www.booking.com/hotel/kr/l7-hongdae-by-lotte.html", "source": "booking" }
-      ],
-      "itinerary": { "overview": "Seoul rewards you immediately and keeps rewarding you — the palaces are legitimately awe-inspiring, the food is some of the best on earth at any price point, and the city stays interestingly weird until 4am.", "days": [], "tips": [], "sources": [] }
+      "flights": [],
+      "lodging": [],
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     }
   ]
 }
