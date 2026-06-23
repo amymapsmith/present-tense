@@ -1,115 +1,116 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "destination": {
-    "city": "Bologna",
-    "country": "Italy",
-    "flag": "🇮🇹",
-    "iata": "BLQ",
-    "lat": 44.4949,
-    "lon": 11.3426,
-    "vibe": "The city that taught Europe to eat — 900 years of university life, the world's longest portico, tagliatelle al ragù that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them."
+    "city": "Athens",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "iata": "ATH",
+    "lat": 37.9838,
+    "lon": 23.7275,
+    "vibe": "The birthplace of democracy, tragedy, and the gyro — where a 2,500-year-old citadel glows gold at sunset over a city of five million, a souvlaki costs €4, and nothing serious happens before 9pm."
   },
-  "flight_search_date": "2026-06-22",
+  "flight_search_date": "2026-06-23",
   "flights": [
     {
-      "airline": "Air France",
-      "price_usd": 749,
-      "outbound_dates": "July–August (Tue/Wed departures cheapest; midweek saves ~$50 vs. weekend)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~14h total",
-      "url": "https://wwws.airfrance.us/en-us/flights-from-san-francisco-to-bologna",
-      "notes": "Connects through Paris CDG — Air France's home hub, short and reliable layover (1.5–2h typical), CDG-BLQ leg is ~2 hours. Full-service with meals included. Summer roundtrip averages $749–798; midweek departures consistently cheaper. Book via airfrance.com and use Google Flights to identify the lowest-fare date pair first."
-    },
-    {
-      "airline": "Lufthansa",
-      "price_usd": 766,
-      "outbound_dates": "July–August flexible (midweek best; August slightly cheaper than July)",
+      "airline": "Turkish Airlines",
+      "price_usd": 849,
+      "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; book 4–6 weeks out)",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
       "duration": "~15h total",
-      "url": "https://www.lufthansa.com/us/en/flights-from-san-francisco-to-bologna",
-      "notes": "Connects through Munich (MUC) or Frankfurt (FRA) — both well-run hubs with good food and lounge access if you have Star Alliance Gold. MUC-BLQ leg is under 2 hours. Roughly $766 summer roundtrip; August drops about $30 vs. July peak. Book direct at lufthansa.com for best availability."
+      "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens",
+      "notes": "Connects through Istanbul (IST) — Turkish Airlines flies 7x/week from DTW. IST is an enormous and efficient hub with great transit lounges; the ATH leg from Istanbul is only 2h. Full-service airline with meals, 2 checked bags included. Turkish is often the lowest-priced European carrier on this route. Book direct at turkishairlines.com for the best fare."
     },
     {
-      "airline": "Swiss International Air Lines",
-      "price_usd": 767,
-      "outbound_dates": "August (August measurably cheaper than July; off-peak dates can hit $619)",
-      "return_dates": "flexible +7–10 days",
+      "airline": "Delta Air Lines",
+      "price_usd": 981,
+      "outbound_dates": "Jul 12–28 (lowest-cost window found; midweek departures save ~$60 vs. weekend)",
+      "return_dates": "flexible +7–14 days",
+      "stops": 1,
+      "duration": "~17h total",
+      "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html",
+      "notes": "Connects through JFK or ATL — Delta offers 12 connecting flights weekly from DTW. JFK routing connects to Athens nonstop on Delta's transatlantic service; longer but comfortable. $981 roundtrip for Jul 12–28 per current search. Use Google Flights to find the cheapest specific dates before booking at delta.com."
+    },
+    {
+      "airline": "United Airlines",
+      "price_usd": 1030,
+      "outbound_dates": "Aug 1–20 (August slightly cheaper than July peak)",
+      "return_dates": "flexible +7–14 days",
       "stops": 1,
       "duration": "~14h 30m total",
-      "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/san-francisco-bologna.html",
-      "notes": "Connects through Zurich (ZRH) — one of Europe's most pleasant airports to connect through, ZRH-BLQ leg is only 1.5 hours. Swiss economy product is above-average. Summer ~$767 roundtrip; off-peak dates on Google Flights can drop to $619. Check Google Flights explore tool for cheapest available date combos."
+      "url": "https://www.united.com/en-us/flights-from-detroit-to-athens",
+      "notes": "Connects through Newark (EWR) — United's hub has good international connections and the EWR→ATH leg is nonstop. Slightly shorter overall than Delta's JFK routing. $1,030 roundtrip; prices drop slightly in late August. Good option with United miles or Star Alliance status."
     }
   ],
   "lodging": [
     {
-      "name": "Ostello Bello Bologna",
+      "name": "City Circus Athens",
       "type": "hostel",
-      "price_per_night_usd": 70,
-      "neighborhood": "University Quarter",
-      "highlights": "9.5/10 on Hostelworld — Via del Porto 6/a, 0.8km from city center, 10 min walk from Piazza Maggiore. Free daily events (family dinners, pub crawls, walking tours), multilingual staff, unlimited coffee/tea, fully-equipped kitchen. The best-rated budget bed in Bologna, in the right neighborhood.",
-      "url": "https://www.hostelworld.com/hostels/p/333560/ostello-bello-bologna/",
+      "price_per_night_usd": 65,
+      "neighborhood": "Psirri / Monastiraki",
+      "highlights": "9.6/10 on Hostelworld — a neoclassical building with antique furnishings and retro character, 0.97km from city center in the thick of Psirri's bar and taverna scene, steps from Monastiraki Metro. One of the most distinctive budget stays in Athens and a 2026 Hoscar Award winner.",
+      "url": "https://www.hostelworld.com/hostels/europe/greece/athens/",
       "source": "hostelworld"
     },
     {
-      "name": "Art Hotel Orologio",
+      "name": "Sweet Home Hotel",
       "type": "hotel",
-      "price_per_night_usd": 145,
-      "neighborhood": "Centro Storico / Piazza Maggiore",
-      "highlights": "24 rooms and 8 suites literally on Piazza Maggiore, opposite the Palazzo Comunale's clock tower. Free breakfast, free bike rental, 19th-century building loaded with art — the location is what you're paying for, and the location is unbeatable.",
-      "url": "https://www.art-hotel-orologio.com/en/",
+      "price_per_night_usd": 126,
+      "neighborhood": "Plaka",
+      "highlights": "9.3/10 on Booking (1,600 reviews) — elegant rooms in a restored building 400m from Syntagma Square, some with Acropolis views, homemade breakfast included. The most approachable mid-range option in the historic heart of the city.",
+      "url": "https://www.booking.com/district/gr/athens/plaka.html",
       "source": "booking"
     },
     {
-      "name": "Art Hotel Commercianti",
+      "name": "AthensWas Design Hotel",
       "type": "hotel",
-      "price_per_night_usd": 220,
-      "neighborhood": "Centro Storico / Piazza Maggiore",
-      "highlights": "A 12th-century building that was once Bologna's town hall, now 34 rooms with original vaulted ceilings, wooden beams, and windows looking directly onto the Gothic stained glass of Basilica San Petronio. The most historically specific address in Bologna, in a pedestrian zone with private parking.",
-      "url": "https://en.art-hotel-commercianti.com/",
+      "price_per_night_usd": 210,
+      "neighborhood": "Makrygianni / Dionysiou Areopagitou",
+      "highlights": "21 rooms on Dionysiou Areopagitou — the pedestrian promenade directly below the Acropolis — with unobstructed Parthenon views from the rooms and rooftop terrace. Greek contemporary design in every detail. The most specific address in Athens if you came for the marble.",
+      "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Bologna is the city Italian food people actually talk about among themselves — not Rome, not Florence, not the Amalfi Coast. It's La Grassa (the fat one) because the cooking is the serious kind: fresh egg pasta hand-cut to 8mm wide, tortellini in capon broth, mortadella sliced thick, and a wine culture built on Sangiovese that's been happening here for 900 years. It's also La Dotta (the learned) — home to the oldest university in the Western world (est. 1088), which means the city has been young, left-wing, and argumentative in the best way for nearly a millennium. And La Rossa (the red one) — not just the terracotta, but the politics: Bologna has elected communist or center-left governments continuously since 1945 and is quietly proud of it. The porticos — 38 miles of covered walkways woven through the city — are a UNESCO World Heritage Site and also just how Bolognesi move around in the rain. Go in July and you'll have the city largely to yourself; the tourists are in Florence and Venice.",
+    "overview": "Athens is not a museum with a city around it — it's a city of five million that happens to have an intact 5th-century BC temple on its central hill. The Acropolis is genuinely awe-inspiring and you should see it, but the city underneath it rewards the visitor who keeps walking: Psirri's tavernas where Greek blues (rebetiko) still gets performed live, the Ancient Agora where democracy was argued over in real time, Exarcheia's anarchist bookstores and Saturday farmers' market, the Kerameikos cemetery that has been burying Athenians since the 11th century BC. July is hot — genuinely, occasionally brutally hot (40°C is possible) — but the city doesn't stop: it just moves later, eats at 9pm, and stays out until 3am in a way that makes everything else feel provincial.",
     "days": [
       {
         "day": 1,
-        "title": "The Quadrilatero, the Towers, aperitivo the right way",
-        "morning": "Start in the Quadrilatero — the ancient market district that has operated in the same blocks since medieval times. Enter at Via Pescherie Vecchie and walk slowly: cheese wheels and cured meats hang in doorways, fishmongers on one side, butchers on another, wine bars opening at 9am because this is a market. Stop at Salumeria Simoni (Via Drapperie 5) for a mortadella sandwich — the real version, thick-sliced, served on a tigella or in a panino with squacquerone cheese. Then Tamburini (Via Caprarie 1, since 1932) for the spectacle alone: one of the great Italian salumerias, standing at the counter with a glass of Sangiovese and a plate of prosciutto before noon is completely acceptable here. Walk the surrounding streets: Via Drapperie, Via Clavature, Via Orefici — the Quadrilatero is not a grid, it's a medieval tangle, and getting slightly lost is the method.",
-        "afternoon": "Walk to the Two Towers (Le Due Torri) at Piazza di Porta Ravegnana — these were medieval status symbols, two rival noble families building as high as possible to intimidate each other, and the asymmetry (one tilts) makes them stranger and better than photographs suggest. Climb Torre degli Asinelli (498 steps, €5) for the definitive Bologna view: terracotta as far as you can see, porticos threading between every building, the Apennines behind it all. Afterward, find the Archiginnasio (Piazza Galvani 1) — the original seat of the University of Bologna, a stunning courtyard covered with 7,000 coats of arms of students and professors from the 13th century onward. In the library upstairs: the Anatomical Theater (Teatro Anatomico), where 17th-century medicine students watched dissections from tiered wooden seating, flanked by skinned statues of ecorché figures flanking the demonstrator's chair. It costs €3 and is one of the strangest, most beautiful rooms in Italy.",
-        "evening": "Aperitivo: Bologna invented spritz culture before it was called that. The move is a Sangiovese or Pignoletto (the local white) with a free spread of bar snacks — many bars in the university district still do complimentary aperitivo boards with cheese, cured meats, and olives with a drink order. Zerocinquantuno (Via Pescherie Vecchie 3, in the Quadrilatero) and Medulla Vini (nearby) are both excellent. Dinner at Osteria dell'Orsa (Via Mentana 1) — always full of locals, generous portions, reasonable prices, proper Bolognese cooking without tourist markup. Order the tagliatelle al ragù. This is not a bolognese 'sauce' that sits on top of pasta — it is a slow-cooked meat ragù, barely wet, tossed with fresh egg tagliatelle. If there's any liquid pooling at the bottom of the bowl, something went wrong."
+        "title": "Acropolis at dawn, Anafiotika, Ancient Agora, rebetiko by night",
+        "morning": "Book your Acropolis tickets in advance at odysseus.culture.gr (€30, time slots required). Go at opening — 8am in summer — before the heat peaks and before the tour groups arrive. The Parthenon is still extraordinary despite everything, but the thing most visitors miss is what happens when you walk off the main path on the north slope: Anafiotika, a whitewashed island-village of 45 tiny houses built in the 1840s by craftsmen from the island of Anafi who exploited a legal clause allowing squatters who built overnight to keep the land. Blue doors, bougainvillea, cats, stone steps too narrow for a moped, and zero tour buses because the streets don't fit them. This is what the tourist brochures photograph from a distance — walk into it instead. Give yourself at least an hour up here before the heat drives you down.",
+        "afternoon": "Walk down to the Ancient Agora — the actual civic and commercial heart of ancient Athens, less famous than the Acropolis and far less crowded. The Temple of Hephaestus at the Agora's western edge is better preserved than the Parthenon (the Christians converted it to a church early enough to protect it) and gives a clearer sense of what a working Greek temple actually looked like. Then the Acropolis Museum (Dionysiou Areopagitou 15) for the afternoon: go after the hill so you understand what you just saw. The museum is climate-controlled, which matters at 1pm in July, and the new building by Bernard Tschumi is worth experiencing for the architecture alone — the building's lower floor is glass, with an archaeological dig visible underneath through the floor. The Caryatid porch sculptures are here in the original.",
+        "evening": "Dinner in Psirri — the neighborhood directly north of Monastiraki, gritty and genuine and the right place to eat. Koudounaki (Psirri) is a tiny family-run spot where two sisters cook from a handwritten menu; the food is legitimately one of the best meals you can have in the city for €15–20. Enastron (also Psirri) is the classic taverna option with generous mezedes and tables on the pavement. After dinner: Stoa Athanaton (Athanasiou Diakou 19, off Ermou) for rebetiko — Athens' Greek blues, born in the 1920s among refugees and prison yards and still played live here 30 years running. The performance usually starts late (10–11pm) and the crowd is a mix of old Athenian families and people who know. Confirm hours before going; it occasionally closes for summer tours."
       },
       {
         "day": 2,
-        "title": "Mercato Ritrovato, San Luca pilgrimage, Bolognina by night",
-        "morning": "Saturday or Wednesday: Mercato Ritrovato at Cineteca di Bologna (Via Riva di Reno 72) — the city's genuinely local organic market, producers selling direct, fresh pasta vendors, seasonal vegetables, good coffee. Wednesday evenings and Saturday mornings. If you're not there on those days, Mercato delle Erbe (Via Ugo Bassi 2) is the covered municipal market, more permanent, good for supplies and sitting at the wine bar inside. Skip Mercato di Mezzo in the Quadrilatero for actual eating — it's a pretty medieval building but the food court inside has tourist prices.",
-        "afternoon": "Walk the Portico di San Luca. This is the claim: 3.8km of continuous covered walkway, 666 arches, climbing from the city's medieval gate at Porta Saragozza up to the Santuario della Madonna di San Luca on the hill above the city. The portico was built in stages between 1674 and 1793 specifically so worshippers could make the pilgrimage in rain or heat without getting wet — which is very Bolognese problem-solving. Walk up mid-afternoon: the light comes through the arches in a particular way, you'll have the path mostly to yourself on a weekday, and the view of Bologna from the hilltop sanctuary is one of the better payoffs per unit of effort in Italy. Pilgrims and joggers share this path. Both are correct.",
-        "evening": "Bolognina — the neighborhood north of the train station, once the working-class industrial district, now the most genuinely diverse and interesting part of the city. Street art, cheaper bars, multicultural restaurants, and none of the self-consciousness of the historic center. Walk Viale Angelo Masini and the streets radiating off it. Eat at whatever looks busy and local — the Chinese restaurants here are legitimately good (large Chinese community, the real kind). Bar Paolo (local) is the unpretentious beer-and-food spot that guides never mention. Ruggine (former bicycle shop, great vibes) if you want something more designed."
+        "title": "Kerameikos, Varvakios Market, Exarcheia, rooftop Acropolis view",
+        "morning": "Varvakios Central Market (Athinas Street) at 8am — one of the great covered markets of Europe, operating since 1884. The meat and fish halls are the show: marble counters, whole animals, vendors who've worked the same stall for decades. Eat breakfast at one of the soup counters inside (patsas, the tripe soup, is the traditional market breakfast — excellent if you can get past the concept). Walk through the surrounding streets: butchers, spice vendors, dried goods. Then 10 minutes west to Kerameikos — the ancient cemetery of Athens, where the city has been burying its dead since the 11th century BC. It sits just outside the old city walls, adjacent to the neighborhood now named for it. Quiet, underpopulated, genuinely moving. The on-site museum holds an extraordinary collection of marble grave stelae — relief portraits of the Athenian dead that are among the most quietly human objects from antiquity. Entrance €8.",
+        "afternoon": "Walk north from Monastiraki up toward Exarcheia — a 20-minute walk through increasingly interesting streets. Exarcheia is Athens' self-declared anarchist neighborhood: bookshops, left-wing bars, murals covering every surface, a small park that locals have maintained as a commons against city development plans. It's not performatively dangerous, just genuinely its own thing. On Saturdays, the Kallidromiou Street Farmers' Market (Plateia Kallidromiou) is one of the best in the city — locals shopping for the week, small farmers selling produce, cheap street food. Walk Fokionos Negri (a pedestrian boulevard in the adjacent Kypseli neighborhood) for an Art Deco street that most tourists never reach. Stop at Gamay wine bar (open from mid-afternoon) for a glass of Greek low-intervention wine and simple food.",
+        "evening": "Back toward Monastiraki for the moment the city is made for: the Acropolis illuminated at night from a rooftop. A for Athens (Miaouli 2, overlooking Monastiraki Square) is the most famous option — 6th floor bar with unobstructed Parthenon views, worth the slightly elevated drink prices. 360 Degrees (Ifaistou 2) is the adjacent rooftop, slightly more relaxed. Go after 9pm when the light is fully gone and the hill is lit. Order a Mythos or an Assyrtiko and stay until you've had enough of looking at it. You won't be rushed. Then if you have stamina: Cine Thission (Apostolou Pavlou 7, Thissio neighborhood) is an outdoor cinema operating since 1935 where films are projected against a backdrop of the Acropolis — the screen on one side, the hill on the other, a chair in between. Check the schedule; it runs nightly in summer."
       },
       {
         "day": 3,
-        "title": "Modena day trip, Finestrella, last aperitivo at Camera con Vista",
-        "morning": "High-speed train to Modena — 17 minutes, €5–6 each way. Modena is what happens when you give a small city Ferraris, balsamic vinegar acetaias, and Massimo Bottura. The Mercato Albinelli (Via Luigi Albinelli) is one of the most beautiful covered markets in Italy — a 1931 glass-and-iron pavilion where the vendors are the same families who've been there for generations. Buy proper Aceto Balsamico Tradizionale (the DOP kind, aged 12+ years in a series of wood barrels, fundamentally different from the supermarket product) from one of the acetaias selling at the market. The Modena Cathedral (Duomo di Modena) is a 12th-century Romanesque landmark with Wiligelmo's relief sculptures on the facade — worth 30 minutes. If you booked Osteria Francescana years in advance and have Michelin three-star budget: Bottura's restaurant is here.",
-        "afternoon": "Back to Bologna by 2pm. Walk to Via Piella — find the Finestrella di Via Piella, a small window cut into an alleyway wall (it looks like a gate in a wooden fence). Open it: behind the window is one of the few remaining visible stretches of Bologna's medieval canal system, the Canale di Reno, which once powered the silk mills that made Bologna wealthy and was subsequently covered over. This is not in any guidebook. It's just a window in an alley, and behind it is a fragment of the medieval city that the modern city forgot to bury. Stand there for a minute.",
-        "evening": "Walk to Piazza Santo Stefano — a triangular piazza with a 7th-century basilica complex (actually seven interconnected churches) on one end, and Camera con Vista (Strada Maggiore 40a, third floor) for the aperitivo. The name means 'room with a view' and the view is directly over the piazza and the Santo Stefano rooflines. Order a Pignoletto Frizzante (the local Bolognese sparkling white, not prosecco — this matters). For dinner, walk 10 minutes to Caffè Terzi (Via Guglielmo Oberdan 10) for the best coffee of the trip — a specialty roaster that takes the craft seriously and is open into the evening. Then find somewhere along Via del Pratello (the street the students have been drinking on since the 13th century) and stay as long as you want. Bologna is a city that stays up because it has always stayed up."
+        "title": "Cape Sounion day trip, Dionysiou Areopagitou walk, Koukaki dinner",
+        "morning": "Take the early KTEL Attica bus from Areos Park terminal (Mavromateon Street) toward Cape Sounion — buses leave roughly every 1–2 hours starting at 6:30am, 1.5–2h ride, €7 each way. Get on the first or second bus to arrive before the tour groups. Cape Sounion is 70km south of Athens on a dramatic limestone cliff 65 meters above the Aegean — the Temple of Poseidon sits at the edge, its columns intact (fewer than the Parthenon, but dramatically positioned). On the way down the coast, the road traces the Attic Riviera: beach clubs, small bays, the kind of clear Aegean water that makes sense of why the ancient Greeks thought the gods lived here. At Sounion itself: walk the temple circuit, look at the graffiti on one of the columns where Byron carved his name in 1810 (he was 22), have a coffee at the café overlooking the cape. Go early, stay two hours, be back at the bus by noon.",
+        "afternoon": "Back in Athens by 2pm. Walk Dionysiou Areopagitou — the pedestrian promenade that wraps around the southern base of the Acropolis hill, connecting the Acropolis Museum through Thissio to Kerameikos. Every guide calls it one of the most beautiful walks in Europe and they are not wrong: 3km of marble-paved pedestrian street, the Parthenon rising on the hill to your left, the city falling away to your right, musicians playing at intervals, no cars. Stop at Philopappos Hill (accessed via the promenade) for the quieter, often completely empty hillside view of the Acropolis from the southwest — different angle, no entrance fee, and the same hill where Socrates was supposedly arrested.",
+        "evening": "Dinner in Koukaki — the neighborhood south of the Acropolis Museum that is Athens without the tourist markup. This is where young Athenians eat: lower prices, better food, chalkboard menus. Dia Tafta (near the Psirri/Monastiraki border, also reachable from Koukaki) is the philosophy of 'good food, good drinks, good company' expressed as a taverna. To Steki Tou Ilia (Thissio, 5 min away on Eptachalkou Street) is famous for a single dish done perfectly: grilled lamb chops, sold by weight, with fried potatoes that are somehow also the point. This is not a place with a wine list; it's a place with one thing and it's right. After dinner, walk back through the illuminated Acropolis promenade one more time. It's better the second time."
       }
     ],
     "tips": [
-      "The pasta rules: tagliatelle al ragù is what Bolognese people eat. 'Spaghetti bolognese' does not exist here — if a restaurant is serving it to you on spaghetti, you're in a tourist restaurant. Tortellini in brodo (in capon broth) is the other essential, and the broth matters as much as the pasta. Tigelle (small flatbreads) with mortadella and squacquerone (a fresh, spreadable cheese) is the bar snack/lunch of choice. Eat all three and report back.",
-      "Mercato Ritrovato vs. Mercato di Mezzo: the former is the real local market (Wednesday evenings and Saturday mornings at Cineteca); the latter is a photogenic medieval building turned tourist food court. Both are worth visiting for different reasons — but eat at Ritrovato, photograph Mezzo.",
-      "Senza Nome (Via Caprarie 4, near the Quadrilatero) is the only deaf-owned bar in Bologna, possibly in Italy — you order using Italian Sign Language (ISL), there are prompt cards, and the staff are entirely members of the deaf community. It is genuinely worth going and worth being a slightly awkward tourist about. The aperitivo is good and the experience is unlike any other bar you'll enter.",
-      "Modena is 17 minutes by high-speed train and costs about €5. Bologna is a hub: Florence is 35 minutes, Venice is 80 minutes, Milan is 60 minutes. The location makes day trips trivially easy and the prices don't change just because you're in the center of Italy's most expensive rail corridor.",
-      "Giusti Boutique (near the Quadrilatero) lets you taste multiple balsamic vinegars before buying — and the difference between the 12-year, 25-year, and 50-year traditional Modena balsamic is not subtle. The real product (DOP label, minimum 12 years in wood barrels) costs €40–150 for a small bottle and is nothing like the grocery store balsamic. One bottle lasts years. Buy it here instead of at the Modena tourist shops where the provenance is murkier.",
-      "The whispering wall: in the passage under the Palazzo del Podestà (the arcaded building in the middle of Piazza Maggiore) there are four corner alcoves. Stand in one corner facing the wall and have a companion stand in the diagonally opposite corner facing their wall. You can hear each other clearly in what otherwise looks like ordinary architecture. The legend is that medieval lepers used this to confess to priests without proximity. The acoustic is real regardless of the legend."
+      "Acropolis timing: book at odysseus.culture.gr (€30 combined ticket includes the Agora, Kerameikos, and several other sites — buy the combination). Time slots are required in summer; 8am is the best opening slot for heat and crowds. The site has closed during extreme heat events (midday in July); plan outdoor ancient sites for early morning or late afternoon — never noon. Bring water.",
+      "The freddo espresso is not optional. Greek cold coffee is not iced coffee — it's a shot of espresso shaken with ice until frothy and served in a glass. €3.50 everywhere, infinitely better than anything in an Italian bar, and the default way to drink coffee in Athens from May through September. Order it immediately after sitting anywhere or you'll be handed a full menu.",
+      "ATM and card reader trap: always choose to pay in EUROS when given the option at an ATM or payment terminal. The other option is 'dynamic currency conversion' — your bank's exchange rate applied by the vendor rather than Mastercard's rate, which adds a silent 5–10% to every transaction. This happens constantly and is legal. Just always choose euros.",
+      "Rebetiko is Greece's blues and it's still alive. Born in the 1920s in the hashish coffeehouses and prisons of Piraeus among refugees from Asia Minor, banned twice by authoritarian governments, it is now the country's most distinctly Greek music form — bouzouki, mournful improvised verses, late-night rooms. Stoa Athanaton (30 years running) and Palia Markiza (since 1963, Fri–Sun) are the two most reliable venues. Neither starts before 10pm. This is not a tourist performance; it's a real thing that still happens.",
+      "Anafiotika is the hidden village that guidebooks mention and no one actually finds. It's on the north slope of the Acropolis, above Plaka, inside a confusing network of stone paths. From Plaka square, walk uphill on any path heading toward the Acropolis rock and keep going when it gets narrow. The houses are genuinely tiny (some are 20 square meters), the streets are the width of a person, and the residents have lived here for generations against every development pressure. It feels more like a Cycladic island than a European capital and it's 800 meters from the tourist center.",
+      "The Acropolis Museum and the Acropolis hill are separate. The museum (at the base of the hill) has the surviving sculpture, the context, and air conditioning. The hill has the ruins and the view. Do the hill first so you know what you're looking at, then the museum to understand it. The museum is free the first and third Sunday of each month from November to March — paid admission in July, but worth it regardless."
     ],
     "sources": [
-      { "title": "20 Best Things to Do in Bologna, Italy (2026 Guide) — Earth Trekkers", "url": "https://www.earthtrekkers.com/things-to-do-in-bologna/" },
-      { "title": "Bologna, Italy Travel Guide: 3 Insiders Share Where to Eat, Drink, and Play — W Magazine", "url": "https://www.wmagazine.com/life/bologna-italy-travel-guide-summer-2025" },
-      { "title": "Bologna Italy: 20 Best Things to Do (2025 Travel Guide) — What's Down That Street", "url": "https://whatsdownthatstreet.com/2025/01/03/top-things-to-do-in-bologna/" },
-      { "title": "Advice for Bologna solo... casual eats? — Rick Steves Travel Forum", "url": "https://community.ricksteves.com/travel-forum/italy/advice-for-bologna-solo-casual-eats" },
-      { "title": "Bologna Welcome — Official Tourist Office", "url": "https://www.bolognawelcome.com/en" }
+      { "title": "The Ultimate Athens Travel Guide (2026 Edition): A Local's Master Plan — Travel the Greek Way", "url": "https://travelthegreekway.com/athens-guide/" },
+      { "title": "2026 Athens Travel Guide: Explore Greece's Capital Like a Local — Greeking.me", "url": "https://greeking.me/blog/athens/athens-travel-guide" },
+      { "title": "Athens Travel Guide 2026: Best Things to Do, Hotels & Itineraries — Santorini Dave", "url": "https://santorinidave.com/athens" },
+      { "title": "10 Unique Things to Do in Athens 2026 — Julia's Days Off", "url": "https://juliasdaysoff.com/greece/10-unique-things-to-do-in-athens/" },
+      { "title": "Athens, Greece — Hip Trip Guide — Dip a Toe", "url": "https://www.dipatoe.com/guides/athens" },
+      { "title": "Monastiraki and Psirri Travel Guide — Fodor's Travel", "url": "https://www.fodors.com/world/europe/greece/athens/neighborhoods/monastiraki" }
     ]
   }
 }
