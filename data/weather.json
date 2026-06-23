@@ -8,18 +8,18 @@
       "high": 66,
       "low": 55,
       "wind_mph": 12,
-      "wind_hourly": [5,5,5,5,5,5,5,5,5,5,6,7,8,9,10,12,12,12,12,12,10,9,8,8],
+      "wind_hourly": [6,6,6,6,6,6,6,6,7,7,7,7,8,9,10,12,12,12,12,10,9,9,8,8],
       "precipitation_pct": 1,
       "humidity": null,
-      "description": "Mostly Sunny"
+      "description": "Sunny"
     },
     {
       "date": "2026-06-24",
       "day": "Wednesday",
-      "high": 66,
-      "low": 55,
+      "high": 64,
+      "low": 56,
       "wind_mph": 13,
-      "wind_hourly": [8,7,7,6,6,5,5,5,6,6,6,8,8,8,12,12,12,13,13,13,12,12,12,9],
+      "wind_hourly": [7,7,7,6,6,6,6,6,6,6,7,7,8,9,12,12,13,12,12,12,12,12,12,9],
       "precipitation_pct": 1,
       "humidity": null,
       "description": "Mostly Sunny"
@@ -27,10 +27,10 @@
     {
       "date": "2026-06-25",
       "day": "Thursday",
-      "high": 70,
-      "low": 56,
+      "high": 63,
+      "low": 57,
       "wind_mph": 16,
-      "wind_hourly": [9,9,7,7,7,5,5,5,5,5,5,7,7,7,12,12,12,16,16,16,16,16,16,15],
+      "wind_hourly": [9,9,7,7,7,6,6,6,5,5,5,7,7,7,13,13,13,15,15,15,16,16,16,16],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Mostly Sunny"
@@ -40,19 +40,19 @@
       "day": "Friday",
       "high": 68,
       "low": 57,
-      "wind_mph": 21,
-      "wind_hourly": [15,15,12,12,12,10,10,10,10,10,10,14,14,14,18,18,18,20,20,20,21,21,21,20],
-      "precipitation_pct": 2,
+      "wind_mph": 20,
+      "wind_hourly": [16,16,13,13,13,10,10,10,12,12,12,13,13,13,18,18,18,18,18,18,20,20,20,18],
+      "precipitation_pct": 3,
       "humidity": null,
       "description": "Mostly Sunny"
     },
     {
       "date": "2026-06-27",
       "day": "Saturday",
-      "high": 67,
-      "low": 55,
-      "wind_mph": 20,
-      "wind_hourly": [20,20,15,15,13,13,12,12,12,13,13,15,16,17,18,18,18,17,16,15,14,13,12,12],
+      "high": 62,
+      "low": 52,
+      "wind_mph": 18,
+      "wind_hourly": [18,18,15,15,15,14,14,14,13,13,13,13,13,13,13,12,12,11,11,11,11,10,10,10],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Mostly Sunny"
@@ -60,10 +60,10 @@
     {
       "date": "2026-06-28",
       "day": "Sunday",
-      "high": 73,
-      "low": 56,
-      "wind_mph": 13,
-      "wind_hourly": [8,7,6,5,4,4,4,5,6,7,8,9,10,11,12,13,13,12,11,10,9,8,7,6],
+      "high": 66,
+      "low": 53,
+      "wind_mph": 17,
+      "wind_hourly": [10,9,9,8,8,8,8,9,10,11,12,13,14,15,16,17,17,16,14,13,12,11,10,10],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Sunny"
@@ -71,10 +71,10 @@
     {
       "date": "2026-06-29",
       "day": "Monday",
-      "high": 72,
-      "low": 56,
-      "wind_mph": 12,
-      "wind_hourly": [7,6,5,5,4,4,4,5,6,7,8,9,10,11,12,12,11,10,9,8,7,6,5,5],
+      "high": 67,
+      "low": 55,
+      "wind_mph": 15,
+      "wind_hourly": [9,8,8,7,7,7,7,8,9,10,11,12,13,14,15,15,14,13,12,11,10,9,8,8],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Sunny"
@@ -84,22 +84,22 @@
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Tue morning best (winds 5–10 mph before noon); fair Wed–Thu (13–16 mph peak); avoid Fri–Sat afternoon when gusts reach 18–21 mph; Sun–Mon improves to 12–13 mph"
+      "reason": "Tue morning best (winds 6–10 mph before noon, peaks at 12); Wed–Thu fair (13–16 mph afternoon peaks); avoid Fri 2PM+ (sustained 18–20 mph); Sat–Sun winds ease to 12–17 mph daytime"
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "Good all week — rain-free, temps 55–73°F; move runs to morning Fri–Sat when afternoon winds exceed 18 mph; Sun–Mon afternoon is the sweet spot"
+      "reason": "Rain-free all week, temps 55–68°F; morning runs excellent every day; move Fri run to early AM when afternoon winds hit 18–20 mph"
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club SF pool open Mon–Thu 5am–10pm, Fri 5am–9pm, weekends 7am–7pm; FiDi weekdays 5am–8pm"
+      "reason": "Bay Club SF pool Mon–Thu 5am–10pm, Fri 5am–9pm, weekends 7am–7pm; FiDi weekdays 5am–8pm"
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Especially recommended Fri–Sat afternoon when gusts peak at 18–21 mph outdoors"
+      "reason": "Especially recommended Fri afternoon when winds hit 18–20 mph"
     }
   ]
 }

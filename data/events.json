@@ -10,7 +10,7 @@
       "category": "comedy",
       "cost": 22,
       "cost_notes": "~$22",
-      "description": "Rotating lineup of Bay Area and touring stand-up comedians. Punch Line's Monday night showcase format — good variety, tight sets.",
+      "description": "Rotating lineup of Bay Area and touring stand-up comedians. Monday showcase format at Punch Line — tight sets, good variety.",
       "url": "https://www.punchlinecomedyclub.com"
     },
     {
@@ -23,7 +23,7 @@
       "cost": 37,
       "cost_notes": "$35–39",
       "description": "London indie pop band and their distinctly melodic, wry sound. GAMH is one of the best mid-size rooms in the city — ornate balconies, good sightlines.",
-      "url": "https://www.gamh.com"
+      "url": "https://gamh.com"
     },
     {
       "title": "Scott Capurro Has Friends",
@@ -46,20 +46,8 @@
       "category": "comedy",
       "cost": 25,
       "cost_notes": "$25",
-      "description": "Stand-up comedian known for wry observational humor and deadpan delivery. Thursday headliner show.",
+      "description": "Stand-up comedian known for wry observational humor and deadpan delivery. Three-night run Thu–Sat.",
       "url": "https://www.punchlinecomedyclub.com"
-    },
-    {
-      "title": "2nd Thursday Salsa Social",
-      "date": "2026-06-25",
-      "time": "20:00",
-      "venue": "Dance Mission Theater",
-      "neighborhood": "Mission",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$10–15 suggested",
-      "description": "Monthly salsa social with live music or DJ, open floor for all levels. Mission neighborhood dance community staple.",
-      "url": "https://www.dancemission.com"
     },
     {
       "title": "Zach Noe Towers",
@@ -69,8 +57,8 @@
       "neighborhood": "Embarcadero",
       "category": "comedy",
       "cost": 25,
-      "cost_notes": "$25",
-      "description": "Zach Noe Towers continues his Punch Line run — Friday show has an earlier start time.",
+      "cost_notes": "$25 (also 9:45 PM late show)",
+      "description": "Friday run continues. Two shows: 7:30 PM and 9:45 PM.",
       "url": "https://www.punchlinecomedyclub.com"
     },
     {
@@ -83,7 +71,7 @@
       "cost": 27,
       "cost_notes": "$25–30",
       "description": "One of the most accurate Smiths/Morrissey tribute acts in the world, consistently sold-out at GAMH. 'There Is a Light That Never Goes Out' performed exactly as intended.",
-      "url": "https://www.gamh.com"
+      "url": "https://gamh.com"
     },
     {
       "title": "Dance Fridays",
@@ -94,32 +82,20 @@
       "category": "dance",
       "cost": 20,
       "cost_notes": "$20 at door",
-      "description": "SF's long-running weekly salsa and Latin dance event. Instruction at 7:45 PM, social dancing until late. All levels welcome, large floor, excellent DJs.",
-      "url": "https://www.dancefridays.com"
+      "description": "SF's long-running weekly salsa and Latin dance event. Lessons at 7:45 PM, social dancing until late. All levels, large floor, excellent DJs.",
+      "url": "https://www.dancefridays.fun"
     },
     {
-      "title": "Moleskine Project XIII — Opening Reception",
+      "title": "Zach Noe Towers",
       "date": "2026-06-27",
-      "time": "18:00",
-      "venue": "Hashimoto Contemporary (MSP)",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "13th edition of the global Moleskine artist collaboration — curated works created in Moleskine notebooks by artists worldwide. Opening reception at Hashimoto Contemporary, Minnesota Street Project.",
-      "url": "https://www.minnesotastreetproject.com"
-    },
-    {
-      "title": "Introductions — Opening Reception",
-      "date": "2026-06-27",
-      "time": "18:00",
-      "venue": "Ruth Asawa Lanier (MSP)",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Group show introducing emerging artists to the Bay Area gallery circuit. Opening reception at Ruth Asawa Lanier gallery within Minnesota Street Project.",
-      "url": "https://www.minnesotastreetproject.com"
+      "time": "19:00",
+      "venue": "Punch Line SF",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "$25",
+      "description": "Saturday closing night of Zach Noe Towers' Punch Line run.",
+      "url": "https://www.punchlinecomedyclub.com"
     },
     {
       "title": "Wheelchair Sports Camp",
@@ -131,7 +107,7 @@
       "cost": 28,
       "cost_notes": "$27–30",
       "description": "Oakland hip-hop collective led by Kalyn Heffernan — wheelchair user, disability justice advocate, and genuinely powerful performer. Critically acclaimed live show.",
-      "url": "https://www.gamh.com"
+      "url": "https://gamh.com"
     },
     {
       "title": "Memory Cradle",
@@ -142,7 +118,7 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Ongoing exhibition through July 18 at Eleanor Harwood Gallery within Minnesota Street Project. Works exploring memory, material, and personal archive. Wed–Sat 11am–5pm.",
+      "description": "Ongoing through July 18 at Eleanor Harwood Gallery within Minnesota Street Project. Works exploring memory, material, and personal archive. Wed–Sat 11am–5pm.",
       "url": "https://www.minnesotastreetproject.com"
     },
     {
@@ -154,7 +130,19 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Ongoing exhibition through July 18 at Nancy Toomey Fine Art, Minnesota Street Project. Paintings drawing from landscape and abstraction.",
+      "description": "Ongoing through July 18 at Nancy Toomey Fine Art, Minnesota Street Project. Paintings drawing from landscape and abstraction.",
+      "url": "https://www.minnesotastreetproject.com"
+    },
+    {
+      "title": "Moleskine Project XIII",
+      "date": "2026-06-27",
+      "time": "11:00",
+      "venue": "Hashimoto Contemporary (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "13th edition of the global Moleskine artist collaboration — curated works in Moleskine notebooks by artists worldwide. Opened June 27, on view through July.",
       "url": "https://www.minnesotastreetproject.com"
     },
     {
@@ -166,7 +154,7 @@
       "category": "music",
       "cost": 0,
       "cost_notes": "free — lottery entry only (sold out)",
-      "description": "Michelle Zauner's Michelle Zauner-led indie rock project headlining Stern Grove's free outdoor amphitheater. Lottery tickets were required and are sold out — check the wait list or arrive early for standby.",
+      "description": "Michelle Zauner's indie rock project headlining Stern Grove's free outdoor amphitheater. Lottery tickets sold out — check wait list or arrive early for standby.",
       "url": "https://www.sterngrove.org"
     },
     {
@@ -178,7 +166,7 @@
       "category": "bar",
       "cost": 0,
       "cost_notes": "free / suggested donation",
-      "description": "Weekly Sunday afternoon jazz sessions at the beloved Glen Park bookstore and record shop. Intimate space, rotating local musicians, free with a suggested donation. Doors at 3:30 PM.",
+      "description": "Weekly Sunday afternoon jazz sessions at the beloved Glen Park bookstore and record shop. Intimate space, rotating local musicians, doors at 3:30 PM.",
       "url": "https://www.birdbeckett.com"
     },
     {
@@ -190,8 +178,32 @@
       "category": "dance",
       "cost": 15,
       "cost_notes": "$15",
-      "description": "Weekly salsa social in the Richmond. Class at 6:30 PM, social dancing until 10 PM. Consistent crowd, multi-level, welcoming to newcomers.",
-      "url": "https://www.salsacrazy.com"
+      "description": "Weekly salsa social in the Richmond. Class at 6:30 PM, social dancing until 10 PM. Multi-level, welcoming to newcomers. 20+ years running.",
+      "url": "https://salsacrazysf.com"
+    },
+    {
+      "title": "de Young Free Saturday",
+      "date": "2026-07-04",
+      "time": "09:30",
+      "venue": "de Young Museum",
+      "neighborhood": "Golden Gate Park",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free for Bay Area residents",
+      "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Show Bay Area ID at the door.",
+      "url": "https://www.famsf.org"
+    },
+    {
+      "title": "Major Lazer at Stern Grove",
+      "date": "2026-07-05",
+      "time": "14:00",
+      "venue": "Stern Grove Festival",
+      "neighborhood": "West Portal / Sunset",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free — lottery entry (lottery opened May 24)",
+      "description": "Global dance trio of Diplo, Walshy Fire, and Ape Drums headlining Stern Grove. Support: Fijiana (Indo-Fijian rapper from Richmond CA) and DJ Bad Juuju. Doors noon, show 2 PM.",
+      "url": "https://www.sterngrove.org"
     }
   ]
 }

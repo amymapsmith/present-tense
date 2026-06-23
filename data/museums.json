@@ -67,7 +67,7 @@
       "current_exhibitions": [
         {
           "title": "Ongoing Collection — European Masters",
-          "description": "Encyclopedic collection of European art spanning 4,000 years including Rodin sculpture, Impressionist paintings, and ancient Mediterranean works. The building itself — a replica of the Palais de la Légion d'Honneur — is part of the experience.",
+          "description": "Encyclopedic collection of European art spanning 4,000 years including Rodin sculpture, Impressionist paintings, and ancient Mediterranean works.",
           "through": null,
           "url": "https://www.famsf.org/whats-on"
         }
@@ -75,7 +75,7 @@
       "events": [
         {
           "title": "Docent Tour",
-          "date": "2026-06-23",
+          "date": "2026-06-24",
           "time": "12:30",
           "description": "Guided docent tour of the collection. Runs Tuesday–Sunday at 12:30 PM. Included with membership or general admission.",
           "cost": 0,
@@ -84,7 +84,7 @@
         },
         {
           "title": "Docent Tour",
-          "date": "2026-06-24",
+          "date": "2026-06-25",
           "time": "12:30",
           "description": "Guided docent tour. Runs Tue–Sun at 12:30 PM.",
           "cost": 0,
@@ -93,7 +93,7 @@
         },
         {
           "title": "Docent Tour",
-          "date": "2026-06-25",
+          "date": "2026-06-26",
           "time": "12:30",
           "description": "Guided docent tour. Runs Tue–Sun at 12:30 PM.",
           "cost": 0,

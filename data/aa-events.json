@@ -48,7 +48,7 @@
       "category": "dance",
       "cost": 0,
       "cost_notes": "free (suggested $10 donation)",
-      "description": "Swing dance lessons at 5:30 PM followed by Djangophonique (Gypsy jazz) at 8:15 PM. Part of the Ann Arbor Summer Festival's free nightly programming running through June 28. All outdoor, all ages.",
+      "description": "Swing dance lessons at 5:30 PM followed by Djangophonique (Gypsy jazz) at 8:15 PM. Final week of A2SF's Top of the Park, running through June 28. Outdoor, all ages.",
       "url": "https://www.a2sf.org/calendar/"
     },
     {
@@ -60,7 +60,7 @@
       "category": "dance",
       "cost": 15,
       "cost_notes": "$15 adults / $12 students drop-in",
-      "description": "Weekly salsa classes at 6:30 PM (beginner Level 1 + Level 3 simultaneously, then Level 2 + Level 4 at 8 PM). Instructors Laura and Luis. 'No experience? No partner? No problem.' Runs every Monday.",
+      "description": "Weekly salsa classes at 6:30 PM (Level 1 + 3 simultaneously, then Level 2 + 4 at 8 PM). Instructors Laura and Luis. No partner or experience needed. Runs every Monday.",
       "url": "https://a2dancerevolution.com/"
     },
     {
@@ -84,7 +84,7 @@
       "category": "dance",
       "cost": 15,
       "cost_notes": "$15 adults / $12 students drop-in",
-      "description": "Weekly bachata classes at 6:30 PM with social dancing after. Level 1 + Level 3 from 6:30–7:45 PM, Level 2 + Level 4 from 8–9:15 PM. Runs every Wednesday.",
+      "description": "Weekly bachata classes at 6:30 PM with social dancing after. Level 1+3 from 6:30–7:45 PM, Level 2+4 from 8–9:15 PM. Runs every Wednesday.",
       "url": "https://a2dancerevolution.com/"
     },
     {
@@ -96,7 +96,7 @@
       "category": "music",
       "cost": 24,
       "cost_notes": "$24",
-      "description": "Country/pop artist on her fifth album, blending pop sensibilities with country narratives. Intimate venue, great sightlines.",
+      "description": "Country/pop artist on her fifth album, blending pop instincts with country storytelling. Intimate venue, great sightlines.",
       "url": "https://theark.org/events/"
     },
     {
@@ -108,7 +108,7 @@
       "category": "music",
       "cost": 0,
       "cost_notes": "free (suggested $10 donation)",
-      "description": "High-energy swing/jazz band. Free outdoor concert at Ann Arbor Summer Festival's nightly Top of the Park series.",
+      "description": "High-energy swing/jazz band. Free outdoor concert at A2SF's nightly Top of the Park series.",
       "url": "https://www.a2sf.org/calendar/"
     },
     {
@@ -132,7 +132,7 @@
       "category": "music",
       "cost": 29,
       "cost_notes": "$29",
-      "description": "Cosmic folk/rock/soul from the Chelsea-based singer-songwriter — wry lyrics, warm sound, the kind of artist who fills intimate rooms for a reason.",
+      "description": "Cosmic folk/rock/soul from Chelsea, Michigan-based singer-songwriter — wry lyrics, warm sound, the kind of artist who fills intimate rooms for a reason.",
       "url": "https://theark.org/events/"
     },
     {
@@ -144,7 +144,7 @@
       "category": "music",
       "cost": 16,
       "cost_notes": "$16 ($15 students/seniors/members)",
-      "description": "Legends of Michigan bluegrass, performing since 1969. A local institution at a local institution.",
+      "description": "Legends of Michigan bluegrass, performing together since 1969. A local institution at a local institution.",
       "url": "https://theark.org/events/"
     },
     {
@@ -156,7 +156,7 @@
       "category": "music",
       "cost": 0,
       "cost_notes": "free (suggested $10 donation)",
-      "description": "Shara Nova's project blending indie, art pop, and chamber pop — a genuinely singular voice. Free outdoor concert at the Ann Arbor Summer Festival.",
+      "description": "Shara Nova's indie art-pop project — a genuinely singular voice blending chamber pop and theatrical performance. Final weekend of A2SF Top of the Park.",
       "url": "https://www.a2sf.org/calendar/"
     },
     {
@@ -168,7 +168,7 @@
       "category": "music",
       "cost": 29,
       "cost_notes": "$29",
-      "description": "Celebrating 40 years in radio and 50 years performing — a folk/roots Michigan legend. Sunday matinee-adjacent timing.",
+      "description": "Celebrating 40 years in radio and 50 years performing American roots music — a Michigan folk/roots legend.",
       "url": "https://theark.org/events/"
     },
     {
@@ -180,19 +180,19 @@
       "category": "music",
       "cost": 0,
       "cost_notes": "free (suggested $10 donation)",
-      "description": "Energetic funk/soul/rock band. Final weekend of the Ann Arbor Summer Festival's free outdoor Top of the Park series.",
+      "description": "Energetic funk/soul/rock band. Closing night of A2SF Top of the Park 2026.",
       "url": "https://www.a2sf.org/calendar/"
     },
     {
-      "title": "A2SF Top of the Park — Open Stage & Film",
+      "title": "The Ark's Open Stage",
       "date": "2026-06-29",
       "time": "20:00",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
+      "venue": "The Ark",
       "neighborhood": "Downtown Ann Arbor",
       "category": "music",
       "cost": 3,
-      "cost_notes": "$3 for Open Stage open mic; outdoor film follows",
-      "description": "The Ark's Open Stage (8-minute slots, open to all) at 8 PM. Followed by an outdoor film screening. Part of Top of the Park's nightly programming.",
+      "cost_notes": "$3 ($0 students/members)",
+      "description": "Open mic — performers get eight minutes or two songs each. Followed by outdoor film screening at Top of the Park.",
       "url": "https://theark.org/events/"
     },
     {
@@ -228,7 +228,19 @@
       "category": "music",
       "cost": 29,
       "cost_notes": "$29",
-      "description": "High-energy Utah bluegrass band known for their raucous, fun performances. Pre-4th-of-July energy.",
+      "description": "High-energy Utah bluegrass band known for raucous, fun performances. Pre-4th-of-July energy.",
+      "url": "https://theark.org/events/"
+    },
+    {
+      "title": "The Ark's Open Stage",
+      "date": "2026-07-06",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 3,
+      "cost_notes": "$3 ($0 students/members)",
+      "description": "Open mic — eight minutes or two songs per performer.",
       "url": "https://theark.org/events/"
     },
     {
@@ -240,11 +252,11 @@
       "category": "music",
       "cost": 29,
       "cost_notes": "$29",
-      "description": "Isle of Man-born blues-rock guitarist and singer with serious chops — a cult favorite at intimate venues. Expect extended guitar work and songs that earn it.",
+      "description": "Isle of Man-born blues-rock guitarist with serious chops and an unmistakable style across acoustic, mandolin, and electric guitar.",
       "url": "https://theark.org/events/"
     },
     {
-      "title": "UMMA Gallery Visit — 'Zina Saro-Wiwa: Table Manners (Season 1)'",
+      "title": "UMMA Gallery Visit — 'Zina Saro-Wiwa: Table Manners'",
       "date": "2026-06-24",
       "time": "11:00",
       "venue": "UMMA (525 S State St)",
@@ -264,7 +276,7 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free to attend",
-      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three independently juried fairs running simultaneously: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm, Sat Jul 18 10am–8pm. Last two days overlap with your stay.",
+      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm. Last two days within your stay.",
       "url": "https://www.artfair.org/"
     }
   ]

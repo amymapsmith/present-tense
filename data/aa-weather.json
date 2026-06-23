@@ -8,7 +8,7 @@
       "high": 76,
       "low": 53,
       "wind_mph": 8,
-      "wind_hourly": [1,1,1,1,1,1,1,5,5,5,6,7,8,8,8,7,7,7,7,7,5,3,2,1],
+      "wind_hourly": [0,0,0,0,0,0,0,2,3,5,6,7,8,8,8,8,7,7,7,6,5,2,1,1],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Sunny"
@@ -19,87 +19,87 @@
       "high": 78,
       "low": 58,
       "wind_mph": 7,
-      "wind_hourly": [0,0,0,0,0,0,0,0,0,0,2,3,5,6,7,6,6,7,6,6,5,3,2,2],
-      "precipitation_pct": 50,
+      "wind_hourly": [0,0,0,0,0,0,0,0,0,1,3,5,6,6,6,7,7,7,7,6,5,3,3,3],
+      "precipitation_pct": 19,
       "humidity": null,
-      "description": "Showers and Thunderstorms Possible"
+      "description": "Mostly Sunny, Slight Chance Evening Storms"
     },
     {
       "date": "2026-06-25",
       "day": "Thursday",
       "high": 79,
-      "low": 57,
-      "wind_mph": 8,
-      "wind_hourly": [2,2,3,3,3,3,3,5,5,6,6,7,7,8,8,8,8,8,7,6,5,3,2,2],
-      "precipitation_pct": 60,
+      "low": 56,
+      "wind_mph": 9,
+      "wind_hourly": [3,3,3,3,5,5,5,5,6,6,6,7,8,8,9,9,9,9,8,7,6,5,3,2],
+      "precipitation_pct": 45,
       "humidity": null,
-      "description": "Showers and Thunderstorms"
+      "description": "Partly Sunny, Chance Showers and Thunderstorms"
     },
     {
       "date": "2026-06-26",
       "day": "Friday",
-      "high": 80,
-      "low": 59,
+      "high": 79,
+      "low": 57,
       "wind_mph": 5,
-      "wind_hourly": [2,2,2,2,2,2,2,3,3,4,5,5,5,5,5,5,5,5,4,4,3,3,2,2],
-      "precipitation_pct": 26,
+      "wind_hourly": [2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,5,5,5,3,3],
+      "precipitation_pct": 15,
       "humidity": null,
-      "description": "Chance Rain Showers"
+      "description": "Partly Sunny, Slight Chance Rain"
     },
     {
       "date": "2026-06-27",
       "day": "Saturday",
-      "high": 82,
-      "low": 61,
-      "wind_mph": 6,
-      "wind_hourly": [2,2,2,2,2,2,2,3,3,4,5,6,6,6,6,6,6,5,5,4,3,3,2,2],
-      "precipitation_pct": 19,
+      "high": 80,
+      "low": 57,
+      "wind_mph": 5,
+      "wind_hourly": [3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,3,3,3,3,3],
+      "precipitation_pct": 10,
       "humidity": null,
-      "description": "Slight Chance Rain Showers"
+      "description": "Partly Cloudy"
     },
     {
       "date": "2026-06-28",
       "day": "Sunday",
-      "high": 87,
-      "low": 66,
+      "high": 82,
+      "low": 59,
       "wind_mph": 9,
       "wind_hourly": [3,3,2,2,2,2,2,3,4,5,6,7,8,9,9,8,7,6,5,4,3,3,3,3],
-      "precipitation_pct": 20,
+      "precipitation_pct": 15,
       "humidity": null,
-      "description": "Slight Chance Rain Showers"
+      "description": "Partly Cloudy"
     },
     {
       "date": "2026-06-29",
       "day": "Monday",
-      "high": 93,
-      "low": 71,
+      "high": 89,
+      "low": 65,
       "wind_mph": 13,
       "wind_hourly": [4,4,3,3,3,3,4,5,6,7,8,9,10,11,12,13,13,12,10,9,8,7,6,5],
-      "precipitation_pct": 17,
+      "precipitation_pct": 10,
       "humidity": null,
-      "description": "Slight Chance Showers then Mostly Sunny"
+      "description": "Partly Cloudy, Warming Sharply"
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Excellent Tue (sunny, 76°F, winds under 8 mph all day); skip Wed–Thu (thunderstorms likely); fair Fri–Sat (showers possible, light wind); Mon too hot at 93°F — early AM only"
+      "reason": "Excellent Tue (76°F, sunny, under 8 mph all day); skip Thu (45% storms); Fri–Sun good (light winds, manageable precip); Mon 89°F — early AM only"
     },
     {
       "activity": "running",
       "rating": "fair",
-      "reason": "Best window is Tue morning (sunny, 53–76°F, calm wind); run early Wed–Thu to beat afternoon thunderstorms; Mon is 93°F — early AM with hydration only"
+      "reason": "Best window Tue morning (76°F, 0%, calm); run early Wed–Thu to beat afternoon storms; Mon 89°F requires early AM with hydration"
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Outdoor lake or pool great Tue in clear conditions; indoor pool (KREC/UM) recommended Wed–Thu when storms likely"
+      "reason": "Outdoor great Tue in clear conditions; KREC/UM indoor pool recommended Thu when storm probability 45%"
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Especially recommended Wed–Thu when thunderstorms at 50–60% probability; KREC or Planet Fitness open daily"
+      "reason": "Especially recommended Thu (45% storm probability) and Mon (89°F heat)"
     }
   ]
 }
