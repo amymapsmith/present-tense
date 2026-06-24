@@ -134,7 +134,7 @@ function renderYoloItinerary(itinerary) {
 
   return `
     <div class="yolo-section">
-      <h3 class="yolo-section-title">72 hours</h3>
+      <h3 class="yolo-section-title">${(itinerary.days || []).length} days</h3>
       ${itinerary.overview ? `<p class="yolo-overview">${itinerary.overview}</p>` : ''}
       ${days}
       ${tips}
