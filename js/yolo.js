@@ -249,6 +249,12 @@ function renderYoloPastDestinations(history) {
     </div>`;
 }
 
+function showCurrentDestination() {
+  if (!_yoloData) return;
+  renderYolo(_yoloData);
+  setYoloHash(cityToSlug(_yoloData.destination.city));
+}
+
 function showPastDestination(index) {
   const entry = _yoloHistory[index];
   if (!entry) return;
@@ -257,7 +263,7 @@ function showPastDestination(index) {
   setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-past-nav">
-      <button class="yolo-past-back-btn" onclick="renderYolo(_yoloData)">← ${currentCity || 'current'}</button>
+      <button class="yolo-past-back-btn" onclick="showCurrentDestination()">← ${currentCity || 'current'}</button>
     </div>
     <div class="yolo-hero">
       <div class="yolo-flag">${destination.flag}</div>
@@ -278,7 +284,6 @@ function showPastDestination(index) {
 
 function renderYolo(data) {
   const { destination, flights, flight_search_date, lodging, itinerary, transportation } = data;
-  setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-hero">
       <div class="yolo-flag">${destination.flag}</div>
@@ -336,7 +341,10 @@ async function initYolo() {
     showYolo();
   }
 
-  document.getElementById('yolo-btn').addEventListener('click', showYolo);
+  document.getElementById('yolo-btn').addEventListener('click', () => {
+    if (_yoloData) setYoloHash(cityToSlug(_yoloData.destination.city));
+    showYolo();
+  });
   document.getElementById('yolo-back-btn').addEventListener('click', closeYolo);
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closeYolo(); });
 }
