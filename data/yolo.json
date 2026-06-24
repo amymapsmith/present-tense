@@ -1,115 +1,116 @@
 {
   "updated": "2026-06-24",
   "destination": {
-    "city": "Chiang Rai",
-    "country": "Thailand",
-    "flag": "🇹🇭",
-    "iata": "CEI",
-    "lat": 19.9105,
-    "lon": 99.8406,
-    "vibe": "A 62,000-person mountain town where Chinese Nationalist soldiers stranded after Mao's 1949 victory planted oolong tea on 1,200-meter ridges and built a Yunnan village that has nothing to do with Thailand — and a 108km road loop climbing 1,700 meters through it waits 40km from your guesthouse, morning clear before the rains arrive."
+    "city": "Salida",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "iata": "DEN",
+    "lat": 38.5347,
+    "lon": -105.9990,
+    "vibe": "A Victorian silver-mining town of 6,500 at 7,036 feet in the Arkansas River Valley, circled by more 14,000-foot peaks per square mile than anywhere in North America — where a 22-mile road climb takes you to the Continental Divide at 11,312 feet, the descent is 4,000 vertical feet of fast pavement back to green chile and hot springs, and the entire town fits on two walkable blocks."
   },
   "flight_search_date": "2026-06-24",
   "flights": [
     {
-      "airline": "Korean Air",
-      "price_usd": 1025,
-      "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 6–8 weeks out)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 2,
-      "duration": "~22h total",
-      "url": "https://www.koreanair.com/us/en/booking/availability/flight-list",
-      "notes": "DTW → ICN (Seoul Incheon) → BKK (Bangkok Suvarnabhumi). Then add a domestic leg: Thai AirAsia or Nok Air BKK (Don Mueang DMK) → CEI (Chiang Rai), ~$30–45 each way. Book separately at airasia.com or nokair.com. Korean Air accepts bikes as checked baggage ($200 each way) — or fly into CNX (Chiang Mai) instead if CEI pricing is harder; then arrange a 3-hour van transfer to Chiang Rai (~$80 private, ~$15 shared songthaew)."
+      "airline": "Frontier Airlines",
+      "price_usd": 140,
+      "outbound_dates": "July–August flexible (Friday departures cheapest; July generally cheapest month for this route)",
+      "return_dates": "flexible +5–7 days",
+      "stops": 0,
+      "duration": "~2h 45m direct",
+      "url": "https://www.flyfrontier.com/travel/flights/from-detroit-to-denver/",
+      "notes": "DTW→DEN direct. Frontier is the cheapest carrier on this route at $124–157 roundtrip. Important: Frontier's bag fees are a trap — a checked bike counts as oversize/overweight baggage (~$75–100 each way). Total with bike: ~$290–340 roundtrip. Alternatively, ship your bike via BikeFlights.com (~$80–120 each way, 3–5 days transit) and fly carry-on only. Then rent a compact car at DEN. Driving to Salida: US-285 south from Denver, ~2.5 hours, 150 miles."
     },
     {
-      "airline": "EVA Air",
-      "price_usd": 1099,
-      "outbound_dates": "July–August flexible (midweek Tue/Wed best; book 6–8 weeks out)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 2,
-      "duration": "~23h total",
-      "url": "https://flights.evaair.com/en-us/flights-from-detroit-to-bangkok",
-      "notes": "DTW → TPE (Taipei Taoyuan) → BKK. EVA is Taiwan's flagship carrier and one of the most comfortable long-haul options to Southeast Asia — good legroom in economy, Taipei connection is smooth and often has a longer layover with lounge access on higher fares. Add domestic BKK → CEI separately (~$30–45). EVA bike policy: accept bikes as checked baggage; fees vary by fare class, typically $75–150 — confirm at evaair.com during booking."
+      "airline": "Delta Air Lines",
+      "price_usd": 240,
+      "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; 24 flights/week DTW→DEN)",
+      "return_dates": "flexible +5–7 days",
+      "stops": 0,
+      "duration": "~2h 50m direct",
+      "url": "https://www.delta.com/us/en/flight-search/book-a-flight",
+      "notes": "DTW→DEN direct, most frequent carrier on this route. Delta bike fee: $150 each way (oversize bag policy) — significant add-on. BikeFlights shipping is more cost-effective for the bike. Car rental at DEN: budget ~$50–70/day; SUV or minivan needed if transporting a bike box. Drive south on I-25 to Colorado Springs, then US-24 west through Buena Vista to Salida (~2.5h total). Pro tip: fly into Colorado Springs (COS) instead — $180–250 roundtrip, 30 minutes closer to Salida."
     },
     {
-      "airline": "Cathay Pacific",
-      "price_usd": 1149,
-      "outbound_dates": "August (slightly cheaper than July; book 6–8 weeks out)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 2,
-      "duration": "~22h total",
-      "url": "https://www.cathaypacific.com/cx/en_US/book-a-trip/flights/find-flights.html",
-      "notes": "DTW → HKG (Hong Kong) → BKK. Cathay's Hong Kong hub is one of the great connection airports — large, efficient, multiple lounge options. Add domestic BKK → CEI separately. Bike policy: bikes accepted as checked sports equipment; fees apply (~$100–200 each way depending on route and fare class). Note: July–August is rainy season in Northern Thailand — structures rides for mornings. See tips."
+      "airline": "United Airlines",
+      "price_usd": 260,
+      "outbound_dates": "July–August flexible (midweek best; hub connection at ORD or EWR possible)",
+      "return_dates": "flexible +5–7 days",
+      "stops": 1,
+      "duration": "~4h 30m via hub",
+      "url": "https://www.united.com/en-us/flights-from-detroit-to-denver",
+      "notes": "DTW→ORD (Chicago) or EWR→DEN. United bike fee: $200 each way for oversize sports equipment — the most expensive of the three carriers. Strongly consider BikeFlights for this route. United's advantage: award availability through Chase/Star Alliance for miles redemption. One-way mileage awards to DEN often available at 5,500–7,500 miles."
     }
   ],
   "lodging": [
     {
-      "name": "Bed & Bike Hostel (Poshtel)",
-      "type": "hostel",
-      "price_per_night_usd": 28,
-      "neighborhood": "Chiang Rai city center — near Clock Tower",
-      "highlights": "The only explicitly cycling-dedicated accommodation in Chiang Rai — bike hire, secure bike storage, and a coffee shop/restaurant on-site. Private rooms from ~$25–30/night. Walking distance to the night market and Clock Tower. 3.7 miles from CEI airport. This is the natural base for the Mae Salong and Doi Tung loops: you clip in and roll.",
-      "url": "https://www.booking.com/hotel/th/bed-amp-bike-poshtel.html",
+      "name": "Amigo Motor Lodge",
+      "type": "hotel",
+      "price_per_night_usd": 130,
+      "neighborhood": "Salida — east end of town near US-50",
+      "highlights": "A 1960s motor lodge fully renovated into a boutique property — confirmed bicycle parking on-site, each room has a balcony or patio with mountain views, hot tub, outdoor fireplace, and an eclectic collection of Airstream trailers as alternative accommodation. Michelin Select property. The most atmospheric cycling base in town: leave the bike on the patio, coffee on the balcony watching the Arkansas Hills, roll to the Monarch Pass climb in 5 minutes.",
+      "url": "https://amigomotorlodge.com/",
       "source": "booking"
     },
     {
-      "name": "Wiang Inn Hotel",
+      "name": "Manhattan Hotel Salida",
       "type": "hotel",
-      "price_per_night_usd": 55,
-      "neighborhood": "Chiang Rai city center — 5 min walk to night market",
-      "highlights": "The classic mid-range choice for Chiang Rai — well-maintained rooms, outdoor pool, free breakfast included, and free on-site parking (ask at check-in for secure indoor bike storage, which most Thai hotels of this category accommodate without issue). Tripadvisor rating ~4/5. On Phahonyothin Road, the main artery heading north to Mae Chan and the Mae Salong climb.",
-      "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447336-Reviews-Wiang_Inn_Hotel-Chiang_Rai_Chiang_Rai_Province.html",
+      "price_per_night_usd": 160,
+      "neighborhood": "Downtown Salida — Arkansas River / F Street Arts District",
+      "highlights": "Salida's only downtown boutique hotel, second floor above the Boathouse Cantina restaurant with direct Arkansas River views. Self-service check-in, no elevator (second floor walk-up), walking distance to every restaurant and gallery in town. Ask the staff about indoor bike storage — it's available on request for this kind of property.",
+      "url": "https://www.manhattanhotelsalida.com/",
       "source": "booking"
     },
     {
-      "name": "The Legend Chiang Rai Boutique River Resort & Spa",
+      "name": "Frontcountry Salida Micro-Cabins",
       "type": "hotel",
-      "price_per_night_usd": 110,
-      "neighborhood": "Kok River bank — 10 min from city center",
-      "highlights": "Boutique bungalow resort on the banks of the Kok River — 78 Northern Thai-style rooms scattered through gardens, with spa, pool, and riverside dining. The most atmospheric sleeping option in Chiang Rai at a price that's still a fraction of a comparable European property. Bike rentals on-site. From $51 in low season, ~$110 in July; listed on Tripadvisor as one of Chiang Rai's top hotels.",
-      "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447534-Reviews-The_Legend_Chiang_Rai_Boutique_River_Resort_Spa-Chiang_Rai_Chiang_Rai_Province.html",
+      "price_per_night_usd": 195,
+      "neighborhood": "Salida — near Arkansas River",
+      "highlights": "Standalone micro-cabin units with the consistency of a professionally operated hotel — private outdoor spaces, excellent insulation for cold mountain nights, hotel-style housekeeping. The most private option in Salida: your own structure, your own outdoor space, bike leans against the cabin wall. July nights in Salida drop to 45–55°F even in summer; the cabin setup is ideal for cold-morning gear prep.",
+      "url": "https://www.stayfrontcountry.com/hotel-salida-co",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges that push to 1,600 meters along the borders with Myanmar and Laos. It's a working provincial town of 62,000, not a resort city — the vibe is closer to a Thai county seat than a tourist destination, which is exactly why it works as a cycling base. The road infrastructure heading north is excellent: two-lane paved highways through rubber plantations, rice paddies, and forest, transitioning to mountain switchbacks as you gain elevation toward the ridges. The cycling culture is real: Chiang Rai hosts stage finishes in the Tour of Thailand and the local road-riding community is active. The one constraint is seasonal: July is the rainy season, which in northern Thailand means reliable morning windows (7am–noon, often clear) followed by afternoon thunderstorms (1–6pm). The rhythm adapts: start early, climb before the clouds build, be descending by noon. The lush green hills in the rain, the tea plantations misting over at dawn, the empty mountain roads on a Tuesday morning — July is not the tourist season here, and that is not a problem.",
+    "overview": "Salida is the cycling anchor of the Arkansas River Valley — a genuine small mountain town that happens to sit at the intersection of three world-class road climbs, two whitewater rivers, and one of the densest concentrations of 14,000-foot peaks in North America. The town itself is worth exploring: a walkable Victorian-era downtown with an outsized arts scene, hot springs pools, and the kind of restaurant-per-capita ratio that only happens when outdoor sports people have money and small-town real estate stays affordable. The riding is structured around the Colorado high country's July weather pattern: brilliant mornings (clear skies, 60–75°F at valley elevation, much cooler on the passes) followed by afternoon thunderstorms arriving around 1–3pm. Start climbs early, summit before noon, be descending when the sky turns. The three-day structure here goes big-day / big-day / exploration-day: Monarch Pass on day one (4,258 feet of gain to the Continental Divide), Cottonwood Pass on day two (4,100 feet to the third-highest paved road in Colorado), and the Poncha Pass / San Luis Valley traverse on day three for a different landscape entirely.",
     "days": [
       {
         "day": 1,
-        "title": "Doi Mae Salong Loop — 108km / 67mi, 1,729m climbing",
-        "morning": "Wheels rolling by 7am. Head north from Chiang Rai on Route 1 toward Mae Chan (34km), a flat warm-up through market towns and rice fields. At Mae Chan turn west onto Route 1130 and the climbing begins immediately. The road winds up through rubber plantations, then forest, then the first of the tea gardens — the elevation gain is relentless but the switchbacks are clean asphalt and the views opening behind you are worth the effort. After 25km of climbing you reach Santikhiri, also called Mae Salong: a Chinese Nationalist (KMT) hill town at 1,200 meters, founded by soldiers of the 93rd Division who fled Yunnan after Mao took China in 1949 and spent decades stranded in these mountains before Thailand finally granted them citizenship. The streets are in Chinese characters. People speak Yunnan Mandarin. The oolong tea is grown on terraced hillsides and sold in storefronts that look like a Sichuan market town. There is absolutely nowhere else like it in Southeast Asia. Stop for tea and a bowl of khao soi (northern Thai curry noodles; the local version has a distinct Yunnan Chinese influence) before the descent.",
-        "afternoon": "Descend the south side of Mae Salong via Route 1234 toward Ban Hin Taek — another former KMT village, more recent, less developed, genuinely off the map. The descent is fast and well-surfaced. Continue south through Wiang Pa Pao and hook back east on Route 1150 to close the loop back toward Chiang Rai via Wiang Chai. The last 40km are valley road, flat, efficient. Total time: 5–6 hours riding. Be back in town by 1pm before the afternoon rains. Afternoon: Chiang Rai's Wat Rong Khun (the White Temple) is 13km south of the city and genuinely extraordinary — an entirely white glass-mosaic Buddhist temple built by artist Chalermchai Kositpipat since 1997 with his own money, featuring demons grasping at hands reaching from a sea of skulls below the bridge. Not a joke, actually beautiful. Tuk-tuk from the hotel.",
-        "evening": "Night Bazaar in the city center (open nightly, 6–11pm). The Chiang Rai night market is not the tourist spectacle of Chiang Mai — it's smaller, more local, and genuinely good: Chiang Rai khao soi (richer and more Chinese-influenced than the Chiang Mai version), larb moo (spiced minced pork), sai oua (grilled herbal sausage), and sticky rice eaten with your hands. Chang beer is local to the north. Dinner cost: ~$5–7."
+        "title": "Monarch Pass — 46mi / 74km out-and-back, 4,258ft / 1,298m gain",
+        "morning": "Wheels rolling by 7am from downtown Salida (elevation 7,036 ft / 2,144m). Head west on US-50 through Poncha Springs (5 miles, flat warmup, small coffee shop if you need it). The Monarch Pass climb begins just past Poncha Springs and runs 18 miles without interruption to the Continental Divide at 11,312 ft / 3,448m. The lower section follows the South Arkansas River through a narrow granite canyon — excellent asphalt, some truck traffic, a reasonable shoulder for most of the first 10 miles. Above the canyon the trees open into subalpine forest and then alpine tundra: the last 5 miles are above treeline, exposed, and can be significantly colder than the valley (pack a vest or arm warmers regardless of the valley temperature). The grade averages 4.3% with sustained sections to 7% in the canyon narrows. At 11,000 feet the Monarch ski area comes into view; the pass summit is the Continental Divide ridgeline. The Monarch Pass summit lodge sells coffee and hot chocolate — this is not a joke, it's genuinely cold up there in July mornings (40–50°F) and it's open year-round.",
+        "afternoon": "The descent back to Salida is 18 miles of fast pavement — 4,000 feet of controlled, sweeping descent through the canyon. Brake heat is a real consideration on a long alpine descent; keep speed moderate through the tightest canyon curves. Back in Salida by noon or just after. Afternoon: the SteamPlant Event Center (on the river, converted coal gasification plant from 1887) has rotating art shows and a central plaza. Walk the F Street Arts District — Salida has more galleries per capita than any city in Colorado, a genuine local art scene built over 30 years. The Salida Hot Springs Aquatic Center (410 W Rainbow Blvd) is a public hot springs pool fed by local geothermal water: lane swimming and soaking pools, ~$10, perfect post-ride.",
+        "evening": "Dinner in downtown Salida: Amica's Pizzeria (wood-fired, very good, walk-in or reservation) or Fritz (European bistro, small plates, excellent wine list for a town of 6,500). The kind of restaurants that shouldn't exist in a small Colorado mountain town but do because of who lives here. After dinner, walk to the river trail along the Arkansas — the evening light on the Collegiate Peaks (Harvard, Yale, Columbia, Oxford: four 14,000-foot peaks named by Princeton geology students in the 1860s) is the payoff for spending the afternoon in town."
       },
       {
         "day": 2,
-        "title": "Doi Tung Climb + Golden Triangle — 95km / 59mi, 1,300m climbing",
-        "morning": "Depart by 6:30am, heading north on Route 110 toward Mae Sai (Thailand's northernmost city, on the Myanmar border, 65km from Chiang Rai). At the Doi Tung junction (35km north), turn west onto the mountain access road. The Doi Tung climb: 18km to 1,389 meters, average gradient 7%, forested switchbacks the entire way. About two-thirds up, the road passes through the Mae Fah Luang Royal Project — the country's most celebrated development success story. In the 1980s, this was a major opium-production zone operated by armed militias and KMT remnants. The late Princess Mother (grandmother of the current king) established her summer villa here and drove a decade-long crop-substitution program, replacing poppy with macadamia, tea, coffee, and cut flowers. The slopes that grew opium now look like a Thai interpretation of a Swiss botanical garden. The Mae Fah Luang Garden (Doi Tung Royal Villa complex, ~200 THB entry) at the summit has 100+ acres of ornamental planting, the teak Royal Villa, and views north across Myanmar. Allow 45 minutes.",
-        "afternoon": "Descend north through Mae Sai border town (chaotic, interesting, worth 20 minutes walking the border market). Continue east along Route 1016 — the Mekong River Road — toward Chiang Saen and the Golden Triangle. The road follows the river at close range; across the water is Myanmar, then Laos as you approach Sop Ruak. The Golden Triangle at Sop Ruak: the literal confluence point where the Mekong splits three countries. The Hall of Opium museum (800 THB, ~2 hours) is one of Southeast Asia's best: a serious institutional examination of the opium trade from 1750 to today, built by the same Royal Project that eradicated opium in these hills. The exhibits are dense, the artifacts extraordinary, the context provided by the view out the windows — you're in the former epicenter — is surreal. Don't skip it.",
-        "evening": "Riverside dinner in Sop Ruak or Chiang Saen watching longtail boats move on the Mekong between three countries at dusk. Return to Chiang Rai by songthaew or arrange a van transfer if you've spent the afternoon at the museum (~60km back, ~1h). Dinner back in the city: Phu Lae restaurant on Trairat Road is the long-standing local institution for northern Thai food — the naem prik noom (green chili dip with vegetables) and larb neua (beef larb) are what you came for."
+        "title": "Cottonwood Pass — 67mi / 108km, 4,100ft / 1,250m gain",
+        "morning": "Drive 28 miles north to Buena Vista (35 minutes on US-285 north, Arkansas River visible the entire way). Park at the Buena Vista trailhead area at the base of County Road 306 (elevation 7,965 ft). The Cottonwood Pass climb: 19.5 miles to 12,126 ft / 3,696m, the third-highest paved road in Colorado. The grade averages 4.1% with a notorious 10% wall at roughly mile 14 that catches riders off-guard after a long steady effort — know it's coming and have the gear already selected before you hit it. The east side is a tree-lined climb through aspen groves and spruce forest for the first 12 miles, then breaks into open tundra and the final switchbacks. Traffic is almost nonexistent on weekday mornings — County Road 306 serves only the Taylor Park Reservoir area on the west side and gets minimal car use compared to Monarch. Summit at 12,126 ft: the views north into the Collegiate Peaks Wilderness and south toward the San Luis Valley are the most expansive of the three rides.",
+        "afternoon": "The descent: both sides of Cottonwood Pass are now fully paved. The west side descent (13.5 miles, 2,700 ft down to Taylor Park Reservoir) is the more dramatic of the two — wider switchbacks, broader views, and the surprise of arriving at the enormous Taylor Park Reservoir at the base. Ride the west side down if you want to explore it, then return up the same way (the 13.5-mile west ascent at 3.8% average is the gentler option for the return). OR simply descend the east side back to Buena Vista, add a valley extension north toward Granite on US-24 for mileage, and drive back to Salida. Lunch in Buena Vista: Eddyline Brewery on the river (Colorado mountain town brewery food, outdoor deck, solid fish tacos and burgers).",
+        "evening": "Return to Salida. Soak again at Salida Hot Springs or try Mount Princeton Hot Springs (25 miles north of Salida on US-285 — enormous riverside hot springs resort with pools at varying temperatures, ~$30 day pass). Dinner: Soulcraft Brewing (local brewery downtown, excellent smoked brisket and craft beer) or one of the taco spots on the main street. By 9pm, Salida rolls up — this is a small town that runs on an outdoor recreation schedule and most of it is in bed before 10."
       },
       {
         "day": 3,
-        "title": "Chiang Saen River Loop via Mekong Road — 80km / 50mi, 400m climbing",
-        "morning": "Recovery day in terms of elevation, exploration day in terms of terrain. Depart 7am north on Route 1016. The road rolls through low hills, banana and rubber plantations, roadside markets just opening, the Mekong appearing periodically on your left. Chiang Saen (55km from Chiang Rai): the Lanna Kingdom's former capital, now a quiet riverside town of 5,000. The ancient walls and moat are intact, with temple ruins scattered inside — Wat Chedi Luang (1328, ruined chedi still 58 meters high), Wat Pa Sak with its intact stucco decoration, the small National Museum with Lanna artifacts. The town sees almost no tourists on weekdays. Lock the bike and walk the ruins for 30 minutes.",
-        "afternoon": "Continue 11km along the Mekong to Sop Ruak (Golden Triangle viewpoint again, now in full morning light before crowds arrive if you timed it right) and then ride the river road south back toward Chiang Rai via a different routing through the Mae Chan valley. Alternative extension for strong legs: continue north from Sop Ruak to Chiang Khong (40km, flat, the most isolated stretch of Mekong road), a sleepy border town opposite Laos with a famously atmospheric guesthouse strip — then arrange a van or songthaew back to Chiang Rai (70km, ~$25 private). If you rode hard Day 1 and 2, keep it to the Chiang Saen loop and be home by noon for legitimate rest before the flight home.",
-        "evening": "Last night in Chiang Rai. If the timing works: the weekly Saturday Night Walking Street on Thanalai Road (operates every Saturday evening, 6–11pm, 1.5km of local food, crafts, and hill-tribe vendors). Otherwise, return to whichever night market stall you most regret not ordering more from on Day 1. The Chiang Rai airport (CEI) is compact and efficient — 40-minute taxi from the city center; early morning international connections go through Bangkok."
+        "title": "Poncha Pass + San Luis Valley traverse — 62mi / 100km, 1,800ft / 550m gain",
+        "morning": "A different kind of day: less total climbing, bigger landscape. Depart Salida 7:30am south on US-285 toward Poncha Springs (5 miles) and immediately begin the gentle climb to Poncha Pass summit (9,010 ft / 2,746m — just 2,000 feet above Salida, the gentlest of the three passes). At the summit you cross into an entirely different world: the San Luis Valley, one of the largest alpine valleys on Earth — 8,000 square miles of flat high-altitude basin at 7,500 ft, ringed by mountains on all sides, the Rio Grande running through the center. The valley road (US-285 south) is wide, flat, and almost completely empty of traffic. The scale is extreme: 50-mile views in every direction, the Sangre de Cristo Mountains rising abruptly to the east (several 14ers in that range, including Crestone Needle, one of the most technical), the San Juan Mountains visible to the southwest. Ride south 20–25 miles into the valley at whatever pace feels right — into the headwind or with it, depending on conditions.",
+        "afternoon": "Turn around and return north over Poncha Pass back to Salida. The climb from the valley floor back to the pass is gentle enough to feel like nothing after the previous two days. Back in Salida by noon or early afternoon. Real estate for the afternoon: the Salida Museum (free, local history, excellent collection of mining-era photographs), Arkansas Headwaters Recreation Area visitor center (on the river, good exhibit on the Arkansas River whitewater section — the 150-mile stretch from Leadville to Cañon City is one of the most-rafted rivers in the US), or just sit in a riverside café and watch the rafters come off Brown's Canyon.",
+        "evening": "Last evening in town. Salida's unofficial ritual: sunset from Tenderfoot Mountain (a short 20-minute hike above town with the large 'S' on the hillside — the view of the Arkansas River Valley and all four Collegiate Peaks at golden hour is the image most people carry away from Salida). Dinner at Moonlight Pizza & Brewpub or whatever was the recommendation from your hotel. The drive back to Denver the next morning is 2.5 hours with the Arkansas River visible most of the way north — one of the better interstate-free drives in Colorado."
       }
     ],
     "tips": [
-      "July rain timing: northern Thailand's rainy season does not mean constant rain. The pattern in July is reliable: mornings clear and cool (mountains at 20–25°C), cloud buildup starting around 11am–noon, afternoon thunderstorms most days 2–6pm. Structure every ride to start by 7am and plan your descent or return by 11:30am. The rains are brief and hard; being on a mountain road descent at 2pm when a storm rolls in is genuinely dangerous. Being back in town by 1pm with a bowl of noodles while it pours is exactly right.",
-      "Mae Salong grades: Route 1130 has sections to 22–24% on the steepest ramps. These are short and punchy rather than sustained — a 34-tooth inner chainring and an 11–34 cassette (or larger) make a real difference. The road surface is well-maintained. Clockwise (north side up, south side down via Ban Hin Taek) offers longer but more consistently graded climbing. Counterclockwise is steeper but shorter on the way up.",
-      "Bike logistics on the domestic leg: Thai AirAsia (Don Mueang DMK → CEI) and Nok Air accept bikes as checked baggage. AirAsia charges 200–400 THB/segment depending on weight; bike must be in a bag or box with pedals removed, bars turned. Nok Air has similar policies. Book the sports baggage allowance when purchasing your ticket online — adding it at the airport costs more. CEI airport is small; oversize baggage delivers directly in the terminal.",
-      "KMT history of Mae Salong: the Nationalist Chinese 93rd Division crossed into Burma after the 1949 Communist victory and spent years fighting and retreating through the Golden Triangle borderlands before the Thai government offered them land in exchange for helping fight Communist insurgents. Their descendants remain — three generations into a stateless history that only recently resolved. The old men in Mae Salong who speak Yunnan Mandarin and play mah-jong in the afternoon have a story that is not written in any guidebook. Ask the tea shop owners.",
-      "Hall of Opium (Sop Ruak): this is funded by the Thai royal family and staffed by serious historians. Allow 2 full hours minimum. It covers the chemistry of addiction, the colonial-era trade from India through China, the KMT militias who controlled production here in the 1960s–80s, and the Royal Project's eradication effort. The context of looking out at the actual Golden Triangle hillsides while reading this history makes it unlike any other museum experience you'll have. Entry ~800 THB (~$22).",
-      "Hydration and electrolytes: July mountain humidity in northern Thailand is higher than European alpine conditions. Even at 1,200 meters on Mae Salong you'll sweat more than you expect. Carry electrolyte tabs or powder — a Thai 7-Eleven (ubiquitous even in mountain villages) sells Pocari Sweat and coconut water. The village tap water is not reliably safe to drink; buy bottled at every store you pass. Two large bottles minimum for the mountain climbs."
+      "Colorado afternoon thunderstorms are a hard stop: lightning at 11,000+ feet on an exposed ridge is genuinely life-threatening. Start both Monarch and Cottonwood climbs by 7am, aim to summit by 10–10:30am, and be well into your descent before noon. July monsoon season means the afternoon pattern is reliable — not every day, but often enough to plan around it. If the sky is building towers by 11am over the Divide, you should be descending.",
+      "Bike transport logistics: shipping your bike via BikeFlights.com (~$80–120 each way, 3–5 business days) is strongly recommended over airline fees ($150–200 each way on most carriers). Ship to the hotel 4–5 days before arrival, ship home from the hotel on departure day. You fly with carry-on only, rent a compact car at Denver, no bike-box logistics at the airport.",
+      "Car rental: you need a car in Salida. Denver International (DEN) has the full range of rental agencies. Budget ~$50–70/day for a compact or midsize SUV (Colorado Springs/COS is an alternative arrival airport, 30 minutes closer, often cheaper flights and rentals). Reserve in advance — July is peak Colorado summer and car inventory is tight.",
+      "Altitude acclimatization: Salida sits at 7,036 feet and Monarch Pass climbs to 11,312 feet. If you're arriving from sea level or Ann Arbor (~650 feet), plan one easy day in Salida before the big climbs. Dehydration happens faster at altitude. Drink a liter of water before your first ride morning and carry two full bottles on the climbs; you'll go through them.",
+      "Salida hot springs: the public Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10/day pass) is geothermal-fed outdoor pools — open daily, perfect post-ride recovery. Mount Princeton Hot Springs (25 miles north on US-285, ~$30) is a larger resort with riverside pools at varying temperatures and a cold-plunge river option. Both are worth it on the same trip.",
+      "The 'S' Mountain hike: Tenderfoot Mountain above town has a painted 'S' on the hillside and a 20-minute trail to the summit. The view of the Collegiate Peaks, Arkansas River valley, and entire Salida bowl at sunset is the single best non-cycling thing you'll do here. It's a 10-minute drive from anywhere in town and the trailhead has free parking."
     ],
     "sources": [
-      { "title": "Doi Mae Salong Chiang Rai road ride — Bicycle Thailand", "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/" },
-      { "title": "Cycling Thailand: 3 beautiful days around Chiang Rai — Stefan in Thailand", "url": "https://stefaninthailand.de/en/cycling-thailand-north-thoeng-chiang-khong/" },
-      { "title": "The Golden Frontier Chiang Rai Tour — Cycling Chiang Mai", "url": "https://cyclingchiangmai.cc/golden-frontier-chiang-rai" },
-      { "title": "Best road biking trails in Chiang Rai — AllTrails", "url": "https://www.alltrails.com/thailand/chiang-rai/road-biking" },
-      { "title": "Chiang Rai – Doi Tung – Mae Salong 194km route recording — AllTrails", "url": "https://www.alltrails.com/fr/explore/recording/chiang-rai-doi-tung-mae-salong-194km" }
+      { "title": "Bike Monarch Pass: Thrilling Mountain Ride — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/" },
+      { "title": "Bicycling Monarch Pass Colorado — My Bicycle Routes", "url": "https://www.mybicycleroutes.com/xmonarchpassinfopage.html" },
+      { "title": "Cottonwood Pass West — Pjamm Cycling", "url": "https://pjammcycling.com/climb/2023.Cottonwood-Pass-West" },
+      { "title": "Bicycling Cottonwood Pass Colorado — My Bicycle Routes", "url": "https://www.mybicycleroutes.com/xcottonwoodpassinfopage.html" },
+      { "title": "Cottonwood Pass Summit Bike Trails Guide — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/cottonwood-pass-summit/" },
+      { "title": "Route Recommendations — Absolute Bikes Salida", "url": "https://www.absolutebikes.com/articles/route-recommendations-pg204.htm" }
     ]
   }
 }

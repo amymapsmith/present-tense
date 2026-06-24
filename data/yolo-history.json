@@ -1,6 +1,51 @@
 {
   "destinations": [
     {
+      "updated": "2026-06-24",
+      "destination": {
+        "city": "Chiang Rai",
+        "country": "Thailand",
+        "flag": "🇹🇭",
+        "iata": "CEI",
+        "lat": 19.9105,
+        "lon": 99.8406,
+        "vibe": "A 62,000-person mountain town where Chinese Nationalist soldiers stranded after Mao's 1949 victory planted oolong tea on 1,200-meter ridges and built a Yunnan village that has nothing to do with Thailand — and a 108km road loop climbing 1,700 meters through it waits 40km from your guesthouse, morning clear before the rains arrive."
+      },
+      "flight_search_date": "2026-06-24",
+      "flights": [
+        { "airline": "Korean Air", "price_usd": 1025, "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 6–8 weeks out)", "return_dates": "flexible +7–10 days", "stops": 2, "duration": "~22h total", "url": "https://www.koreanair.com/us/en/booking/availability/flight-list", "notes": "DTW → ICN (Seoul Incheon) → BKK (Bangkok Suvarnabhumi). Then add domestic: Thai AirAsia or Nok Air BKK (Don Mueang DMK) → CEI, ~$30–45 each way. Korean Air accepts bikes as checked baggage ($200 each way)." },
+        { "airline": "EVA Air", "price_usd": 1099, "outbound_dates": "July–August flexible (midweek Tue/Wed best; book 6–8 weeks out)", "return_dates": "flexible +7–10 days", "stops": 2, "duration": "~23h total", "url": "https://flights.evaair.com/en-us/flights-from-detroit-to-bangkok", "notes": "DTW → TPE (Taipei Taoyuan) → BKK. Add domestic BKK → CEI separately (~$30–45). EVA bike policy: confirm at evaair.com during booking." },
+        { "airline": "Cathay Pacific", "price_usd": 1149, "outbound_dates": "August (slightly cheaper than July; book 6–8 weeks out)", "return_dates": "flexible +7–10 days", "stops": 2, "duration": "~22h total", "url": "https://www.cathaypacific.com/cx/en_US/book-a-trip/flights/find-flights.html", "notes": "DTW → HKG (Hong Kong) → BKK. Add domestic BKK → CEI separately. Bike policy: accepted as sports equipment, fees apply." }
+      ],
+      "lodging": [
+        { "name": "Bed & Bike Hostel (Poshtel)", "type": "hostel", "price_per_night_usd": 28, "neighborhood": "Chiang Rai city center — near Clock Tower", "highlights": "The only explicitly cycling-dedicated accommodation in Chiang Rai — bike hire, secure bike storage, coffee shop on-site. Private rooms from ~$25–30/night. Walking distance to the night market.", "url": "https://www.booking.com/hotel/th/bed-amp-bike-poshtel.html", "source": "booking" },
+        { "name": "Wiang Inn Hotel", "type": "hotel", "price_per_night_usd": 55, "neighborhood": "Chiang Rai city center — 5 min walk to night market", "highlights": "Classic mid-range choice — well-maintained rooms, outdoor pool, free breakfast, free parking. On Phahonyothin Road, the main artery heading north toward the Mae Salong climb.", "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447336-Reviews-Wiang_Inn_Hotel-Chiang_Rai_Chiang_Rai_Province.html", "source": "booking" },
+        { "name": "The Legend Chiang Rai Boutique River Resort & Spa", "type": "hotel", "price_per_night_usd": 110, "neighborhood": "Kok River bank — 10 min from city center", "highlights": "Boutique bungalow resort on the Kok River — 78 Northern Thai-style rooms through gardens, spa, pool, riverside dining. Bike rentals on-site.", "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447534-Reviews-The_Legend_Chiang_Rai_Boutique_River_Resort_Spa-Chiang_Rai_Chiang_Rai_Province.html", "source": "booking" }
+      ],
+      "itinerary": {
+        "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges pushing to 1,600 meters along the borders with Myanmar and Laos. A working provincial town of 62,000, not a resort city — the vibe is closer to a Thai county seat than a tourist destination. The cycling culture is real and the road infrastructure heading north is excellent. July is rainy season: reliable morning windows (7am–noon, often clear) followed by afternoon thunderstorms. Start early, climb before the clouds build, be descending by noon.",
+        "days": [
+          { "day": 1, "title": "Doi Mae Salong Loop — 108km / 67mi, 1,729m climbing", "morning": "Wheels by 7am north on Route 1 toward Mae Chan (34km, flat warmup). Turn west onto Route 1130 and climb 25km through rubber plantations and tea gardens to Santikhiri (Mae Salong) at 1,200m — a surreal Yunnan Chinese enclave founded by KMT 93rd Division soldiers who fled Mao's China in 1949. Streets in Chinese characters, Yunnan Mandarin spoken, oolong tea on terraced hillsides. Stop for tea and khao soi before the descent.", "afternoon": "Descend the south side via Route 1234 toward Ban Hin Taek, then east through Wiang Pa Pao and south to close the loop back to Chiang Rai. Be back in town by 1pm. Afternoon: Wat Rong Khun (the White Temple) 13km south — an entirely white glass-mosaic Buddhist temple with a causeway over a sea of sculpted hands.", "evening": "Night Bazaar in the city center (6–11pm). Smaller and more local than Chiang Mai: khao soi, larb moo, sai oua sausage, sticky rice. Dinner ~$5–7." },
+          { "day": 2, "title": "Doi Tung Climb + Golden Triangle — 95km / 59mi, 1,300m climbing", "morning": "Depart 6:30am north on Route 110 toward Mae Sai (65km). At the Doi Tung junction (35km north), turn west onto the mountain road. Climb 18km to 1,389m through the Mae Fah Luang Royal Project — former opium-production zone transformed by the late Princess Mother into macadamia and tea farms. The Mae Fah Luang Garden at the summit has 100+ acres of ornamental planting, teak Royal Villa, views into Myanmar. Allow 45 minutes.", "afternoon": "Descend north through Mae Sai border town. Continue east along Route 1016 — the Mekong River Road — to Chiang Saen and the Golden Triangle. The Hall of Opium museum (800 THB, 2 hours) at Sop Ruak is one of Southeast Asia's best: a serious institutional history of the opium trade, built by the Royal Project that eradicated opium in these hills. The context of looking out at the actual Golden Triangle while reading this history is surreal.", "evening": "Riverside dinner in Sop Ruak watching longtail boats on the Mekong between three countries. Return to Chiang Rai by songthaew or van (~60km). Dinner: Phu Lae restaurant on Trairat Road for northern Thai naem prik noom and larb neua." },
+          { "day": 3, "title": "Chiang Saen River Loop via Mekong Road — 80km / 50mi, 400m climbing", "morning": "Recovery/exploration day. North on Route 1016 through rice paddies and market villages, Mekong on the left. Chiang Saen (55km): the Lanna Kingdom's former capital, now a quiet town of 5,000 with intact walls and moat, Wat Chedi Luang ruins (1328, 58m chedi), small National Museum. Lock the bike and walk the ruins 30 minutes.", "afternoon": "Continue 11km to Sop Ruak for the Golden Triangle viewpoint in morning light, then south back toward Chiang Rai. Optional extension to Chiang Khong (40km further north, most isolated Mekong stretch) if legs are there — then van back. Otherwise be home by noon.", "evening": "Final night: Saturday Night Walking Street on Thanalai Road if timing works (6–11pm, local food and hill-tribe vendors). Otherwise return to the best stall you missed on Day 1." }
+        ],
+        "tips": [
+          "July rain timing: mornings clear until about 11am–noon, afternoon thunderstorms most days 2–6pm. Start all rides by 7am and plan your descent or return by 11:30am.",
+          "Mae Salong grades: up to 22–24% on the steepest ramps, short and punchy. Route 1130 surface is well-maintained. Clockwise (north side up, south side down via Ban Hin Taek) offers longer but more consistently graded climbing.",
+          "Bike logistics on the domestic leg: Thai AirAsia and Nok Air accept bikes as checked baggage on BKK→CEI. Book the sports baggage allowance when purchasing your ticket online — adding it at the airport costs more.",
+          "KMT history of Mae Salong: the 93rd Division crossed into Burma after the 1949 Communist victory and spent years fighting through the Golden Triangle borderlands before Thailand offered them land in exchange for fighting Communist insurgents. The old men who speak Yunnan Mandarin and play mah-jong have a story not written in any guidebook.",
+          "Hall of Opium (Sop Ruak): funded by the Thai royal family, staffed by serious historians. Allow 2 full hours minimum. ~800 THB (~$22).",
+          "Hydration: July mountain humidity means you'll sweat more than expected. Carry electrolyte tabs — Thai 7-Eleven (everywhere, including mountain villages) stocks Pocari Sweat and coconut water."
+        ],
+        "sources": [
+          { "title": "Doi Mae Salong Chiang Rai road ride — Bicycle Thailand", "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/" },
+          { "title": "Cycling Thailand: 3 beautiful days around Chiang Rai — Stefan in Thailand", "url": "https://stefaninthailand.de/en/cycling-thailand-north-thoeng-chiang-khong/" },
+          { "title": "The Golden Frontier Chiang Rai Tour — Cycling Chiang Mai", "url": "https://cyclingchiangmai.cc/golden-frontier-chiang-rai" },
+          { "title": "Best road biking trails in Chiang Rai — AllTrails", "url": "https://www.alltrails.com/thailand/chiang-rai/road-biking" }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-23",
       "destination": {
         "city": "Ljubljana",
@@ -13,107 +58,32 @@
       },
       "flight_search_date": "2026-06-23",
       "flights": [
-        {
-          "airline": "Lufthansa",
-          "price_usd": 879,
-          "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 4–6 weeks out)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~15h total",
-          "url": "https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/ljubljana-detroit",
-          "notes": "Connects through Frankfurt (FRA→LJU, ~2h connection). DTW→FRA direct is available daily; FRA→LJU is operated by Lufthansa or partner Adria. Bike-as-checked-baggage: Lufthansa accepts bikes in a hard case or bike box for €100 each way (Economy) — add during booking or call +1-800-645-3880 to confirm and add before travel. Deflate tires, remove pedals, lower saddle. July fares from $807 off-peak; midweek July rates around $879."
-        },
-        {
-          "airline": "Austrian Airlines",
-          "price_usd": 925,
-          "outbound_dates": "July–August flexible (midweek best; avoid Friday/Sunday peak)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~14h total",
-          "url": "https://www.austrian.com/lhg/si/en/o-d/cy-cy/ljubljana-vienna",
-          "notes": "Connects through Vienna (VIE→LJU, ~1h — the shortest final leg of any routing). Austrian is the natural carrier for Ljubljana; Vienna hub has the tightest and most frequent LJU connections. Bike fee: Austrian charges €75–100 each way in a hard case; confirm at austrian.com or call ahead. Part of Lufthansa Group — miles earn on Star Alliance."
-        },
-        {
-          "airline": "SWISS",
-          "price_usd": 999,
-          "outbound_dates": "July–August flexible (August slightly cheaper than July peak)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~15h 30m total",
-          "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/detroit-ljubljana.html",
-          "notes": "Connects through Zurich (ZRH→LJU, ~1h30m). SWISS bike policy: bikes accepted as checked baggage in a hard case or properly boxed, €80–100 each way; pedals removed, bars turned, tires deflated. Book at swiss.com and add the bike as special baggage during checkout. Zurich is a large, well-organized hub with easy connections."
-        }
+        { "airline": "Lufthansa", "price_usd": 879, "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 4–6 weeks out)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~15h total", "url": "https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/ljubljana-detroit", "notes": "Connects through Frankfurt (FRA→LJU). Bike fee €100 each way (Economy). Deflate tires, remove pedals, lower saddle." },
+        { "airline": "Austrian Airlines", "price_usd": 925, "outbound_dates": "July–August flexible (midweek best)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h total", "url": "https://www.austrian.com/lhg/si/en/o-d/cy-cy/ljubljana-vienna", "notes": "Connects through Vienna (VIE→LJU, ~1h — shortest final leg of any routing). Bike fee €75–100 each way." },
+        { "airline": "SWISS", "price_usd": 999, "outbound_dates": "July–August flexible (August slightly cheaper)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~15h 30m total", "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/detroit-ljubljana.html", "notes": "Connects through Zurich (ZRH→LJU, ~1h30m). Bike fee €80–100 each way." }
       ],
       "lodging": [
-        {
-          "name": "Reset Apartments — Bike Resort Kranjska Gora",
-          "type": "hotel",
-          "price_per_night_usd": 75,
-          "neighborhood": "Kranjska Gora village center",
-          "highlights": "Officially designated 'Bike Resort' in Slovenia's national cyclist-accommodation certification system — secure indoor bike storage, bike wash station, and drying room on-site. Apartments with kitchen from ~€65–75/night; walking distance to the Vršič Pass road start. The most logical base for Vršič days: you wake up, clip in, and the climb begins within 500 meters of the front door.",
-          "url": "https://resetapartments.com/kranjska-gora-and-sorrundings/bike-resort-kranjska-gora/",
-          "source": "booking"
-        },
-        {
-          "name": "Hotel Kompas Kranjska Gora",
-          "type": "hotel",
-          "price_per_night_usd": 145,
-          "neighborhood": "Kranjska Gora village center",
-          "highlights": "Slovenia's premier cyclist-specialist mountain hotel — certified cycling accommodation with secure bike storage, bike assembly area, technical support, and route guidance. Listed by Cycling for Softies as the Julian Alps' top cycling base. Pool and wellness after big days. Walking distance to the Vršič climb start; 45-minute ride from Bled.",
-          "url": "https://www.cyclingforsofties.com/destinations/slovenia-cycling-holidays/julian-alps-tours/accommodations/hotel-kranjska-gora",
-          "source": "booking"
-        },
-        {
-          "name": "Hotel Cubo Ljubljana",
-          "type": "hotel",
-          "price_per_night_usd": 220,
-          "neighborhood": "Ljubljana Old Town — 400m from Triple Bridge",
-          "highlights": "Cycle-friendly certified hotel in the heart of Ljubljana — confirmed secure bike storage, 400m from the Triple Bridge and Prešeren Square. Perfect first/last night lodging: collect your bike from the airport, stay one night in the city center, then head for the Julian Alps the next morning. Design-forward rooms in a converted industrial building; bar and restaurant on-site.",
-          "url": "https://www.booking.com/hotel/si/cubo.html",
-          "source": "booking"
-        }
+        { "name": "Reset Apartments — Bike Resort Kranjska Gora", "type": "hotel", "price_per_night_usd": 75, "neighborhood": "Kranjska Gora village center", "highlights": "Officially designated 'Bike Resort' — secure indoor bike storage, wash station, drying room. Walking distance to the Vršič Pass road start.", "url": "https://resetapartments.com/kranjska-gora-and-sorrundings/bike-resort-kranjska-gora/", "source": "booking" },
+        { "name": "Hotel Kompas Kranjska Gora", "type": "hotel", "price_per_night_usd": 145, "neighborhood": "Kranjska Gora village center", "highlights": "Slovenia's premier cyclist-specialist hotel — certified cycling accommodation with secure storage, assembly area, pool and wellness. Walking distance to Vršič climb start.", "url": "https://www.cyclingforsofties.com/destinations/slovenia-cycling-holidays/julian-alps-tours/accommodations/hotel-kranjska-gora", "source": "booking" },
+        { "name": "Hotel Cubo Ljubljana", "type": "hotel", "price_per_night_usd": 220, "neighborhood": "Ljubljana Old Town — 400m from Triple Bridge", "highlights": "Cycle-friendly certified, confirmed secure bike storage. Perfect first/last night in the city before heading to the Julian Alps.", "url": "https://www.booking.com/hotel/si/cubo.html", "source": "booking" }
       ],
       "itinerary": {
-        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. The city itself is charming — a compact baroque-and-Art-Nouveau old town on a river bend, car-free center, castle on the hill — but it's not why you're here. You're here because 45 minutes north by bike the roads climb into the Triglav National Park, and within a day's ride you're at 1,611 meters on the Vršič Pass (the highest paved road in Slovenia, 50 hairpin turns, cobbled bends 5 through 9) and looking at the Soča Valley turquoise below. Slovenia's road infrastructure is well-maintained, traffic is light outside ski season, and drivers are cyclist-aware — a cycling culture rooted in alpine terrain and a WorldTour champion who grew up 40km from here. July temperatures in the Julian Alps average 20–25°C at valley level, cooler above 1,000m: no 5am alarms required. The logistical strategy for maximum riding: one night in Ljubljana at arrival, transfer to Kranjska Gora for the Vršič stage, then Bovec for the Mangart day, return via Soča Valley.",
+        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. Within a day's ride you're at 1,611 meters on the Vršič Pass — 50 hairpin turns, cobbled bends 5–9, and the Soča Valley glacier-turquoise below. July temperatures average 20–25°C at valley level. No 5am alarms required.",
         "days": [
-          {
-            "day": 1,
-            "title": "Ljubljana → Bled via Sava Valley — 75 miles / 120km, 1,200m climbing",
-            "morning": "Collect bike at LJU, assemble at the hotel (Hotel Cubo has a designated space). Roll from the Dragon Bridge in Ljubljana's old town and head northwest through the Šiška district, following quiet roads and the dedicated cycle lane along the Sava River. The terrain opens into farmland and orchard country immediately outside the city — limestone ridges on your left, Karawanken Alps appearing ahead. Kranj (32km from Ljubljana) is worth a 20-minute stop: Slovenia's fourth city has a compact medieval peninsula above the Sava gorge and a good coffee bar on the main square. From Kranj continue northwest through Lesce toward the Bled junction — the road climbs gently and the Julian Alps begin to dominate the horizon in front of you. At Lesce junction turn south into the Radovna Valley: this is the quiet approach to Bled, almost no traffic, beech forest on both sides, the first views of Triglav National Park. Total Ljubljana → Bled: ~60km.",
-            "afternoon": "Arrive Bled and claim your accommodation. Afternoon ride: the Lake Bled circuit is 6km of flat paved lakefront road (more touristy than scenic from a cycling perspective, but obligatory). The real climb is the short access road to Ojstrica viewpoint (600m ascent of 20%, unpaved last 100m — worth it for the best overhead Bled photograph you've ever seen, no drones required). Then the Pokljuka Plateau if legs are there: 18km from Bled with 800m gain, peaking at 1,330m. The plateau is the site of the Biathlon World Cup venue — wide open meadows, silence, no settlements, birch and spruce. The descent back to Bled is fast and clean. Total afternoon: 40–50km depending on Pokljuka extension.",
-            "evening": "Dinner in Bled: Gostilna Pri Planincu (Grajska cesta 8) is the local choice in a town full of tourist restaurants — wooden interior, local prices, good Slovenian trout and strukljli (rolled pastry, savory or sweet). Then the walk up to Bled Castle (perched on a 130m cliff above the lake, lit at night) for the view of the island church and the Alps that you'll spend the next two days riding through. Transfer to Kranjska Gora the next morning (26km, easy flat road along the Sava) or stay in KG from night one."
-          },
-          {
-            "day": 2,
-            "title": "Vršič Pass Queen Stage — 88km / 55 miles, 1,900m climbing",
-            "morning": "Start from Kranjska Gora by 7am. The Vršič Pass road (Cesta čez Vršič) begins at the eastern edge of the village — you'll know it from the numbered hairpin markers starting immediately. The climb is 12km to the 1,611m summit. The first four bends are forested and relatively gentle. Bends 5 through 9 are the famous cobbled section — the original 1916 road surface laid by Russian prisoners of war, irregular paving stones, gradients touching 15–17% on the steepest ramps. Commit to a steady gear before the cobbles start; a gear change at 15% on rough stone is a mechanical. Above bend 9 the cobbles end and the surface is clean asphalt for the remaining 41 hairpins. Pause at bend #8 on the ascent: the Russian Orthodox Chapel (Ruska kapelica, 1916) is a wooden structure built in honor of the ~400 Russian soldiers killed by an avalanche here during construction — the most moving 5 minutes of the ride. Summit at 1,611m: the view north is into the Trenta Valley and Triglav National Park, the Julian Alps raw limestone all around, Triglav's north face visible to the east. 50 numbered hairpin turns total — the most of any pass in Europe.",
-            "afternoon": "The descent into the Soča Valley: 26 hairpins on the south face (steeper than the north), the road carved into a limestone cliff above the Trenta Valley. At the valley floor, the Soča River source is 3km east of the road junction — a cold blue-green pool erupting from a grotto in the rock face, genuinely startling color. Turn west along the valley floor and follow the Soča to Bovec: 26km of flat road along one of Europe's great rivers. The water is glacier-fed and Tiffany-blue, the canyon walls 200–300m limestone, the road almost empty on weekday mornings. The Great Soča Gorge (Velika Korita Soče) just before Bovec is a narrow slot canyon where the river drops through layered limestone — the road runs directly above it. Total Kranjska Gora → Vršič → Bovec: 55km, 1,900m climbing. Allow 4–5 hours.",
-            "evening": "Lunch in Bovec — there's a gostilna on the main square serving local Bovška trout (the river fish of the Soča) with polenta, and a decent espresso bar for a mid-afternoon sit. Bovec is a small alpine town (population 1,600) with an outsized outdoor-sports culture: kayaking, white-water rafting, paragliding. After riding, wade into the Soča: the water temperature is 8–12°C even in July — 10 minutes in the river is better ice therapy than anything you'll find at a hotel. Dinner: Gostilna Sovdat (the long-standing local choice in Bovec, traditional Primorska cuisine) or one of the terrace restaurants on the main square. Stay in Bovec for the Mangart day."
-          },
-          {
-            "day": 3,
-            "title": "Mangart Saddle — Slovenia's Highest Drivable Road — 90km / 56 miles, 2,200m climbing",
-            "morning": "Depart Bovec by 7am heading southeast along the Soča. At the Koritnica Valley junction (6km from Bovec), turn east and follow the Koritnica River upstream toward the Italian border. The Mangart approach road begins at the toll gate (~€10 for cars; cyclists are either waved through or pay a nominal fee — have small cash ready). The climb: 10km from the valley floor to the Mangart Saddle at 2,072m. Average gradient 8.8%; the steepest ramps hit 25% briefly in the upper section. Five rock tunnels cut through the limestone face — each is short (30–90 seconds) but completely dark. A front light is not optional here: it's a safety requirement for oncoming traffic and your own sightlines. Above the treeline the road becomes a narrow ledge on the face of the mountain, the exposure dramatic. Summit: Mangart Saddle at 2,072m — the highest drivable point in Slovenia and one of the highest in the Eastern Alps. The view extends north into Austria (Carinthia), south into Italy (Friuli), and east across the Julian Alps to Triglav. The Mangart peak itself (2,677m) is a scramble another 600m above; the saddle is the road's end.",
-            "afternoon": "Descend back to Bovec (same road — early morning means you'll likely have it to yourself on the way up; afternoon may have more traffic). Continue south along the Soča Valley to Kobarid, 12km past Bovec. Kobarid is the site of the 1917 Battle of Caporetto — the Italian army's catastrophic defeat by German and Austrian forces, described in Hemingway's A Farewell to Arms (he served here with the Italian Red Cross ambulance corps). The Kobarid Museum (Gregorčičeva 10) won European Museum of the Year in 1993 and is one of the best WWI museums in Europe: scale models, diaries, photographs, the original battle plans. The outdoor walk covers preserved Italian defence lines in the hills above town. Allow 90 minutes. Lunch in Kobarid: Hiša Franko (one of the most acclaimed restaurants in Slovenia, Ana Roš's restaurant) is 4km north — if you planned ahead and have a reservation, this is the meal of the trip. Otherwise, the village restaurant on the main square serves honest local food.",
-            "evening": "Return north along the Soča Valley toward Trenta and over Vršič back to Kranjska Gora (or arrange a transfer/taxi for the return leg if legs are spent after the Mangart day — the climb back over Vršič adds another 1,000m and shouldn't be underestimated at the end of a 2,200m-gain day). Transfer to Ljubljana for the flight connection: Kranjska Gora to LJU is 85km by road (1h15m by car or transfer shuttle). Most LJU departures are morning, so a final night in Kranjska Gora or Ljubljana makes sense before the outbound flight."
-          }
+          { "day": 1, "title": "Ljubljana → Bled via Sava Valley — 75 miles / 120km, 1,200m climbing", "morning": "Roll from the Dragon Bridge northwest through Šiška district along the Sava River. Stop in Kranj (32km) — Slovenia's 4th city on a limestone peninsula above the gorge. Continue through Lesce to the Radovna Valley approach to Bled: almost no traffic, beech forest, first views of Triglav National Park. Ljubljana to Bled: ~60km.", "afternoon": "Lake Bled circuit (6km, flat). Climb the short access road to Ojstrica viewpoint (20% pitch, unpaved last 100m, best overhead Bled view). Optional Pokljuka Plateau extension: 18km from Bled, 800m gain, 1,330m summit, biathlon venue.", "evening": "Dinner at Gostilna Pri Planincu (Grajska cesta 8) — local prices, good trout and struklji. Then up to Bled Castle (130m cliff, lit at night) for the view of the Alps you'll spend the next two days riding through." },
+          { "day": 2, "title": "Vršič Pass Queen Stage — 88km / 55 miles, 1,900m climbing", "morning": "Start Kranjska Gora 7am. The Vršič climb (12km to 1,611m): bends 5–9 are the famous cobbled section at 15–17% on original 1916 WWI prisoner-built road surface. Pause at bend #8 for the Russian Orthodox Chapel — 400 soldiers killed by avalanche here during construction. Summit: 50 hairpins, the most of any pass in Europe, Triglav's north face visible.", "afternoon": "Descend 26 hairpins into Trenta Valley (Soča side, steeper). Detour 3km to the Soča source — cold blue-green pool erupting from a limestone grotto. Follow the valley floor 26km to Bovec along the glacier-blue Soča through the Great Soča Gorge.", "evening": "Lunch in Bovec (Bovška trout, polenta). Wade into the Soča: 8–12°C river is the best ice-bath in the Alps. Dinner at Gostilna Sovdat for traditional Primorska cuisine." },
+          { "day": 3, "title": "Mangart Saddle — Slovenia's Highest Drivable Road — 90km / 56 miles, 2,200m climbing", "morning": "Depart Bovec 7am. Koritnica Valley junction (6km), turn east toward the Mangart toll gate (~€10 cars; cyclists waved through or nominal fee). Climb 10km to 2,072m: five dark rock tunnels requiring a front light, grades to 25% on the upper ramps, views extending into Austria and Italy from the saddle.", "afternoon": "Descend to Bovec. Continue south to Kobarid (12km) — site of Hemingway's A Farewell to Arms. The Kobarid Museum (European Museum of the Year 1993) is one of the best WWI museums in Europe. Allow 90 minutes. Lunch: Hiša Franko (Ana Roš's restaurant, 4km north) if you have a reservation.", "evening": "Return to Kranjska Gora or Ljubljana for flight connection. Kranjska Gora to LJU is 85km by road (1h15m)." }
         ],
         "tips": [
-          "Vršič cobbled hairpins (bends 5–9): the famous cobbled section hits 15–17% on uneven paving stones. Commit to your gear before the cobbles start — a gear shift at that gradient on rough stone can snap a chain or throw you off rhythm. Wide tires (28–32c) handle this surface more confidently than skinny race tires (23–25c), which work but require more attention. If you've already crested the cobbled section and need to recover, there's a flat pull-off just above bend #9.",
-          "Mangart tunnel lighting is mandatory: five tunnels on the climb, all dark, all cut through solid limestone. The longest is about 90 seconds at climbing pace. A front light is a safety requirement — for you to see and for any descending vehicles to see you. Carry one even if your bike normally doesn't run lights.",
-          "Alpine weather window: the Julian Alps generate their own afternoon weather. July mornings are typically clear; by 1–2pm, cumulus clouds build over Triglav and thunderstorms develop fast. Start Vršič and Mangart before 7:30am and aim to be off the exposed ridges by noon. The storms are brief but violent — lightning on an open limestone ridge at 2,000m is serious.",
-          "Tadej Pogačar's training roads: Pogačar grew up near Komenda, 30km east of Ljubljana. The Pokljuka Plateau climb (Day 1 afternoon extension), the Radovna Valley approach to Bled, and the Vršič Pass are all in his documented junior training routes. Slovenians are proud of this in a quiet way — mentioning it to locals in Kranjska Gora is the fastest way to get into a real conversation.",
-          "Soča River recovery: the river temperature is 8–12°C even in peak summer (it's glacier-fed). A 10-minute wade or submersion after Day 2 in Bovec is the best ice-bath substitute you'll find at altitude. The water is also safe to drink if you're filtering — the color is genuine (suspended limestone and glacial flour) not algae.",
-          "Bike logistics at LJU: Ljubljana Airport (LJU) is small and well-organized. The baggage hall has space to unpack and assemble bikes; most airlines deliver oversize baggage to a separate carousel or oversize belt near the main hall. Bring a torque wrench, spare tubes, and a multi-tool in your carry-on (remove from checked bag for flight) — Ljubljana city has bike shops but Kranjska Gora's are limited. If you need a repair, Sport Bernik in Kranjska Gora (Koroška cesta) is the main option in the mountain area."
+          "Vršič cobbled hairpins (bends 5–9): commit to your gear before the cobbles start — a shift at 15% on rough stone can snap a chain. Wide tires (28–32c) handle this surface more confidently.",
+          "Mangart tunnel lighting is mandatory: five dark tunnels, longest ~90 seconds at climbing pace.",
+          "Alpine afternoon weather: July thunderstorms develop fast over Triglav by 1–2pm. Start before 7:30am, be off exposed ridges by noon.",
+          "Soča River recovery: 8–12°C even in July. A 10-minute wade after Day 2 is the best ice-bath you'll find at altitude."
         ],
         "sources": [
           { "title": "Cycling Slovenia's Julian Alps: routes, GPS files, hotels + more — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/" },
           { "title": "Slovenia Road Bike Tour — Best of Slovenia in 8 Days — 57hours", "url": "https://57hours.com/adventure/slovenia-road-bike-tour/" },
-          { "title": "Vršič Pass climb stats — Pjamm Cycling", "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic" },
-          { "title": "Cycling at Vršič — Erjavčeva mountain hut cyclist stop guide", "url": "https://www.erjavcevakoca.com/cycling-at-vrsic-kranjska-gora-slovenia-a-perfect-stop-at-erjavceva-mountain-hut/" },
-          { "title": "Which is the best cycle route in Slovenia — Eat Sleep Cycle", "url": "https://www.eatsleepcycle.com/us/which-is-the-best-cycle-route-in-slovenia/" },
-          { "title": "Specialised accommodation for cyclists — Slovenia Outdoor", "url": "https://slovenia-outdoor.com/en/specialised-accommodation-for-cyclists/" },
-          { "title": "Ljubljana to Bled bike tour — Greenhills Bike Tours Slovenia", "url": "https://greenhills.si/bike-holidays-in-slovenia/ljubljana-to-bled-bike-tour/" }
+          { "title": "Vršič Pass climb stats — Pjamm Cycling", "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic" }
         ]
       }
     },
@@ -130,70 +100,16 @@
       },
       "flight_search_date": "2026-06-23",
       "flights": [
-        {
-          "airline": "Turkish Airlines",
-          "price_usd": 849,
-          "outbound_dates": "July–August flexible (Tue/Wed departures cheapest; book 4–6 weeks out)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~17h total",
-          "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-seville",
-          "notes": "Connects through Istanbul (IST) — Turkish flies from DTW with good IST connection frequency. Full-service airline with meals and 2 checked bags included. Important: call ahead to confirm bike-as-checked-baggage policy and fees (typically €50–80 each way in a hard case or bike box); book on turkishairlines.com directly for clearest fee disclosure."
-        },
-        {
-          "airline": "Iberia",
-          "price_usd": 910,
-          "outbound_dates": "July–August flexible (midweek cheapest; August slightly cheaper than July)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~14h total",
-          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-seville.html",
-          "notes": "Connects through Madrid Barajas (MAD) — the most logical routing since MAD→SVQ is only 1h15m on Iberia's Puente Aéreo shuttle (flights every 30–60 min). Bike fees: Iberia charges €50–100 each way for bikes in a case; confirm at iberia.com. From MAD to SVQ you could also take the AVE high-speed train (2.5h, €30–60) if the connection time allows — Renfe allows bikes in bike-specific spaces on some trains, so worth checking."
-        },
-        {
-          "airline": "KLM",
-          "price_usd": 952,
-          "outbound_dates": "July–August flexible (Amsterdam hub, midweek best)",
-          "return_dates": "flexible +7–10 days",
-          "stops": 1,
-          "duration": "~13h 30m total",
-          "url": "https://www.klm.com/flights/en-us/flights-from-detroit-to-seville",
-          "notes": "Connects through Amsterdam Schiphol (AMS) — KLM is part of SkyTeam. Short AMS→SVQ leg (~3h). KLM bike policy: bikes accepted as checked baggage at €50–75 each way; must be in a hard case or bike box and deflated/pedals removed. Book at klm.com and add the bike during checkout."
-        }
+        { "airline": "Turkish Airlines", "price_usd": 849, "outbound_dates": "July–August flexible (Tue/Wed departures cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~17h total", "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-seville", "notes": "Connects through Istanbul (IST). Bike fees typically €50–80 each way in a hard case." },
+        { "airline": "Iberia", "price_usd": 910, "outbound_dates": "July–August flexible (midweek cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h total", "url": "https://www.google.com/travel/flights/flights-from-detroit-to-seville.html", "notes": "Connects through Madrid (MAD→SVQ, 1h15m shuttle). Bike fees €50–100 each way." },
+        { "airline": "KLM", "price_usd": 952, "outbound_dates": "July–August flexible (Amsterdam hub, midweek best)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~13h 30m total", "url": "https://www.klm.com/flights/en-us/flights-from-detroit-to-seville", "notes": "Connects through Amsterdam (AMS→SVQ ~3h). Bike fee €50–75 each way." }
       ],
       "lodging": [
-        {
-          "name": "La Banda Rooftop Hostel",
-          "type": "hostel",
-          "price_per_night_usd": 45,
-          "neighborhood": "Arenal / Centro",
-          "highlights": "Well-reviewed hostel steps from the Torre del Oro and Guadalquivir riverfront — the best starting point for the city cycling circuit. Ask at check-in for secure indoor bike storage (policy: confirm before booking). Rooftop terrace with views of the Cathedral tower.",
-          "url": "https://www.hostelworld.com/hostels/europe/spain/seville/",
-          "source": "hostelworld"
-        },
-        {
-          "name": "Hotel Palacio Alcázar",
-          "type": "hotel",
-          "price_per_night_usd": 135,
-          "neighborhood": "Santa Cruz / Barrio de Santa Cruz",
-          "highlights": "Boutique hotel in a 19th-century palace 200m from the Real Alcázar walls, central for city cycling circuits and the Guadalquivir promenade. Confirm secure bike storage when booking — standard at most Seville hotel category; this one has interior parking. 4.3/5 on Booking.",
-          "url": "https://www.booking.com/hotel/es/palacio-alcazar.html",
-          "source": "booking"
-        },
-        {
-          "name": "Hotel Corral del Rey",
-          "type": "hotel",
-          "price_per_night_usd": 280,
-          "neighborhood": "Santa Cruz",
-          "highlights": "A 17th-century merchant's townhouse restored to 13 rooms in the oldest part of the city — four courtyards, original stone, genuinely beautiful. Secure bike storage available. This is the most atmospheric address in Seville and worth it for two nights.",
-          "url": "https://www.corraldelrey.com/en/",
-          "source": "booking"
-        }
+        { "name": "La Banda Rooftop Hostel", "type": "hostel", "price_per_night_usd": 45, "neighborhood": "Arenal / Centro", "highlights": "Steps from Torre del Oro and Guadalquivir riverfront. Confirm secure indoor bike storage at check-in. Rooftop terrace with Cathedral views.", "url": "https://www.hostelworld.com/hostels/europe/spain/seville/", "source": "hostelworld" },
+        { "name": "Hotel Palacio Alcázar", "type": "hotel", "price_per_night_usd": 135, "neighborhood": "Santa Cruz", "highlights": "19th-century palace 200m from the Real Alcázar walls. Interior parking for bikes. 4.3/5 on Booking.", "url": "https://www.booking.com/hotel/es/palacio-alcazar.html", "source": "booking" },
+        { "name": "Hotel Corral del Rey", "type": "hotel", "price_per_night_usd": 280, "neighborhood": "Santa Cruz", "highlights": "17th-century merchant's townhouse, four courtyards, 13 rooms. Secure bike storage. The most atmospheric address in Seville.", "url": "https://www.corraldelrey.com/en/", "source": "booking" }
       ],
-      "itinerary": {
-        "overview": "Seville is one of the great surprises of European cycling — not because anyone expects it to be bad, but because 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars is a combination that doesn't quite make sense until you're riding it at 6:30am with the Cathedral lit gold and nobody else on the road.",
-        "days": [], "tips": [], "sources": []
-      }
+      "itinerary": { "overview": "Seville is one of the great surprises of European cycling — 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars. Completely flat. The catch: July temperatures hit 40–43°C by noon. All serious cycling must happen before 9am or after 6:30pm.", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-23",
@@ -208,127 +124,57 @@
       },
       "flight_search_date": "2026-06-23",
       "flights": [
-        { "airline": "Turkish Airlines", "price_usd": 849, "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; book 4–6 weeks out)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~15h total", "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens", "notes": "Connects through Istanbul (IST). Turkish flies 7x/week from DTW. Full-service with meals, 2 checked bags included." },
-        { "airline": "Delta Air Lines", "price_usd": 981, "outbound_dates": "Jul 12–28 (midweek departures save ~$60 vs. weekend)", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~17h total", "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html", "notes": "Connects through JFK or ATL." },
+        { "airline": "Turkish Airlines", "price_usd": 849, "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest)", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~15h total", "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens", "notes": "Connects through Istanbul (IST)." },
+        { "airline": "Delta Air Lines", "price_usd": 981, "outbound_dates": "Jul 12–28 (midweek saves ~$60)", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~17h total", "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html", "notes": "Connects through JFK or ATL." },
         { "airline": "United Airlines", "price_usd": 1030, "outbound_dates": "Aug 1–20", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~14h 30m total", "url": "https://www.united.com/en-us/flights-from-detroit-to-athens", "notes": "Connects through Newark (EWR)." }
       ],
       "lodging": [
-        { "name": "City Circus Athens", "type": "hostel", "price_per_night_usd": 65, "neighborhood": "Psirri / Monastiraki", "highlights": "9.6/10 on Hostelworld — neoclassical building, steps from Monastiraki Metro. 2026 Hoscar Award winner.", "url": "https://www.hostelworld.com/hostels/europe/greece/athens/", "source": "hostelworld" },
-        { "name": "Sweet Home Hotel", "type": "hotel", "price_per_night_usd": 126, "neighborhood": "Plaka", "highlights": "9.3/10 on Booking (1,600 reviews) — elegant rooms 400m from Syntagma Square, some with Acropolis views, homemade breakfast included.", "url": "https://www.booking.com/district/gr/athens/plaka.html", "source": "booking" },
-        { "name": "AthensWas Design Hotel", "type": "hotel", "price_per_night_usd": 210, "neighborhood": "Makrygianni / Dionysiou Areopagitou", "highlights": "21 rooms on the pedestrian promenade directly below the Acropolis with unobstructed Parthenon views from rooms and rooftop.", "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html", "source": "booking" }
+        { "name": "City Circus Athens", "type": "hostel", "price_per_night_usd": 65, "neighborhood": "Psirri / Monastiraki", "highlights": "9.6/10 on Hostelworld. Neoclassical building, steps from Monastiraki Metro. 2026 Hoscar Award winner.", "url": "https://www.hostelworld.com/hostels/europe/greece/athens/", "source": "hostelworld" },
+        { "name": "Sweet Home Hotel", "type": "hotel", "price_per_night_usd": 126, "neighborhood": "Plaka", "highlights": "9.3/10 on Booking (1,600 reviews). Elegant rooms 400m from Syntagma Square, some with Acropolis views, homemade breakfast.", "url": "https://www.booking.com/district/gr/athens/plaka.html", "source": "booking" },
+        { "name": "AthensWas Design Hotel", "type": "hotel", "price_per_night_usd": 210, "neighborhood": "Makrygianni / Dionysiou Areopagitou", "highlights": "21 rooms on the pedestrian promenade directly below the Acropolis with unobstructed Parthenon views.", "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html", "source": "booking" }
       ],
       "itinerary": { "overview": "Athens is not a museum with a city around it — it's a city of five million that happens to have an intact 5th-century BC temple on its central hill.", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
-      "destination": {
-        "city": "Bologna",
-        "country": "Italy",
-        "flag": "🇮🇹",
-        "iata": "BLQ",
-        "lat": 44.4949,
-        "lon": 11.3426,
-        "vibe": "The city that taught Europe to eat — 900 years of university life, the world's longest portico, tagliatelle al ragù that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them."
-      },
-      "flight_search_date": "2026-06-22",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Bologna", "country": "Italy", "flag": "🇮🇹", "iata": "BLQ", "lat": 44.4949, "lon": 11.3426, "vibe": "The city that taught Europe to eat — 900 years of university life, the world's longest portico, tagliatelle al ragù that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them." },
+      "flight_search_date": "2026-06-22", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
-      "destination": {
-        "city": "Medellín",
-        "country": "Colombia",
-        "flag": "🇨🇴",
-        "iata": "MDE",
-        "lat": 6.2442,
-        "lon": -75.5812,
-        "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
-      },
-      "flight_search_date": "2026-06-22",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Medellín", "country": "Colombia", "flag": "🇨🇴", "iata": "MDE", "lat": 6.2442, "lon": -75.5812, "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride." },
+      "flight_search_date": "2026-06-22", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
-      "destination": {
-        "city": "Bangkok",
-        "country": "Thailand",
-        "flag": "🇹🇭",
-        "iata": "BKK",
-        "lat": 13.7563,
-        "lon": 100.5018,
-        "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years."
-      },
-      "flight_search_date": "2026-06-22",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Bangkok", "country": "Thailand", "flag": "🇹🇭", "iata": "BKK", "lat": 13.7563, "lon": 100.5018, "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years." },
+      "flight_search_date": "2026-06-22", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
-      "destination": {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "flag": "🇲🇽",
-        "iata": "MEX",
-        "lat": 19.4326,
-        "lon": -99.1332,
-        "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions."
-      },
-      "flight_search_date": "2026-06-19",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Mexico City", "country": "Mexico", "flag": "🇲🇽", "iata": "MEX", "lat": 19.4326, "lon": -99.1332, "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions." },
+      "flight_search_date": "2026-06-19", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
-      "destination": {
-        "city": "Lisbon",
-        "country": "Portugal",
-        "flag": "🇵🇹",
-        "iata": "LIS",
-        "lat": 38.7169,
-        "lon": -9.1399,
-        "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine."
-      },
-      "flight_search_date": "2026-06-19",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Lisbon", "country": "Portugal", "flag": "🇵🇹", "iata": "LIS", "lat": 38.7169, "lon": -9.1399, "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine." },
+      "flight_search_date": "2026-06-19", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
-      "destination": {
-        "city": "Taipei",
-        "country": "Taiwan",
-        "flag": "🇹🇼",
-        "iata": "TPE",
-        "lat": 25.0330,
-        "lon": 121.5654,
-        "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
-      },
-      "flight_search_date": "2026-06-19",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Taipei", "country": "Taiwan", "flag": "🇹🇼", "iata": "TPE", "lat": 25.0330, "lon": 121.5654, "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores." },
+      "flight_search_date": "2026-06-19", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
-      "destination": {
-        "city": "Seoul",
-        "country": "South Korea",
-        "flag": "🇰🇷",
-        "iata": "ICN",
-        "lat": 37.5665,
-        "lon": 126.9780,
-        "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G."
-      },
-      "flight_search_date": "2026-06-19",
-      "flights": [],
-      "lodging": [],
+      "destination": { "city": "Seoul", "country": "South Korea", "flag": "🇰🇷", "iata": "ICN", "lat": 37.5665, "lon": 126.9780, "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G." },
+      "flight_search_date": "2026-06-19", "flights": [], "lodging": [],
       "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     }
   ]
