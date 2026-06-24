@@ -1,5 +1,9 @@
 let _yoloData = null;
 let _yoloHistory = [];
+let _yoloMapInstance = null;
+let _yoloMainMapPoints = [];
+let _yoloDayMaps = []; // array of { map, points }
+const _DAY_COLORS = ['#3b82f6','#16a34a','#ea580c','#7c3aed','#dc2626','#0891b2','#d97706','#be185d'];
 
 function cityToSlug(city) {
   return city.toLowerCase().replace(/\s+/g, '-');
@@ -59,8 +63,28 @@ function renderYoloFlights(flights, searchDate) {
   `).join('');
   return `
     <div class="yolo-section">
-      <h3 class="yolo-section-title">Flights from SFO</h3>
+      <h3 class="yolo-section-title">Flights from DTW</h3>
       ${note}
+      <div class="yolo-card-list">${cards}</div>
+    </div>`;
+}
+
+function renderYoloTransportation(transportation) {
+  if (!transportation || !transportation.length) return '';
+  const cards = transportation.map(t => `
+    <a class="yolo-flight-card" href="${t.url}" target="_blank" rel="noopener">
+      <div class="yolo-card-top">
+        <span class="yolo-card-name">${t.name}</span>
+        <span class="yolo-card-price">from $${t.price_usd}</span>
+      </div>
+      <div class="yolo-card-meta">${t.description} · ${t.duration}</div>
+      ${t.price_note ? `<div class="yolo-card-notes">${t.price_note}</div>` : ''}
+      ${t.notes ? `<div class="yolo-card-notes">${t.notes}</div>` : ''}
+    </a>
+  `).join('');
+  return `
+    <div class="yolo-section">
+      <h3 class="yolo-section-title">Getting there &amp; around</h3>
       <div class="yolo-card-list">${cards}</div>
     </div>`;
 }
@@ -93,6 +117,7 @@ function renderYoloItinerary(itinerary) {
       ${d.morning   ? `<div class="yolo-time-block"><span class="yolo-time-label">Morning</span><span class="yolo-time-text">${d.morning}</span></div>`   : ''}
       ${d.afternoon ? `<div class="yolo-time-block"><span class="yolo-time-label">Afternoon</span><span class="yolo-time-text">${d.afternoon}</span></div>` : ''}
       ${d.evening   ? `<div class="yolo-time-block"><span class="yolo-time-label">Evening</span><span class="yolo-time-text">${d.evening}</span></div>`   : ''}
+      ${d.waypoints && d.waypoints.length ? `<div class="yolo-day-map" id="yolo-day-map-${d.day}"></div>` : ''}
     </div>
   `).join('');
 
@@ -119,11 +144,87 @@ function renderYoloItinerary(itinerary) {
 
 function renderYoloMap(destination) {
   if (!destination.lat || !destination.lon) return '';
-  const { lat, lon, city } = destination;
-  const d = 0.08;
-  const bbox = `${lon-d},${lat-d},${lon+d},${lat+d}`;
-  const src = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lon}`;
-  return `<div class="yolo-map"><iframe src="${src}" title="Map of ${city}" loading="lazy"></iframe></div>`;
+  return `<div class="yolo-map"><div id="yolo-map-leaf"></div></div>`;
+}
+
+function _makeTileLayer() {
+  return L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 18
+  });
+}
+
+function _paddedBounds(points, minExtent = 0.08) {
+  const lats = points.map(p => p[0]);
+  const lons = points.map(p => p[1]);
+  const minLat = Math.min(...lats), maxLat = Math.max(...lats);
+  const minLon = Math.min(...lons), maxLon = Math.max(...lons);
+  const latPad = Math.max((maxLat - minLat) * 0.25, minExtent);
+  const lonPad = Math.max((maxLon - minLon) * 0.25, minExtent);
+  return L.latLngBounds([minLat - latPad, minLon - lonPad], [maxLat + latPad, maxLon + lonPad]);
+}
+
+function initYoloMap(destination, itinerary) {
+  if (!destination || !destination.lat) return;
+  const mapEl = document.getElementById('yolo-map-leaf');
+  if (!mapEl || typeof L === 'undefined') return;
+
+  if (_yoloMapInstance) { _yoloMapInstance.remove(); _yoloMapInstance = null; }
+
+  const map = L.map('yolo-map-leaf', { scrollWheelZoom: false });
+  _yoloMapInstance = map;
+  _makeTileLayer().addTo(map);
+
+  const daysWithWaypoints = ((itinerary && itinerary.days) || [])
+    .filter(d => d.waypoints && d.waypoints.length);
+
+  if (daysWithWaypoints.length) {
+    const allBounds = [];
+    daysWithWaypoints.forEach((day, i) => {
+      const color = _DAY_COLORS[i % _DAY_COLORS.length];
+      day.waypoints.forEach(wp => {
+        L.circleMarker([wp.lat, wp.lon], {
+          radius: 7, fillColor: color, color: '#fff',
+          weight: 2, opacity: 1, fillOpacity: 0.85
+        }).bindPopup(`<strong>Day ${day.day}</strong><br>${wp.name}<br><a class="yolo-map-gmaps" href="https://www.google.com/maps?q=${wp.lat},${wp.lon}+(${encodeURIComponent(wp.name)})" target="_blank" rel="noopener">Open in Google Maps →</a>`).addTo(map);
+        allBounds.push([wp.lat, wp.lon]);
+      });
+    });
+    _yoloMainMapPoints = allBounds;
+    if (allBounds.length) map.fitBounds(_paddedBounds(allBounds, 0.15));
+  } else {
+    L.circleMarker([destination.lat, destination.lon], {
+      radius: 9, fillColor: '#78716c', color: '#fff', weight: 2, opacity: 1, fillOpacity: 0.85
+    }).addTo(map).bindPopup(destination.city);
+    map.setView([destination.lat, destination.lon], 10);
+  }
+}
+
+function initYoloDayMaps(itinerary) {
+  _yoloDayMaps.forEach(({ map: m }) => m.remove());
+  _yoloDayMaps = [];
+  if (!itinerary || !itinerary.days || typeof L === 'undefined') return;
+
+  const daysWithWaypoints = itinerary.days.filter(d => d.waypoints && d.waypoints.length);
+  daysWithWaypoints.forEach((day, i) => {
+    const el = document.getElementById(`yolo-day-map-${day.day}`);
+    if (!el) return;
+
+    const map = L.map(el, { scrollWheelZoom: false, attributionControl: false });
+    _makeTileLayer().addTo(map);
+
+    const color = _DAY_COLORS[i % _DAY_COLORS.length];
+    const points = [];
+    day.waypoints.forEach(wp => {
+      L.circleMarker([wp.lat, wp.lon], {
+        radius: 6, fillColor: color, color: '#fff',
+        weight: 2, opacity: 1, fillOpacity: 0.85
+      }).bindPopup(`<b>${wp.name}</b><br><a class="yolo-map-gmaps" href="https://www.google.com/maps?q=${wp.lat},${wp.lon}+(${encodeURIComponent(wp.name)})" target="_blank" rel="noopener">Open in Google Maps →</a>`).addTo(map);
+      points.push([wp.lat, wp.lon]);
+    });
+    _yoloDayMaps.push({ map, points });
+    if (points.length) map.fitBounds(_paddedBounds(points));
+  });
 }
 
 function renderYoloPastDestinations(history) {
@@ -152,7 +253,7 @@ function showPastDestination(index) {
   const entry = _yoloHistory[index];
   if (!entry) return;
   const currentCity = _yoloData ? _yoloData.destination.city : null;
-  const { destination, flights, flight_search_date, lodging, itinerary } = entry;
+  const { destination, flights, flight_search_date, lodging, itinerary, transportation } = entry;
   setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-past-nav">
@@ -166,14 +267,17 @@ function showPastDestination(index) {
     </div>
     ${renderYoloMap(destination)}
     ${renderYoloFlights(flights, flight_search_date)}
+    ${renderYoloTransportation(transportation)}
     ${renderYoloLodging(lodging)}
     ${renderYoloItinerary(itinerary)}
   `;
+  initYoloMap(destination, itinerary);
+  initYoloDayMaps(itinerary);
   window.scrollTo(0, 0);
 }
 
 function renderYolo(data) {
-  const { destination, flights, flight_search_date, lodging, itinerary } = data;
+  const { destination, flights, flight_search_date, lodging, itinerary, transportation } = data;
   setYoloHash(cityToSlug(destination.city));
   document.getElementById('yolo-content').innerHTML = `
     <div class="yolo-hero">
@@ -184,10 +288,13 @@ function renderYolo(data) {
     </div>
     ${renderYoloMap(destination)}
     ${renderYoloFlights(flights, flight_search_date)}
+    ${renderYoloTransportation(transportation)}
     ${renderYoloLodging(lodging)}
     ${renderYoloItinerary(itinerary)}
     ${renderYoloPastDestinations(_yoloHistory)}
   `;
+  initYoloMap(destination, itinerary);
+  initYoloDayMaps(itinerary);
 }
 
 function showYolo() {
@@ -197,6 +304,16 @@ function showYolo() {
   }
   document.body.classList.add('yolo-active');
   window.scrollTo(0, 0);
+  setTimeout(() => {
+    if (_yoloMapInstance) {
+      _yoloMapInstance.invalidateSize();
+      if (_yoloMainMapPoints.length) _yoloMapInstance.fitBounds(_paddedBounds(_yoloMainMapPoints, 0.15));
+    }
+    _yoloDayMaps.forEach(({ map, points }) => {
+      map.invalidateSize();
+      if (points.length) map.fitBounds(_paddedBounds(points));
+    });
+  }, 50);
 }
 
 function closeYolo() {

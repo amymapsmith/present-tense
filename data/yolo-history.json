@@ -3,6 +3,122 @@
     {
       "updated": "2026-06-24",
       "destination": {
+        "city": "Salida",
+        "country": "United States",
+        "flag": "🇺🇸",
+        "iata": "DEN",
+        "lat": 38.5347,
+        "lon": -105.9990,
+        "vibe": "A Victorian silver-mining town of 6,500 at 7,036 feet in the Arkansas River Valley, circled by more 14,000-foot peaks per square mile than anywhere in North America — where a 22-mile road climb takes you to the Continental Divide at 11,312 feet, the descent is 4,000 vertical feet of fast pavement back to green chile and hot springs, and the entire town fits on two walkable blocks."
+      },
+      "flight_search_date": "2026-06-24",
+      "flights": [
+        {
+          "airline": "Frontier Airlines",
+          "price_usd": 140,
+          "outbound_dates": "July–August flexible (Friday departures cheapest; July generally cheapest month for this route)",
+          "return_dates": "flexible +5–7 days",
+          "stops": 0,
+          "duration": "~2h 45m direct",
+          "url": "https://www.flyfrontier.com/travel/flights/from-detroit-to-denver/",
+          "notes": "DTW→DEN direct. Frontier is the cheapest carrier on this route at $124–157 roundtrip. Important: Frontier's bag fees are a trap — a checked bike counts as oversize/overweight baggage (~$75–100 each way). Total with bike: ~$290–340 roundtrip. Alternatively, ship your bike via BikeFlights.com (~$80–120 each way, 3–5 days transit) and fly carry-on only. Then rent a compact car at DEN. Driving to Salida: US-285 south from Denver, ~2.5 hours, 150 miles."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 240,
+          "outbound_dates": "July–August flexible (midweek Tue/Wed cheapest; 24 flights/week DTW→DEN)",
+          "return_dates": "flexible +5–7 days",
+          "stops": 0,
+          "duration": "~2h 50m direct",
+          "url": "https://www.delta.com/us/en/flight-search/book-a-flight",
+          "notes": "DTW→DEN direct, most frequent carrier on this route. Delta bike fee: $150 each way (oversize bag policy) — significant add-on. BikeFlights shipping is more cost-effective for the bike. Car rental at DEN: budget ~$50–70/day; SUV or minivan needed if transporting a bike box. Drive south on I-25 to Colorado Springs, then US-24 west through Buena Vista to Salida (~2.5h total). Pro tip: fly into Colorado Springs (COS) instead — $180–250 roundtrip, 30 minutes closer to Salida."
+        },
+        {
+          "airline": "United Airlines",
+          "price_usd": 260,
+          "outbound_dates": "July–August flexible (midweek best; hub connection at ORD or EWR possible)",
+          "return_dates": "flexible +5–7 days",
+          "stops": 1,
+          "duration": "~4h 30m via hub",
+          "url": "https://www.united.com/en-us/flights-from-detroit-to-denver",
+          "notes": "DTW→ORD (Chicago) or EWR→DEN. United bike fee: $200 each way for oversize sports equipment — the most expensive of the three carriers. Strongly consider BikeFlights for this route. United's advantage: award availability through Chase/Star Alliance for miles redemption. One-way mileage awards to DEN often available at 5,500–7,500 miles."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Amigo Motor Lodge",
+          "type": "hotel",
+          "price_per_night_usd": 130,
+          "neighborhood": "Salida — east end of town near US-50",
+          "highlights": "A 1960s motor lodge fully renovated into a boutique property — confirmed bicycle parking on-site, each room has a balcony or patio with mountain views, hot tub, outdoor fireplace, and an eclectic collection of Airstream trailers as alternative accommodation. Michelin Select property. The most atmospheric cycling base in town: leave the bike on the patio, coffee on the balcony watching the Arkansas Hills, roll to the Monarch Pass climb in 5 minutes.",
+          "url": "https://amigomotorlodge.com/",
+          "source": "booking"
+        },
+        {
+          "name": "Manhattan Hotel Salida",
+          "type": "hotel",
+          "price_per_night_usd": 160,
+          "neighborhood": "Downtown Salida — Arkansas River / F Street Arts District",
+          "highlights": "Salida's only downtown boutique hotel, second floor above the Boathouse Cantina restaurant with direct Arkansas River views. Self-service check-in, no elevator (second floor walk-up), walking distance to every restaurant and gallery in town. Ask the staff about indoor bike storage — it's available on request for this kind of property.",
+          "url": "https://www.manhattanhotelsalida.com/",
+          "source": "booking"
+        },
+        {
+          "name": "Frontcountry Salida Micro-Cabins",
+          "type": "hotel",
+          "price_per_night_usd": 195,
+          "neighborhood": "Salida — near Arkansas River",
+          "highlights": "Standalone micro-cabin units with the consistency of a professionally operated hotel — private outdoor spaces, excellent insulation for cold mountain nights, hotel-style housekeeping. The most private option in Salida: your own structure, your own outdoor space, bike leans against the cabin wall. July nights in Salida drop to 45–55°F even in summer; the cabin setup is ideal for cold-morning gear prep.",
+          "url": "https://www.stayfrontcountry.com/hotel-salida-co",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Salida is the cycling anchor of the Arkansas River Valley — a genuine small mountain town that happens to sit at the intersection of three world-class road climbs, two whitewater rivers, and one of the densest concentrations of 14,000-foot peaks in North America. The town itself is worth exploring: a walkable Victorian-era downtown with an outsized arts scene, hot springs pools, and the kind of restaurant-per-capita ratio that only happens when outdoor sports people have money and small-town real estate stays affordable. The riding is structured around the Colorado high country's July weather pattern: brilliant mornings (clear skies, 60–75°F at valley elevation, much cooler on the passes) followed by afternoon thunderstorms arriving around 1–3pm. Start climbs early, summit before noon, be descending when the sky turns. The three-day structure here goes big-day / big-day / exploration-day: Monarch Pass on day one (4,258 feet of gain to the Continental Divide), Cottonwood Pass on day two (4,100 feet to the third-highest paved road in Colorado), and the Poncha Pass / San Luis Valley traverse on day three for a different landscape entirely.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Monarch Pass — 46mi / 74km out-and-back, 4,258ft / 1,298m gain",
+            "morning": "Wheels rolling by 7am from downtown Salida (elevation 7,036 ft / 2,144m). Head west on US-50 through Poncha Springs (5 miles, flat warmup, small coffee shop if you need it). The Monarch Pass climb begins just past Poncha Springs and runs 18 miles without interruption to the Continental Divide at 11,312 ft / 3,448m. The lower section follows the South Arkansas River through a narrow granite canyon — excellent asphalt, some truck traffic, a reasonable shoulder for most of the first 10 miles. Above the canyon the trees open into subalpine forest and then alpine tundra: the last 5 miles are above treeline, exposed, and can be significantly colder than the valley (pack a vest or arm warmers regardless of the valley temperature). The grade averages 4.3% with sustained sections to 7% in the canyon narrows. At 11,000 feet the Monarch ski area comes into view; the pass summit is the Continental Divide ridgeline. The Monarch Pass summit lodge sells coffee and hot chocolate — this is not a joke, it's genuinely cold up there in July mornings (40–50°F) and it's open year-round.",
+            "afternoon": "The descent back to Salida is 18 miles of fast pavement — 4,000 feet of controlled, sweeping descent through the canyon. Brake heat is a real consideration on a long alpine descent; keep speed moderate through the tightest canyon curves. Back in Salida by noon or just after. Afternoon: the SteamPlant Event Center (on the river, converted coal gasification plant from 1887) has rotating art shows and a central plaza. Walk the F Street Arts District — Salida has more galleries per capita than any city in Colorado, a genuine local art scene built over 30 years. The Salida Hot Springs Aquatic Center (410 W Rainbow Blvd) is a public hot springs pool fed by local geothermal water: lane swimming and soaking pools, ~$10, perfect post-ride.",
+            "evening": "Dinner in downtown Salida: Amica's Pizzeria (wood-fired, very good, walk-in or reservation) or Fritz (European bistro, small plates, excellent wine list for a town of 6,500). The kind of restaurants that shouldn't exist in a small Colorado mountain town but do because of who lives here. After dinner, walk to the river trail along the Arkansas — the evening light on the Collegiate Peaks (Harvard, Yale, Columbia, Oxford: four 14,000-foot peaks named by Princeton geology students in the 1860s) is the payoff for spending the afternoon in town."
+          },
+          {
+            "day": 2,
+            "title": "Cottonwood Pass — 67mi / 108km, 4,100ft / 1,250m gain",
+            "morning": "Drive 28 miles north to Buena Vista (35 minutes on US-285 north, Arkansas River visible the entire way). Park at the Buena Vista trailhead area at the base of County Road 306 (elevation 7,965 ft). The Cottonwood Pass climb: 19.5 miles to 12,126 ft / 3,696m, the third-highest paved road in Colorado. The grade averages 4.1% with a notorious 10% wall at roughly mile 14 that catches riders off-guard after a long steady effort — know it's coming and have the gear already selected before you hit it. The east side is a tree-lined climb through aspen groves and spruce forest for the first 12 miles, then breaks into open tundra and the final switchbacks. Traffic is almost nonexistent on weekday mornings — County Road 306 serves only the Taylor Park Reservoir area on the west side and gets minimal car use compared to Monarch. Summit at 12,126 ft: the views north into the Collegiate Peaks Wilderness and south toward the San Luis Valley are the most expansive of the three rides.",
+            "afternoon": "The descent: both sides of Cottonwood Pass are now fully paved. The west side descent (13.5 miles, 2,700 ft down to Taylor Park Reservoir) is the more dramatic of the two — wider switchbacks, broader views, and the surprise of arriving at the enormous Taylor Park Reservoir at the base. Ride the west side down if you want to explore it, then return up the same way (the 13.5-mile west ascent at 3.8% average is the gentler option for the return). OR simply descend the east side back to Buena Vista, add a valley extension north toward Granite on US-24 for mileage, and drive back to Salida. Lunch in Buena Vista: Eddyline Brewery on the river (Colorado mountain town brewery food, outdoor deck, solid fish tacos and burgers).",
+            "evening": "Return to Salida. Soak again at Salida Hot Springs or try Mount Princeton Hot Springs (25 miles north of Salida on US-285 — enormous riverside hot springs resort with pools at varying temperatures, ~$30 day pass). Dinner: Soulcraft Brewing (local brewery downtown, excellent smoked brisket and craft beer) or one of the taco spots on the main street. By 9pm, Salida rolls up — this is a small town that runs on an outdoor recreation schedule and most of it is in bed before 10."
+          },
+          {
+            "day": 3,
+            "title": "Poncha Pass + San Luis Valley traverse — 62mi / 100km, 1,800ft / 550m gain",
+            "morning": "A different kind of day: less total climbing, bigger landscape. Depart Salida 7:30am south on US-285 toward Poncha Springs (5 miles) and immediately begin the gentle climb to Poncha Pass summit (9,010 ft / 2,746m — just 2,000 feet above Salida, the gentlest of the three passes). At the summit you cross into an entirely different world: the San Luis Valley, one of the largest alpine valleys on Earth — 8,000 square miles of flat high-altitude basin at 7,500 ft, ringed by mountains on all sides, the Rio Grande running through the center. The valley road (US-285 south) is wide, flat, and almost completely empty of traffic. The scale is extreme: 50-mile views in every direction, the Sangre de Cristo Mountains rising abruptly to the east (several 14ers in that range, including Crestone Needle, one of the most technical), the San Juan Mountains visible to the southwest. Ride south 20–25 miles into the valley at whatever pace feels right — into the headwind or with it, depending on conditions.",
+            "afternoon": "Turn around and return north over Poncha Pass back to Salida. The climb from the valley floor back to the pass is gentle enough to feel like nothing after the previous two days. Back in Salida by noon or early afternoon. Real estate for the afternoon: the Salida Museum (free, local history, excellent collection of mining-era photographs), Arkansas Headwaters Recreation Area visitor center (on the river, good exhibit on the Arkansas River whitewater section — the 150-mile stretch from Leadville to Cañon City is one of the most-rafted rivers in the US), or just sit in a riverside café and watch the rafters come off Brown's Canyon.",
+            "evening": "Last evening in town. Salida's unofficial ritual: sunset from Tenderfoot Mountain (a short 20-minute hike above town with the large 'S' on the hillside — the view of the Arkansas River Valley and all four Collegiate Peaks at golden hour is the image most people carry away from Salida). Dinner at Moonlight Pizza & Brewpub or whatever was the recommendation from your hotel. The drive back to Denver the next morning is 2.5 hours with the Arkansas River visible most of the way north — one of the better interstate-free drives in Colorado."
+          }
+        ],
+        "tips": [
+          "Colorado afternoon thunderstorms are a hard stop: lightning at 11,000+ feet on an exposed ridge is genuinely life-threatening. Start both Monarch and Cottonwood climbs by 7am, aim to summit by 10–10:30am, and be well into your descent before noon. July monsoon season means the afternoon pattern is reliable — not every day, but often enough to plan around it. If the sky is building towers by 11am over the Divide, you should be descending.",
+          "Bike transport logistics: shipping your bike via BikeFlights.com (~$80–120 each way, 3–5 business days) is strongly recommended over airline fees ($150–200 each way on most carriers). Ship to the hotel 4–5 days before arrival, ship home from the hotel on departure day. You fly with carry-on only, rent a compact car at Denver, no bike-box logistics at the airport.",
+          "Car rental: you need a car in Salida. Denver International (DEN) has the full range of rental agencies. Budget ~$50–70/day for a compact or midsize SUV (Colorado Springs/COS is an alternative arrival airport, 30 minutes closer, often cheaper flights and rentals). Reserve in advance — July is peak Colorado summer and car inventory is tight.",
+          "Altitude acclimatization: Salida sits at 7,036 feet and Monarch Pass climbs to 11,312 feet. If you're arriving from sea level or Ann Arbor (~650 feet), plan one easy day in Salida before the big climbs. Dehydration happens faster at altitude. Drink a liter of water before your first ride morning and carry two full bottles on the climbs; you'll go through them.",
+          "Salida hot springs: the public Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10/day pass) is geothermal-fed outdoor pools — open daily, perfect post-ride recovery. Mount Princeton Hot Springs (25 miles north on US-285, ~$30) is a larger resort with riverside pools at varying temperatures and a cold-plunge river option. Both are worth it on the same trip.",
+          "The 'S' Mountain hike: Tenderfoot Mountain above town has a painted 'S' on the hillside and a 20-minute trail to the summit. The view of the Collegiate Peaks, Arkansas River valley, and entire Salida bowl at sunset is the single best non-cycling thing you'll do here. It's a 10-minute drive from anywhere in town and the trailhead has free parking."
+        ],
+        "sources": [
+          { "title": "Bike Monarch Pass: Thrilling Mountain Ride — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/" },
+          { "title": "Bicycling Monarch Pass Colorado — My Bicycle Routes", "url": "https://www.mybicycleroutes.com/xmonarchpassinfopage.html" },
+          { "title": "Cottonwood Pass West — Pjamm Cycling", "url": "https://pjammcycling.com/climb/2023.Cottonwood-Pass-West" },
+          { "title": "Bicycling Cottonwood Pass Colorado — My Bicycle Routes", "url": "https://www.mybicycleroutes.com/xcottonwoodpassinfopage.html" },
+          { "title": "Cottonwood Pass Summit Bike Trails Guide — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/cottonwood-pass-summit/" },
+          { "title": "Route Recommendations — Absolute Bikes Salida", "url": "https://www.absolutebikes.com/articles/route-recommendations-pg204.htm" }
+        ]
+      }
+    },
+    {
+      "updated": "2026-06-24",
+      "destination": {
         "city": "Chiang Rai",
         "country": "Thailand",
         "flag": "🇹🇭",
