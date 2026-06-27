@@ -293,7 +293,7 @@ function renderWealth(gym, eventsData, filter = 'all') {
 
   const todayName = getDayName();
   const dateFilter = currentLocation === 'sf' ? isThisWeek : isFutureOrToday;
-  const showGym     = currentLocation === 'sf' && (filter === 'all' || filter === 'gym');
+  const showGym     = filter === 'all' || filter === 'gym';
   const showDance   = filter === 'all' || filter === 'dance';
   const showRunning = currentLocation === 'ann-arbor' && (filter === 'all' || filter === 'running');
 
@@ -437,6 +437,12 @@ async function loadData() {
   return data;
 }
 
+function getGymData() {
+  if (currentLocation === 'sf') return _sfData.gym || {};
+  const ymca = ((_aaData.venues || {}).venues || []).find(v => v.id === 'ymca');
+  return ymca ? { locations: [ymca] } : {};
+}
+
 // ── Section filters ────────────────────────────────
 const sectionFilters = { work: 'all', wealth: 'all', whimsy: 'all' };
 
@@ -502,10 +508,8 @@ function switchLocation(loc) {
     b.classList.toggle('active', b.dataset.filter === 'all');
   });
 
-  // Gym filter only relevant in SF; Run filter only relevant in AA
-  document.querySelectorAll('.sfilt-btn[data-filter="gym"]').forEach(b => {
-    b.style.display = loc === 'sf' ? '' : 'none';
-  });
+  // Run filter only relevant in AA
+
   document.querySelectorAll('.sfilt-btn[data-filter="running"]').forEach(b => {
     b.style.display = loc === 'ann-arbor' ? '' : 'none';
   });
