@@ -452,7 +452,7 @@ function rerenderSection(section) {
     renderWork(_sfData.professional || {}, f);
   } else if (section === 'wealth') {
     const ev = (currentLocation === 'sf' ? _sfData.events : _aaData.events) || { events: [] };
-    renderWealth(currentLocation === 'sf' ? _sfData.gym || {} : {}, ev, f);
+    renderWealth(getGymData(), ev, f);
   } else if (section === 'whimsy') {
     const ev = (currentLocation === 'sf' ? _sfData.events : _aaData.events) || { events: [] };
     const vn = (currentLocation === 'sf' ? _sfData.museums : _aaData.venues) || {};
@@ -509,7 +509,6 @@ function switchLocation(loc) {
   });
 
   // Run filter only relevant in AA
-
   document.querySelectorAll('.sfilt-btn[data-filter="running"]').forEach(b => {
     b.style.display = loc === 'ann-arbor' ? '' : 'none';
   });
@@ -518,7 +517,7 @@ function switchLocation(loc) {
   const venuesData = (loc === 'sf' ? _sfData.museums : _aaData.venues) || {};
   renderWeather(loc === 'sf' ? _sfData.weather : _aaData.weather || {});
   renderWork(_sfData.professional || {});
-  renderWealth(loc === 'sf' ? _sfData.gym || {} : {}, eventsData);
+  renderWealth(getGymData(), eventsData);
   renderWhimsy(eventsData, venuesData);
 }
 
