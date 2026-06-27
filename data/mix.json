@@ -13,23 +13,23 @@
     "note": "No history.json found — actuals not available yet. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
-    "updated": "2026-06-23",
-    "summary": "Clean slate this week. Today is the best outdoor day in Ann Arbor all week — 76°F, sunny, winds under 8 mph — before storms arrive Wednesday and Thursday. A fresh Anthropic TPM Launches role just verified open at $365k–$435k worth a look alongside the existing Anthropic cluster.",
+    "updated": "2026-06-26",
+    "summary": "Pride weekend in SF is stacked with free culture: Japanese Breakfast at Stern Grove Sunday and the SF Pride Festival at Civic Center Saturday–Sunday. Professionally, the AI Engineer World's Fair runs Jun 29–Jul 2 at Moscone West — worth the $395 for the networking density. Best outdoor window for cycling or running is Sunday (69°F, 14mph wind, 0% rain).",
     "suggested": [
       {
+        "category": "culture",
+        "title": "Japanese Breakfast at Stern Grove — free, Sunday Jun 28, 2 PM (standby line if no lottery ticket)",
+        "source_section": "events"
+      },
+      {
         "category": "professional",
-        "title": "Anthropic TPM Launches — new, verified open, $365k–$435k, SF/NYC (job-boards.greenhouse.io/anthropic/jobs/5208193008)",
+        "title": "AI Engineer World's Fair 2026 — Jun 29–Jul 2, Moscone West, $395",
         "source_section": "professional"
       },
       {
         "category": "health",
-        "title": "Run or bike outside today (Tue Jun 23) — 76°F, sunny, winds under 8 mph; storms arrive Wed–Thu",
+        "title": "Cycling or running Sunday Jun 28 — best outdoor day of the week (69°F, calm winds, sunny)",
         "source_section": "gym"
-      },
-      {
-        "category": "culture",
-        "title": "Gregory Stovetop at The Ark — Thu Jun 26, $29 (cosmic folk/rock/soul, intimate venue)",
-        "source_section": "events"
       }
     ]
   }

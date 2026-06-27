@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-26",
   "venues": [
     {
       "id": "umma",
@@ -24,19 +24,19 @@
         },
         {
           "title": "American Sampler: Activating the Archive",
-          "description": "Archival materials from UMMA's collection re-examined and activated through contemporary curatorial lens.",
+          "description": "Archival materials from UMMA's collection re-examined through a contemporary curatorial lens.",
           "through": null,
           "url": "https://umma.umich.edu/exhibitions/"
         },
         {
           "title": "We Write To You About Africa",
-          "description": "A celebration of African voices and narratives through works from the permanent collection and on loan.",
+          "description": "Celebration of African voices and narratives through works from the permanent collection and on loan.",
           "through": null,
           "url": "https://umma.umich.edu/exhibitions/"
         },
         {
           "title": "Jaume Plensa: Behind the Walls",
-          "description": "Large-scale monumental white head sculpture by internationally recognized Spanish artist, installed on the UMMA exterior.",
+          "description": "Large-scale monumental white head sculpture by the internationally recognized Spanish artist, installed on the UMMA exterior.",
           "through": null,
           "url": "https://umma.umich.edu/exhibitions/"
         }
@@ -44,9 +44,9 @@
       "events": [
         {
           "title": "Regular gallery admission — free",
-          "date": "2026-06-24",
+          "date": null,
           "time": "11:00",
-          "description": "Free admission to all galleries. Note: UMMA is closed July 4 (Friday). Extended hours Fridays until 8 PM.",
+          "description": "Free admission to all galleries. UMMA closed July 4 (Friday). Extended hours Fridays until 8 PM.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://umma.umich.edu/visit/"
@@ -67,36 +67,9 @@
         "saturday":  null,
         "sunday":    null
       },
-      "_hours_note": "The Ark is a concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
+      "_hours_note": "Concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
       "current_exhibitions": [],
       "events": [
-        {
-          "title": "Ian Flanigan",
-          "date": "2026-06-23",
-          "time": "20:00",
-          "description": "Country/Americana. Free — donations support Food Gatherers.",
-          "cost": 0,
-          "cost_notes": "free (donations)",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Esther Rose",
-          "date": "2026-06-24",
-          "time": "20:00",
-          "description": "Country/pop on her fifth album.",
-          "cost": 24,
-          "cost_notes": "$24",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Handmade Moments",
-          "date": "2026-06-25",
-          "time": "20:00",
-          "description": "New Orleans American roots duo.",
-          "cost": 24,
-          "cost_notes": "$24",
-          "url": "https://theark.org/events/"
-        },
         {
           "title": "Gregory Stovetop",
           "date": "2026-06-26",
@@ -177,6 +150,24 @@
           "cost": 29,
           "cost_notes": "$29",
           "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Black Joe Lewis & The Honeybears",
+          "date": "2026-07-08",
+          "time": "20:00",
+          "description": "Texas blues and soul guitarist with the high-energy Honeybears band.",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://theark.org/event/black-joe-lewis-the-honeybears-260708/"
+        },
+        {
+          "title": "Mark Jewett & The Strategic Advisors",
+          "date": "2026-07-09",
+          "time": "20:00",
+          "description": "Michigan folk/rock/blues/Americana storyteller.",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://www.theark.org/events/"
         }
       ]
     },
@@ -185,7 +176,7 @@
       "name": "Michigan Theater",
       "address": "603 E Liberty St, Ann Arbor, MI 48104",
       "url": "https://michigantheater.org",
-      "_hours_note": "Michigan Theater website unavailable for scraping this run. Check michigantheater.org directly for film and event schedule.",
+      "_hours_note": "Check michigantheater.org directly for current film and event schedule.",
       "hours": {
         "monday":    null,
         "tuesday":   null,
@@ -203,7 +194,7 @@
       "name": "Matthaei Botanical Gardens",
       "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
       "url": "https://mbgna.umich.edu",
-      "_hours_note": "Grounds typically open dawn to dusk; Conservatory hours not confirmed this run. Check mbgna.umich.edu for summer events.",
+      "_hours_note": "Grounds open dawn to dusk. Check mbgna.umich.edu for summer conservatory hours and events.",
       "hours": {
         "monday":    { "open": "07:00", "close": "20:00" },
         "tuesday":   { "open": "07:00", "close": "20:00" },
@@ -212,6 +203,23 @@
         "friday":    { "open": "07:00", "close": "20:00" },
         "saturday":  { "open": "07:00", "close": "20:00" },
         "sunday":    { "open": "07:00", "close": "20:00" }
+      },
+      "current_exhibitions": [],
+      "events": []
+    },
+    {
+      "id": "ymca",
+      "name": "Ann Arbor YMCA",
+      "address": "400 W Washington St, Ann Arbor, MI 48103",
+      "url": "https://annarborymca.org",
+      "hours": {
+        "monday":    { "open": "05:30", "close": "21:00" },
+        "tuesday":   { "open": "05:30", "close": "21:00" },
+        "wednesday": { "open": "05:30", "close": "21:00" },
+        "thursday":  { "open": "05:30", "close": "21:00" },
+        "friday":    { "open": "05:30", "close": "21:00" },
+        "saturday":  { "open": "07:00", "close": "18:00" },
+        "sunday":    { "open": "07:00", "close": "18:00" }
       },
       "current_exhibitions": [],
       "events": []

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-26",
   "group_runs": [
     {
       "day": "Monday",
@@ -40,90 +40,6 @@
   ],
   "events": [
     {
-      "title": "A2SF Top of the Park — Swing Dance Lessons & Djangophonique",
-      "date": "2026-06-23",
-      "time": "17:30",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "dance",
-      "cost": 0,
-      "cost_notes": "free (suggested $10 donation)",
-      "description": "Swing dance lessons at 5:30 PM followed by Djangophonique (Gypsy jazz) at 8:15 PM. Final week of A2SF's Top of the Park, running through June 28. Outdoor, all ages.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "A2 Dance Revolution — Salsa Mondays",
-      "date": "2026-06-23",
-      "time": "18:30",
-      "venue": "Cahoots (206 E Huron St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$15 adults / $12 students drop-in",
-      "description": "Weekly salsa classes at 6:30 PM (Level 1 + 3 simultaneously, then Level 2 + 4 at 8 PM). Instructors Laura and Luis. No partner or experience needed. Runs every Monday.",
-      "url": "https://a2dancerevolution.com/"
-    },
-    {
-      "title": "Ian Flanigan — The Ark",
-      "date": "2026-06-23",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free (donations support Food Gatherers)",
-      "description": "Country/Americana singer with 'worn leather' vocals — Voice finalist with a road-tested sound. One of The Ark's periodic free donation shows.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "A2 Dance Revolution — Bachata Wednesdays",
-      "date": "2026-06-24",
-      "time": "18:30",
-      "venue": "Cahoots (206 E Huron St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$15 adults / $12 students drop-in",
-      "description": "Weekly bachata classes at 6:30 PM with social dancing after. Level 1+3 from 6:30–7:45 PM, Level 2+4 from 8–9:15 PM. Runs every Wednesday.",
-      "url": "https://a2dancerevolution.com/"
-    },
-    {
-      "title": "Esther Rose — The Ark",
-      "date": "2026-06-24",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 24,
-      "cost_notes": "$24",
-      "description": "Country/pop artist on her fifth album, blending pop instincts with country storytelling. Intimate venue, great sightlines.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "A2SF Top of the Park — Jive Colossus",
-      "date": "2026-06-24",
-      "time": "20:15",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free (suggested $10 donation)",
-      "description": "High-energy swing/jazz band. Free outdoor concert at A2SF's nightly Top of the Park series.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Handmade Moments — The Ark",
-      "date": "2026-06-25",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 24,
-      "cost_notes": "$24",
-      "description": "New Orleans duo playing American roots music with diverse instrumentation and tag-team beatboxing. Expect surprises.",
-      "url": "https://theark.org/events/"
-    },
-    {
       "title": "Gregory Stovetop — The Ark",
       "date": "2026-06-26",
       "time": "20:00",
@@ -134,6 +50,42 @@
       "cost_notes": "$29",
       "description": "Cosmic folk/rock/soul from Chelsea, Michigan-based singer-songwriter — wry lyrics, warm sound, the kind of artist who fills intimate rooms for a reason.",
       "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Jauron Perry — A2SF Top of the Park",
+      "date": "2026-06-26",
+      "time": "17:00",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor music at A2SF's Top of the Park on Ingalls Mall as part of the Ann Arbor Summer Festival.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "Pajamas — A2SF Top of the Park",
+      "date": "2026-06-26",
+      "time": "19:00",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Live performance at A2SF's free outdoor Top of the Park festival on Ingalls Mall.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "Chirp — A2SF Top of the Park",
+      "date": "2026-06-26",
+      "time": "20:45",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Late set at A2SF's free outdoor Top of the Park festival — part of the Ann Arbor Summer Festival programming.",
+      "url": "https://www.a2sf.org/calendar/"
     },
     {
       "title": "The RFD Boys — The Ark",
@@ -157,6 +109,42 @@
       "cost": 0,
       "cost_notes": "free (suggested $10 donation)",
       "description": "Shara Nova's indie art-pop project — a genuinely singular voice blending chamber pop and theatrical performance. Final weekend of A2SF Top of the Park.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "Annie Bacon & Her OSHEN — A2SF Top of the Park",
+      "date": "2026-06-27",
+      "time": "17:00",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor music at A2SF Top of the Park as part of the Ann Arbor Summer Festival.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "Ember & Ash — A2SF Top of the Park",
+      "date": "2026-06-27",
+      "time": "18:00",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor performance at A2SF's Top of the Park on Ingalls Mall.",
+      "url": "https://www.a2sf.org/calendar/"
+    },
+    {
+      "title": "The Army, The Navy — A2SF Top of the Park",
+      "date": "2026-06-27",
+      "time": "20:45",
+      "venue": "Top of the Park (Ingalls Mall)",
+      "neighborhood": "University/Central Campus",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Live outdoor performance at A2SF's Top of the Park as part of the Ann Arbor Summer Festival.",
       "url": "https://www.a2sf.org/calendar/"
     },
     {
@@ -184,6 +172,18 @@
       "url": "https://www.a2sf.org/calendar/"
     },
     {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-06-28",
+      "time": "18:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club on Main Street. Sunday jazz runs 6–8:30pm with rotating local and touring jazz artists.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
       "title": "The Ark's Open Stage",
       "date": "2026-06-29",
       "time": "20:00",
@@ -192,8 +192,32 @@
       "category": "music",
       "cost": 3,
       "cost_notes": "$3 ($0 students/members)",
-      "description": "Open mic — performers get eight minutes or two songs each. Followed by outdoor film screening at Top of the Park.",
+      "description": "Open mic — performers get eight minutes or two songs each.",
       "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Salsa Mondays — A2 Dance Revolution",
+      "date": "2026-06-29",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly salsa dancing with classes at 6:30–7:45pm (Levels 1 & 3) and 8–9:15pm (Levels 2 & 4). All levels welcome at 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-06-30",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
       "title": "Holly Near with Jan Martinelli — The Ark",
@@ -206,6 +230,30 @@
       "cost_notes": "$31",
       "description": "Peace-focused folk singer integrating spiritual and theatrical elements across a 50-year career. One of the most distinctive voices in American folk.",
       "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Bachata Wednesdays — A2 Dance Revolution",
+      "date": "2026-07-01",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly bachata dancing with classes at 6:30–7:45pm (Levels 1 & 3) and 8–9:15pm (Levels 2 & 4). All levels welcome at 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-01",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
       "title": "Blake Whyte — The Ark",
@@ -232,6 +280,30 @@
       "url": "https://theark.org/events/"
     },
     {
+      "title": "Pontiac Trail Blazers — Bluegrass Friday",
+      "date": "2026-07-03",
+      "time": "19:00",
+      "venue": "North Star Lounge",
+      "neighborhood": "Kerrytown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "The Pontiac Trail Blazers perform their bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose.",
+      "url": "https://www.nstarlounge.com/events"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-05",
+      "time": "18:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Sunday jazz runs 6–8:30pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
       "title": "The Ark's Open Stage",
       "date": "2026-07-06",
       "time": "20:00",
@@ -242,6 +314,18 @@
       "cost_notes": "$3 ($0 students/members)",
       "description": "Open mic — eight minutes or two songs per performer.",
       "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Salsa Mondays — A2 Dance Revolution",
+      "date": "2026-07-06",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly salsa dancing with classes at 6:30–7:45pm (Levels 1 & 3) and 8–9:15pm (Levels 2 & 4). 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
     },
     {
       "title": "Davy Knowles — The Ark",
@@ -256,16 +340,172 @@
       "url": "https://theark.org/events/"
     },
     {
-      "title": "UMMA Gallery Visit — 'Zina Saro-Wiwa: Table Manners'",
-      "date": "2026-06-24",
-      "time": "11:00",
-      "venue": "UMMA (525 S State St)",
-      "neighborhood": "UM Central Campus",
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-07",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Black Joe Lewis & The Honeybears — The Ark",
+      "date": "2026-07-08",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 29,
+      "cost_notes": "$29",
+      "description": "Texas-born blues and soul guitarist brings his high-energy Honeybears band for a night of gut-bucket blues and soul.",
+      "url": "https://theark.org/event/black-joe-lewis-the-honeybears-260708/"
+    },
+    {
+      "title": "Brielle — Free Happy Hour Concert",
+      "date": "2026-07-08",
+      "time": "17:30",
+      "venue": "North Star Lounge",
+      "neighborhood": "Kerrytown",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free happy hour performance by singer-songwriter Brielle at North Star Lounge. Runs 5:30–6:30pm.",
+      "url": "https://www.nstarlounge.com/events"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-08",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Bachata Wednesdays — A2 Dance Revolution",
+      "date": "2026-07-08",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly bachata dancing with classes at 6:30–7:45pm and social dancing after. 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
+    },
+    {
+      "title": "Mark Jewett & The Strategic Advisors — The Ark",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 29,
+      "cost_notes": "$29",
+      "description": "Michigan native storyteller Mark Jewett performs with his band in a blend of folk, rock, blues, and Americana.",
+      "url": "https://www.theark.org/events/"
+    },
+    {
+      "title": "Rolling Sculpture Car Show",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "venue": "Downtown Ann Arbor (Main Street)",
+      "neighborhood": "Downtown",
       "category": "art",
       "cost": 0,
-      "cost_notes": "free admission",
-      "description": "Digital displays exploring identity and cultural practice by British-Nigerian artist Zina Saro-Wiwa. Also on view: 'American Sampler: Activating the Archive' and 'We Write To You About Africa.' Free admission to all UMMA galleries.",
-      "url": "https://umma.umich.edu/exhibitions/"
+      "cost_notes": "free",
+      "description": "Annual free outdoor classic, antique, and concept car show featuring 300+ automobiles spanning decades of automotive history on Main Street downtown.",
+      "url": "https://mainstreetannarbor.org/rolling-sculpture"
+    },
+    {
+      "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "venue": "Ann Arbor Comedy Showcase",
+      "neighborhood": "Downtown",
+      "category": "comedy",
+      "cost": 20,
+      "cost_notes": "~$20",
+      "description": "National touring stand-up comedian Brian Scolaro headlines the Ann Arbor Comedy Showcase at 212 S 4th Ave.",
+      "url": "https://www.aacomedy.com/"
+    },
+    {
+      "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "Ann Arbor Comedy Showcase",
+      "neighborhood": "Downtown",
+      "category": "comedy",
+      "cost": 20,
+      "cost_notes": "~$20",
+      "description": "Brian Scolaro continues his Ann Arbor Comedy Showcase run at 212 S 4th Ave.",
+      "url": "https://www.aacomedy.com/"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Sunday jazz runs 6–8:30pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Salsa Mondays — A2 Dance Revolution",
+      "date": "2026-07-13",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly salsa dancing with classes at 6:30–7:45pm and 8–9:15pm. All levels welcome at 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-14",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Bachata Wednesdays — A2 Dance Revolution",
+      "date": "2026-07-15",
+      "time": "18:30",
+      "venue": "Dance Revolution at Cahoots",
+      "neighborhood": "Downtown",
+      "category": "dance",
+      "cost": 15,
+      "cost_notes": "$15 adults / $12 students drop-in",
+      "description": "Weekly bachata dancing with classes at 6:30–7:45pm and social dancing after. 206 E Huron St.",
+      "url": "https://www.a2dancerevolution.com"
+    },
+    {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-15",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
       "title": "Ann Arbor Art Fair",
@@ -278,6 +518,18 @@
       "cost_notes": "free to attend",
       "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm. Last two days within your stay.",
       "url": "https://www.artfair.org/"
+    },
+    {
+      "title": "Pontiac Trail Blazers — Bluegrass Friday",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "venue": "North Star Lounge",
+      "neighborhood": "Kerrytown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "The Pontiac Trail Blazers perform their regular Bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose.",
+      "url": "https://www.nstarlounge.com/events"
     }
   ]
 }
