@@ -13,23 +13,23 @@
     "note": "No history.json found — actuals not available yet. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
-    "updated": "2026-06-26",
-    "summary": "Pride weekend in SF is stacked with free culture: Japanese Breakfast at Stern Grove Sunday and the SF Pride Festival at Civic Center Saturday–Sunday. Professionally, the AI Engineer World's Fair runs Jun 29–Jul 2 at Moscone West — worth the $395 for the networking density. Best outdoor window for cycling or running is Sunday (69°F, 14mph wind, 0% rain).",
+    "updated": "2026-06-29",
+    "summary": "Ann Arbor is under an Extreme Heat Warning all week (heat index 105–109°F Mon–Thu) — all outdoor workouts move indoors to the YMCA, which is the right call anyway. Two time-sensitive professional items: GovAI U.S. AI Policy Program application closes July 5, and WPC 2026 CFP closes July 5. Culture highlight is the Ann Arbor Art Fair July 16–17, the biggest event of the stay.",
     "suggested": [
       {
-        "category": "culture",
-        "title": "Japanese Breakfast at Stern Grove — free, Sunday Jun 28, 2 PM (standby line if no lottery ticket)",
-        "source_section": "events"
+        "category": "health",
+        "title": "YMCA indoor gym or pool — mandatory this week given Extreme Heat Warning (heat index 105–109°F Mon–Thu, storms Fri–Sun)",
+        "source_section": "gym"
       },
       {
         "category": "professional",
-        "title": "AI Engineer World's Fair 2026 — Jun 29–Jul 2, Moscone West, $395",
+        "title": "GovAI U.S. AI Policy Program — application deadline July 5 (6 days). Free 12-week bipartisan AI policy program.",
         "source_section": "professional"
       },
       {
-        "category": "health",
-        "title": "Cycling or running Sunday Jun 28 — best outdoor day of the week (69°F, calm winds, sunny)",
-        "source_section": "gym"
+        "category": "culture",
+        "title": "Ann Arbor Art Fair — July 16–17, free, 30 city blocks, nearly 1,000 juried artists. Capstone event of the Ann Arbor stay.",
+        "source_section": "events"
       }
     ]
   }

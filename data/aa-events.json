@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-06-29",
   "group_runs": [
     {
       "day": "Monday",
@@ -40,150 +40,6 @@
   ],
   "events": [
     {
-      "title": "Gregory Stovetop — The Ark",
-      "date": "2026-06-26",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Cosmic folk/rock/soul from Chelsea, Michigan-based singer-songwriter — wry lyrics, warm sound, the kind of artist who fills intimate rooms for a reason.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Jauron Perry — A2SF Top of the Park",
-      "date": "2026-06-26",
-      "time": "17:00",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor music at A2SF's Top of the Park on Ingalls Mall as part of the Ann Arbor Summer Festival.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Pajamas — A2SF Top of the Park",
-      "date": "2026-06-26",
-      "time": "19:00",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Live performance at A2SF's free outdoor Top of the Park festival on Ingalls Mall.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Chirp — A2SF Top of the Park",
-      "date": "2026-06-26",
-      "time": "20:45",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Late set at A2SF's free outdoor Top of the Park festival — part of the Ann Arbor Summer Festival programming.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "The RFD Boys — The Ark",
-      "date": "2026-06-27",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 16,
-      "cost_notes": "$16 ($15 students/seniors/members)",
-      "description": "Legends of Michigan bluegrass, performing together since 1969. A local institution at a local institution.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "A2SF Top of the Park — My Brightest Diamond",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free (suggested $10 donation)",
-      "description": "Shara Nova's indie art-pop project — a genuinely singular voice blending chamber pop and theatrical performance. Final weekend of A2SF Top of the Park.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Annie Bacon & Her OSHEN — A2SF Top of the Park",
-      "date": "2026-06-27",
-      "time": "17:00",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor music at A2SF Top of the Park as part of the Ann Arbor Summer Festival.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Ember & Ash — A2SF Top of the Park",
-      "date": "2026-06-27",
-      "time": "18:00",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor performance at A2SF's Top of the Park on Ingalls Mall.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "The Army, The Navy — A2SF Top of the Park",
-      "date": "2026-06-27",
-      "time": "20:45",
-      "venue": "Top of the Park (Ingalls Mall)",
-      "neighborhood": "University/Central Campus",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Live outdoor performance at A2SF's Top of the Park as part of the Ann Arbor Summer Festival.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Matt Watroba — The Ark",
-      "date": "2026-06-28",
-      "time": "19:30",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Celebrating 40 years in radio and 50 years performing American roots music — a Michigan folk/roots legend.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "A2SF Top of the Park — Lady Sunshine and the X Band",
-      "date": "2026-06-28",
-      "time": "19:00",
-      "venue": "Top of the Park (Ingalls Mall & Washington St)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free (suggested $10 donation)",
-      "description": "Energetic funk/soul/rock band. Closing night of A2SF Top of the Park 2026.",
-      "url": "https://www.a2sf.org/calendar/"
-    },
-    {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-06-28",
-      "time": "18:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club on Main Street. Sunday jazz runs 6–8:30pm with rotating local and touring jazz artists.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
-    },
-    {
       "title": "The Ark's Open Stage",
       "date": "2026-06-29",
       "time": "20:00",
@@ -208,6 +64,18 @@
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
+      "title": "Ann Arbor Civic Band — With Liberty and Justice for All",
+      "date": "2026-07-01",
+      "time": "19:30",
+      "venue": "Burns Park",
+      "neighborhood": "Burns Park",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor concert by the Ann Arbor Civic Band at Burns Park (1300 Baldwin Ave). Patriotic repertoire. 7:30–8:30pm.",
+      "url": "https://annarborcivicband.wixsite.com/aacb/concert-schedule"
+    },
+    {
       "title": "Holly Near with Jan Martinelli — The Ark",
       "date": "2026-07-01",
       "time": "19:30",
@@ -230,6 +98,18 @@
       "cost_notes": "$10 cover",
       "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
       "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Sonic Lunch — Laith Al-Saadi",
+      "date": "2026-07-02",
+      "time": "11:30",
+      "venue": "Liberty & Division (outdoor stage)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concert. Ann Arbor blues/rock artist Laith Al-Saadi headlines; Chris Buhalis opens. 11:30am–1:30pm.",
+      "url": "https://www.soniclunch.com/"
     },
     {
       "title": "Blake Whyte — The Ark",
@@ -266,6 +146,18 @@
       "cost_notes": "$10 cover",
       "description": "The Pontiac Trail Blazers perform their bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose.",
       "url": "https://www.nstarlounge.com/events"
+    },
+    {
+      "title": "Ann Arbor Jaycees 4th of July Parade",
+      "date": "2026-07-04",
+      "time": "10:00",
+      "venue": "State Street, Downtown Ann Arbor",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Annual parade — floats, marching bands, dance troupes. Route: S State & E William heading north on State, west on Liberty, south on 5th, east on William. Bring a lawn chair.",
+      "url": "https://www.a2jaycees.org/fourth-of-july-parade"
     },
     {
       "title": "Blue Llama Jazz Club — Live Jazz",
@@ -316,6 +208,18 @@
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
+      "title": "Ann Arbor Civic Band — From the Tube",
+      "date": "2026-07-08",
+      "time": "19:30",
+      "venue": "Burns Park",
+      "neighborhood": "Burns Park",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor concert by the Ann Arbor Civic Band at Burns Park. TV theme song program. 7:30–8:30pm.",
+      "url": "https://annarborcivicband.wixsite.com/aacb/concert-schedule"
+    },
+    {
       "title": "Black Joe Lewis & The Honeybears — The Ark",
       "date": "2026-07-08",
       "time": "20:00",
@@ -352,6 +256,18 @@
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
+      "title": "Sonic Lunch — Theo Katzman",
+      "date": "2026-07-09",
+      "time": "11:30",
+      "venue": "Liberty & Division (outdoor stage)",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concert. Theo Katzman (Vulfpeck member, acclaimed solo artist) headlines; The Rebel Eves open. 11:30am–1:30pm.",
+      "url": "https://www.soniclunch.com/"
+    },
+    {
       "title": "Mark Jewett & The Strategic Advisors — The Ark",
       "date": "2026-07-09",
       "time": "20:00",
@@ -376,6 +292,30 @@
       "url": "https://mainstreetannarbor.org/rolling-sculpture"
     },
     {
+      "title": "Howie Day — The Ark",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 35,
+      "cost_notes": "$35",
+      "description": "Singer-songwriter known for emotionally resonant lyrics and inventive melodies. Special guest Max Bartos.",
+      "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Michigan Celtic Festival",
+      "date": "2026-07-10",
+      "time": "17:00",
+      "venue": "Washtenaw County Farm Council Grounds",
+      "neighborhood": "Ann Arbor (SW)",
+      "category": "music",
+      "cost": 8,
+      "cost_notes": "$8 adults; under 17 & active military free",
+      "description": "Two-day Celtic festival opens Friday at 5pm. Highland athletics, pipe bands, Celtic music stages, Corgi Races, Ring of Steel live show. Main day Sat Jul 11, 10am–midnight. 5055 Ann Arbor-Saline Rd.",
+      "url": "https://www.mi-celtic.org/"
+    },
+    {
       "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
       "date": "2026-07-10",
       "time": "20:00",
@@ -386,6 +326,30 @@
       "cost_notes": "~$20",
       "description": "National touring stand-up comedian Brian Scolaro headlines the Ann Arbor Comedy Showcase at 212 S 4th Ave.",
       "url": "https://www.aacomedy.com/"
+    },
+    {
+      "title": "The James Hunter Six — The Ark",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 40,
+      "cost_notes": "$40",
+      "description": "GRAMMY-nominated British soul artist delivering timeless rhythm & soul with gritty vocals and sharp songwriting. Special guest McKinley James.",
+      "url": "https://theark.org/events/"
+    },
+    {
+      "title": "Michigan Celtic Festival — Main Day",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "venue": "Washtenaw County Farm Council Grounds",
+      "neighborhood": "Ann Arbor (SW)",
+      "category": "music",
+      "cost": 8,
+      "cost_notes": "$8 adults; under 17 & active military free",
+      "description": "Full day: Highland athletics, pipe band competition, Celtic stages, Wee Folk Fun, Corgi Races, Ring of Steel. 10am–midnight.",
+      "url": "https://www.mi-celtic.org/festival-schedule-of-events"
     },
     {
       "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
@@ -412,6 +376,18 @@
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
     {
+      "title": "Lucy Wainwright Roche — The Ark",
+      "date": "2026-07-12",
+      "time": "19:30",
+      "venue": "The Ark",
+      "neighborhood": "Downtown Ann Arbor",
+      "category": "music",
+      "cost": 29,
+      "cost_notes": "$29",
+      "description": "Folk performer with a bell-tone voice blending wisdom with wit; daughter of Loudon Wainwright III and Suzzy Roche.",
+      "url": "https://theark.org/events/"
+    },
+    {
       "title": "Blue Llama Jazz Club — Live Jazz",
       "date": "2026-07-14",
       "time": "19:00",
@@ -422,6 +398,18 @@
       "cost_notes": "$10 cover",
       "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
       "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
+      "title": "Ann Arbor Civic Band — Oh, The Places You'll Go",
+      "date": "2026-07-15",
+      "time": "19:30",
+      "venue": "Burns Park",
+      "neighborhood": "Burns Park",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor concert by the Ann Arbor Civic Band at Burns Park. Dr. Seuss-themed musical journey program. 7:30–8:30pm.",
+      "url": "https://annarborcivicband.wixsite.com/aacb/concert-schedule"
     },
     {
       "title": "Blue Llama Jazz Club — Live Jazz",
