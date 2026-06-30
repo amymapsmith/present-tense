@@ -1,181 +1,199 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "destination": {
-    "city": "Richmond",
-    "country": "United States",
-    "flag": "🇺🇸",
-    "iata": "RIC",
-    "lat": 37.5407,
-    "lon": -77.4360,
-    "vibe": "A mid-sized Southern city with a world-class free art museum, one of the longest intact stretches of Victorian row houses in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and herons accessible entirely on foot."
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "flag": "🇩🇴",
+    "iata": "SDQ",
+    "lat": 18.4796,
+    "lon": -69.9026,
+    "vibe": "The oldest European city in the Western Hemisphere as your base, then a full loop of the island: the Samaná Peninsula's impossible beaches, 27 waterfalls on the north coast, a mountain town with white-water rafting and eternal spring weather, and bachata living in colmados on every corner because this is where it was born."
   },
-  "flight_search_date": "2026-06-29",
+  "flight_search_date": "2026-06-30",
   "flights": [
     {
       "airline": "Spirit Airlines",
-      "price_usd": 240,
-      "outbound_dates": "Late July 2026 (e.g. Jul 29) — mid-week departures cheapest",
-      "return_dates": "+10 days (e.g. Aug 8)",
-      "stops": 0,
-      "duration": "~1h 50m (nonstop)",
-      "url": "https://www.spirit.com/",
-      "notes": "Spirit operates nonstop DTW→RIC. Ultra-low base fare but add bags and seat selection. Book 5–8 weeks out. Cheapest days: Tuesday/Wednesday departures. Best for carry-on-only travel."
-    },
-    {
-      "airline": "Delta Air Lines",
-      "price_usd": 380,
-      "outbound_dates": "Late July 2026 (flexible Jul 28–Aug 2 window) — midweek lowest",
+      "price_usd": 280,
+      "outbound_dates": "Mid-August 2026 (Aug 12–20) — budget fares loosen after the Aug 1–10 peak",
       "return_dates": "+10 days",
-      "stops": 0,
-      "duration": "~1h 46m (nonstop)",
-      "url": "https://www.delta.com/us/en/flight-deals/united-states-flights/flights-to-richmond",
-      "notes": "Delta runs frequent nonstops DTW→RIC. Nonstop roundtrip from $350–$450 in peak summer. Includes carry-on bag. Book on Sundays for ~6% savings. Best choice for flexibility and reliability."
+      "stops": 1,
+      "duration": "~6–7h total (DTW→FLL ~2h 30m, FLL→SDQ ~2h 13m, layover ~1.5h)",
+      "url": "https://www.spirit.com/",
+      "notes": "Connect through Fort Lauderdale (FLL). Spirit operates 9 weekly direct FLL→SDQ flights. Bare fare from ~$280 but budget for bag fees ($45–65/checked bag) — pack carry-on only to keep this cheap. Book at spirit.com directly; aggregators show incomplete bag-fee pricing."
     },
     {
       "airline": "American Airlines",
-      "price_usd": 310,
-      "outbound_dates": "Flexible late July / early August 2026 — Tuesday/Wednesday lowest",
+      "price_usd": 420,
+      "outbound_dates": "Late July 2026, mid-week (Tue/Wed) for lower fares",
       "return_dates": "+10 days",
       "stops": 1,
-      "duration": "~4h 10m (1 stop, typically CLT or PHL)",
+      "duration": "~6–7h total (DTW→MIA ~2h, MIA→SDQ ~2h 20m, layover ~1.5h)",
       "url": "https://www.aa.com/",
-      "notes": "American serves DTW→RIC via connection at Charlotte (CLT) or Philadelphia (PHL). Roundtrip from ~$280–$350. Longer travel day but sometimes significantly cheaper than Delta nonstop — check aa.com fare calendar."
+      "notes": "Connect through Miami (MIA) — American's strongest hub for Caribbean routes. Multiple daily MIA→SDQ departures. Roundtrip from ~$420 in July. Use the flexible dates calendar on aa.com to find mid-week savings."
+    },
+    {
+      "airline": "Delta Air Lines",
+      "price_usd": 520,
+      "outbound_dates": "Early-to-mid August 2026 (Aug 5–15 window has more availability than peak July travel)",
+      "return_dates": "+10 days",
+      "stops": 1,
+      "duration": "~7–8h total (DTW→ATL ~1h 45m, ATL→SDQ ~3h 16m, layover ~1.5h)",
+      "url": "https://www.delta.com/",
+      "notes": "Connect through Atlanta (ATL). ATL→SDQ runs 6 flights/week. More expensive than Spirit but reliable and Comfort+ makes the layover tolerable. Check flexible dates at delta.com."
     }
   ],
   "lodging": [
     {
-      "name": "Fan District Victorian Row House (Entire Home — Airbnb)",
+      "name": "El Beaterio Guest House",
+      "type": "guesthouse",
+      "price_per_night_usd": 65,
+      "neighborhood": "Zona Colonial, Santo Domingo",
+      "highlights": "11-room guesthouse in a converted 16th-century convent one minute from the Malecón — stone courtyard, free breakfast buffet 8–10am daily. Base for Days 1–3 and 9–10.",
+      "url": "https://www.hotels.com/ho458189/el-beaterio-santo-domingo-dominican-republic/",
+      "source": "booking"
+    },
+    {
+      "name": "Hotel Conde de Peñalba",
+      "type": "hotel",
+      "price_per_night_usd": 95,
+      "neighborhood": "Zona Colonial, Santo Domingo",
+      "highlights": "Colonial-era building right on El Conde pedestrian street with a rooftop terrace, rated 8.6 on Booking — best value in SD for a mid-range stay.",
+      "url": "https://www.booking.com/hotel/do/conde-de-penalba.html",
+      "source": "booking"
+    },
+    {
+      "name": "Hotel Francés Santo Domingo – MGallery Collection",
+      "type": "hotel",
+      "price_per_night_usd": 175,
+      "neighborhood": "Zona Colonial, Santo Domingo",
+      "highlights": "19-room boutique in a 16th-century Spanish colonial building — individually furnished rooms, stone-arched common areas that feel like 1502.",
+      "url": "https://all.accor.com/hotel/B2A3/index.en.shtml",
+      "source": "direct"
+    },
+    {
+      "name": "Casa Coson (Airbnb or villa rental)",
       "type": "airbnb",
-      "price_per_night_usd": 110,
-      "neighborhood": "The Fan District",
-      "highlights": "Entire Victorian row house on or near Strawberry Street in Richmond's most walkable historic neighborhood — steps from restaurants, coffee shops, the VMFA, and Carytown, with the neighborhood feel that no hotel can replicate.",
-      "url": "https://www.airbnb.com/s/Richmond--Virginia--United-States/homes",
+      "price_per_night_usd": 90,
+      "neighborhood": "Las Terrenas, Samaná Peninsula",
+      "highlights": "Entire villa or apartment in Las Terrenas for the Samaná leg (Days 4–5) — short walk to Playa Bonita and the town's French-expat restaurant strip.",
+      "url": "https://www.airbnb.com/s/Las-Terrenas--Dominican-Republic/homes",
       "source": "airbnb"
     },
     {
-      "name": "Graduate by Hilton Richmond",
+      "name": "Kitebeach Hotel",
       "type": "hotel",
-      "price_per_night_usd": 185,
-      "neighborhood": "Downtown / Fan District edge (301 W Franklin St, near VCU)",
-      "highlights": "University-district boutique hotel with rooftop terrace overlooking the VCU Institute for Contemporary Art — walkable to VMFA, the Fan, and downtown; consistent mid-range quality with a good location for everything.",
-      "url": "https://www.hilton.com/en/hotels/ricgrgu-graduate-richmond/",
-      "source": "direct"
+      "price_per_night_usd": 85,
+      "neighborhood": "Cabarete, Puerto Plata Province",
+      "highlights": "Laid-back beachfront rooms in Cabarete — kite surfing capital of the Caribbean, 5-minute walk to the best beach bars on the north coast. Base for Days 6–8.",
+      "url": "https://www.booking.com/hotel/do/kitebeach.html",
+      "source": "booking"
     },
     {
-      "name": "Quirk Hotel Richmond",
+      "name": "Gran Jimenoa Hotel",
       "type": "hotel",
-      "price_per_night_usd": 220,
-      "neighborhood": "Arts District / Downtown (Main Street)",
-      "highlights": "Boutique gallery-hotel with rotating art installations, rooftop bar, and on-site restaurant Maple & Pine — the most design-forward hotel in Richmond, a Destination by Hyatt property in the heart of the arts district.",
-      "url": "https://www.quirkhotels.com/",
-      "source": "direct"
-    },
-    {
-      "name": "The Jefferson Hotel",
-      "type": "hotel",
-      "price_per_night_usd": 420,
-      "neighborhood": "Downtown Richmond (Franklin St at Adams St)",
-      "highlights": "National Historic Landmark opened in 1895 — the staircase reportedly inspired Gone With the Wind, Lemaire restaurant is Richmond's finest dining, and the grandeur is genuine rather than corporate.",
-      "url": "https://www.jeffersonhotel.com/",
-      "source": "direct"
+      "price_per_night_usd": 70,
+      "neighborhood": "Jarabacoa",
+      "highlights": "Riverside hotel at the base of Jimenoa waterfall in the mountain town of Jarabacoa — the starting point for white-water rafting, canyoning, and hiking. Base for Day 9.",
+      "url": "https://www.booking.com/hotel/do/gran-jimenoa.html",
+      "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Richmond is a mid-sized Southern city that punches well above its weight: a world-class free art museum (VMFA), one of the longest intact stretches of Victorian architecture in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes, herons, and Class IV rapids accessible entirely on foot. Ten days lets you sink into neighborhoods rather than race through them — the Fan on a Tuesday morning with coffee and a bakery, Church Hill at dusk, Carytown on a Saturday, Shockoe Bottom for history and oysters.",
+    "overview": "Santo Domingo is the oldest European city in the Western Hemisphere — crumbling fortresses next to buzzing colmados, UNESCO plaques sharing walls with bachata spilling from corner speakers. But 10 days unlocks the rest of the island: the Samaná Peninsula with one of the best beaches in the Caribbean and a 52-meter waterfall accessible by horseback; the north coast's 27 cascading waterfalls near Puerto Plata; the laid-back kite-surfing town of Cabarete; and Jarabacoa, the mountain town at 529 meters where the temperature stays perfect year-round and you can raft Class III rapids before lunch.",
     "days": [
       {
         "day": 1,
-        "title": "Arrival + The Fan Orientation",
-        "morning": "Fly in from DTW, land at RIC. Rideshare or rent a car (Uber/Lyft are plentiful from RIC; ~20 minutes to the Fan). Check into your Fan District Airbnb or Graduate Hotel. Walk the length of Monument Avenue from Belvidere Street west: observe the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains at the Boulevard intersection), and the remarkable tree canopy. This sets the tone for Richmond's complicated, evolving relationship with its past.",
-        "afternoon": "Walk Strawberry Street — the Fan's informal village center. Stop at Garnett's Cafe (2001 Park Ave) for a late lunch: the Scuffletown Chicken Salad Sandwich and one of their celebrated pies. Afterward, head to the VMFA (200 N Arthur Ashe Blvd) — free admission, no reservation needed — and spend 2 hours with the permanent collection. Don't miss Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.",
-        "evening": "Dinner at Beaucoup (111 N Robinson St) in the Fan — Richmond's best seafood and oyster spot, French-ish bistro format. Order the oysters and whatever fish they have. Then walk to The Jasper (3101 W Cary St) in Carytown — named by many as one of the best cocktail bars on the East Coast. Two drinks and settle in."
+        "title": "Arrive in Santo Domingo, eat twice, walk the colonial zone",
+        "morning": "Land at Las Américas (SDQ). Open Uber before exiting arrivals — request your ride inside the terminal (ignore the taxi touts in vests; Uber is cheaper and metered). Check into your Zona Colonial hotel. Find a neighborhood comedor — hand-painted sign, plastic chairs — and order Los Tres Golpes: mangú (mashed green plantains), fried Dominican salami, fried white cheese, eggs, sautéed red onions, café con leche. Comedores run out by 9:30am so aim for 8–9am. Cost: under $4 USD.",
+        "afternoon": "Walk the Zona Colonial counterclockwise. Start at Fortaleza Ozama on Calle Las Damas — the oldest standing fort in the Americas, open daily 9am–5pm, ~70 DOP (~$1.25). Stroll Calle Las Damas itself (first paved street in the New World). The Alcázar de Colón — Diego Columbus's palace-turned-museum overlooking the Ozama River — budget 45 minutes inside. Walk El Conde to the Catedral Primada de América (oldest cathedral in the Americas, 1504). Mid-afternoon: Mesón de Bari at Calle Hostos 302 for La Bandera — white rice, red beans, stewed meat, tostones. Open since 1976, still feeding locals.",
+        "evening": "The Malecón at sunset: families on benches, vendors selling morir soñando (orange juice + evaporated milk + crushed ice — order one from a street cart and drink it walking), domino tables, couples. After dark, colmados in the Zona Colonial fill up with people drinking ice-cold Presidentes while bachata bleeds from every doorway — the ambient, unscripted version of the music. End at Jalao on El Conde (small cover Thu–Sat for live music starting 7pm) for sancocho and the full two-story Dominican experience."
       },
       {
         "day": 2,
-        "title": "VMFA Deep Dive + Carytown",
-        "morning": "Return to the VMFA at 10am when it opens. Spend the full morning in the wings you didn't reach yesterday: the American galleries, the African art collection, the modern and contemporary floors. The VMFA is genuinely on par with major metropolitan museums and free admission means you can linger without guilt. Check icavcu.org for any current special exhibitions.",
-        "afternoon": "Walk or rideshare to Carytown (W Cary St between Thompson and Boulevard). This nine-block stretch of independent shops is the city's most enjoyable afternoon: browse For the Love of Chocolate, World of Mirth (bizarre toys and gifts), and any bookshop you see. Lunch at Mom's Siam (Thai, 3622 W Cary St) — the green curry is legendary. Stop at Gelati Celesti for ice cream; try the 'Just Ask' flavor.",
-        "evening": "Check the Byrd Theatre schedule (2908 W Cary St) — Richmond's 1928 movie palace showing films nightly for $4–8. On Friday and Saturday nights the Mighty Wurlitzer organ plays before the film. If nothing appeals, walk to Can Can Brasserie (3120 W Cary St) for dinner — French bistro with a gorgeous Belle Époque interior."
+        "title": "Culture deep dive: Gascue, caves, and an underground dinner",
+        "morning": "Plaza de la Cultura in Gascue — a leafy embassy-district square on land once owned by dictator Trujillo, now home to the Museum of Modern Art and the National Theatre. Gascue is what Santo Domingo looks like when it exhales: wide tree-lined streets, mid-century mansions, actual sidewalks. Coffee at Villar Hermanos, the most beloved cafetería in Gascue — decades of locals, strong coffee, excellent pastelitos (savory pastries). Walk back through the colonial zone to the Iglesia y Convento de los Dominicos (16th century, contains one of the oldest frescoes in the Americas).",
+        "afternoon": "Puerta de la Misericordia, where Dominican independence was declared in 1844 — walk through it, sit for a moment. Taxi to Los Tres Ojos (20 minutes east of the city): a limestone cave system with three lagoons connected underground, one of the genuinely strange and beautiful things in the Caribbean. After, find chicharrones de pollo anywhere — fried chicken chunks, Dominican style, crunchier and more aggressively seasoned than anything else you've had.",
+        "evening": "Reserve ahead for El Mesón de la Cava (Av. Mirador Sur 1) — a restaurant built inside a natural limestone cavern 40 feet underground, open since 1967. Descend spiral stairs into a cave lit by candlelight. The menu runs to grilled octopus, beef tenderloin flamed tableside, serious seafood. Theatrical and delicious. Santo Domingo's old-money class has celebrated milestones here for 60 years. Splurge night."
       },
       {
         "day": 3,
-        "title": "Jackson Ward History + Soul Food",
-        "morning": "Start at the Black History Museum & Cultural Center of Virginia (122 W Leigh St) in Jackson Ward, housed in the historic Leigh Street Armory. This neighborhood was the 'Harlem of the South' and 'Black Wall Street of America' — home to Maggie L. Walker (first woman bank president in the US). Visit the Maggie L. Walker National Historic Site (600 N 2nd St), a free NPS site with ranger-led tours of her home offered daily.",
-        "afternoon": "Lunch at Mama J's (415 N 1st St) — fried chicken, collard greens, mac and cheese. Cash and card, no reservations, worth any wait. After lunch, walk the mural corridors of Jackson Ward — it rivals Scott's Addition for large-scale street art. The intersection of Broad and Belvidere is a good starting point. Visit the Bill 'Bojangles' Robinson statue at Adams and Leigh.",
-        "evening": "Dinner at Restaurant Adarra (1 W Marshall St) — Basque pintxos done with Virginia ingredients, outstanding wine list. Small plates format; order 6–8 dishes. Walk over to Soul Taco (2005 W Broad St) afterward for late-night tacos: the root beer braised oxtail taco is exceptional."
+        "title": "Boca Chica beach morning, bachata afternoon, Piantini dinner",
+        "morning": "Boca Chica early — 30–40 minutes by taxi ($15–20 one-way) or público bus from Parque Enriquillo for under $1. Boca Chica is a sheltered lagoon separated from open Caribbean by a natural rock wall, unusually calm — more pool than sea. Arrive by 9am before the weekend vendor gauntlet sets up. Fresh fried fish at a beachfront comedor with tostones and a cold Presidente. You don't need to be there past noon.",
+        "afternoon": "Back in Santo Domingo. Museo del Hombre Dominicano in Plaza de la Cultura — its pre-Columbian Taino collection is one of the strongest in the Caribbean and almost no tourist traffic. Then find a colmado — any corner bodega with plastic chairs and a speaker — order a beer, and sit. This is how bachata actually lives in Santo Domingo: not in a show, but in a colmado on a Tuesday afternoon with someone's cousin singing along. The genre was born in the shantytowns of this city in the early 1960s, stigmatized as 'music of the poor' for 30 years, rescued partly by Juan Luis Guerra's 1990 'Bachata Rosa' album, and granted UNESCO Intangible Cultural Heritage status in 2019. None of that context is visible in the colmado. It's just music.",
+        "evening": "Pick up your rental car for tomorrow's departure — reserve a compact 4WD or SUV, required for some roads ahead. Dinner in Piantini or Naco — the upscale residential neighborhoods where locals actually eat. Buche Perico for contemporary Dominican in a restored colonial mansion. Finish with a Santo Libre (rum + Sprite + lime) at a rooftop bar."
       },
       {
         "day": 4,
-        "title": "Church Hill + The James River",
-        "morning": "Start at Sub Rosa Bakery (620 N 25th St) in Church Hill — labor-intensive sourdough and pastries using Virginia grain, one of the best bakeries in the South. Eat your pastry while walking up the hill to St. John's Church (2401 E Broad St), where Patrick Henry gave his 'Give Me Liberty or Give Me Death' speech in 1775. The hilltop views over the James River and Shockoe Valley are exceptional.",
-        "afternoon": "Walk down to Belle Isle via the pedestrian suspension bridge off Tredegar St. Belle Isle is a 54-acre island in the middle of the James with flat rocks, Civil War-era ruins, and river access. Bring water, sunscreen, and shoes you don't mind getting wet — wade in the rocky pools, sun on the granite slabs. This is where Richmond locals actually spend their summer afternoons. Then walk Tredegar Street along the north bank past the American Civil War Museum (500 Tredegar St) — the building exterior and grounds are free even if you skip the $15 interior ticket.",
-        "evening": "Dinner in Shockoe Slip: Sam Miller's (1210 E Cary St) for fresh seafood and raw bar — this is the restaurant that sparked the Shockoe revival in 1972 and it's still excellent. Wander the cobblestone streets of the Slip afterward, some of Richmond's oldest surviving commercial architecture."
+        "title": "Drive to Samaná Peninsula — Las Terrenas arrival",
+        "morning": "Leave Santo Domingo by 7am. The drive to Las Terrenas on the Samaná Peninsula is 3–3.5 hours via the Autopista del Nordeste. Stop in Nagua for a roadside breakfast — look for a fritería or panadería. The road climbs through the Cordillera Oriental and drops into a landscape of palm trees and coconut plantations as you approach the coast.",
+        "afternoon": "Arrive Las Terrenas, a beach town unlike anything else in the DR: French and Italian expats arrived in the 1980s and stayed, so the restaurant strip on the main road runs French bistros next to local comedores next to Lebanese spots, all within a short walk of genuinely beautiful beach. Check in, walk Playa Las Terrenas, go swimming. The town is small enough to know in an afternoon.",
+        "evening": "Dinner on the Pueblo de los Pescadores strip — a cluster of restaurants along the beach facing the sunset. Try La Terrasse (French, the original expat restaurant, still excellent) or El Mosquito Bar for fresh grilled fish. Then a beer at a beach bar while the waves come in."
       },
       {
         "day": 5,
-        "title": "Scott's Addition Brewery District",
-        "morning": "Sleep in. Scott's Addition doesn't get going until afternoon. Walk to Blanchard's Coffee for the morning. Then head to Brambly Park (2901 W Leigh St) — a 2-acre outdoor urban winery and cider taproom with lawn seating, often has weekend morning events.",
-        "afternoon": "The Scott's Addition brewery crawl. Start at The Veil Brewing Co. (2545 W Leigh St) — widely regarded as one of the best IPA and hazy ale breweries on the East Coast. Then Ardent Craft Ales (3200 W Leigh St), then Strangeways Brewing (2277 Dabney Rd). Stop at ZZQ Texas Craft Barbeque (3201 W Moore St, open Wed–Sun until sold out) — Texas-style brisket that won Food & Wine's best in Virginia. Also check Blue Bee Cider (1320 Dell Ave) for Virginia heirloom apple ciders.",
-        "evening": "Dinner at Lost Letter on the edge of Scott's Addition for beef tartare and butterkin squash gnocchi. Walk back along W Broad Street and catch the live music drifting out of various bar patios on a warm summer evening."
+        "title": "Playa Rincón + El Limón waterfall",
+        "morning": "Take a hired boat from Las Galeras (35 minutes by car east of Las Terrenas, or hire a taxi; the boat from Las Galeras harbor is ~$20 roundtrip per person) to Playa Rincón — consistently rated one of the best beaches in the Caribbean and genuinely one of them. No vendors, no hotels, no development. A 2-kilometer crescent of white sand backed by palms with a freshwater river at one end. Bring your own food and water. Swim. Do nothing.",
+        "afternoon": "Return to Las Galeras, then drive west to El Limón waterfall. You can hike 45 minutes each way through cocoa and banana plantation, or rent a horse in the village of El Limón (about $15 round trip including guide) for a 30-minute ride through jungle to the base of a 52-meter cascade that pours into a swimming pool at the bottom. Swim under the falls. It is exactly as good as it sounds.",
+        "evening": "Drive back to Las Terrenas. Dinner at Popy, the beachfront spot beloved by locals — grilled fish, garlic shrimp, cold beer."
       },
       {
         "day": 6,
-        "title": "Maymont Estate + Oregon Hill + L'Opossum",
-        "morning": "Head to Maymont (1700 Hampton St) at 10am — free admission. This 100-acre Victorian estate donated to the city in 1926 is a genuine gem: Japanese Garden, Italian Garden, Arboretum. Then visit the Virginia Wildlife Trail — 40 acres of rescued native animals including black bears, bobcats, bald eagles, and Great Blue Herons.",
-        "afternoon": "Walk or rideshare to Oregon Hill — one of Richmond's most bohemian, working-class historic neighborhoods clinging to a hillside above the James. Find the overlook at South Pine Street for the best elevated river views in the city. Then head to Pony Pasture Rapids (7200 Riverside Dr, south bank) — Richmond's most popular swimming spot on the James, with natural pools, rock slides, and sunbathers. Bring a towel.",
-        "evening": "Dinner at L'Opossum (626 China St, Oregon Hill) — arguably Richmond's most singular restaurant: French technique applied to eclectic Virginia-Southern mashups (escargot with ham biscuits). The interior is maximalist and theatrical. Reservations essential — James Beard Award-recognized chef David Shannon, Best Chef Mid-Atlantic."
+        "title": "Samaná → Cabarete (North Coast)",
+        "morning": "Leave Las Terrenas by 8am. The drive along the northern edge of the Samaná Peninsula to Cabarete is 3–3.5 hours through Nagua and along the spectacular north coast. Stop in Río San Juan for a quick walk around the Laguna Gri-Gri — a mangrove lagoon you can boat through by hiring a local fisherman at the dock for about $10.",
+        "afternoon": "Arrive Cabarete. This beach town is the kite-surfing capital of the Caribbean — the beach faces the right direction, the wind blows consistently, and there are schools if you want to try. But even if you don't kite, the beach is excellent and the scene is relaxed and international. Rent a bike and ride the 3-kilometer beachfront road, swim, buy a coconut from a vendor on the sand.",
+        "evening": "Cabarete's main strip has everything from pizza to Lebanese to sushi. Try Mr. Tom's Beach Bar (kite surfing crowd's default — cheap, cold beer, good fish tacos) or Casa del Pescador (fresh fish, more serious kitchen). Live music often happens on the main street on weekends."
       },
       {
         "day": 7,
-        "title": "ICA VCU + Shockoe Bottom History",
-        "morning": "Visit the Institute for Contemporary Art at VCU (601 W Broad St) — always free, Tuesday–Sunday 10am–5pm. The Steven Holl-designed building is worth seeing even before you enter (the glass facade shifts with daylight). Check icavcu.org for current exhibitions. Spend 90 minutes here.",
-        "afternoon": "Rideshare to Shockoe Bottom. Visit the Virginia Holocaust Museum (2000 E Cary St, $10) — one of the most moving regional Holocaust museums in the country, inside a beautifully renovated warehouse. Then walk to 17th Street Farmers Market (100 N 17th St) — one of the oldest continuously operating farmers markets in the US, now a weekend outdoor market. Visit the Reconciliation Triangle nearby, which acknowledges Richmond's role as the largest domestic slave trading hub in pre-Civil War America.",
-        "evening": "The Poe Museum (1914 E Main St) runs 'Unhappy Hour' cocktail events in the Enchanted Garden on select evenings — check poemuseum.org for dates. If not scheduled, visit during afternoon hours (Tue–Sun, $12). Dinner at Addis Ethiopian (2306 Jefferson Ave, Shockoe Bottom) for housemade injera and outstanding vegetarian stews."
+        "title": "27 Charcos de Damajagua",
+        "morning": "Drive 45 minutes west to the 27 Charcos de Damajagua — 27 cascading pools and waterfalls carved into a river gorge near Puerto Plata. You hike upstream through jungle (45 minutes to the first waterfall), then descend by jumping, sliding, and swimming through a series of natural limestone chutes and pools. The full circuit of 27 falls takes about 4 hours round trip and requires a guide (mandatory, ~$25–30 with guide and entrance fee included). Bring water shoes or rent them at the entrance. Go early — it gets busy after 10am.",
+        "afternoon": "Drive into Puerto Plata for lunch. The Puerto Plata Zona Colonial is smaller and quieter than Santo Domingo's but authentic — Parque Central, the Victorian gingerbread architecture on Calle Beller, the San Felipe Fortress on the waterfront. Take the teleférico (cable car) up Monte Isabel de Torres (~$10) for views of the coast from 800 meters. There's a Christ statue at the top and botanical gardens.",
+        "evening": "Back in Cabarete. Swim or watch the sunset from the beach. Dinner at La Casita de Papi, a tiny local spot serving fresh seafood. Cold Presidente. Early night."
       },
       {
         "day": 8,
-        "title": "Day Trip: Route 5 Historic Byway + Upper Shirley Vineyards",
-        "morning": "Rent a car for the day or rideshare east. Drive ~30 minutes on Route 5 (the historic scenic byway) through Charles City County. Upper Shirley Vineyards (600 Shirley Plantation Rd) is a working vineyard with 22 acres producing Viognier and sparkling rosé. Tastings from 11am. The drive along Route 5 passes Berkeley Plantation (birthplace of William Henry Harrison, site of the first Thanksgiving according to some historians).",
-        "afternoon": "Stop at Shirley Plantation (501 Shirley Plantation Rd) — the oldest active plantation in the US (1613), still owned by the Hill-Carter family, with outstanding original outbuildings. Return to Richmond via the River Road scenic route. Late afternoon: seat at Hardywood Park Craft Brewery (2410 Ownby Ln) for outdoor beer garden time.",
-        "evening": "Dinner at Edo's Squid (411 N Harrison St, Downtown) — loud Italian in a cramped room with garlic-forward pasta and the best calamari in Richmond. No reservations; arrive by 5:30pm or expect a wait. Check The National (708 E Broad St) for what's playing — one of the best mid-size music rooms on the East Coast."
+        "title": "Cabarete rest day + Sosúa",
+        "morning": "Slow start. Breakfast at a beach café in Cabarete. Then drive 10 minutes east to Sosúa — a small beach town with a sheltered cove, excellent snorkeling (the reef is 15 feet down, you can snorkel from the beach), and more laid-back energy than Cabarete. Sosúa also has an unusual history: in 1940, Trujillo admitted 800 Jewish refugees from Nazi Germany and gave them land — the small Jewish Museum (Calle Dr. Alejo Martínez 24) documents this story, and a tiny but still-active synagogue (one of the few in the Caribbean) stands nearby.",
+        "afternoon": "Back in Cabarete. A kite-surfing lesson if you want one — 2-hour intro lessons available through Dare2Fly or Laurel Eastman Kiteboarding on the beach (~$80–100). Or just swim. Or read. The beach is doing the work.",
+        "evening": "Sunset beers on the Cabarete main strip. Dinner at Otro Mundo (eclectic menu, rooftop, one of the more ambitious kitchens in town). Pack the car tonight — leaving early for the mountains."
       },
       {
         "day": 9,
-        "title": "Fan Neighborhood Walk + Museum District + Celladora",
-        "morning": "A slow Fan morning: walk the grid of streets between Park Avenue and Floyd Avenue, from Belvidere to Boulevard. The Fan contains one of the longest intact stretches of Victorian architecture in the US — Queen Anne, Italianate, Colonial Revival row houses. Stop into Susie's Delicatessen for a late morning bagel or matzo ball soup. Then browse the Virginia Museum of History and Culture (428 N Arthur Ashe Blvd, next to VMFA) — excellent permanent exhibition on Virginia's full arc from Indigenous peoples to today.",
-        "afternoon": "Visit the Valentine Museum (1015 E Clay St, downtown) — Richmond's city history museum with guided walking tours of neighborhoods. Check if they have a scheduled walking tour of the Fan or Church Hill. Afternoon coffee at North End Juice Co. for fresh smoothies at a walk-up window. Then an hour back at VMFA — the cafe inside (Best Cafe in RVA, multiple years) is excellent for a late lunch.",
-        "evening": "Splurge dinner at Celladora (Fan District) — described by The Infatuation as the best restaurant in Richmond, technically a wine shop but the French-leaning small plates are exceptional, natural wine focus. Reservations essential. Or if budget is tight: Stella's Greek (1012 Lafayette St) for moussaka and braised lamb at excellent value — a Richmond institution."
+        "title": "Jarabacoa — the City of Eternal Spring",
+        "morning": "Drive south from Cabarete 2.5 hours into the Cordillera Central, the mountain spine of the Dominican Republic. Jarabacoa sits at 529 meters and earns its nickname — while the coast bakes at 35°C, Jarabacoa hovers around 22°C year-round. Check into Gran Jimenoa Hotel (riverside, at the base of the waterfall) or any guesthouse in town. Walk to the Jimenoa I waterfall — a 40-meter cascade 15 minutes by car from town, then a 10-minute walk through the forest. It is loud and cold and excellent.",
+        "afternoon": "White-water rafting on the Río Yaque del Norte — the most important river in the Dominican Republic, running Class III rapids through mountain forest. Multiple operators in Jarabacoa offer half-day trips (Rancho Baiguate, ~$45 including equipment and guide). Or: canyoning with Jarabacoa Ecotours — rappelling down waterfalls through jungle canyons, 3–4 hours, ~$50. Either is the most physically fun thing you'll do on this trip.",
+        "evening": "Dinner in Jarabacoa's town center — small restaurants serving roasted chicken, sancocho, and the mountain version of La Bandera with the cool night air coming in through the open windows. A quiet night — the mountains have reset the pace."
       },
       {
         "day": 10,
-        "title": "Last Morning on the James + Farewell",
-        "morning": "One final James River morning: walk Belle Isle at sunrise, or rideshare to Pony Pasture for a last swim if it's warm. Pick up pastries from Sub Rosa Bakery or Shyndigz (the banana pudding cake and layer cakes went viral for a reason). Walk Monument Avenue one last time in the morning cool before the heat sets in.",
-        "afternoon": "Final lunch at Joe's Inn (205 N Shields Ave, The Fan) — 73-year Richmond institution, always packed, beloved for spaghetti, burgers, and consistency. Walk Strawberry Street one last time. Pack up and rideshare to RIC (Richmond International Airport, about 20–25 minutes from the Fan). Flight home to DTW.",
-        "evening": ""
+        "title": "Jarabacoa → Santiago → Santo Domingo, fly home",
+        "morning": "Early breakfast in Jarabacoa. Drive 45 minutes north to Santiago — the Dominican Republic's second city and the undisputed center of the country's baseball culture. Walk to the Monumento a los Héroes de la Restauración (the huge obelisk visible from anywhere in the city) for panoramic views from the top. Walk Calle del Sol, Santiago's commercial main street. Visit the Museo del Tabaco (cigar museum) — the Cibao Valley around Santiago grows some of the finest tobacco in the world, and the museum covers the entire history from leaf to cigar with surprisingly excellent curation.",
+        "afternoon": "Lunch at a Santiago comedor before the 3-hour drive south back to Santo Domingo. The autopista runs through the Cibao Valley past rice fields, cattle farms, and roadside fruit vendors. Drop the rental car at SDQ and allow extra time — DR car return procedures can move slowly. If your flight is late enough, swing through the Zona Colonial one last time for a final Presidente and morir soñando on El Conde.",
+        "evening": "Flight home from SDQ."
       }
     ],
     "tips": [
-      "The Fan is the best base: most restaurants, coffee shops, and bars are within a 15-minute walk of each other, and you can easily walk to the VMFA, Carytown, and Oregon Hill. The Airbnb Victorian row houses give you a neighborhood feel that no hotel can match.",
-      "The James River is Richmond's secret amenity. Pony Pasture (south side, accessible by car/rideshare) is safer and more popular for swimming than Belle Isle — the rocky pools there are genuinely beautiful and locals treat them as their backyard. Don't miss it on a hot day.",
-      "Richmond's restaurant scene is best Tuesday through Thursday — many top spots are closed Monday, and Friday/Saturday brings longer waits. L'Opossum, Celladora, and Beaucoup all require advance reservations; book them before you leave Detroit.",
-      "The VMFA is completely free for the permanent collection — there's no reason not to go multiple times. 90 minutes twice beats one exhausting four-hour marathon visit. The cafe inside (Best Cafe in RVA award, multiple years) is also excellent for lunch.",
-      "Scott's Addition has almost no parking on weekends — Uber there and walk between breweries. The Veil has lines on weekend afternoons; arrive at opening (noon Saturday) to avoid the worst waits.",
-      "ZZQ sells out by early afternoon most days (open Wed–Sun, 11am). Get there by 11:30am or you'll miss the brisket. They are genuinely sold out by 2pm on busy days — this is not an exaggeration."
+      "Rent a car for this trip. A compact SUV or 4WD is recommended (~$40–60/day from SDQ). The freedom to move on your own schedule — especially for the Samaná peninsula, Jarabacoa mountain roads, and El Limón approach — is worth more than any other upgrade. Book before you arrive; inventory at the airport is limited and prices spike.",
+      "The Uber situation at SDQ arrivals is chaotic — taxi touts in vests will follow you aggressively and sometimes block Uber pickups. Open Uber before you clear customs, request your ride inside the terminal, and walk with purpose. Do not engage unprompted.",
+      "Bonyé: free traditional Dominican music (bachata, salsa, merengue) performed at the open-air ruins of San Francisco in the Zona Colonial on Sunday afternoons. It's attended by locals, it's free, and it's one of the most genuine music experiences in the Caribbean. Plan your Santo Domingo days around it if a Sunday falls during your first three days.",
+      "Pay in Dominican pesos (DOP) at comedores and colmados. Withdraw from a bank ATM inside a bank branch. USD is accepted in tourist zones but at poor exchange rates. Keep a stack of small-denomination pesos for street food, tips, and colmado beers.",
+      "La Bandera is a midday meal only — rice, beans, stewed meat, tostones, served at comedores 11am–2pm. Arrive hungry and order what they're cooking, not what's on the menu. After 2pm the pots are empty.",
+      "Don't drink tap water anywhere in the DR. Bottled water is sold on every block for under 50 cents. Carry a bottle at all times — the heat is serious and dehydration happens fast.",
+      "Playa Rincón (Day 5) has no services and no shade past the palm line — bring your own food, snacks, and at least 2 liters of water. The boat from Las Galeras harbor leaves when the captain is ready, roughly 9am and 10am. Agree on a pickup time when you arrive.",
+      "El Limón waterfall is best on a weekday morning when tour buses from Punta Cana haven't arrived yet. The horses in the village are small Dominican criollos and perfectly capable — ignore any sales pitch that suggests the hike is dangerous or only possible with a premium tour."
     ],
     "sources": [
-      { "title": "Visit Richmond VA — Official Tourism Site", "url": "https://www.visitrichmondva.com/things-to-do/" },
-      { "title": "The Infatuation: Best Restaurants in Richmond VA", "url": "https://www.theinfatuation.com/richmond/guides/best-restaurants-richmond-va" },
-      { "title": "Virginia Museum of Fine Arts", "url": "https://www.vmfa.museum/" },
-      { "title": "ICA at VCU — Free Admission", "url": "https://icavcu.org/" },
-      { "title": "Maymont Official Site", "url": "https://maymont.org/" },
-      { "title": "James River Park System — Swimming", "url": "https://jamesriverpark.org/swimming-in-the-james-river-park/" },
-      { "title": "Quirk Hotel Richmond — Official", "url": "https://www.quirkhotels.com/" },
-      { "title": "The Jefferson Hotel Richmond — Official", "url": "https://www.jeffersonhotel.com/" },
-      { "title": "Scott's Addition Breweries Guide", "url": "https://boozingabroad.com/scotts-addition-breweries-richmond-va/" },
-      { "title": "Poe Museum Richmond", "url": "https://poemuseum.org/" },
-      { "title": "Virginia Holocaust Museum", "url": "https://www.vaholocaust.org/" },
-      { "title": "Jackson Ward — Visit BLK RVA", "url": "https://www.visitblkrva.com/jacksonward" },
-      { "title": "Carytown Richmond VA — Visit Richmond", "url": "https://www.visitrichmondva.com/about/neighborhoods/carytown-richmond-va/" }
+      { "title": "Zona Colonial Walking Tour — WhereToNau", "url": "https://www.wheretonau.com/post/santo-domingo-zona-colonial-walking-tour" },
+      { "title": "El Mesón de la Cava — Atlas Obscura", "url": "https://www.atlasobscura.com/places/el-meson-de-la-cava" },
+      { "title": "Music and Dance of Dominican Bachata — UNESCO ICH", "url": "https://ich.unesco.org/en/RL/music-and-dance-of-dominican-bachata-01514" },
+      { "title": "Playa Rincón — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/samana/las-galeras/" },
+      { "title": "27 Charcos de Damajagua — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/things-to-do/nature/damajagua-waterfalls/" },
+      { "title": "Boca Chica — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/boca-chica" },
+      { "title": "Bachata history and cultural venues — Island Hopper Guides", "url": "https://islandhopperguides.com/dominican-republic/dominican-culture/bachata-beyond-the-dance-floor-decoding-the-rhythm-of-dominican-identity/" },
+      { "title": "Morir Soñando — Atlas Obscura Gastro", "url": "https://www.atlasobscura.com/foods/morir-sonando-dominican-republic" },
+      { "title": "Jarabacoa Ecotourism Guide — Discover Dominican Republic", "url": "https://www.discoverdomincanrepublic.com/jarabacoa/" },
+      { "title": "Sosúa Jewish History — Jewish Heritage Europe", "url": "https://jewish-heritage-europe.eu/directory/sosua-dominican-republic/" },
+      { "title": "First Time in Santo Domingo 2026 — Advised Traveler", "url": "https://advised-traveler.com/en/caribbean/things-to-know-before-visiting-dominican-republic/visit-first-time-santo-domingo/" }
     ]
   }
 }
