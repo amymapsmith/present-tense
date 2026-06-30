@@ -1,6 +1,200 @@
 {
   "destinations": [
     {
+      "updated": "2026-06-25",
+      "destination": {
+        "city": "Rhinebeck",
+        "country": "United States",
+        "flag": "🇺🇸",
+        "iata": "JFK",
+        "lat": 41.9262,
+        "lon": -73.9120,
+        "vibe": "90 miles north of Penn Station by Amtrak, Rhinebeck sits at the center of the best road cycling in the Northeast — 300-year-old country lanes through orchards and river estates, the Hudson at the bottom of every hill, the Catskills on the horizon, and the Shawangunk Ridge one bridge-crossing away."
+      },
+      "flight_search_date": "2026-06-25",
+      "flights": [
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 179,
+          "outbound_dates": "July–August flexible (Tue/Wed cheapest; 4+ daily nonstops DTW→JFK)",
+          "return_dates": "flexible +5–7 days",
+          "stops": 0,
+          "duration": "1h 52m",
+          "url": "https://www.delta.com/us/en/flight-deals/current-flight-deals",
+          "notes": "DTW→JFK nonstop. Best bike policy of any major carrier: bikes treated as oversized checked bag at the standard rate (~$35/way), not the $150 penalty others charge. Confirm 115 linear inch / 50 lb limit before booking. Average $179–$217 RT in July — book 40 days out for best pricing."
+        },
+        {
+          "airline": "United Airlines",
+          "price_usd": 149,
+          "outbound_dates": "Early August (Tue Aug 4 cheapest; ~daily nonstops DTW→EWR)",
+          "return_dates": "flexible +5–7 days",
+          "stops": 0,
+          "duration": "2h",
+          "url": "https://www.united.com/en/us/deals/flights-from-detroit-to-new-york",
+          "notes": "DTW→EWR (Newark). Cheapest ticket but United's bike fee is ~$150 each way — wipes out the savings vs. Delta unless you're shipping your bike separately. EWR is easy for Penn Station: Newark AirTrain + NJ Transit (~40min, ~$18)."
+        },
+        {
+          "airline": "JetBlue",
+          "price_usd": 258,
+          "outbound_dates": "Late July (Jul 29 from $129 one-way; flexible Aug return from ~$149 OW)",
+          "return_dates": "flexible",
+          "stops": 0,
+          "duration": "1h 52m",
+          "url": "https://www.jetblue.com/en/flights-from-detroit-to-new-york",
+          "notes": "DTW→JFK nonstop. $100 bike handling fee + standard bag fee, and an 80-linear-inch / 50 lb hard case limit that's tight for most bike bags. Best used as a backup if Delta is sold out."
+        }
+      ],
+      "transportation": [
+        {
+          "name": "AirTrain + Subway — JFK to Penn Station",
+          "mode": "transit",
+          "description": "JFK → AirTrain to Jamaica → A or E train to Midtown Penn Station · bikes allowed on NYC subway",
+          "duration": "~55 min",
+          "price_usd": 11,
+          "price_note": "$8.50 AirTrain + $2.90 subway (OMNY tap)",
+          "url": "https://www.jfkairport.com/to-from-airport/air-train",
+          "notes": "Bikes are allowed on the NYC subway — carry/fold vertically. Alternative: LIRR from Jamaica to Penn Station (~$11.50, ~30min total) if you want to move faster."
+        },
+        {
+          "name": "Amtrak Empire Service — Penn Station NYC → Rhinecliff",
+          "mode": "train",
+          "description": "Penn Station NYC to Rhinecliff station · the scenic route up the east bank of the Hudson River",
+          "duration": "~2h 10m",
+          "price_usd": 38,
+          "price_note": "$30–55 each way · $10 bike reservation fee",
+          "url": "https://www.amtrak.com/empire-service-train",
+          "notes": "The Empire Service runs 3–4x daily to Rhinecliff. Reserve bike space at booking — July fills fast. The last hour follows the Hudson River with Catskills views across the water."
+        },
+        {
+          "name": "Amtrak — Rhinecliff → Poughkeepsie (Shawangunk day)",
+          "mode": "train",
+          "description": "5 stops south to Poughkeepsie · used for the Shawangunk Ridge day ride",
+          "duration": "~35 min",
+          "price_usd": 12,
+          "price_note": "~$10–15 each way",
+          "url": "https://www.amtrak.com/empire-service-train",
+          "notes": "Take this instead of riding 30+ miles south just to reach the Walkway Over the Hudson. Poughkeepsie station is 10 minutes from the Walkway entrance by bike."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Beekman Arms & Delamater Inn",
+          "type": "hotel",
+          "price_per_night_usd": 145,
+          "neighborhood": "Rhinebeck village center",
+          "highlights": "America's oldest continuously operating inn (est. 1766) on Market Street — roll out the front door onto back roads, free breakfast, free parking, walking distance to every restaurant and farm stand in town.",
+          "url": "https://www.beekmandelamaterinn.com/",
+          "source": "booking"
+        },
+        {
+          "name": "The Wick",
+          "type": "hotel",
+          "price_per_night_usd": 230,
+          "neighborhood": "Warren Street, Hudson NY",
+          "highlights": "Converted 1860s candle factory on Hudson's gallery-lined Warren Street, 2 miles from the Empire State Trail — complimentary breakfast, Lil' Deb's Oasis and Cafe Mutton are both around the corner.",
+          "url": "https://www.thewickhotel.com/",
+          "source": "booking"
+        },
+        {
+          "name": "Mirbeau Inn & Spa",
+          "type": "hotel",
+          "price_per_night_usd": 500,
+          "neighborhood": "Rhinebeck village",
+          "highlights": "The only lodging in the valley explicitly built for the cycling-then-recovery pattern: complimentary loaner bikes, a full spa, pools, on-site dining — plus you're one mile from every back road in Dutchess County.",
+          "url": "https://rhinebeck.mirbeau.com/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "The Hudson Valley has been the best road cycling in the Northeast for decades, and cyclists have been the only ones who know it. The roads around Rhinebeck, Red Hook, and Tivoli are genuinely quiet — traffic stayed on Route 9 while the real roads looped through farm country behind it. You fly into JFK, take the Amtrak Empire Service 90 miles north to Rhinecliff (a Victorian depot right on the riverbank), roll off the train, and you're immediately in back-road territory. Across the Hudson, the Shawangunk Ridge offers some of the best sustained climbing in the Northeast: 15% pitches through white conglomerate escarpments, accessed via the Walkway Over the Hudson in Poughkeepsie.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrive — DTW → JFK → Rhinecliff",
+            "morning": "Fly DTW→JFK (Delta, 1h52m nonstop). AirTrain to Jamaica station (~8min, $8.50), then A or E subway to Penn Station (~35min, $2.90). Or LIRR from Jamaica to Penn Station (~$11.50, faster). Amtrak Empire Service to Rhinecliff — book the bike space at amtrak.com ($10 fee, July fills fast).",
+            "afternoon": "Rhinecliff station is a 1873 Victorian depot right on the river bank. The mile from Rhinecliff up to Rhinebeck village is the one climb of the day. Check in, assemble bike if needed. Bread Alone Bakery (45 E Market St, closes 5pm) for a pastry and coffee.",
+            "evening": "Dinner at Terrapin (farm-to-table since 1998) or casual at Aba's Falafel for something quick.",
+            "waypoints": [
+              { "name": "Rhinecliff Station (Amtrak arrival)", "lat": 41.9204, "lon": -73.9622 },
+              { "name": "Rhinebeck village / Bread Alone Bakery", "lat": 41.9262, "lon": -73.9117 }
+            ]
+          },
+          {
+            "day": 2,
+            "title": "Rhinebeck → Bard → Tivoli → Red Hook — 34mi / 55km, ~1,100ft / 335m",
+            "morning": "Head north from Rhinebeck on Route 9G, then onto back roads through Bard College campus. Continue north to Tivoli. Tivoli General (52 Broadway): get a bialy before they sell out.",
+            "afternoon": "Lunch at GioBatta Alimentari (48 Broadway, Tivoli) — Ruth Reichl is a known regular. Head south toward Red Hook, stopping at Montgomery Place Orchards (Route 9G — open Wed–Sat 9–6, Sun 9–5 from mid-June): 60+ apple varieties, apple cider donuts. Return to Rhinebeck.",
+            "evening": "Gigi (Mediterranean with Hudson Valley ingredients) or Rhinebeck Farmers' Market if it's Sunday (10am–2pm).",
+            "waypoints": [
+              { "name": "Bard College (campus roads)", "lat": 42.0264, "lon": -73.9089 },
+              { "name": "Tivoli / GioBatta Alimentari", "lat": 42.0578, "lon": -73.8991 },
+              { "name": "Montgomery Place Orchards", "lat": 41.9946, "lon": -73.8924 }
+            ]
+          },
+          {
+            "day": 3,
+            "title": "River Road Long Loop — 52mi / 84km, ~1,400ft / 427m",
+            "morning": "Early start — 6:30 or 7am. Head southwest toward the river, connecting to River Road south. River Road is the open secret of Hudson Valley cycling: flat, paved, river views, almost no cars. Stop at Migliorelli Farm Stand (668 River Rd, open daily 9–6) for mid-ride fuel.",
+            "afternoon": "Loop back north through inland farm roads and rolling terrain before returning to Rhinebeck.",
+            "evening": "Terrapin in Rhinebeck, or Amtrak one stop south to Cafe Mutton (757 Columbia St, Hudson — crépinettes, beef tartare, Wed–Fri evenings).",
+            "waypoints": [
+              { "name": "Migliorelli Farm Stand (River Rd)", "lat": 41.8902, "lon": -73.9588 }
+            ]
+          },
+          {
+            "day": 4,
+            "title": "Hudson Day — Warren Street, Olana, Lil' Deb's",
+            "morning": "Ride 25 miles south on Route 9G to Hudson, or take Amtrak one stop south (~12 minutes, ~$12 each way). Circles Bagels in Hudson for breakfast.",
+            "afternoon": "Olana State Historic Site (5720 Route 9G) — Frederic Church's 250-acre Persian-inspired estate. Grounds free to walk; house tour ticketed. Then Warren Street: 50+ antique dealers, Carrie Haddad Gallery (best photography gallery in the valley), Ornamentum.",
+            "evening": "Lil' Deb's Oasis (747 Columbia St, Thu–Sun only, no reservations). Arrive 15 minutes before opening. Tropical comfort food with Hudson Valley ingredients: whole fried fish, plantains, octopus tostadas. James Beard-nominated.",
+            "waypoints": [
+              { "name": "Olana State Historic Site", "lat": 42.1815, "lon": -73.8622 },
+              { "name": "Hudson / Warren Street", "lat": 42.2535, "lon": -73.7905 },
+              { "name": "Lil' Deb's Oasis (747 Columbia St)", "lat": 42.2520, "lon": -73.7963 }
+            ]
+          },
+          {
+            "day": 5,
+            "title": "Shawangunk Ridge — 46mi / 74km, 2,800ft / 853m (from New Paltz)",
+            "morning": "Take Amtrak south to Poughkeepsie (~35min from Rhinecliff, ~$12), then ride 10 minutes to the Walkway Over the Hudson — a 1.28-mile pedestrian/cycling bridge 212 feet above the river, free, open 7am–sunset. Cross to Highland (west bank) and ride 12 miles south to New Paltz.",
+            "afternoon": "Two options: (A) Shawangunk Ridge Road Ride — 46 miles paved, 2,848ft elevation, 15% pitches; (B) Mohonk/Minnewaska State Park carriage roads — 35+ miles no-car gravel, $10 day-use fee. Descend to New Paltz, Amtrak back north from Poughkeepsie.",
+            "evening": "Recovery dinner. Something simple in Rhinebeck.",
+            "waypoints": [
+              { "name": "Walkway Over the Hudson (Poughkeepsie)", "lat": 41.7145, "lon": -73.9362 },
+              { "name": "New Paltz (base for the Ridge)", "lat": 41.7487, "lon": -74.0878 }
+            ]
+          },
+          {
+            "day": 6,
+            "title": "Farmers' Market Morning → NYC → DTW",
+            "morning": "If it's Sunday: Rhinebeck Farmers' Market (10am–2pm, 23 E Market St) — the best in the Hudson Valley. Pick up provisions for the train. Amtrak Empire Service south to Penn Station.",
+            "afternoon": "AirTrain and Delta back to DTW. Home by dinner.",
+            "evening": "",
+            "waypoints": [
+              { "name": "Rhinebeck Farmers' Market", "lat": 41.9262, "lon": -73.9113 },
+              { "name": "Rhinecliff Station (Amtrak departure)", "lat": 41.9204, "lon": -73.9622 }
+            ]
+          }
+        ],
+        "tips": [
+          "River Road goes by multiple names as it runs parallel to the Hudson — download your route from Mid Hudson Bicycle Club (midhudsonbicycleclub.com) or Komoot before leaving; cell signal on back roads can be spotty.",
+          "July heat in the Hudson Valley is genuine — mid-80s to low 90s with humidity. Aim to finish riding by noon. Start at 6:30am.",
+          "Lil' Deb's Oasis (Hudson) is Thursday–Sunday only and takes no reservations. Go at opening or expect a significant wait. Plan your Hudson day for a Thu–Sun.",
+          "GioBatta Alimentari in Tivoli (48 Broadway) doesn't have much of an online presence. Go for lunch — it's the best food in the valley for its size and price point.",
+          "The Walkway Over the Hudson is the key to accessing the Shawangunks without a car. Free, open 7am–sunset, bikes allowed.",
+          "Mid Hudson Bicycle Club (midhudsonbicycleclub.com) has 700+ published routes on Ride with GPS covering Dutchess and Ulster Counties at every skill level.",
+          "Rhinebeck Farmers' Market (Sundays, 10am–2pm) is worth building your itinerary around — it's the social center of the valley on summer weekends.",
+          "Montgomery Place Orchards (Route 9G, Red Hook) is explicitly bike-accessible. The apple cider donuts are not optional."
+        ],
+        "sources": [
+          { "title": "Guide to Cycling the Hudson Valley — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-usa/hudson-valley-new-york/" },
+          { "title": "Mid Hudson Bicycle Club — Ride with GPS route library", "url": "https://ridewithgps.com/organizations/2644-mid-hudson-bicycle-club/routes" },
+          { "title": "Best Restaurants in Rhinebeck — The Infatuation", "url": "https://www.theinfatuation.com/hudson-valley/guides/best-restaurants-rhinebeck-new-york" },
+          { "title": "Montgomery Place Orchards", "url": "https://montgomery-place-orchards.com/" }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-24",
       "destination": {
         "city": "Bellingham",
@@ -21,7 +215,7 @@
           "stops": 0,
           "duration": "5h 48m",
           "url": "https://www.alaskaair.com/",
-          "notes": "DTW→SEA nonstop. July peak expect $380–470 RT. Bike fee: $30–75 each way depending on fare class and case dimensions — verify at alaskaair.com before booking. Getting SEA→Bellingham: (A) Transit — Link Light Rail SeaTac to King Street Station, Seattle (40 min, $3.25), then Amtrak Cascades to Fairhaven Station, Bellingham (~2h, $27–45; bikes accepted with $10 reservation — book early at amtrak.com or 1-800-USA-RAIL, July slots fill fast); (B) Car — rent at SEA ($55–80/day compact), drive I-5 north 80 miles, 90 minutes. A car is required for the Mt. Baker day; transit-only travelers should add a 1-day local rental in Bellingham."
+          "notes": "DTW→SEA nonstop. July peak expect $380–470 RT. Bike fee: $30–75 each way — verify at alaskaair.com. Getting SEA→Bellingham: (A) Link Light Rail to King Street Station then Amtrak Cascades to Fairhaven Station (~2h, $27–45, bikes with $10 reservation); (B) Car rental at SEA ($55–80/day), drive I-5 north 80 miles, 90 min. A car required for the Mt. Baker day."
         }
       ],
       "transportation": [
@@ -33,7 +227,7 @@
           "price_usd": 27,
           "price_note": "$27–45 each way · $10 bike reservation fee",
           "url": "https://www.amtrak.com/cascades-train",
-          "notes": "Reserve bike space early at amtrak.com or 1-800-USA-RAIL — July Cascades fill fast. Fairhaven Station is 3 flat miles from downtown Bellingham."
+          "notes": "Reserve bike space early — July Cascades fill fast. Fairhaven Station is 3 flat miles from downtown Bellingham."
         },
         {
           "name": "Car Rental at SEA — I-5 north to Bellingham (80 mi, ~90 min)",
@@ -43,7 +237,7 @@
           "price_usd": 55,
           "price_note": "$55–80/day compact · $80–110/day SUV",
           "url": "https://www.kayak.com/cars",
-          "notes": "Budget, Enterprise, and Hertz all have desks at SEA. Reserve early — July inventory is tight. A compact hatchback handles a soft-sided bike bag."
+          "notes": "Reserve early — July inventory is tight."
         }
       ],
       "lodging": [
@@ -52,8 +246,8 @@
           "type": "hotel",
           "price_per_night_usd": 149,
           "neighborhood": "Downtown Bellingham",
-          "highlights": "1920s boutique hotel with a confirmed locked bike room, dedicated bike wash station, a prohibition-era cocktail bar, and a private 30-seat screening room — more cycling infrastructure than most hotels twice the price.",
-          "url": "https://www.reservationstays.com/hotels/G8OqDzwj?checkin_at=2026-08-01&currency=USD&checkout_at=2026-08-06&num_adults=2&children=[]&utm_source=share_semro&utm_medium=organic&utm_id=share_button_rs&utm_campaign=share_button_hco",
+          "highlights": "1920s boutique hotel with a confirmed locked bike room, dedicated bike wash station, a prohibition-era cocktail bar, and a private 30-seat screening room.",
+          "url": "https://www.reservationstays.com/hotels/G8OqDzwj",
           "source": "booking"
         },
         {
@@ -61,7 +255,7 @@
           "type": "hotel",
           "price_per_night_usd": 130,
           "neighborhood": "Columbia neighborhood, Bellingham",
-          "highlights": "Renovated 1950s boutique property at 2419 Elm St with a dedicated bike washing station, seven distinct room layouts, a fire pit yard, and a pet-friendly vibe — 10 minutes from downtown by bike.",
+          "highlights": "Renovated 1950s boutique property at 2419 Elm St with a dedicated bike washing station, seven distinct room layouts, a fire pit yard — 10 minutes from downtown by bike.",
           "url": "https://www.heliotropehotel.com/",
           "source": "booking"
         },
@@ -70,8 +264,8 @@
           "type": "hotel",
           "price_per_night_usd": 215,
           "neighborhood": "Fairhaven waterfront, Bellingham",
-          "highlights": "Waterfront hotel on Bellingham Bay with gas fireplaces in every room, on-site spa, hot tub, and Keenan's at the Pier restaurant — Pacific Northwest cuisine with direct views of the bay and San Juan Islands.",
-          "url": "https://www.guestreservations.com/chrysalis-inn-spa-bellingham-curio-collection-by-hilton/booking?utm_source=google&utm_medium=cpc&utm_campaign=964114281&gad_source=1&gad_campaignid=964114281&gbraid=0AAAAADiMQMbE6RC6OwQELIIJ1_VmRbY7T&gclid=CjwKCAjwgO7RBhBKEiwAZNP85u29TIM_ektByzbUIvu-5uLv0u4hq3YZ7256r2S-6OmAlWqQSVYBLhoCUr4QAvD_BwE&ctTriggered=true",
+          "highlights": "Waterfront hotel on Bellingham Bay with gas fireplaces in every room, on-site spa, hot tub, and Keenan's at the Pier restaurant with direct bay views.",
+          "url": "https://www.chrysalisinn.com/",
           "source": "booking"
         },
         {
@@ -79,8 +273,8 @@
           "type": "airbnb",
           "price_per_night_usd": 102,
           "neighborhood": "North Bellingham (8 miles from downtown)",
-          "highlights": "Entire guesthouse on a 4-acre wooded property with Mt. Baker views — loft bed, fire pit, projector and sound bar, bamboo landscaping, and an off-grid composting outhouse with on-demand shower. The furthest-from-town option and the most memorable.",
-          "url": "https://www.airbnb.com/rooms/49567707?adults=1&check_in=2026-07-19&check_out=2026-08-01&search_mode=regular_search&children=0&infants=0&pets=0&source_impression_id=p3_1782311041_P3GMcUO-pkdspE7O&previous_page_section_name=1000&federated_search_id=16e5b68b-9e28-458f-a89e-f4e0191e98c8",
+          "highlights": "Entire guesthouse on a 4-acre wooded property with Mt. Baker views — loft bed, fire pit, projector and sound bar.",
+          "url": "https://www.airbnb.com/rooms/49567707",
           "source": "airbnb"
         },
         {
@@ -88,324 +282,95 @@
           "type": "airbnb",
           "price_per_night_usd": 66,
           "neighborhood": "Rural Bellingham (6 miles from downtown, near Lynden)",
-          "highlights": "Rustic cabin on a 9-acre permaculture biodynamic farm — double bed, outdoor kitchen (April–October), seasonal farmstand, farm tours by appointment, shared bath in a nearby building. 17 miles from the Canadian border and a completely different pace than the city.",
-          "url": "https://www.airbnb.com/rooms/963159974687713987?adults=1&check_in=2026-07-18&check_out=2026-08-01&location=Bellingham%2C%20WA&search_mode=regular_search&source_impression_id=p3_1782311352_P3IkkkfTXTFJyZBw&previous_page_section_name=1001&federated_search_id=a61a6319-aa84-48a5-9ec3-40a749023800",
+          "highlights": "Rustic cabin on a 9-acre permaculture biodynamic farm — outdoor kitchen (April–October), seasonal farmstand, farm tours by appointment.",
+          "url": "https://www.airbnb.com/rooms/963159974687713987",
           "source": "airbnb"
         }
       ],
       "itinerary": {
-        "overview": "Bellingham is the kind of Pacific Northwest city cyclists move to on purpose. It sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east, the San Juan Islands visible from the shoreline, and Chuckanut Drive — a 23-mile cliff-hugging two-lane above Samish Bay — beginning right at the city's southern edge. The 10-day structure works in three arcs: Bellingham as base (Chuckanut Drive, Lummi Island via a $2 county ferry, a rest day to explore the city) for the first four days; the San Juan Islands for three days of island-hopping from Lopez to Orcas to San Juan Island via Washington State Ferry; and Mt. Baker for the penultimate day — 24 miles and 4,100 feet of climbing up SR-542 to Artist Point at 5,140 feet, one of the best sustained road climbs in the country. July is Bellingham's best month: 65–75°F, low humidity, sunset after 9pm, and the Coleman Glacier in full view from the road's end.",
+        "overview": "Bellingham is the kind of Pacific Northwest city cyclists move to on purpose. It sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east and Chuckanut Drive — a 23-mile cliff-hugging two-lane above Samish Bay — beginning right at the city's southern edge. The 10-day structure works in three arcs: Bellingham as base (Chuckanut Drive, Lummi Island, a rest day) for four days; the San Juan Islands for three days of island-hopping via Washington State Ferry; and Mt. Baker for the penultimate day — 24 miles and 4,100 feet of climbing up SR-542 to Artist Point at 5,140 feet.",
         "days": [
           {
             "day": 1,
             "title": "Arrive — SEA → Bellingham, Fairhaven",
-            "morning": "Fly DTW→SEA on Alaska Airlines (5h48m nonstop). From SeaTac: board Link Light Rail to King Street Station, Seattle (40 min, $3.25), then Amtrak Cascades north to Fairhaven Station, Bellingham (2h, $27–45, bike reservation required). OR pick up your rental car at SEA and drive I-5 north 80 miles (90 min). Fairhaven Station is beautifully placed — a covered platform in the historic village, 3 walkable blocks from the waterfront.",
-            "afternoon": "Check in, assemble the bike. Stop at Kulshan Cycles (downtown) or Jack's Bicycle Center for any parts or mechanical needs — local shops, local road knowledge. Walk Fairhaven Village: Victorian-era brick storefronts, independent bookstores, the cobblestone main street. Village Books on 11th St is one of the great independent bookstores in the Pacific Northwest.",
-            "evening": "Dinner at Dirty Dan Harris (named for Fairhaven's scandalous founding pioneer) or downtown. First beer at Aslan Brewing (1330 N Forest St, West Coast IPAs) or Wander Brewing (1807 Dean Ave) — both are stalwarts of the Bellingham craft beer scene.",
-            "waypoints": [
-              {
-                "name": "Fairhaven Station",
-                "lat": 48.7204,
-                "lon": -122.5111
-              },
-              {
-                "name": "Village Books",
-                "lat": 48.7208,
-                "lon": -122.5039
-              },
-              {
-                "name": "Aslan Brewing",
-                "lat": 48.7484,
-                "lon": -122.4745
-              },
-              {
-                "name": "Wander Brewing",
-                "lat": 48.7463,
-                "lon": -122.4861
-              }
-            ]
+            "morning": "Fly DTW→SEA on Alaska Airlines (5h48m nonstop). Amtrak Cascades north to Fairhaven Station (2h, bike reservation required) OR rent car at SEA and drive I-5 north (90 min).",
+            "afternoon": "Check in, assemble the bike. Walk Fairhaven Village. Village Books on 11th St is one of the great independent bookstores in the Pacific Northwest.",
+            "evening": "Dinner at Dirty Dan Harris or downtown. First beer at Aslan Brewing (1330 N Forest St) or Wander Brewing (1807 Dean Ave)."
           },
           {
             "day": 2,
             "title": "Chuckanut Drive + Skagit Flats — 50mi / 80km, 2,418ft / 737m",
-            "morning": "Roll out by 7:30am south through Fairhaven and immediately onto Chuckanut Drive (SR-11) — one of the first state highways in Washington, and still one of the most dramatic. The road clings to sandstone cliffs above Chuckanut Bay and Samish Bay for 23 miles, with views across to the San Juan Islands and, on clear mornings, Victoria, BC. No shoulder for much of it, moderate car traffic — ride with confidence and take the lane where needed. Stop at Larrabee State Park (mile 7) for the tidepools and bay view.",
-            "afternoon": "Descend into Bow and turn east into the Skagit Valley farm loop — flat open roads through tulip and daffodil fields, with Mt. Baker's perfect cone rising above the farmland to the east. Lunch at Breadfarm in Bow-Edison: the best bread bakery in northwest Washington, housed in a converted barn, with sourdough and pastries worth stopping for. Return north to Bellingham via Chuckanut (retrace) or inland back roads — total loop approximately 50 miles.",
-            "evening": "Recovery pint at Wander Brewing (1807 Dean Ave) or Kulshan Brewing (2238 James St). Dinner downtown — La Fiamma Wood Fire Pizza (200 E Chestnut St, the perennial local favorite) or Il Posto (Italian, Fairhaven, more ambitious menu).",
-            "waypoints": [
-              {
-                "name": "Larrabee State Park",
-                "lat": 48.6584,
-                "lon": -122.4766
-              },
-              {
-                "name": "Breadfarm (Bow-Edison)",
-                "lat": 48.5623,
-                "lon": -122.4439
-              },
-              {
-                "name": "La Fiamma Wood Fire Pizza",
-                "lat": 48.7478,
-                "lon": -122.4796
-              },
-              {
-                "name": "Wander Brewing",
-                "lat": 48.7463,
-                "lon": -122.4861
-              }
-            ]
+            "morning": "Roll out 7:30am south through Fairhaven onto Chuckanut Drive (SR-11) — 23 miles of cliff-hugging road above Chuckanut Bay and Samish Bay. Stop at Larrabee State Park (mile 7) for the tidepools.",
+            "afternoon": "Descend into Bow and east into the Skagit Valley farm loop. Lunch at Breadfarm in Bow-Edison: the best bread bakery in northwest Washington.",
+            "evening": "Recovery pint at Wander Brewing or Kulshan Brewing. Dinner at La Fiamma Wood Fire Pizza (200 E Chestnut St)."
           },
           {
             "day": 3,
             "title": "Lummi Island via Whatcom Chief Ferry — 47mi / 76km",
-            "morning": "Ride 10 miles south from Bellingham center on Haxton Way to Gooseberry Point — flat and direct, passing through Lummi tribal lands with bay views the entire way. The Whatcom Chief ferry departs Gooseberry Point every 30 minutes during daytime hours. This is a Whatcom County vessel, not a Washington State Ferry: walk-on with bike costs roughly $2–4 round trip. The crossing is 6 minutes.",
-            "afternoon": "Circumnavigate the island: the perimeter road is 12 miles with rolling terrain and intermittent steep pitches — particularly Smugglers Cove Road on the south end. The north end is gentler with bay views toward the mainland. The island has no bike shops and very limited services — bring everything you need. Return ferry to Gooseberry Point and ride 10 miles back to Bellingham.",
-            "evening": "Post-ride in Fairhaven or downtown. Wild Buffalo House of Music (larger stage, eclectic bookings) or check what's on at the Shakedown.",
-            "waypoints": [
-              {
-                "name": "Gooseberry Point Ferry Terminal",
-                "lat": 48.7321,
-                "lon": -122.6721
-              },
-              {
-                "name": "Lummi Island south loop (Smugglers Cove Rd)",
-                "lat": 48.6900,
-                "lon": -122.7050
-              }
-            ]
+            "morning": "Ride 10 miles south on Haxton Way to Gooseberry Point. Whatcom Chief ferry (Whatcom County vessel, NOT WSF) — ~$2–4 round trip, runs every 30 min, 6-minute crossing.",
+            "afternoon": "Circumnavigate Lummi Island: 12-mile perimeter road with rolling terrain. Return ferry and ride 10 miles back to Bellingham.",
+            "evening": "Wild Buffalo House of Music or the Shakedown."
           },
           {
             "day": 4,
             "title": "Rest Day — Whatcom Falls + Bellingham",
-            "morning": "Whatcom Falls Park: a short ride or 10-minute drive from downtown. The falls pour over a basalt shelf into a canyon pool below a stone bridge — most dramatic in spring but beautiful year-round. Easy trails through the ravine, zero technical terrain.",
-            "afternoon": "Whatcom Museum: three buildings downtown anchored by the 1892 Old City Hall, a massive red-brick Victorian on Prospect Street. The Lightcatcher Building (250 Flora St) has rotating contemporary exhibitions — free or suggested donation. Then rent a kayak on Bellingham Bay (several outfitters near Squalicum Harbor; protected water, good for any skill level).",
-            "evening": "Downtown Bellingham's bar scene is better than a city of 92,000 has any right to expect. The Shakedown (1212 N State St, good cocktails, locally sourced menu) or get tomorrow's logistics sorted over coffee.",
-            "waypoints": [
-              {
-                "name": "Whatcom Falls Park",
-                "lat": 48.7550,
-                "lon": -122.4397
-              },
-              {
-                "name": "Whatcom Museum / Lightcatcher",
-                "lat": 48.7530,
-                "lon": -122.4793
-              },
-              {
-                "name": "Squalicum Harbor",
-                "lat": 48.7585,
-                "lon": -122.5034
-              }
-            ]
+            "morning": "Whatcom Falls Park: falls pour over a basalt shelf into a canyon pool. Easy trails through the ravine.",
+            "afternoon": "Whatcom Museum Lightcatcher Building (250 Flora St) — rotating contemporary exhibitions. Then rent a kayak on Bellingham Bay at Squalicum Harbor.",
+            "evening": "The Shakedown (1212 N State St, good cocktails, locally sourced menu)."
           },
           {
             "day": 5,
             "title": "San Juan Islands, Day 1: Lopez Island — 37mi / 60km",
-            "morning": "Drive to Anacortes ferry terminal (30 miles south, 40 minutes on Hwy 20 via I-5). Catch a mid-morning Washington State Ferry to Lopez Island (~1h30m; walk-on $15.85 each way, bike surcharge ~$2–4, no reservation needed for cyclists). Roll off the ferry at Upright Head and immediately feel the pace change — Lopez has the flattest terrain and the quietest roads of any island in the archipelago.",
-            "afternoon": "Loop Lopez: 37–40 miles, gently rolling. Highlights: Shark Reef Sanctuary (lock the bike, 10-minute walk to rocky bluffs above a seal rookery with Olympic Mountain views), Spencer Spit State Park (spit extending into the water, good for a swim), Odlin County Park. Lunch at Fine Mess Bakery in Lopez Village — the island's social center, line out the door for good reason.",
-            "evening": "Overnight on Lopez. MacKaye Harbor Inn (farmhouse B&B on the harbor, ~$175–200/night) or camping at Odlin County Park ($25–30). Check the WSF inter-island ferry schedule for your morning Lopez → Orcas crossing at wsdot.com/ferries.",
-            "waypoints": [
-              {
-                "name": "Anacortes Ferry Terminal",
-                "lat": 48.5065,
-                "lon": -122.6783
-              },
-              {
-                "name": "Lopez Island ferry landing (Upright Head)",
-                "lat": 48.5706,
-                "lon": -122.8834
-              },
-              {
-                "name": "Spencer Spit State Park",
-                "lat": 48.5365,
-                "lon": -122.8521
-              },
-              {
-                "name": "Fine Mess Bakery",
-                "lat": 48.5233,
-                "lon": -122.9144
-              },
-              {
-                "name": "Shark Reef Sanctuary",
-                "lat": 48.4627,
-                "lon": -122.9373
-              },
-              {
-                "name": "MacKaye Harbor Inn",
-                "lat": 48.4348,
-                "lon": -122.8656
-              }
-            ]
+            "morning": "Drive to Anacortes ferry terminal (30 miles south, 40 min). WSF to Lopez Island (~1h30m; walk-on $15.85 each way, bike ~$2–4, no reservation needed).",
+            "afternoon": "Loop Lopez: 37–40 miles, gently rolling. Shark Reef Sanctuary (seal rookery views), Spencer Spit State Park (swim). Lunch at Fine Mess Bakery in Lopez Village.",
+            "evening": "Overnight on Lopez. MacKaye Harbor Inn (~$175–200/night) or camping at Odlin County Park ($25–30)."
           },
           {
             "day": 6,
             "title": "San Juan Islands, Day 2: Lopez → Orcas, Mt. Constitution — 35mi / 56km, 1,900ft / 580m",
-            "morning": "Catch the morning inter-island WSF ferry from Lopez to Orcas (~30–45 minutes, same walk-on fare). Disembark at Orcas Village. The ride from the ferry to Eastsound is 9 miles through Crow Valley — hilly immediately, narrow winding roads, a preview of Orcas's character. Stock up on food and water in Eastsound before heading into Moran State Park.",
-            "afternoon": "Mt. Constitution: the definitive San Juan Islands climb. From the Moran State Park entrance (2 miles from Eastsound), the road winds 5 miles to the 2,409-foot summit with switchbacks reaching 15% grades. At the top: a CCC-built stone observation tower from 1936 and a view that on clear days spans from Mt. Baker to the Cascades to the Olympics to Vancouver Island. Descend carefully: the road is narrow and technical going down.",
-            "evening": "Overnight on Orcas. Outlook Inn (171 Main St, Eastsound, ~$200–250/night) or camping at Moran State Park (reservations required in July at recreation.gov). Dinner in Eastsound at Mijita's (310 A St) or the New Leaf Café at Outlook Inn (171 Main St).",
-            "waypoints": [
-              {
-                "name": "Orcas Island Ferry Landing",
-                "lat": 48.5978,
-                "lon": -122.9438
-              },
-              {
-                "name": "Eastsound",
-                "lat": 48.6980,
-                "lon": -122.9075
-              },
-              {
-                "name": "Mijita's (310 A St)",
-                "lat": 48.6966,
-                "lon": -122.9060
-              },
-              {
-                "name": "New Leaf Café / Outlook Inn (171 Main St)",
-                "lat": 48.6947,
-                "lon": -122.9092
-              },
-              {
-                "name": "Moran State Park entrance",
-                "lat": 48.6561,
-                "lon": -122.8401
-              },
-              {
-                "name": "Mt. Constitution summit (2,409 ft)",
-                "lat": 48.6776,
-                "lon": -122.8312
-              }
-            ]
+            "morning": "Inter-island WSF ferry from Lopez to Orcas (~30–45 min). 9 miles through Crow Valley to Eastsound. Stock up on food and water before Moran State Park.",
+            "afternoon": "Mt. Constitution: 5 miles from the park entrance to 2,409-foot summit, switchbacks reaching 15% grades. CCC-built stone observation tower at the top.",
+            "evening": "Overnight on Orcas. Outlook Inn (~$200–250/night). Dinner at Mijita's (310 A St, Eastsound)."
           },
           {
             "day": 7,
             "title": "San Juan Islands, Day 3: Orcas → San Juan Island → Bellingham — 40mi / 64km",
-            "morning": "Ferry from Orcas to Friday Harbor on San Juan Island (~1h30m, walk-on fare). Friday Harbor is the only incorporated town in the San Juan Islands — a working waterfront with coffee shops and a bike-friendly main street. Roll out immediately on the island loop: southwest along West Side Road to Lime Kiln Point State Park, the best land-based orca-watching site in North America. June through September, Southern Resident killer whales pass within yards of the rocky shore.",
-            "afternoon": "Continue around the island: English Camp on the northwest shore (site of the British garrison during the 1859–1872 Pig War) and American Camp on the south end (the corresponding US outpost, now a windswept prairie with sweeping views). Total loop: 35–43 miles. Ferry from Friday Harbor back to Anacortes (~1h15m), then drive 40 minutes north to Bellingham.",
-            "evening": "Back in Bellingham. Three islands, three ferries, 120 miles of island roads in three days. Rest.",
-            "waypoints": [
-              {
-                "name": "Friday Harbor",
-                "lat": 48.5357,
-                "lon": -123.0140
-              },
-              {
-                "name": "Lime Kiln Point State Park (whale watching)",
-                "lat": 48.5164,
-                "lon": -123.1502
-              },
-              {
-                "name": "English Camp",
-                "lat": 48.5815,
-                "lon": -123.1454
-              },
-              {
-                "name": "American Camp",
-                "lat": 48.4645,
-                "lon": -123.0239
-              }
-            ]
+            "morning": "Ferry Orcas to Friday Harbor (~1h30m). Ride southwest along West Side Road to Lime Kiln Point State Park — best land-based orca-watching site in North America (Southern Resident killer whales, June–September).",
+            "afternoon": "English Camp (northwest shore, 1859–1872 Pig War British garrison) and American Camp (south end). Total loop: 35–43 miles. Ferry back to Anacortes, drive north to Bellingham.",
+            "evening": "Back in Bellingham. Rest."
           },
           {
             "day": 8,
-            "title": "Recovery — Nooksack Valley Farm Loop or Easy Spin",
-            "morning": "Active recovery day: ride north through Whatcom County farm country toward the Nooksack River valley. Route options range from a flat 25-mile Lynden loop to a longer 45-mile agricultural circuit past berry farms and the Dutch-influenced main street of Lynden — the most pastoral riding in the county, essentially zero elevation gain.",
-            "afternoon": "Return to Bellingham. Afternoon options: kayak on Squalicum Harbor, spa at Chrysalis Inn (804 10th St, Fairhaven — day passes available), or simply sleep horizontally with your legs elevated.",
-            "evening": "Confirm tomorrow's Mt. Baker road status: call Mt. Baker-Snoqualmie National Forest road information at (360) 856-5700 ext. 515, or check nwroadinfo.org. Artist Point Road typically opens mid-July.",
-            "waypoints": [
-              {
-                "name": "Lynden Dutch Bakery",
-                "lat": 48.9427,
-                "lon": -122.4527
-              },
-              {
-                "name": "Squalicum Harbor",
-                "lat": 48.7585,
-                "lon": -122.5034
-              },
-              {
-                "name": "Chrysalis Inn & Spa (day passes)",
-                "lat": 48.7260,
-                "lon": -122.5054
-              }
-            ]
+            "title": "Recovery — Nooksack Valley Farm Loop",
+            "morning": "Active recovery: flat 25-mile Lynden loop through Whatcom County farm country. Dutch Bakery in Lynden for a mid-ride snack.",
+            "afternoon": "Return to Bellingham. Kayak at Squalicum Harbor or spa at Chrysalis Inn (day passes available).",
+            "evening": "Confirm Mt. Baker road status: call (360) 856-5700 ext. 515 or check nwroadinfo.org."
           },
           {
             "day": 9,
-            "title": "Mt. Baker SR-542 Hill Climb — 48mi / 77km roundtrip from Glacier, 4,100ft / 1,250m",
-            "morning": "Drive 32 miles east from Bellingham on SR-542 to the town of Glacier, WA (elevation ~1,100ft, 50 minutes). Start climbing by 8am. SR-542 continues east 24 miles to Artist Point (5,140ft / 1,567m). The lower section follows the North Fork Nooksack River through massive old-growth Douglas fir — Nooksack Falls viewpoint at mile 10 (a roadside pull-off to a 170-foot waterfall, worth the 3-minute stop). The road then climbs past the Mt. Baker Ski Area, through heather meadows, to Artist Point below the permanent snowfield.",
-            "afternoon": "Descend 24 miles back to Glacier — a long, technical alpine descent. Lunch at Graham's Store in Glacier (the only place to eat in town, solid burgers, the mountain atmosphere is earned). Drive back to Bellingham (50 min).",
-            "evening": "Final evening in Bellingham. Wander Brewing or Aslan if the weather cooperates. Pack the bike tonight.",
-            "waypoints": [
-              {
-                "name": "Graham's Store, Glacier WA (climb start)",
-                "lat": 48.8894,
-                "lon": -121.9454
-              },
-              {
-                "name": "Nooksack Falls",
-                "lat": 48.9054,
-                "lon": -121.8089
-              },
-              {
-                "name": "Mt. Baker Ski Area",
-                "lat": 48.8550,
-                "lon": -121.6730
-              },
-              {
-                "name": "Artist Point (5,140 ft)",
-                "lat": 48.8468,
-                "lon": -121.6926
-              }
-            ]
+            "title": "Mt. Baker SR-542 Hill Climb — 48mi / 77km roundtrip, 4,100ft / 1,250m",
+            "morning": "Drive 32 miles east to Glacier, WA (50 min). Climb by 8am. SR-542 east 24 miles to Artist Point (5,140ft) — past Nooksack Falls viewpoint (170-foot waterfall, 3-minute stop), through heather meadows to the permanent snowfield.",
+            "afternoon": "Descend 24 miles back to Glacier. Lunch at Graham's Store — the only place to eat in Glacier, solid burgers. Drive back to Bellingham.",
+            "evening": "Final evening in Bellingham. Pack the bike tonight."
           },
           {
             "day": 10,
             "title": "Depart — Bellingham → SEA",
-            "morning": "Tony's Coffee Roastery (2033 Division St — Bellingham's coffee institution since 1971, the right send-off for any trip here). Fairhaven Station is a 3-mile ride from downtown Bellingham; Amtrak Cascades south to King Street Station, Seattle (2h, $27–45), then Link Light Rail south to SeaTac (40 min). OR drive the rental car back to SEA (90 min on I-5 south).",
+            "morning": "Tony's Coffee Roastery (2033 Division St — Bellingham's coffee institution since 1971). Amtrak Cascades south to King Street Station, Seattle (2h), then Link Light Rail to SeaTac (40 min). OR drive rental car to SEA (90 min on I-5 south).",
             "afternoon": "",
-            "evening": "",
-            "waypoints": [
-              {
-                "name": "Tony's Coffee Roastery",
-                "lat": 48.7825,
-                "lon": -122.4498
-              },
-              {
-                "name": "Fairhaven Station",
-                "lat": 48.7204,
-                "lon": -122.5111
-              }
-            ]
+            "evening": ""
           }
         ],
         "tips": [
-          "Amtrak Cascades bike policy: space is limited and July fills fast — reserve your bike spot ($10 fee) well in advance at amtrak.com or 1-800-USA-RAIL. Fairhaven Station is 3 miles south of downtown Bellingham and entirely bikeable. Not all Cascades trains have a baggage car; confirm your specific train accepts bikes when booking.",
-          "Whatcom Chief ferry (Lummi Island): this is NOT a Washington State Ferry — it's a Whatcom County vessel. Total cost for a cyclist is roughly $2–4 round trip. Bikes are always welcome with no reservations possible or needed. Runs every 30 minutes 6am–10pm daily in summer. Gooseberry Point (the departure dock) is 10 flat miles south of downtown Bellingham on Haxton Way.",
-          "WSF San Juan Islands: walk-on passengers ($15.85 each way) never need a reservation — cyclists board last and almost always make the next sailing. Each inter-island segment (Lopez → Orcas, Orcas → Friday Harbor) carries its own fare. Download the summer schedule at wsdot.com/ferries before Day 5 and plan your island routing around departure times.",
-          "SR-542 / Artist Point road status: Artist Point Road (the final stretch past Mt. Baker Ski Area) typically opens mid-July as snowpack melts. Call Mt. Baker-Snoqualmie National Forest: (360) 856-5700 ext. 515, or check nwroadinfo.org. If Artist Point is still gated, summiting at the ski area is 22 miles / 3,700ft from Glacier — still a legitimate world-class climb.",
-          "July weather in Bellingham: the finest month of the year, averaging 65–75°F with the fewest rain days. Sunset at 9:10pm means early starts aren't required. The exception is Mt. Baker — it generates its own weather and can be 20–30°F colder at 5,000ft with clouds that don't exist in the valley. Pack a rain shell and arm warmers for Day 9 regardless of the valley forecast.",
-          "For the 7-day version: Day 1 arrive, Day 2 Chuckanut Drive, Day 3 Lummi Island, Day 4 San Juan Islands day trip to Lopez only (no overnight), Day 5 Orcas + San Juan Island in one long day (not recommended but possible), Day 6 Mt. Baker, Day 7 depart. The cleaner 7-day compress: skip Orcas and do just Lopez + San Juan Island as separate day trips from Anacortes on Days 4–5, then Mt. Baker on Day 6."
+          "Amtrak Cascades bike policy: space is limited and July fills fast — reserve your bike spot ($10 fee) well in advance.",
+          "Whatcom Chief ferry (Lummi Island): NOT a Washington State Ferry — Whatcom County vessel. Total cost for a cyclist roughly $2–4 round trip. Runs every 30 minutes 6am–10pm daily.",
+          "WSF San Juan Islands: walk-on passengers ($15.85 each way) never need a reservation — cyclists board last and almost always make the next sailing.",
+          "SR-542 / Artist Point road status: Artist Point Road typically opens mid-July. Call (360) 856-5700 ext. 515 or check nwroadinfo.org.",
+          "July weather in Bellingham: finest month of the year, 65–75°F. Mt. Baker can be 20–30°F colder at 5,000ft — pack a rain shell and arm warmers for Day 9."
         ],
         "sources": [
-          {
-            "title": "Top biking experiences in the San Juan Islands — Visit San Juans",
-            "url": "https://www.visitsanjuans.com/account/shark-reef-sanctuary"
-          },
-          {
-            "title": "Bicycles on Washington State Ferries — WSDOT",
-            "url": "https://wsdot.wa.gov/travel/washington-state-ferries/rider-information/what-you-can-bring-aboard/bicycles"
-          },
-          {
-            "title": "Anacortes / San Juan Islands ferry fares — WSDOT",
-            "url": "https://www.wsdot.wa.gov/ferries/fares/faresdetail.aspx?departingterm=1&arrivingterm=10"
-          },
-          {
-            "title": "Chuckanut Drive cycling — Whatcom County",
-            "url": "https://www.whatcomcounty.us/1218/Chuckanut-Drive"
-          },
-          {
-            "title": "Lummi Island Ferry — Whatcom County",
-            "url": "https://www.whatcomcounty.us/1219/Lummi-Island-Ferry"
-          }
+          { "title": "Bicycles on Washington State Ferries — WSDOT", "url": "https://wsdot.wa.gov/travel/washington-state-ferries/rider-information/what-you-can-bring-aboard/bicycles" },
+          { "title": "Lummi Island Ferry — Whatcom County", "url": "https://www.whatcomcounty.us/1219/Lummi-Island-Ferry" }
         ]
       }
     },
@@ -425,12 +390,12 @@
         {
           "airline": "Frontier Airlines",
           "price_usd": 140,
-          "outbound_dates": "July–August flexible (Friday departures cheapest; July generally cheapest month for this route)",
+          "outbound_dates": "July–August flexible (Friday departures cheapest)",
           "return_dates": "flexible +5–7 days",
           "stops": 0,
           "duration": "~2h 45m direct",
-          "url": "https://www.flyfrontier.com/travel/flights/from-detroit-to-denver/",
-          "notes": "DTW→DEN direct. Frontier is the cheapest carrier on this route at $124–157 roundtrip. Important: Frontier's bag fees are a trap — a checked bike counts as oversize/overweight baggage (~$75–100 each way). Total with bike: ~$290–340 roundtrip. Alternatively, ship your bike via BikeFlights.com (~$80–120 each way, 3–5 days transit) and fly carry-on only. Then rent a compact car at DEN. Driving to Salida: US-285 south from Denver, ~2.5 hours, 150 miles."
+          "url": "https://www.flyfrontier.com/",
+          "notes": "DTW→DEN direct at $124–157 RT. Bag fees trap: checked bike ~$75–100 each way. Total with bike: ~$290–340. Consider BikeFlights.com (~$80–120 each way) and fly carry-on only. Drive to Salida: US-285 south from Denver, ~2.5 hours, 150 miles."
         },
         {
           "airline": "Delta Air Lines",
@@ -439,18 +404,18 @@
           "return_dates": "flexible +5–7 days",
           "stops": 0,
           "duration": "~2h 50m direct",
-          "url": "https://www.delta.com/us/en/flight-search/book-a-flight",
-          "notes": "DTW→DEN direct, most frequent carrier on this route. Delta bike fee: $150 each way (oversize bag policy) — significant add-on. BikeFlights shipping is more cost-effective for the bike. Car rental at DEN: budget ~$50–70/day; SUV or minivan needed if transporting a bike box. Drive south on I-25 to Colorado Springs, then US-24 west through Buena Vista to Salida (~2.5h total). Pro tip: fly into Colorado Springs (COS) instead — $180–250 roundtrip, 30 minutes closer to Salida."
+          "url": "https://www.delta.com/",
+          "notes": "DTW→DEN direct. Delta bike fee: $150 each way. BikeFlights is more cost-effective. Pro tip: fly into Colorado Springs (COS) instead — $180–250 RT, 30 minutes closer to Salida."
         },
         {
           "airline": "United Airlines",
           "price_usd": 260,
-          "outbound_dates": "July–August flexible (midweek best; hub connection at ORD or EWR possible)",
+          "outbound_dates": "July–August flexible (midweek best)",
           "return_dates": "flexible +5–7 days",
           "stops": 1,
           "duration": "~4h 30m via hub",
-          "url": "https://www.united.com/en-us/flights-from-detroit-to-denver",
-          "notes": "DTW→ORD (Chicago) or EWR→DEN. United bike fee: $200 each way for oversize sports equipment — the most expensive of the three carriers. Strongly consider BikeFlights for this route. United's advantage: award availability through Chase/Star Alliance for miles redemption. One-way mileage awards to DEN often available at 5,500–7,500 miles."
+          "url": "https://www.united.com/",
+          "notes": "DTW→ORD or EWR→DEN. United bike fee: $200 each way — most expensive. Strongly consider BikeFlights. Award availability through Chase/Star Alliance often at 5,500–7,500 miles one-way."
         }
       ],
       "lodging": [
@@ -459,7 +424,7 @@
           "type": "hotel",
           "price_per_night_usd": 130,
           "neighborhood": "Salida — east end of town near US-50",
-          "highlights": "A 1960s motor lodge fully renovated into a boutique property — confirmed bicycle parking on-site, each room has a balcony or patio with mountain views, hot tub, outdoor fireplace, and an eclectic collection of Airstream trailers as alternative accommodation. Michelin Select property. The most atmospheric cycling base in town: leave the bike on the patio, coffee on the balcony watching the Arkansas Hills, roll to the Monarch Pass climb in 5 minutes.",
+          "highlights": "1960s motor lodge fully renovated — bike parking on-site, balcony or patio with mountain views, hot tub, outdoor fireplace. Michelin Select property. Roll to the Monarch Pass climb in 5 minutes.",
           "url": "https://amigomotorlodge.com/",
           "source": "booking"
         },
@@ -468,7 +433,7 @@
           "type": "hotel",
           "price_per_night_usd": 160,
           "neighborhood": "Downtown Salida — Arkansas River / F Street Arts District",
-          "highlights": "Salida's only downtown boutique hotel, second floor above the Boathouse Cantina restaurant with direct Arkansas River views. Self-service check-in, no elevator (second floor walk-up), walking distance to every restaurant and gallery in town. Ask the staff about indoor bike storage — it's available on request for this kind of property.",
+          "highlights": "Salida's only downtown boutique hotel above the Boathouse Cantina restaurant with direct Arkansas River views. Walking distance to every restaurant and gallery in town.",
           "url": "https://www.manhattanhotelsalida.com/",
           "source": "booking"
         },
@@ -477,69 +442,48 @@
           "type": "hotel",
           "price_per_night_usd": 195,
           "neighborhood": "Salida — near Arkansas River",
-          "highlights": "Standalone micro-cabin units with the consistency of a professionally operated hotel — private outdoor spaces, excellent insulation for cold mountain nights, hotel-style housekeeping. The most private option in Salida: your own structure, your own outdoor space, bike leans against the cabin wall. July nights in Salida drop to 45–55°F even in summer; the cabin setup is ideal for cold-morning gear prep.",
+          "highlights": "Standalone micro-cabin units with private outdoor spaces and hotel-style housekeeping. July nights drop to 45–55°F — the cabin setup is ideal for cold-morning gear prep.",
           "url": "https://www.stayfrontcountry.com/hotel-salida-co",
           "source": "booking"
         }
       ],
       "itinerary": {
-        "overview": "Salida is the cycling anchor of the Arkansas River Valley — a genuine small mountain town that happens to sit at the intersection of three world-class road climbs, two whitewater rivers, and one of the densest concentrations of 14,000-foot peaks in North America. The town itself is worth exploring: a walkable Victorian-era downtown with an outsized arts scene, hot springs pools, and the kind of restaurant-per-capita ratio that only happens when outdoor sports people have money and small-town real estate stays affordable. The riding is structured around the Colorado high country's July weather pattern: brilliant mornings (clear skies, 60–75°F at valley elevation, much cooler on the passes) followed by afternoon thunderstorms arriving around 1–3pm. Start climbs early, summit before noon, be descending when the sky turns. The three-day structure here goes big-day / big-day / exploration-day: Monarch Pass on day one (4,258 feet of gain to the Continental Divide), Cottonwood Pass on day two (4,100 feet to the third-highest paved road in Colorado), and the Poncha Pass / San Luis Valley traverse on day three for a different landscape entirely.",
+        "overview": "Salida is the cycling anchor of the Arkansas River Valley — a genuine small mountain town at the intersection of three world-class road climbs, two whitewater rivers, and one of the densest concentrations of 14,000-foot peaks in North America. The riding is structured around July's weather pattern: brilliant mornings followed by afternoon thunderstorms arriving 1–3pm. Start climbs early, summit before noon, be descending when the sky turns.",
         "days": [
           {
             "day": 1,
             "title": "Monarch Pass — 46mi / 74km out-and-back, 4,258ft / 1,298m gain",
-            "morning": "Wheels rolling by 7am from downtown Salida (elevation 7,036 ft / 2,144m). Head west on US-50 through Poncha Springs (5 miles, flat warmup, small coffee shop if you need it). The Monarch Pass climb begins just past Poncha Springs and runs 18 miles without interruption to the Continental Divide at 11,312 ft / 3,448m. The lower section follows the South Arkansas River through a narrow granite canyon — excellent asphalt, some truck traffic, a reasonable shoulder for most of the first 10 miles. Above the canyon the trees open into subalpine forest and then alpine tundra: the last 5 miles are above treeline, exposed, and can be significantly colder than the valley (pack a vest or arm warmers regardless of the valley temperature). The grade averages 4.3% with sustained sections to 7% in the canyon narrows. At 11,000 feet the Monarch ski area comes into view; the pass summit is the Continental Divide ridgeline. The Monarch Pass summit lodge sells coffee and hot chocolate — this is not a joke, it's genuinely cold up there in July mornings (40–50°F) and it's open year-round.",
-            "afternoon": "The descent back to Salida is 18 miles of fast pavement — 4,000 feet of controlled, sweeping descent through the canyon. Brake heat is a real consideration on a long alpine descent; keep speed moderate through the tightest canyon curves. Back in Salida by noon or just after. Afternoon: the SteamPlant Event Center (on the river, converted coal gasification plant from 1887) has rotating art shows and a central plaza. Walk the F Street Arts District — Salida has more galleries per capita than any city in Colorado, a genuine local art scene built over 30 years. The Salida Hot Springs Aquatic Center (410 W Rainbow Blvd) is a public hot springs pool fed by local geothermal water: lane swimming and soaking pools, ~$10, perfect post-ride.",
-            "evening": "Dinner in downtown Salida: Amica's Pizzeria (wood-fired, very good, walk-in or reservation) or Fritz (European bistro, small plates, excellent wine list for a town of 6,500). The kind of restaurants that shouldn't exist in a small Colorado mountain town but do because of who lives here. After dinner, walk to the river trail along the Arkansas — the evening light on the Collegiate Peaks (Harvard, Yale, Columbia, Oxford: four 14,000-foot peaks named by Princeton geology students in the 1860s) is the payoff for spending the afternoon in town."
+            "morning": "Wheels rolling by 7am from downtown Salida. West on US-50 through Poncha Springs (5 miles, flat warmup). Monarch Pass climb: 18 miles to the Continental Divide at 11,312 ft, grade averages 4.3% with sections to 7% in the canyon narrows. Summit lodge sells coffee and hot chocolate — genuinely cold up there in July (40–50°F).",
+            "afternoon": "Descent back to Salida: 18 miles of fast pavement. Back by noon. Walk the F Street Arts District. The Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10) is geothermal-fed and perfect post-ride.",
+            "evening": "Dinner: Amica's Pizzeria (wood-fired) or Fritz (European bistro, excellent wine list for a town of 6,500). Walk to the river trail — evening light on the Collegiate Peaks."
           },
           {
             "day": 2,
             "title": "Cottonwood Pass — 67mi / 108km, 4,100ft / 1,250m gain",
-            "morning": "Drive 28 miles north to Buena Vista (35 minutes on US-285 north, Arkansas River visible the entire way). Park at the Buena Vista trailhead area at the base of County Road 306 (elevation 7,965 ft). The Cottonwood Pass climb: 19.5 miles to 12,126 ft / 3,696m, the third-highest paved road in Colorado. The grade averages 4.1% with a notorious 10% wall at roughly mile 14 that catches riders off-guard after a long steady effort — know it's coming and have the gear already selected before you hit it. The east side is a tree-lined climb through aspen groves and spruce forest for the first 12 miles, then breaks into open tundra and the final switchbacks. Traffic is almost nonexistent on weekday mornings — County Road 306 serves only the Taylor Park Reservoir area on the west side and gets minimal car use compared to Monarch. Summit at 12,126 ft: the views north into the Collegiate Peaks Wilderness and south toward the San Luis Valley are the most expansive of the three rides.",
-            "afternoon": "The descent: both sides of Cottonwood Pass are now fully paved. The west side descent (13.5 miles, 2,700 ft down to Taylor Park Reservoir) is the more dramatic of the two — wider switchbacks, broader views, and the surprise of arriving at the enormous Taylor Park Reservoir at the base. Ride the west side down if you want to explore it, then return up the same way (the 13.5-mile west ascent at 3.8% average is the gentler option for the return). OR simply descend the east side back to Buena Vista, add a valley extension north toward Granite on US-24 for mileage, and drive back to Salida. Lunch in Buena Vista: Eddyline Brewery on the river (Colorado mountain town brewery food, outdoor deck, solid fish tacos and burgers).",
-            "evening": "Return to Salida. Soak again at Salida Hot Springs or try Mount Princeton Hot Springs (25 miles north of Salida on US-285 — enormous riverside hot springs resort with pools at varying temperatures, ~$30 day pass). Dinner: Soulcraft Brewing (local brewery downtown, excellent smoked brisket and craft beer) or one of the taco spots on the main street. By 9pm, Salida rolls up — this is a small town that runs on an outdoor recreation schedule and most of it is in bed before 10."
+            "morning": "Drive 28 miles north to Buena Vista (35 min on US-285). Park at the base of County Road 306 (elevation 7,965 ft). Cottonwood Pass: 19.5 miles to 12,126 ft — third-highest paved road in Colorado. Grade averages 4.1% with a 10% wall at roughly mile 14. East side climbs through aspen groves and spruce forest for 12 miles, then breaks into open tundra.",
+            "afternoon": "Descend east back to Buena Vista, or explore the west side down to Taylor Park Reservoir (13.5 miles, 2,700 ft). Lunch at Eddyline Brewery on the river.",
+            "evening": "Return to Salida. Soak at Salida Hot Springs or Mount Princeton Hot Springs (25 miles north, ~$30). Dinner: Soulcraft Brewing (downtown, excellent smoked brisket)."
           },
           {
             "day": 3,
             "title": "Poncha Pass + San Luis Valley traverse — 62mi / 100km, 1,800ft / 550m gain",
-            "morning": "A different kind of day: less total climbing, bigger landscape. Depart Salida 7:30am south on US-285 toward Poncha Springs (5 miles) and immediately begin the gentle climb to Poncha Pass summit (9,010 ft / 2,746m — just 2,000 feet above Salida, the gentlest of the three passes). At the summit you cross into an entirely different world: the San Luis Valley, one of the largest alpine valleys on Earth — 8,000 square miles of flat high-altitude basin at 7,500 ft, ringed by mountains on all sides, the Rio Grande running through the center. The valley road (US-285 south) is wide, flat, and almost completely empty of traffic. The scale is extreme: 50-mile views in every direction, the Sangre de Cristo Mountains rising abruptly to the east (several 14ers in that range, including Crestone Needle, one of the most technical), the San Juan Mountains visible to the southwest. Ride south 20–25 miles into the valley at whatever pace feels right — into the headwind or with it, depending on conditions.",
-            "afternoon": "Turn around and return north over Poncha Pass back to Salida. The climb from the valley floor back to the pass is gentle enough to feel like nothing after the previous two days. Back in Salida by noon or early afternoon. Real estate for the afternoon: the Salida Museum (free, local history, excellent collection of mining-era photographs), Arkansas Headwaters Recreation Area visitor center (on the river, good exhibit on the Arkansas River whitewater section — the 150-mile stretch from Leadville to Cañon City is one of the most-rafted rivers in the US), or just sit in a riverside café and watch the rafters come off Brown's Canyon.",
-            "evening": "Last evening in town. Salida's unofficial ritual: sunset from Tenderfoot Mountain (a short 20-minute hike above town with the large 'S' on the hillside — the view of the Arkansas River Valley and all four Collegiate Peaks at golden hour is the image most people carry away from Salida). Dinner at Moonlight Pizza & Brewpub or whatever was the recommendation from your hotel. The drive back to Denver the next morning is 2.5 hours with the Arkansas River visible most of the way north — one of the better interstate-free drives in Colorado."
+            "morning": "South on US-285 to Poncha Springs (5 miles) and climb to Poncha Pass (9,010 ft). At the summit: the San Luis Valley — 8,000 square miles of flat high-altitude basin at 7,500 ft, ringed by mountains, the Rio Grande through the center. Ride south 20–25 miles into the vast flat valley.",
+            "afternoon": "Return north over Poncha Pass back to Salida. Back by noon or early afternoon. Afternoon: Salida Museum (free), Arkansas Headwaters Recreation Area visitor center, or riverside café watching rafters.",
+            "evening": "Last evening: Tenderfoot Mountain ('S' Mountain) — 20-minute hike to the best view of the Collegiate Peaks and Arkansas River valley at golden hour. Dinner at Moonlight Pizza & Brewpub."
           }
         ],
         "tips": [
-          "Colorado afternoon thunderstorms are a hard stop: lightning at 11,000+ feet on an exposed ridge is genuinely life-threatening. Start both Monarch and Cottonwood climbs by 7am, aim to summit by 10–10:30am, and be well into your descent before noon. July monsoon season means the afternoon pattern is reliable — not every day, but often enough to plan around it. If the sky is building towers by 11am over the Divide, you should be descending.",
-          "Bike transport logistics: shipping your bike via BikeFlights.com (~$80–120 each way, 3–5 business days) is strongly recommended over airline fees ($150–200 each way on most carriers). Ship to the hotel 4–5 days before arrival, ship home from the hotel on departure day. You fly with carry-on only, rent a compact car at Denver, no bike-box logistics at the airport.",
-          "Car rental: you need a car in Salida. Denver International (DEN) has the full range of rental agencies. Budget ~$50–70/day for a compact or midsize SUV (Colorado Springs/COS is an alternative arrival airport, 30 minutes closer, often cheaper flights and rentals). Reserve in advance — July is peak Colorado summer and car inventory is tight.",
-          "Altitude acclimatization: Salida sits at 7,036 feet and Monarch Pass climbs to 11,312 feet. If you're arriving from sea level or Ann Arbor (~650 feet), plan one easy day in Salida before the big climbs. Dehydration happens faster at altitude. Drink a liter of water before your first ride morning and carry two full bottles on the climbs; you'll go through them.",
-          "Salida hot springs: the public Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10/day pass) is geothermal-fed outdoor pools — open daily, perfect post-ride recovery. Mount Princeton Hot Springs (25 miles north on US-285, ~$30) is a larger resort with riverside pools at varying temperatures and a cold-plunge river option. Both are worth it on the same trip.",
-          "The 'S' Mountain hike: Tenderfoot Mountain above town has a painted 'S' on the hillside and a 20-minute trail to the summit. The view of the Collegiate Peaks, Arkansas River valley, and entire Salida bowl at sunset is the single best non-cycling thing you'll do here. It's a 10-minute drive from anywhere in town and the trailhead has free parking."
+          "Colorado afternoon thunderstorms are a hard stop: start Monarch and Cottonwood by 7am, summit by 10–10:30am, be well into descent before noon.",
+          "Bike transport: BikeFlights.com (~$80–120 each way) is strongly recommended over airline fees ($150–200 each way). Ship to the hotel 4–5 days before arrival.",
+          "Car rental: you need a car in Salida. Reserve early — July is peak Colorado summer and inventory is tight.",
+          "Altitude: Salida is at 7,036 feet, Monarch climbs to 11,312 feet. Plan one easy day before the big climbs. Drink a liter of water before your first ride morning.",
+          "Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10/day) is geothermal-fed — open daily, perfect post-ride recovery.",
+          "The 'S' Mountain hike: 20-minute trail to the summit of Tenderfoot Mountain with the best view of the Collegiate Peaks at sunset."
         ],
         "sources": [
-          {
-            "title": "Bike Monarch Pass: Thrilling Mountain Ride — Colorado Tourism",
-            "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/"
-          },
-          {
-            "title": "Bicycling Monarch Pass Colorado — My Bicycle Routes",
-            "url": "https://www.mybicycleroutes.com/xmonarchpassinfopage.html"
-          },
-          {
-            "title": "Cottonwood Pass West — Pjamm Cycling",
-            "url": "https://pjammcycling.com/climb/2023.Cottonwood-Pass-West"
-          },
-          {
-            "title": "Bicycling Cottonwood Pass Colorado — My Bicycle Routes",
-            "url": "https://www.mybicycleroutes.com/xcottonwoodpassinfopage.html"
-          },
-          {
-            "title": "Cottonwood Pass Summit Bike Trails Guide — Colorado Tourism",
-            "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/cottonwood-pass-summit/"
-          },
-          {
-            "title": "Route Recommendations — Absolute Bikes Salida",
-            "url": "https://www.absolutebikes.com/articles/route-recommendations-pg204.htm"
-          }
+          { "title": "Bike Monarch Pass — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/" },
+          { "title": "Cottonwood Pass West — Pjamm Cycling", "url": "https://pjammcycling.com/climb/2023.Cottonwood-Pass-West" },
+          { "title": "Route Recommendations — Absolute Bikes Salida", "url": "https://www.absolutebikes.com/articles/route-recommendations-pg204.htm" }
         ]
       }
     },
@@ -563,18 +507,18 @@
           "return_dates": "flexible +7–10 days",
           "stops": 2,
           "duration": "~22h total",
-          "url": "https://www.koreanair.com/us/en/booking/availability/flight-list",
-          "notes": "DTW → ICN (Seoul Incheon) → BKK (Bangkok Suvarnabhumi). Then add domestic: Thai AirAsia or Nok Air BKK (Don Mueang DMK) → CEI, ~$30–45 each way. Korean Air accepts bikes as checked baggage ($200 each way)."
+          "url": "https://www.koreanair.com/",
+          "notes": "DTW → ICN (Seoul Incheon) → BKK (Bangkok Suvarnabhumi). Add domestic: Thai AirAsia or Nok Air BKK (Don Mueang DMK) → CEI, ~$30–45 each way."
         },
         {
           "airline": "EVA Air",
           "price_usd": 1099,
-          "outbound_dates": "July–August flexible (midweek Tue/Wed best; book 6–8 weeks out)",
+          "outbound_dates": "July–August flexible (midweek best; book 6–8 weeks out)",
           "return_dates": "flexible +7–10 days",
           "stops": 2,
           "duration": "~23h total",
-          "url": "https://flights.evaair.com/en-us/flights-from-detroit-to-bangkok",
-          "notes": "DTW → TPE (Taipei Taoyuan) → BKK. Add domestic BKK → CEI separately (~$30–45). EVA bike policy: confirm at evaair.com during booking."
+          "url": "https://flights.evaair.com/",
+          "notes": "DTW → TPE (Taipei Taoyuan) → BKK. Add domestic BKK → CEI separately (~$30–45)."
         },
         {
           "airline": "Cathay Pacific",
@@ -583,8 +527,8 @@
           "return_dates": "flexible +7–10 days",
           "stops": 2,
           "duration": "~22h total",
-          "url": "https://www.cathaypacific.com/cx/en_US/book-a-trip/flights/find-flights.html",
-          "notes": "DTW → HKG (Hong Kong) → BKK. Add domestic BKK → CEI separately. Bike policy: accepted as sports equipment, fees apply."
+          "url": "https://www.cathaypacific.com/",
+          "notes": "DTW → HKG (Hong Kong) → BKK. Add domestic BKK → CEI separately."
         }
       ],
       "lodging": [
@@ -593,7 +537,7 @@
           "type": "hostel",
           "price_per_night_usd": 28,
           "neighborhood": "Chiang Rai city center — near Clock Tower",
-          "highlights": "The only explicitly cycling-dedicated accommodation in Chiang Rai — bike hire, secure bike storage, coffee shop on-site. Private rooms from ~$25–30/night. Walking distance to the night market.",
+          "highlights": "The only cycling-dedicated accommodation in Chiang Rai — bike hire, secure bike storage, coffee shop on-site. Private rooms from ~$25–30/night.",
           "url": "https://www.booking.com/hotel/th/bed-amp-bike-poshtel.html",
           "source": "booking"
         },
@@ -602,7 +546,7 @@
           "type": "hotel",
           "price_per_night_usd": 55,
           "neighborhood": "Chiang Rai city center — 5 min walk to night market",
-          "highlights": "Classic mid-range choice — well-maintained rooms, outdoor pool, free breakfast, free parking. On Phahonyothin Road, the main artery heading north toward the Mae Salong climb.",
+          "highlights": "Classic mid-range choice — outdoor pool, free breakfast, free parking. On Phahonyothin Road, the main artery heading north toward the Mae Salong climb.",
           "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447336-Reviews-Wiang_Inn_Hotel-Chiang_Rai_Chiang_Rai_Province.html",
           "source": "booking"
         },
@@ -611,61 +555,46 @@
           "type": "hotel",
           "price_per_night_usd": 110,
           "neighborhood": "Kok River bank — 10 min from city center",
-          "highlights": "Boutique bungalow resort on the Kok River — 78 Northern Thai-style rooms through gardens, spa, pool, riverside dining. Bike rentals on-site.",
+          "highlights": "Boutique bungalow resort on the Kok River — spa, pool, riverside dining. Bike rentals on-site.",
           "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447534-Reviews-The_Legend_Chiang_Rai_Boutique_River_Resort_Spa-Chiang_Rai_Chiang_Rai_Province.html",
           "source": "booking"
         }
       ],
       "itinerary": {
-        "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges pushing to 1,600 meters along the borders with Myanmar and Laos. A working provincial town of 62,000, not a resort city — the vibe is closer to a Thai county seat than a tourist destination. The cycling culture is real and the road infrastructure heading north is excellent. July is rainy season: reliable morning windows (7am–noon, often clear) followed by afternoon thunderstorms. Start early, climb before the clouds build, be descending by noon.",
+        "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges pushing to 1,600 meters along the borders with Myanmar and Laos. A working provincial town of 62,000, not a resort city. July is rainy season: reliable morning windows (7am–noon) followed by afternoon thunderstorms.",
         "days": [
           {
             "day": 1,
             "title": "Doi Mae Salong Loop — 108km / 67mi, 1,729m climbing",
-            "morning": "Wheels by 7am north on Route 1 toward Mae Chan (34km, flat warmup). Turn west onto Route 1130 and climb 25km through rubber plantations and tea gardens to Santikhiri (Mae Salong) at 1,200m — a surreal Yunnan Chinese enclave founded by KMT 93rd Division soldiers who fled Mao's China in 1949. Streets in Chinese characters, Yunnan Mandarin spoken, oolong tea on terraced hillsides. Stop for tea and khao soi before the descent.",
-            "afternoon": "Descend the south side via Route 1234 toward Ban Hin Taek, then east through Wiang Pa Pao and south to close the loop back to Chiang Rai. Be back in town by 1pm. Afternoon: Wat Rong Khun (the White Temple) 13km south — an entirely white glass-mosaic Buddhist temple with a causeway over a sea of sculpted hands.",
-            "evening": "Night Bazaar in the city center (6–11pm). Smaller and more local than Chiang Mai: khao soi, larb moo, sai oua sausage, sticky rice. Dinner ~$5–7."
+            "morning": "Wheels by 7am north on Route 1 toward Mae Chan (34km, flat warmup). Turn west onto Route 1130 and climb 25km to Santikhiri (Mae Salong) at 1,200m — a Yunnan Chinese enclave founded by KMT soldiers who fled Mao's China in 1949. Tea and khao soi before the descent.",
+            "afternoon": "Descend south side via Route 1234 toward Ban Hin Taek, then east to close the loop. Back in town by 1pm. Visit Wat Rong Khun (the White Temple) 13km south.",
+            "evening": "Night Bazaar (6–11pm). Khao soi, larb moo, sai oua sausage. Dinner ~$5–7."
           },
           {
             "day": 2,
             "title": "Doi Tung Climb + Golden Triangle — 95km / 59mi, 1,300m climbing",
-            "morning": "Depart 6:30am north on Route 110 toward Mae Sai (65km). At the Doi Tung junction (35km north), turn west onto the mountain road. Climb 18km to 1,389m through the Mae Fah Luang Royal Project — former opium-production zone transformed by the late Princess Mother into macadamia and tea farms. The Mae Fah Luang Garden at the summit has 100+ acres of ornamental planting, teak Royal Villa, views into Myanmar. Allow 45 minutes.",
-            "afternoon": "Descend north through Mae Sai border town. Continue east along Route 1016 — the Mekong River Road — to Chiang Saen and the Golden Triangle. The Hall of Opium museum (800 THB, 2 hours) at Sop Ruak is one of Southeast Asia's best: a serious institutional history of the opium trade, built by the Royal Project that eradicated opium in these hills. The context of looking out at the actual Golden Triangle while reading this history is surreal.",
-            "evening": "Riverside dinner in Sop Ruak watching longtail boats on the Mekong between three countries. Return to Chiang Rai by songthaew or van (~60km). Dinner: Phu Lae restaurant on Trairat Road for northern Thai naem prik noom and larb neua."
+            "morning": "Depart 6:30am north on Route 110. At the Doi Tung junction (35km north), west onto the mountain road. Climb 18km to 1,389m through the Mae Fah Luang Royal Project — former opium zone transformed into macadamia and tea farms.",
+            "afternoon": "Descend through Mae Sai border town. Continue east on Route 1016 (Mekong River Road) to the Golden Triangle. The Hall of Opium museum (800 THB, 2 hours) at Sop Ruak is one of Southeast Asia's best.",
+            "evening": "Riverside dinner in Sop Ruak watching longtail boats on the Mekong. Return to Chiang Rai by songthaew or van."
           },
           {
             "day": 3,
             "title": "Chiang Saen River Loop via Mekong Road — 80km / 50mi, 400m climbing",
-            "morning": "Recovery/exploration day. North on Route 1016 through rice paddies and market villages, Mekong on the left. Chiang Saen (55km): the Lanna Kingdom's former capital, now a quiet town of 5,000 with intact walls and moat, Wat Chedi Luang ruins (1328, 58m chedi), small National Museum. Lock the bike and walk the ruins 30 minutes.",
-            "afternoon": "Continue 11km to Sop Ruak for the Golden Triangle viewpoint in morning light, then south back toward Chiang Rai. Optional extension to Chiang Khong (40km further north, most isolated Mekong stretch) if legs are there — then van back. Otherwise be home by noon.",
-            "evening": "Final night: Saturday Night Walking Street on Thanalai Road if timing works (6–11pm, local food and hill-tribe vendors). Otherwise return to the best stall you missed on Day 1."
+            "morning": "North on Route 1016. Chiang Saen (55km): Lanna Kingdom's former capital with intact walls and moat, Wat Chedi Luang ruins (1328, 58m chedi), small National Museum.",
+            "afternoon": "Continue to Sop Ruak for the Golden Triangle viewpoint, then south back toward Chiang Rai.",
+            "evening": "Saturday Night Walking Street on Thanalai Road if timing works (6–11pm, local food and hill-tribe vendors)."
           }
         ],
         "tips": [
-          "July rain timing: mornings clear until about 11am–noon, afternoon thunderstorms most days 2–6pm. Start all rides by 7am and plan your descent or return by 11:30am.",
-          "Mae Salong grades: up to 22–24% on the steepest ramps, short and punchy. Route 1130 surface is well-maintained. Clockwise (north side up, south side down via Ban Hin Taek) offers longer but more consistently graded climbing.",
-          "Bike logistics on the domestic leg: Thai AirAsia and Nok Air accept bikes as checked baggage on BKK→CEI. Book the sports baggage allowance when purchasing your ticket online — adding it at the airport costs more.",
-          "KMT history of Mae Salong: the 93rd Division crossed into Burma after the 1949 Communist victory and spent years fighting through the Golden Triangle borderlands before Thailand offered them land in exchange for fighting Communist insurgents. The old men who speak Yunnan Mandarin and play mah-jong have a story not written in any guidebook.",
-          "Hall of Opium (Sop Ruak): funded by the Thai royal family, staffed by serious historians. Allow 2 full hours minimum. ~800 THB (~$22).",
-          "Hydration: July mountain humidity means you'll sweat more than expected. Carry electrolyte tabs — Thai 7-Eleven (everywhere, including mountain villages) stocks Pocari Sweat and coconut water."
+          "July rain timing: mornings clear until about 11am–noon, afternoon thunderstorms most days 2–6pm. Start all rides by 7am.",
+          "Mae Salong grades: up to 22–24% on steepest ramps. Route 1130 surface is well-maintained. Clockwise (north side up, south via Ban Hin Taek) offers more consistent grades.",
+          "Bike logistics on domestic leg: Thai AirAsia and Nok Air accept bikes on BKK→CEI. Book sports baggage allowance when purchasing ticket.",
+          "Hall of Opium (Sop Ruak): funded by the Thai royal family, staffed by serious historians. Allow 2 full hours. ~800 THB (~$22).",
+          "Hydration: July mountain humidity means electrolytes matter. Thai 7-Eleven stocks Pocari Sweat and coconut water everywhere including mountain villages."
         ],
         "sources": [
-          {
-            "title": "Doi Mae Salong Chiang Rai road ride — Bicycle Thailand",
-            "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/"
-          },
-          {
-            "title": "Cycling Thailand: 3 beautiful days around Chiang Rai — Stefan in Thailand",
-            "url": "https://stefaninthailand.de/en/cycling-thailand-north-thoeng-chiang-khong/"
-          },
-          {
-            "title": "The Golden Frontier Chiang Rai Tour — Cycling Chiang Mai",
-            "url": "https://cyclingchiangmai.cc/golden-frontier-chiang-rai"
-          },
-          {
-            "title": "Best road biking trails in Chiang Rai — AllTrails",
-            "url": "https://www.alltrails.com/thailand/chiang-rai/road-biking"
-          }
+          { "title": "Doi Mae Salong Chiang Rai road ride — Bicycle Thailand", "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/" },
+          { "title": "The Golden Frontier Chiang Rai Tour — Cycling Chiang Mai", "url": "https://cyclingchiangmai.cc/golden-frontier-chiang-rai" }
         ]
       }
     },
@@ -689,8 +618,8 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~15h total",
-          "url": "https://www.lufthansa.com/lhg/us/en/o-d/cy-cy/ljubljana-detroit",
-          "notes": "Connects through Frankfurt (FRA→LJU). Bike fee €100 each way (Economy). Deflate tires, remove pedals, lower saddle."
+          "url": "https://www.lufthansa.com/",
+          "notes": "Connects through Frankfurt (FRA→LJU). Bike fee €100 each way."
         },
         {
           "airline": "Austrian Airlines",
@@ -699,8 +628,8 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~14h total",
-          "url": "https://www.austrian.com/lhg/si/en/o-d/cy-cy/ljubljana-vienna",
-          "notes": "Connects through Vienna (VIE→LJU, ~1h — shortest final leg of any routing). Bike fee €75–100 each way."
+          "url": "https://www.austrian.com/",
+          "notes": "Connects through Vienna (VIE→LJU, ~1h). Bike fee €75–100 each way."
         },
         {
           "airline": "SWISS",
@@ -709,7 +638,7 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~15h 30m total",
-          "url": "https://www.swiss.com/us/en/fly/offers/city-pairs/detroit-ljubljana.html",
+          "url": "https://www.swiss.com/",
           "notes": "Connects through Zurich (ZRH→LJU, ~1h30m). Bike fee €80–100 each way."
         }
       ],
@@ -728,7 +657,7 @@
           "type": "hotel",
           "price_per_night_usd": 145,
           "neighborhood": "Kranjska Gora village center",
-          "highlights": "Slovenia's premier cyclist-specialist hotel — certified cycling accommodation with secure storage, assembly area, pool and wellness. Walking distance to Vršič climb start.",
+          "highlights": "Slovenia's premier cyclist-specialist hotel — certified cycling accommodation with secure storage, assembly area, pool and wellness.",
           "url": "https://www.cyclingforsofties.com/destinations/slovenia-cycling-holidays/julian-alps-tours/accommodations/hotel-kranjska-gora",
           "source": "booking"
         },
@@ -743,49 +672,39 @@
         }
       ],
       "itinerary": {
-        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. Within a day's ride you're at 1,611 meters on the Vršič Pass — 50 hairpin turns, cobbled bends 5–9, and the Soča Valley glacier-turquoise below. July temperatures average 20–25°C at valley level. No 5am alarms required.",
+        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. Within a day's ride you're at 1,611 meters on the Vršič Pass — 50 hairpin turns, cobbled bends 5–9, and the Soča Valley glacier-turquoise below. July temperatures average 20–25°C at valley level.",
         "days": [
           {
             "day": 1,
             "title": "Ljubljana → Bled via Sava Valley — 75 miles / 120km, 1,200m climbing",
-            "morning": "Roll from the Dragon Bridge northwest through Šiška district along the Sava River. Stop in Kranj (32km) — Slovenia's 4th city on a limestone peninsula above the gorge. Continue through Lesce to the Radovna Valley approach to Bled: almost no traffic, beech forest, first views of Triglav National Park. Ljubljana to Bled: ~60km.",
-            "afternoon": "Lake Bled circuit (6km, flat). Climb the short access road to Ojstrica viewpoint (20% pitch, unpaved last 100m, best overhead Bled view). Optional Pokljuka Plateau extension: 18km from Bled, 800m gain, 1,330m summit, biathlon venue.",
-            "evening": "Dinner at Gostilna Pri Planincu (Grajska cesta 8) — local prices, good trout and struklji. Then up to Bled Castle (130m cliff, lit at night) for the view of the Alps you'll spend the next two days riding through."
+            "morning": "Roll northwest from the Dragon Bridge along the Sava River. Stop in Kranj (32km) on a limestone peninsula above the gorge. Continue through Lesce to the Radovna Valley approach to Bled.",
+            "afternoon": "Lake Bled circuit (6km, flat). Climb to Ojstrica viewpoint (20% pitch, best overhead Bled view). Optional Pokljuka Plateau extension: 18km, 800m gain, biathlon venue.",
+            "evening": "Dinner at Gostilna Pri Planincu (Grajska cesta 8). Up to Bled Castle for the night view of the Alps."
           },
           {
             "day": 2,
             "title": "Vršič Pass Queen Stage — 88km / 55 miles, 1,900m climbing",
-            "morning": "Start Kranjska Gora 7am. The Vršič climb (12km to 1,611m): bends 5–9 are the famous cobbled section at 15–17% on original 1916 WWI prisoner-built road surface. Pause at bend #8 for the Russian Orthodox Chapel — 400 soldiers killed by avalanche here during construction. Summit: 50 hairpins, the most of any pass in Europe, Triglav's north face visible.",
-            "afternoon": "Descend 26 hairpins into Trenta Valley (Soča side, steeper). Detour 3km to the Soča source — cold blue-green pool erupting from a limestone grotto. Follow the valley floor 26km to Bovec along the glacier-blue Soča through the Great Soča Gorge.",
-            "evening": "Lunch in Bovec (Bovška trout, polenta). Wade into the Soča: 8–12°C river is the best ice-bath in the Alps. Dinner at Gostilna Sovdat for traditional Primorska cuisine."
+            "morning": "Start Kranjska Gora 7am. Vršič climb (12km to 1,611m): bends 5–9 are the famous cobbled section at 15–17% on original 1916 WWI prisoner-built road surface. Pause at bend #8 for the Russian Orthodox Chapel. Summit: 50 hairpins — the most of any pass in Europe.",
+            "afternoon": "Descend 26 hairpins into Trenta Valley. Detour 3km to the Soča source — cold blue-green pool erupting from a limestone grotto. Follow the valley 26km to Bovec along the glacier-blue Soča.",
+            "evening": "Lunch in Bovec (Bovška trout, polenta). Wade into the Soča: 8–12°C river is the best ice-bath in the Alps."
           },
           {
             "day": 3,
             "title": "Mangart Saddle — Slovenia's Highest Drivable Road — 90km / 56 miles, 2,200m climbing",
-            "morning": "Depart Bovec 7am. Koritnica Valley junction (6km), turn east toward the Mangart toll gate (~€10 cars; cyclists waved through or nominal fee). Climb 10km to 2,072m: five dark rock tunnels requiring a front light, grades to 25% on the upper ramps, views extending into Austria and Italy from the saddle.",
-            "afternoon": "Descend to Bovec. Continue south to Kobarid (12km) — site of Hemingway's A Farewell to Arms. The Kobarid Museum (European Museum of the Year 1993) is one of the best WWI museums in Europe. Allow 90 minutes. Lunch: Hiša Franko (Ana Roš's restaurant, 4km north) if you have a reservation.",
-            "evening": "Return to Kranjska Gora or Ljubljana for flight connection. Kranjska Gora to LJU is 85km by road (1h15m)."
+            "morning": "Depart Bovec 7am. Turn east at Koritnica Valley junction toward the Mangart toll gate (~€10; cyclists typically waved through). Climb 10km to 2,072m through five dark tunnels (front light required), grades to 25%, views into Austria and Italy from the saddle.",
+            "afternoon": "Descend to Bovec. South to Kobarid (12km) — site of Hemingway's A Farewell to Arms. Kobarid Museum (European Museum of the Year 1993) is one of the best WWI museums in Europe.",
+            "evening": "Return to Kranjska Gora or Ljubljana for flight connection. Kranjska Gora to LJU: 85km (1h15m)."
           }
         ],
         "tips": [
-          "Vršič cobbled hairpins (bends 5–9): commit to your gear before the cobbles start — a shift at 15% on rough stone can snap a chain. Wide tires (28–32c) handle this surface more confidently.",
+          "Vršič cobbled hairpins (bends 5–9): commit to your gear before the cobbles start — a shift at 15% on rough stone can snap a chain. Wide tires (28–32c) handle this more confidently.",
           "Mangart tunnel lighting is mandatory: five dark tunnels, longest ~90 seconds at climbing pace.",
           "Alpine afternoon weather: July thunderstorms develop fast over Triglav by 1–2pm. Start before 7:30am, be off exposed ridges by noon.",
           "Soča River recovery: 8–12°C even in July. A 10-minute wade after Day 2 is the best ice-bath you'll find at altitude."
         ],
         "sources": [
-          {
-            "title": "Cycling Slovenia's Julian Alps: routes, GPS files, hotels + more — Epic Road Rides",
-            "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/"
-          },
-          {
-            "title": "Slovenia Road Bike Tour — Best of Slovenia in 8 Days — 57hours",
-            "url": "https://57hours.com/adventure/slovenia-road-bike-tour/"
-          },
-          {
-            "title": "Vršič Pass climb stats — Pjamm Cycling",
-            "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic"
-          }
+          { "title": "Cycling Slovenia's Julian Alps — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/" },
+          { "title": "Vršič Pass climb stats — Pjamm Cycling", "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic" }
         ]
       }
     },
@@ -809,8 +728,8 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~17h total",
-          "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-seville",
-          "notes": "Connects through Istanbul (IST). Bike fees typically €50–80 each way in a hard case."
+          "url": "https://www.turkishairlines.com/",
+          "notes": "Connects through Istanbul (IST). Bike fees typically €50–80 each way."
         },
         {
           "airline": "Iberia",
@@ -819,7 +738,7 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~14h total",
-          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-seville.html",
+          "url": "https://www.iberia.com/",
           "notes": "Connects through Madrid (MAD→SVQ, 1h15m shuttle). Bike fees €50–100 each way."
         },
         {
@@ -829,7 +748,7 @@
           "return_dates": "flexible +7–10 days",
           "stops": 1,
           "duration": "~13h 30m total",
-          "url": "https://www.klm.com/flights/en-us/flights-from-detroit-to-seville",
+          "url": "https://www.klm.com/",
           "notes": "Connects through Amsterdam (AMS→SVQ ~3h). Bike fee €50–75 each way."
         }
       ],
@@ -839,8 +758,8 @@
           "type": "hostel",
           "price_per_night_usd": 45,
           "neighborhood": "Arenal / Centro",
-          "highlights": "Steps from Torre del Oro and Guadalquivir riverfront. Confirm secure indoor bike storage at check-in. Rooftop terrace with Cathedral views.",
-          "url": "https://www.hostelworld.com/hostels/europe/spain/seville/",
+          "highlights": "Steps from Torre del Oro and Guadalquivir riverfront. Rooftop terrace with Cathedral views.",
+          "url": "https://www.hostelworld.com/",
           "source": "hostelworld"
         },
         {
@@ -848,7 +767,7 @@
           "type": "hotel",
           "price_per_night_usd": 135,
           "neighborhood": "Santa Cruz",
-          "highlights": "19th-century palace 200m from the Real Alcázar walls. Interior parking for bikes. 4.3/5 on Booking.",
+          "highlights": "19th-century palace 200m from the Real Alcázar walls. Interior parking for bikes.",
           "url": "https://www.booking.com/hotel/es/palacio-alcazar.html",
           "source": "booking"
         },
@@ -889,7 +808,7 @@
           "return_dates": "flexible +7–14 days",
           "stops": 1,
           "duration": "~15h total",
-          "url": "https://www.turkishairlines.com/en/flights-from-detroit-to-athens",
+          "url": "https://www.turkishairlines.com/",
           "notes": "Connects through Istanbul (IST)."
         },
         {
@@ -899,7 +818,7 @@
           "return_dates": "flexible +7–14 days",
           "stops": 1,
           "duration": "~17h total",
-          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-athens.html",
+          "url": "https://www.delta.com/",
           "notes": "Connects through JFK or ATL."
         },
         {
@@ -909,7 +828,7 @@
           "return_dates": "flexible +7–14 days",
           "stops": 1,
           "duration": "~14h 30m total",
-          "url": "https://www.united.com/en-us/flights-from-detroit-to-athens",
+          "url": "https://www.united.com/",
           "notes": "Connects through Newark (EWR)."
         }
       ],
@@ -920,7 +839,7 @@
           "price_per_night_usd": 65,
           "neighborhood": "Psirri / Monastiraki",
           "highlights": "9.6/10 on Hostelworld. Neoclassical building, steps from Monastiraki Metro. 2026 Hoscar Award winner.",
-          "url": "https://www.hostelworld.com/hostels/europe/greece/athens/",
+          "url": "https://www.hostelworld.com/",
           "source": "hostelworld"
         },
         {
@@ -929,7 +848,7 @@
           "price_per_night_usd": 126,
           "neighborhood": "Plaka",
           "highlights": "9.3/10 on Booking (1,600 reviews). Elegant rooms 400m from Syntagma Square, some with Acropolis views, homemade breakfast.",
-          "url": "https://www.booking.com/district/gr/athens/plaka.html",
+          "url": "https://www.booking.com/",
           "source": "booking"
         },
         {
@@ -963,12 +882,7 @@
       "flight_search_date": "2026-06-22",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
@@ -984,12 +898,7 @@
       "flight_search_date": "2026-06-22",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-22",
@@ -1005,12 +914,7 @@
       "flight_search_date": "2026-06-22",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -1026,12 +930,7 @@
       "flight_search_date": "2026-06-19",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -1047,12 +946,7 @@
       "flight_search_date": "2026-06-19",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -1068,12 +962,7 @@
       "flight_search_date": "2026-06-19",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     },
     {
       "updated": "2026-06-19",
@@ -1089,12 +978,7 @@
       "flight_search_date": "2026-06-19",
       "flights": [],
       "lodging": [],
-      "itinerary": {
-        "overview": "",
-        "days": [],
-        "tips": [],
-        "sources": []
-      }
+      "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] }
     }
   ]
 }

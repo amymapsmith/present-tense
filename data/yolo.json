@@ -1,203 +1,181 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-29",
   "destination": {
-    "city": "Rhinebeck",
+    "city": "Richmond",
     "country": "United States",
     "flag": "🇺🇸",
-    "iata": "JFK",
-    "lat": 41.9262,
-    "lon": -73.9120,
-    "vibe": "90 miles north of Penn Station by Amtrak, Rhinebeck sits at the center of the best road cycling in the Northeast — 300-year-old country lanes through orchards and river estates, the Hudson at the bottom of every hill, the Catskills on the horizon, and the Shawangunk Ridge one bridge-crossing away."
+    "iata": "RIC",
+    "lat": 37.5407,
+    "lon": -77.4360,
+    "vibe": "A mid-sized Southern city with a world-class free art museum, one of the longest intact stretches of Victorian row houses in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and herons accessible entirely on foot."
   },
-  "flight_search_date": "2026-06-25",
+  "flight_search_date": "2026-06-29",
   "flights": [
     {
+      "airline": "Spirit Airlines",
+      "price_usd": 240,
+      "outbound_dates": "Late July 2026 (e.g. Jul 29) — mid-week departures cheapest",
+      "return_dates": "+10 days (e.g. Aug 8)",
+      "stops": 0,
+      "duration": "~1h 50m (nonstop)",
+      "url": "https://www.spirit.com/",
+      "notes": "Spirit operates nonstop DTW→RIC. Ultra-low base fare but add bags and seat selection. Book 5–8 weeks out. Cheapest days: Tuesday/Wednesday departures. Best for carry-on-only travel."
+    },
+    {
       "airline": "Delta Air Lines",
-      "price_usd": 179,
-      "outbound_dates": "July–August flexible (Tue/Wed cheapest; 4+ daily nonstops DTW→JFK)",
-      "return_dates": "flexible +5–7 days",
+      "price_usd": 380,
+      "outbound_dates": "Late July 2026 (flexible Jul 28–Aug 2 window) — midweek lowest",
+      "return_dates": "+10 days",
       "stops": 0,
-      "duration": "1h 52m",
-      "url": "https://www.delta.com/us/en/flight-deals/current-flight-deals",
-      "notes": "DTW→JFK nonstop. Best bike policy of any major carrier: bikes treated as oversized checked bag at the standard rate (~$35/way), not the $150 penalty others charge. Confirm 115 linear inch / 50 lb limit before booking. Average $179–$217 RT in July — book 40 days out for best pricing. If bringing a soft bike bag, Delta is the clear best option; if shipping via BikeFlights ($80–120/way), United becomes cheapest total."
+      "duration": "~1h 46m (nonstop)",
+      "url": "https://www.delta.com/us/en/flight-deals/united-states-flights/flights-to-richmond",
+      "notes": "Delta runs frequent nonstops DTW→RIC. Nonstop roundtrip from $350–$450 in peak summer. Includes carry-on bag. Book on Sundays for ~6% savings. Best choice for flexibility and reliability."
     },
     {
-      "airline": "United Airlines",
-      "price_usd": 149,
-      "outbound_dates": "Early August (Tue Aug 4 cheapest; ~daily nonstops DTW→EWR)",
-      "return_dates": "flexible +5–7 days",
-      "stops": 0,
-      "duration": "2h",
-      "url": "https://www.united.com/en/us/deals/flights-from-detroit-to-new-york",
-      "notes": "DTW→EWR (Newark). Cheapest ticket but United's bike fee is ~$150 each way — wipes out the savings vs. Delta unless you're shipping your bike separately. Check united.com baggage policy before booking. EWR is easy for Penn Station: Newark AirTrain + NJ Transit (~40min, ~$18)."
-    },
-    {
-      "airline": "JetBlue",
-      "price_usd": 258,
-      "outbound_dates": "Late July (Jul 29 from $129 one-way; flexible Aug return from ~$149 OW)",
-      "return_dates": "flexible",
-      "stops": 0,
-      "duration": "1h 52m",
-      "url": "https://www.jetblue.com/en/flights-from-detroit-to-new-york",
-      "notes": "DTW→JFK nonstop. $100 bike handling fee + standard bag fee on top of the ticket price, and an 80-linear-inch / 50 lb hard case limit that's tight for most bike bags. Best used as a backup if Delta is sold out."
-    }
-  ],
-  "transportation": [
-    {
-      "name": "AirTrain + Subway — JFK to Penn Station",
-      "mode": "transit",
-      "description": "JFK → AirTrain to Jamaica → A or E train to Midtown Penn Station · bikes allowed on NYC subway",
-      "duration": "~55 min",
-      "price_usd": 11,
-      "price_note": "$8.50 AirTrain + $2.90 subway (OMNY tap)",
-      "url": "https://www.jfkairport.com/to-from-airport/air-train",
-      "notes": "Bikes are allowed on the NYC subway — carry/fold vertically. Large bike bags fit but it's crowded in rush hour; aim off-peak. Alternative: LIRR from Jamaica to Penn Station (~$11.50, ~30min total instead of 55min) if you want to move faster."
-    },
-    {
-      "name": "Amtrak Empire Service — Penn Station NYC → Rhinecliff",
-      "mode": "train",
-      "description": "Penn Station NYC to Rhinecliff station · the scenic route up the east bank of the Hudson River",
-      "duration": "~2h 10m",
-      "price_usd": 38,
-      "price_note": "$30–55 each way · $10 bike reservation fee",
-      "url": "https://www.amtrak.com/empire-service-train",
-      "notes": "The Empire Service runs 3–4x daily to Rhinecliff. Rhinecliff is a 1873 Victorian depot right on the river bank, 1 mile below Rhinebeck village (uphill). Reserve bike space at booking — July fills fast. The last hour of the train ride follows the Hudson River with Catskills views across the water. Return: same line south; bike reservation required again."
-    },
-    {
-      "name": "Amtrak — Rhinecliff → Poughkeepsie (Shawangunk day)",
-      "mode": "train",
-      "description": "5 stops south to Poughkeepsie · used for the Shawangunk Ridge day ride",
-      "duration": "~35 min",
-      "price_usd": 12,
-      "price_note": "~$10–15 each way",
-      "url": "https://www.amtrak.com/empire-service-train",
-      "notes": "Take this instead of riding 30+ miles south just to reach the Walkway Over the Hudson. Poughkeepsie station is 10 minutes from the Walkway entrance by bike."
+      "airline": "American Airlines",
+      "price_usd": 310,
+      "outbound_dates": "Flexible late July / early August 2026 — Tuesday/Wednesday lowest",
+      "return_dates": "+10 days",
+      "stops": 1,
+      "duration": "~4h 10m (1 stop, typically CLT or PHL)",
+      "url": "https://www.aa.com/",
+      "notes": "American serves DTW→RIC via connection at Charlotte (CLT) or Philadelphia (PHL). Roundtrip from ~$280–$350. Longer travel day but sometimes significantly cheaper than Delta nonstop — check aa.com fare calendar."
     }
   ],
   "lodging": [
     {
-      "name": "Beekman Arms & Delamater Inn",
-      "type": "hotel",
-      "price_per_night_usd": 145,
-      "neighborhood": "Rhinebeck village center",
-      "highlights": "America's oldest continuously operating inn (est. 1766) on Market Street — roll out the front door onto back roads, free breakfast, free parking, walking distance to every restaurant and farm stand in town.",
-      "url": "https://www.beekmandelamaterinn.com/",
-      "source": "booking"
+      "name": "Fan District Victorian Row House (Entire Home — Airbnb)",
+      "type": "airbnb",
+      "price_per_night_usd": 110,
+      "neighborhood": "The Fan District",
+      "highlights": "Entire Victorian row house on or near Strawberry Street in Richmond's most walkable historic neighborhood — steps from restaurants, coffee shops, the VMFA, and Carytown, with the neighborhood feel that no hotel can replicate.",
+      "url": "https://www.airbnb.com/s/Richmond--Virginia--United-States/homes",
+      "source": "airbnb"
     },
     {
-      "name": "The Wick",
+      "name": "Graduate by Hilton Richmond",
       "type": "hotel",
-      "price_per_night_usd": 230,
-      "neighborhood": "Warren Street, Hudson NY",
-      "highlights": "Converted 1860s candle factory on Hudson's gallery-lined Warren Street, 2 miles from the Empire State Trail — complimentary breakfast, call ahead for secure bike storage, Lil' Deb's Oasis and Cafe Mutton are both around the corner.",
-      "url": "https://www.thewickhotel.com/",
-      "source": "booking"
+      "price_per_night_usd": 185,
+      "neighborhood": "Downtown / Fan District edge (301 W Franklin St, near VCU)",
+      "highlights": "University-district boutique hotel with rooftop terrace overlooking the VCU Institute for Contemporary Art — walkable to VMFA, the Fan, and downtown; consistent mid-range quality with a good location for everything.",
+      "url": "https://www.hilton.com/en/hotels/ricgrgu-graduate-richmond/",
+      "source": "direct"
     },
     {
-      "name": "Mirbeau Inn & Spa",
+      "name": "Quirk Hotel Richmond",
       "type": "hotel",
-      "price_per_night_usd": 500,
-      "neighborhood": "Rhinebeck village",
-      "highlights": "The only lodging in the valley explicitly built for the cycling-then-recovery pattern: complimentary loaner bikes, a full spa, pools, on-site dining — plus you're one mile from every back road in Dutchess County.",
-      "url": "https://rhinebeck.mirbeau.com/",
-      "source": "booking"
+      "price_per_night_usd": 220,
+      "neighborhood": "Arts District / Downtown (Main Street)",
+      "highlights": "Boutique gallery-hotel with rotating art installations, rooftop bar, and on-site restaurant Maple & Pine — the most design-forward hotel in Richmond, a Destination by Hyatt property in the heart of the arts district.",
+      "url": "https://www.quirkhotels.com/",
+      "source": "direct"
+    },
+    {
+      "name": "The Jefferson Hotel",
+      "type": "hotel",
+      "price_per_night_usd": 420,
+      "neighborhood": "Downtown Richmond (Franklin St at Adams St)",
+      "highlights": "National Historic Landmark opened in 1895 — the staircase reportedly inspired Gone With the Wind, Lemaire restaurant is Richmond's finest dining, and the grandeur is genuine rather than corporate.",
+      "url": "https://www.jeffersonhotel.com/",
+      "source": "direct"
     }
   ],
   "itinerary": {
-    "overview": "The Hudson Valley has been the best road cycling in the Northeast for decades, and cyclists have been the only ones who know it. The roads around Rhinebeck, Red Hook, and Tivoli are genuinely quiet — traffic stayed on Route 9 while the real roads looped through farm country behind it. You fly into JFK, take the Amtrak Empire Service 90 miles north to Rhinecliff (a Victorian depot right on the riverbank), roll off the train, and you're immediately in back-road territory. Across the Hudson, the Shawangunk Ridge offers some of the best sustained climbing in the Northeast: 15% pitches through white conglomerate escarpments, accessed via the Walkway Over the Hudson in Poughkeepsie. In between: orchards, river views, Bard College campus roads, and the galleries and restaurant scene of Hudson — the most interesting small city in New York State.",
+    "overview": "Richmond is a mid-sized Southern city that punches well above its weight: a world-class free art museum (VMFA), one of the longest intact stretches of Victorian architecture in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes, herons, and Class IV rapids accessible entirely on foot. Ten days lets you sink into neighborhoods rather than race through them — the Fan on a Tuesday morning with coffee and a bakery, Church Hill at dusk, Carytown on a Saturday, Shockoe Bottom for history and oysters.",
     "days": [
       {
         "day": 1,
-        "title": "Arrive — DTW → JFK → Rhinecliff",
-        "morning": "Fly DTW→JFK (Delta, 1h52m nonstop). AirTrain to Jamaica station (~8min, $8.50), then A or E subway to Penn Station (~35min, $2.90). Or LIRR from Jamaica to Penn Station (~$11.50, faster). Amtrak Empire Service to Rhinecliff — book the bike space at amtrak.com when you book the ticket ($10 fee, July fills fast). The train follows the Hudson River for the last 45 minutes; you can see the Catskills across the water.",
-        "afternoon": "Rhinecliff station is a 1873 Victorian depot right on the river bank — one of the prettiest train stops in the Northeast. The mile from Rhinecliff up to Rhinebeck village is the one climb of the day. Check in, assemble bike if needed. Bread Alone Bakery (45 E Market St, closes 5pm) for a pastry and coffee.",
-        "evening": "Dinner at Terrapin (farm-to-table since 1998, seasonal menu rotating around local producers — the anchor of the Rhinebeck food scene) or casual at Aba's Falafel for something quick and inexpensive.",
-        "waypoints": [
-          { "name": "Rhinecliff Station (Amtrak arrival)", "lat": 41.9204, "lon": -73.9622 },
-          { "name": "Rhinebeck village / Bread Alone Bakery", "lat": 41.9262, "lon": -73.9117 }
-        ]
+        "title": "Arrival + The Fan Orientation",
+        "morning": "Fly in from DTW, land at RIC. Rideshare or rent a car (Uber/Lyft are plentiful from RIC; ~20 minutes to the Fan). Check into your Fan District Airbnb or Graduate Hotel. Walk the length of Monument Avenue from Belvidere Street west: observe the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains at the Boulevard intersection), and the remarkable tree canopy. This sets the tone for Richmond's complicated, evolving relationship with its past.",
+        "afternoon": "Walk Strawberry Street — the Fan's informal village center. Stop at Garnett's Cafe (2001 Park Ave) for a late lunch: the Scuffletown Chicken Salad Sandwich and one of their celebrated pies. Afterward, head to the VMFA (200 N Arthur Ashe Blvd) — free admission, no reservation needed — and spend 2 hours with the permanent collection. Don't miss Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.",
+        "evening": "Dinner at Beaucoup (111 N Robinson St) in the Fan — Richmond's best seafood and oyster spot, French-ish bistro format. Order the oysters and whatever fish they have. Then walk to The Jasper (3101 W Cary St) in Carytown — named by many as one of the best cocktail bars on the East Coast. Two drinks and settle in."
       },
       {
         "day": 2,
-        "title": "Rhinebeck → Bard → Tivoli → Red Hook — 34mi / 55km, ~1,100ft / 335m",
-        "morning": "Introductory loop — enough climbing to feel it, quiet enough to enjoy it. Head north from Rhinebeck on Route 9G, then duck onto the back roads through Bard College campus (42.0264, -73.9089 — technically private, cycling tolerated, beautiful estate roads). Continue north to Tivoli. Tivoli General (52 Broadway) opens early: get a bialy before they sell out. They make the best bialys in the Hudson Valley and they know it.",
-        "afternoon": "Lunch at GioBatta Alimentari (48 Broadway, Tivoli) — market and deli counter, wildly good food, Ruth Reichl is a known regular. Not on any 'best of' list because it doesn't market itself. Head south from Tivoli toward Red Hook, stopping at Montgomery Place Orchards (Route 9G, Red Hook — open Wed–Sat 9–6, Sun 9–5 from mid-June): 60+ apple varieties, apple cider donuts, pies. Return to Rhinebeck via Red Hook village and back lanes.",
-        "evening": "Gigi (Mediterranean with Hudson Valley ingredients, lively, no attitude) or Rhinebeck Farmers' Market if it's Sunday (10am–2pm, 23 E Market St — build your week around this if possible).",
-        "waypoints": [
-          { "name": "Bread Alone Bakery, Rhinebeck", "lat": 41.9253, "lon": -73.9103 },
-          { "name": "Bard College (campus roads)", "lat": 42.0264, "lon": -73.9089 },
-          { "name": "Tivoli / GioBatta Alimentari", "lat": 42.0578, "lon": -73.8991 },
-          { "name": "Montgomery Place Orchards", "lat": 41.9946, "lon": -73.8924 },
-          { "name": "Red Hook village", "lat": 41.9997, "lon": -73.8719 }
-        ]
+        "title": "VMFA Deep Dive + Carytown",
+        "morning": "Return to the VMFA at 10am when it opens. Spend the full morning in the wings you didn't reach yesterday: the American galleries, the African art collection, the modern and contemporary floors. The VMFA is genuinely on par with major metropolitan museums and free admission means you can linger without guilt. Check icavcu.org for any current special exhibitions.",
+        "afternoon": "Walk or rideshare to Carytown (W Cary St between Thompson and Boulevard). This nine-block stretch of independent shops is the city's most enjoyable afternoon: browse For the Love of Chocolate, World of Mirth (bizarre toys and gifts), and any bookshop you see. Lunch at Mom's Siam (Thai, 3622 W Cary St) — the green curry is legendary. Stop at Gelati Celesti for ice cream; try the 'Just Ask' flavor.",
+        "evening": "Check the Byrd Theatre schedule (2908 W Cary St) — Richmond's 1928 movie palace showing films nightly for $4–8. On Friday and Saturday nights the Mighty Wurlitzer organ plays before the film. If nothing appeals, walk to Can Can Brasserie (3120 W Cary St) for dinner — French bistro with a gorgeous Belle Époque interior."
       },
       {
         "day": 3,
-        "title": "River Road Long Loop — 52mi / 84km, ~1,400ft / 427m",
-        "morning": "The big day. Early start — 6:30 or 7am — to beat the summer heat. Head southwest from Rhinebeck toward the river, connecting to River Road south. River Road is the open secret of Hudson Valley cycling: flat, paved, river views, almost no cars. Stop at Migliorelli Farm Stand (668 River Rd, open daily 9–6) for mid-ride fuel — third-generation farm, over 130 varieties of fruit and vegetables. The river corridor in the morning light, before the heat builds, is as good as it gets.",
-        "afternoon": "The route loops back north through inland farm roads and rolling terrain before returning to Rhinebeck. The accumulated climbing is modest per pitch but persistent — plan for it. Water and snacks at Rhinebeck village before the final stretch.",
-        "evening": "You've earned a proper dinner. Terrapin in Rhinebeck, or if you want to take the Amtrak one stop south: Cafe Mutton (757 Columbia St, Hudson — crépinettes, beef tartare, excellent brunch too, Wed–Fri evenings, Sat–Sun brunch only).",
-        "waypoints": [
-          { "name": "Rhinebeck village (start)", "lat": 41.9262, "lon": -73.9117 },
-          { "name": "Migliorelli Farm Stand (River Rd)", "lat": 41.8902, "lon": -73.9588 },
-          { "name": "Rhinecliff (river views, midpoint landmark)", "lat": 41.9204, "lon": -73.9622 }
-        ]
+        "title": "Jackson Ward History + Soul Food",
+        "morning": "Start at the Black History Museum & Cultural Center of Virginia (122 W Leigh St) in Jackson Ward, housed in the historic Leigh Street Armory. This neighborhood was the 'Harlem of the South' and 'Black Wall Street of America' — home to Maggie L. Walker (first woman bank president in the US). Visit the Maggie L. Walker National Historic Site (600 N 2nd St), a free NPS site with ranger-led tours of her home offered daily.",
+        "afternoon": "Lunch at Mama J's (415 N 1st St) — fried chicken, collard greens, mac and cheese. Cash and card, no reservations, worth any wait. After lunch, walk the mural corridors of Jackson Ward — it rivals Scott's Addition for large-scale street art. The intersection of Broad and Belvidere is a good starting point. Visit the Bill 'Bojangles' Robinson statue at Adams and Leigh.",
+        "evening": "Dinner at Restaurant Adarra (1 W Marshall St) — Basque pintxos done with Virginia ingredients, outstanding wine list. Small plates format; order 6–8 dishes. Walk over to Soul Taco (2005 W Broad St) afterward for late-night tacos: the root beer braised oxtail taco is exceptional."
       },
       {
         "day": 4,
-        "title": "Hudson Day — Warren Street, Olana, Lil' Deb's",
-        "morning": "Rider's choice: either ride 25 miles south on Route 9G to Hudson (flat to rolling, decent shoulder, moderate traffic), or lock the bike and take Amtrak one stop south (~12 minutes, ~$12 each way — reserve bike space if riding). Circles Bagels in Hudson for breakfast — sourdough bagels with toppings like spicy whitefish, shiso, and chili crisp.",
-        "afternoon": "Olana State Historic Site (5720 Route 9G, 1.5 miles south of Warren Street on a hill above the river) — Frederic Church's 250-acre Persian-inspired estate with a view of the Hudson and Catskills he spent his career trying to capture on canvas. The grounds are free to walk; the house tour is ticketed. Then Warren Street: 50+ antique dealers occupying intact 19th-century storefronts, Carrie Haddad Gallery (Hudson Valley's best photography gallery, est. 1991), and Ornamentum (contemporary jewelry worth seeing even if you're not buying).",
-        "evening": "Lil' Deb's Oasis (747 Columbia St, Thursday–Sunday only, no reservations). Arrive 15 minutes before opening — there will be a line. Tropical comfort food using Hudson Valley ingredients: whole fried fish, fried plantains, octopus tostadas, shrimp aguachile. James Beard-nominated. Nothing else in the region like it.",
-        "waypoints": [
-          { "name": "Olana State Historic Site", "lat": 42.1815, "lon": -73.8622 },
-          { "name": "Hudson / Warren Street", "lat": 42.2535, "lon": -73.7905 },
-          { "name": "Lil' Deb's Oasis (747 Columbia St)", "lat": 42.2520, "lon": -73.7963 }
-        ]
+        "title": "Church Hill + The James River",
+        "morning": "Start at Sub Rosa Bakery (620 N 25th St) in Church Hill — labor-intensive sourdough and pastries using Virginia grain, one of the best bakeries in the South. Eat your pastry while walking up the hill to St. John's Church (2401 E Broad St), where Patrick Henry gave his 'Give Me Liberty or Give Me Death' speech in 1775. The hilltop views over the James River and Shockoe Valley are exceptional.",
+        "afternoon": "Walk down to Belle Isle via the pedestrian suspension bridge off Tredegar St. Belle Isle is a 54-acre island in the middle of the James with flat rocks, Civil War-era ruins, and river access. Bring water, sunscreen, and shoes you don't mind getting wet — wade in the rocky pools, sun on the granite slabs. This is where Richmond locals actually spend their summer afternoons. Then walk Tredegar Street along the north bank past the American Civil War Museum (500 Tredegar St) — the building exterior and grounds are free even if you skip the $15 interior ticket.",
+        "evening": "Dinner in Shockoe Slip: Sam Miller's (1210 E Cary St) for fresh seafood and raw bar — this is the restaurant that sparked the Shockoe revival in 1972 and it's still excellent. Wander the cobblestone streets of the Slip afterward, some of Richmond's oldest surviving commercial architecture."
       },
       {
         "day": 5,
-        "title": "Shawangunk Ridge — 46mi / 74km, 2,800ft / 853m (from New Paltz)",
-        "morning": "Cross the river. Take Amtrak south to Poughkeepsie (~35min from Rhinecliff, ~$12), then ride 10 minutes to the Walkway Over the Hudson — a 1.28-mile pedestrian/cycling bridge 212 feet above the river, longest elevated pedestrian bridge in the world, free, open 7am–sunset. Cross to Highland (west bank) and ride 12 miles south to New Paltz. The Shawangunk Ridge is visible the whole way — a white conglomerate escarpment rising sharply out of the farmland.",
-        "afternoon": "Two options: (A) Shawangunk Ridge Road Ride — 46 miles paved, 2,848ft elevation, two major climbs over the ridge with 15% pitches, starts and ends in New Paltz; (B) Mohonk/Minnewaska State Park carriage roads — 35+ miles of no-car gravel through 8,000 acres, $10 day-use fee, some of the finest gravel cycling in the Northeast. Both are legitimate; pick based on your bike. Descend to New Paltz, Amtrak back north from Poughkeepsie to Rhinecliff.",
-        "evening": "Recovery dinner. Something simple in Rhinebeck.",
-        "waypoints": [
-          { "name": "Walkway Over the Hudson (Poughkeepsie)", "lat": 41.7145, "lon": -73.9362 },
-          { "name": "New Paltz (base for the Ridge)", "lat": 41.7487, "lon": -74.0878 },
-          { "name": "Minnewaska State Park Preserve", "lat": 41.7296, "lon": -74.2332 }
-        ]
+        "title": "Scott's Addition Brewery District",
+        "morning": "Sleep in. Scott's Addition doesn't get going until afternoon. Walk to Blanchard's Coffee for the morning. Then head to Brambly Park (2901 W Leigh St) — a 2-acre outdoor urban winery and cider taproom with lawn seating, often has weekend morning events.",
+        "afternoon": "The Scott's Addition brewery crawl. Start at The Veil Brewing Co. (2545 W Leigh St) — widely regarded as one of the best IPA and hazy ale breweries on the East Coast. Then Ardent Craft Ales (3200 W Leigh St), then Strangeways Brewing (2277 Dabney Rd). Stop at ZZQ Texas Craft Barbeque (3201 W Moore St, open Wed–Sun until sold out) — Texas-style brisket that won Food & Wine's best in Virginia. Also check Blue Bee Cider (1320 Dell Ave) for Virginia heirloom apple ciders.",
+        "evening": "Dinner at Lost Letter on the edge of Scott's Addition for beef tartare and butterkin squash gnocchi. Walk back along W Broad Street and catch the live music drifting out of various bar patios on a warm summer evening."
       },
       {
         "day": 6,
-        "title": "Farmers' Market Morning → NYC → DTW",
-        "morning": "If it's Sunday: Rhinebeck Farmers' Market (10am–2pm, 23 E Market St) — widely considered the best in the Hudson Valley. Pick up provisions for the train. If not Sunday: final easy spin on whatever back road you haven't done yet. Pack and disassemble the bike. Amtrak Empire Service south to Penn Station (reserve bike space). The view downriver on the return trip is different from the upriver view — still good.",
-        "afternoon": "AirTrain and Delta back to DTW. Home by dinner.",
-        "evening": "",
-        "waypoints": [
-          { "name": "Rhinebeck Farmers' Market", "lat": 41.9262, "lon": -73.9113 },
-          { "name": "Rhinecliff Station (Amtrak departure)", "lat": 41.9204, "lon": -73.9622 }
-        ]
+        "title": "Maymont Estate + Oregon Hill + L'Opossum",
+        "morning": "Head to Maymont (1700 Hampton St) at 10am — free admission. This 100-acre Victorian estate donated to the city in 1926 is a genuine gem: Japanese Garden, Italian Garden, Arboretum. Then visit the Virginia Wildlife Trail — 40 acres of rescued native animals including black bears, bobcats, bald eagles, and Great Blue Herons.",
+        "afternoon": "Walk or rideshare to Oregon Hill — one of Richmond's most bohemian, working-class historic neighborhoods clinging to a hillside above the James. Find the overlook at South Pine Street for the best elevated river views in the city. Then head to Pony Pasture Rapids (7200 Riverside Dr, south bank) — Richmond's most popular swimming spot on the James, with natural pools, rock slides, and sunbathers. Bring a towel.",
+        "evening": "Dinner at L'Opossum (626 China St, Oregon Hill) — arguably Richmond's most singular restaurant: French technique applied to eclectic Virginia-Southern mashups (escargot with ham biscuits). The interior is maximalist and theatrical. Reservations essential — James Beard Award-recognized chef David Shannon, Best Chef Mid-Atlantic."
+      },
+      {
+        "day": 7,
+        "title": "ICA VCU + Shockoe Bottom History",
+        "morning": "Visit the Institute for Contemporary Art at VCU (601 W Broad St) — always free, Tuesday–Sunday 10am–5pm. The Steven Holl-designed building is worth seeing even before you enter (the glass facade shifts with daylight). Check icavcu.org for current exhibitions. Spend 90 minutes here.",
+        "afternoon": "Rideshare to Shockoe Bottom. Visit the Virginia Holocaust Museum (2000 E Cary St, $10) — one of the most moving regional Holocaust museums in the country, inside a beautifully renovated warehouse. Then walk to 17th Street Farmers Market (100 N 17th St) — one of the oldest continuously operating farmers markets in the US, now a weekend outdoor market. Visit the Reconciliation Triangle nearby, which acknowledges Richmond's role as the largest domestic slave trading hub in pre-Civil War America.",
+        "evening": "The Poe Museum (1914 E Main St) runs 'Unhappy Hour' cocktail events in the Enchanted Garden on select evenings — check poemuseum.org for dates. If not scheduled, visit during afternoon hours (Tue–Sun, $12). Dinner at Addis Ethiopian (2306 Jefferson Ave, Shockoe Bottom) for housemade injera and outstanding vegetarian stews."
+      },
+      {
+        "day": 8,
+        "title": "Day Trip: Route 5 Historic Byway + Upper Shirley Vineyards",
+        "morning": "Rent a car for the day or rideshare east. Drive ~30 minutes on Route 5 (the historic scenic byway) through Charles City County. Upper Shirley Vineyards (600 Shirley Plantation Rd) is a working vineyard with 22 acres producing Viognier and sparkling rosé. Tastings from 11am. The drive along Route 5 passes Berkeley Plantation (birthplace of William Henry Harrison, site of the first Thanksgiving according to some historians).",
+        "afternoon": "Stop at Shirley Plantation (501 Shirley Plantation Rd) — the oldest active plantation in the US (1613), still owned by the Hill-Carter family, with outstanding original outbuildings. Return to Richmond via the River Road scenic route. Late afternoon: seat at Hardywood Park Craft Brewery (2410 Ownby Ln) for outdoor beer garden time.",
+        "evening": "Dinner at Edo's Squid (411 N Harrison St, Downtown) — loud Italian in a cramped room with garlic-forward pasta and the best calamari in Richmond. No reservations; arrive by 5:30pm or expect a wait. Check The National (708 E Broad St) for what's playing — one of the best mid-size music rooms on the East Coast."
+      },
+      {
+        "day": 9,
+        "title": "Fan Neighborhood Walk + Museum District + Celladora",
+        "morning": "A slow Fan morning: walk the grid of streets between Park Avenue and Floyd Avenue, from Belvidere to Boulevard. The Fan contains one of the longest intact stretches of Victorian architecture in the US — Queen Anne, Italianate, Colonial Revival row houses. Stop into Susie's Delicatessen for a late morning bagel or matzo ball soup. Then browse the Virginia Museum of History and Culture (428 N Arthur Ashe Blvd, next to VMFA) — excellent permanent exhibition on Virginia's full arc from Indigenous peoples to today.",
+        "afternoon": "Visit the Valentine Museum (1015 E Clay St, downtown) — Richmond's city history museum with guided walking tours of neighborhoods. Check if they have a scheduled walking tour of the Fan or Church Hill. Afternoon coffee at North End Juice Co. for fresh smoothies at a walk-up window. Then an hour back at VMFA — the cafe inside (Best Cafe in RVA, multiple years) is excellent for a late lunch.",
+        "evening": "Splurge dinner at Celladora (Fan District) — described by The Infatuation as the best restaurant in Richmond, technically a wine shop but the French-leaning small plates are exceptional, natural wine focus. Reservations essential. Or if budget is tight: Stella's Greek (1012 Lafayette St) for moussaka and braised lamb at excellent value — a Richmond institution."
+      },
+      {
+        "day": 10,
+        "title": "Last Morning on the James + Farewell",
+        "morning": "One final James River morning: walk Belle Isle at sunrise, or rideshare to Pony Pasture for a last swim if it's warm. Pick up pastries from Sub Rosa Bakery or Shyndigz (the banana pudding cake and layer cakes went viral for a reason). Walk Monument Avenue one last time in the morning cool before the heat sets in.",
+        "afternoon": "Final lunch at Joe's Inn (205 N Shields Ave, The Fan) — 73-year Richmond institution, always packed, beloved for spaghetti, burgers, and consistency. Walk Strawberry Street one last time. Pack up and rideshare to RIC (Richmond International Airport, about 20–25 minutes from the Fan). Flight home to DTW.",
+        "evening": ""
       }
     ],
     "tips": [
-      "River Road goes by multiple names as it runs parallel to the Hudson — it's labeled differently on different maps and changes names at town lines. Download your route from Mid Hudson Bicycle Club (midhudsonbicycleclub.com) or Komoot before leaving; cell signal on back roads can be spotty.",
-      "July heat in the Hudson Valley is genuine — mid-80s to low 90s with humidity. Aim to finish riding by noon. Start at 6:30am, which means you're done with 50 miles before the worst of the day. The tree canopy on back roads helps but doesn't eliminate the heat.",
-      "Lil' Deb's Oasis (Hudson) is Thursday–Sunday only and takes no reservations. Go at opening or expect a significant wait. If you miss dinner, their lunch is slightly easier to snag. Plan your Hudson day for a Thu–Sun.",
-      "GioBatta Alimentari in Tivoli (48 Broadway) doesn't have much of an online presence and isn't on most 'best of' lists. Go for lunch — it's the best food in the valley for its size and price point. Tivoli General (bialys, early hours) is directly across the street.",
-      "The Walkway Over the Hudson in Poughkeepsie is the key to accessing the Shawangunks without a car. Free, open 7am–sunset, bikes allowed. From the Highland (west) end, it's 12 flat miles south to New Paltz on decent roads. Don't skip the Shawangunk day — it's a completely different character from the east-bank back roads.",
-      "Mid Hudson Bicycle Club (midhudsonbicycleclub.com) has 700+ published routes on Ride with GPS covering Dutchess and Ulster Counties at every skill level. This is the single most useful resource for route planning in the region.",
-      "Rhinebeck Farmers' Market (Sundays, 10am–2pm) is worth building your itinerary around — it's the social center of the valley on summer weekends and the produce is excellent. Buy here, eat at Bread Alone, and you'll be provisioned for a solid day on the bike.",
-      "Montgomery Place Orchards (Route 9G, Red Hook) is explicitly bike-accessible and has an extraordinary selection even in early summer. The apple cider donuts are not optional."
+      "The Fan is the best base: most restaurants, coffee shops, and bars are within a 15-minute walk of each other, and you can easily walk to the VMFA, Carytown, and Oregon Hill. The Airbnb Victorian row houses give you a neighborhood feel that no hotel can match.",
+      "The James River is Richmond's secret amenity. Pony Pasture (south side, accessible by car/rideshare) is safer and more popular for swimming than Belle Isle — the rocky pools there are genuinely beautiful and locals treat them as their backyard. Don't miss it on a hot day.",
+      "Richmond's restaurant scene is best Tuesday through Thursday — many top spots are closed Monday, and Friday/Saturday brings longer waits. L'Opossum, Celladora, and Beaucoup all require advance reservations; book them before you leave Detroit.",
+      "The VMFA is completely free for the permanent collection — there's no reason not to go multiple times. 90 minutes twice beats one exhausting four-hour marathon visit. The cafe inside (Best Cafe in RVA award, multiple years) is also excellent for lunch.",
+      "Scott's Addition has almost no parking on weekends — Uber there and walk between breweries. The Veil has lines on weekend afternoons; arrive at opening (noon Saturday) to avoid the worst waits.",
+      "ZZQ sells out by early afternoon most days (open Wed–Sun, 11am). Get there by 11:30am or you'll miss the brisket. They are genuinely sold out by 2pm on busy days — this is not an exaggeration."
     ],
     "sources": [
-      { "title": "Guide to Cycling the Hudson Valley — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-usa/hudson-valley-new-york/" },
-      { "title": "Mid Hudson Bicycle Club — Ride with GPS route library", "url": "https://ridewithgps.com/organizations/2644-mid-hudson-bicycle-club/routes" },
-      { "title": "Top Bike Rides in Dutchess County — Komoot", "url": "https://www.komoot.com/guide/1797620/cycling-in-dutchess-county" },
-      { "title": "Best Restaurants in Rhinebeck — The Infatuation", "url": "https://www.theinfatuation.com/hudson-valley/guides/best-restaurants-rhinebeck-new-york" },
-      { "title": "Best Restaurants in Hudson, NY — The Infatuation", "url": "https://www.theinfatuation.com/hudson-valley/guides/hudson-new-york-restaurants" },
-      { "title": "Guide to Dutchess County Towns — Chronogram", "url": "https://www.chronogram.com/hv-towns/a-guide-to-dutchess-county-towns-rhinebeck-red-hook-and-tivoli-5035153/" },
-      { "title": "Montgomery Place Orchards", "url": "https://montgomery-place-orchards.com/" },
-      { "title": "Cycle the Hudson Valley — Parks & Trails NY", "url": "https://cycle.ptny.org/" }
+      { "title": "Visit Richmond VA — Official Tourism Site", "url": "https://www.visitrichmondva.com/things-to-do/" },
+      { "title": "The Infatuation: Best Restaurants in Richmond VA", "url": "https://www.theinfatuation.com/richmond/guides/best-restaurants-richmond-va" },
+      { "title": "Virginia Museum of Fine Arts", "url": "https://www.vmfa.museum/" },
+      { "title": "ICA at VCU — Free Admission", "url": "https://icavcu.org/" },
+      { "title": "Maymont Official Site", "url": "https://maymont.org/" },
+      { "title": "James River Park System — Swimming", "url": "https://jamesriverpark.org/swimming-in-the-james-river-park/" },
+      { "title": "Quirk Hotel Richmond — Official", "url": "https://www.quirkhotels.com/" },
+      { "title": "The Jefferson Hotel Richmond — Official", "url": "https://www.jeffersonhotel.com/" },
+      { "title": "Scott's Addition Breweries Guide", "url": "https://boozingabroad.com/scotts-addition-breweries-richmond-va/" },
+      { "title": "Poe Museum Richmond", "url": "https://poemuseum.org/" },
+      { "title": "Virginia Holocaust Museum", "url": "https://www.vaholocaust.org/" },
+      { "title": "Jackson Ward — Visit BLK RVA", "url": "https://www.visitblkrva.com/jacksonward" },
+      { "title": "Carytown Richmond VA — Visit Richmond", "url": "https://www.visitrichmondva.com/about/neighborhoods/carytown-richmond-va/" }
     ]
   }
 }
