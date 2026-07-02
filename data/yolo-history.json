@@ -1,6 +1,205 @@
 {
   "destinations": [
     {
+      "updated": "2026-06-30",
+      "destination": {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "flag": "🇩🇴",
+        "iata": "SDQ",
+        "lat": 18.4796,
+        "lon": -69.9026,
+        "vibe": "The oldest European city in the Western Hemisphere as your base, then a full loop of the island: the Samaná Peninsula's impossible beaches, 27 waterfalls on the north coast, a mountain town with white-water rafting and eternal spring weather, and bachata living in colmados on every corner because this is where it was born."
+      },
+      "flight_search_date": "2026-06-30",
+      "flights": [
+        {
+          "airline": "Spirit Airlines",
+          "price_usd": 280,
+          "outbound_dates": "Mid-August 2026 (Aug 12–20) — budget fares loosen after the Aug 1–10 peak",
+          "return_dates": "+10 days",
+          "stops": 1,
+          "duration": "~6–7h total (DTW→FLL ~2h 30m, FLL→SDQ ~2h 13m, layover ~1.5h)",
+          "url": "https://www.spirit.com/",
+          "notes": "Connect through Fort Lauderdale (FLL). Spirit operates 9 weekly direct FLL→SDQ flights. Bare fare from ~$280 but budget for bag fees ($45–65/checked bag) — pack carry-on only to keep this cheap. Book at spirit.com directly; aggregators show incomplete bag-fee pricing."
+        },
+        {
+          "airline": "American Airlines",
+          "price_usd": 420,
+          "outbound_dates": "Late July 2026, mid-week (Tue/Wed) for lower fares",
+          "return_dates": "+10 days",
+          "stops": 1,
+          "duration": "~6–7h total (DTW→MIA ~2h, MIA→SDQ ~2h 20m, layover ~1.5h)",
+          "url": "https://www.aa.com/",
+          "notes": "Connect through Miami (MIA) — American's strongest hub for Caribbean routes. Multiple daily MIA→SDQ departures. Roundtrip from ~$420 in July. Use the flexible dates calendar on aa.com to find mid-week savings."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 520,
+          "outbound_dates": "Early-to-mid August 2026 (Aug 5–15 window has more availability than peak July travel)",
+          "return_dates": "+10 days",
+          "stops": 1,
+          "duration": "~7–8h total (DTW→ATL ~1h 45m, ATL→SDQ ~3h 16m, layover ~1.5h)",
+          "url": "https://www.delta.com/",
+          "notes": "Connect through Atlanta (ATL). ATL→SDQ runs 6 flights/week. More expensive than Spirit but reliable and Comfort+ makes the layover tolerable. Check flexible dates at delta.com."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "El Beaterio Guest House",
+          "type": "guesthouse",
+          "price_per_night_usd": 65,
+          "neighborhood": "Zona Colonial, Santo Domingo",
+          "highlights": "11-room guesthouse in a converted 16th-century convent one minute from the Malecón — stone courtyard, free breakfast buffet 8–10am daily. Base for Days 1–3 and 9–10.",
+          "url": "https://www.hotels.com/ho458189/el-beaterio-santo-domingo-dominican-republic/",
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Conde de Peñalba",
+          "type": "hotel",
+          "price_per_night_usd": 95,
+          "neighborhood": "Zona Colonial, Santo Domingo",
+          "highlights": "Colonial-era building right on El Conde pedestrian street with a rooftop terrace, rated 8.6 on Booking — best value in SD for a mid-range stay.",
+          "url": "https://www.booking.com/hotel/do/conde-de-penalba.html",
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Francés Santo Domingo – MGallery Collection",
+          "type": "hotel",
+          "price_per_night_usd": 175,
+          "neighborhood": "Zona Colonial, Santo Domingo",
+          "highlights": "19-room boutique in a 16th-century Spanish colonial building — individually furnished rooms, stone-arched common areas that feel like 1502.",
+          "url": "https://all.accor.com/hotel/B2A3/index.en.shtml",
+          "source": "direct"
+        },
+        {
+          "name": "Casa Coson (Airbnb or villa rental)",
+          "type": "airbnb",
+          "price_per_night_usd": 90,
+          "neighborhood": "Las Terrenas, Samaná Peninsula",
+          "highlights": "Entire villa or apartment in Las Terrenas for the Samaná leg (Days 4–5) — short walk to Playa Bonita and the town's French-expat restaurant strip.",
+          "url": "https://www.airbnb.com/s/Las-Terrenas--Dominican-Republic/homes",
+          "source": "airbnb"
+        },
+        {
+          "name": "Kitebeach Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 85,
+          "neighborhood": "Cabarete, Puerto Plata Province",
+          "highlights": "Laid-back beachfront rooms in Cabarete — kite surfing capital of the Caribbean, 5-minute walk to the best beach bars on the north coast. Base for Days 6–8.",
+          "url": "https://www.booking.com/hotel/do/kitebeach.html",
+          "source": "booking"
+        },
+        {
+          "name": "Gran Jimenoa Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 70,
+          "neighborhood": "Jarabacoa",
+          "highlights": "Riverside hotel at the base of Jimenoa waterfall in the mountain town of Jarabacoa — the starting point for white-water rafting, canyoning, and hiking. Base for Day 9.",
+          "url": "https://www.booking.com/hotel/do/gran-jimenoa.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Santo Domingo is the oldest European city in the Western Hemisphere — crumbling fortresses next to buzzing colmados, UNESCO plaques sharing walls with bachata spilling from corner speakers. But 10 days unlocks the rest of the island: the Samaná Peninsula with one of the best beaches in the Caribbean and a 52-meter waterfall accessible by horseback; the north coast's 27 cascading waterfalls near Puerto Plata; the laid-back kite-surfing town of Cabarete; and Jarabacoa, the mountain town at 529 meters where the temperature stays perfect year-round and you can raft Class III rapids before lunch.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrive in Santo Domingo, eat twice, walk the colonial zone",
+            "morning": "Land at Las Américas (SDQ). Open Uber before exiting arrivals — request your ride inside the terminal (ignore the taxi touts in vests; Uber is cheaper and metered). Check into your Zona Colonial hotel. Find a neighborhood comedor — hand-painted sign, plastic chairs — and order Los Tres Golpes: mangú (mashed green plantains), fried Dominican salami, fried white cheese, eggs, sautéed red onions, café con leche. Comedores run out by 9:30am so aim for 8–9am. Cost: under $4 USD.",
+            "afternoon": "Walk the Zona Colonial counterclockwise. Start at Fortaleza Ozama on Calle Las Damas — the oldest standing fort in the Americas, open daily 9am–5pm, ~70 DOP (~$1.25). Stroll Calle Las Damas itself (first paved street in the New World). The Alcázar de Colón — Diego Columbus's palace-turned-museum overlooking the Ozama River — budget 45 minutes inside. Walk El Conde to the Catedral Primada de América (oldest cathedral in the Americas, 1504). Mid-afternoon: Mesón de Bari at Calle Hostos 302 for La Bandera — white rice, red beans, stewed meat, tostones. Open since 1976, still feeding locals.",
+            "evening": "The Malecón at sunset: families on benches, vendors selling morir soñando (orange juice + evaporated milk + crushed ice — order one from a street cart and drink it walking), domino tables, couples. After dark, colmados in the Zona Colonial fill up with people drinking ice-cold Presidentes while bachata bleeds from every doorway — the ambient, unscripted version of the music. End at Jalao on El Conde (small cover Thu–Sat for live music starting 7pm) for sancocho and the full two-story Dominican experience."
+          },
+          {
+            "day": 2,
+            "title": "Culture deep dive: Gascue, caves, and an underground dinner",
+            "morning": "Plaza de la Cultura in Gascue — a leafy embassy-district square on land once owned by dictator Trujillo, now home to the Museum of Modern Art and the National Theatre. Gascue is what Santo Domingo looks like when it exhales: wide tree-lined streets, mid-century mansions, actual sidewalks. Coffee at Villar Hermanos, the most beloved cafetería in Gascue — decades of locals, strong coffee, excellent pastelitos (savory pastries). Walk back through the colonial zone to the Iglesia y Convento de los Dominicos (16th century, contains one of the oldest frescoes in the Americas).",
+            "afternoon": "Puerta de la Misericordia, where Dominican independence was declared in 1844 — walk through it, sit for a moment. Taxi to Los Tres Ojos (20 minutes east of the city): a limestone cave system with three lagoons connected underground, one of the genuinely strange and beautiful things in the Caribbean. After, find chicharrones de pollo anywhere — fried chicken chunks, Dominican style, crunchier and more aggressively seasoned than anything else you've had.",
+            "evening": "Reserve ahead for El Mesón de la Cava (Av. Mirador Sur 1) — a restaurant built inside a natural limestone cavern 40 feet underground, open since 1967. Descend spiral stairs into a cave lit by candlelight. The menu runs to grilled octopus, beef tenderloin flamed tableside, serious seafood. Theatrical and delicious. Santo Domingo's old-money class has celebrated milestones here for 60 years. Splurge night."
+          },
+          {
+            "day": 3,
+            "title": "Boca Chica beach morning, bachata afternoon, Piantini dinner",
+            "morning": "Boca Chica early — 30–40 minutes by taxi ($15–20 one-way) or público bus from Parque Enriquillo for under $1. Boca Chica is a sheltered lagoon separated from open Caribbean by a natural rock wall, unusually calm — more pool than sea. Arrive by 9am before the weekend vendor gauntlet sets up. Fresh fried fish at a beachfront comedor with tostones and a cold Presidente. You don't need to be there past noon.",
+            "afternoon": "Back in Santo Domingo. Museo del Hombre Dominicano in Plaza de la Cultura — its pre-Columbian Taino collection is one of the strongest in the Caribbean and almost no tourist traffic. Then find a colmado — any corner bodega with plastic chairs and a speaker — order a beer, and sit. This is how bachata actually lives in Santo Domingo: not in a show, but in a colmado on a Tuesday afternoon with someone's cousin singing along.",
+            "evening": "Pick up your rental car for tomorrow's departure — reserve a compact 4WD or SUV, required for some roads ahead. Dinner in Piantini or Naco — the upscale residential neighborhoods where locals actually eat. Buche Perico for contemporary Dominican in a restored colonial mansion. Finish with a Santo Libre (rum + Sprite + lime) at a rooftop bar."
+          },
+          {
+            "day": 4,
+            "title": "Drive to Samaná Peninsula — Las Terrenas arrival",
+            "morning": "Leave Santo Domingo by 7am. The drive to Las Terrenas on the Samaná Peninsula is 3–3.5 hours via the Autopista del Nordeste. Stop in Nagua for a roadside breakfast — look for a fritería or panadería. The road climbs through the Cordillera Oriental and drops into a landscape of palm trees and coconut plantations as you approach the coast.",
+            "afternoon": "Arrive Las Terrenas, a beach town unlike anything else in the DR: French and Italian expats arrived in the 1980s and stayed, so the restaurant strip on the main road runs French bistros next to local comedores next to Lebanese spots, all within a short walk of genuinely beautiful beach. Check in, walk Playa Las Terrenas, go swimming.",
+            "evening": "Dinner on the Pueblo de los Pescadores strip — a cluster of restaurants along the beach facing the sunset. Try La Terrasse (French, the original expat restaurant, still excellent) or El Mosquito Bar for fresh grilled fish. Then a beer at a beach bar while the waves come in."
+          },
+          {
+            "day": 5,
+            "title": "Playa Rincón + El Limón waterfall",
+            "morning": "Take a hired boat from Las Galeras (~$20 roundtrip per person) to Playa Rincón — consistently rated one of the best beaches in the Caribbean. No vendors, no hotels, no development. A 2-kilometer crescent of white sand backed by palms with a freshwater river at one end. Bring your own food and water. Swim. Do nothing.",
+            "afternoon": "Return to Las Galeras, then drive west to El Limón waterfall. Hike 45 minutes or rent a horse in the village of El Limón (~$15 round trip including guide) for a 30-minute ride through jungle to the base of a 52-meter cascade that pours into a swimming pool at the bottom.",
+            "evening": "Drive back to Las Terrenas. Dinner at Popy, the beachfront spot beloved by locals — grilled fish, garlic shrimp, cold beer."
+          },
+          {
+            "day": 6,
+            "title": "Samaná → Cabarete (North Coast)",
+            "morning": "Leave Las Terrenas by 8am. Drive along the northern edge of the Samaná Peninsula to Cabarete (3–3.5 hours). Stop in Río San Juan for a quick walk around the Laguna Gri-Gri — a mangrove lagoon you can boat through by hiring a local fisherman for about $10.",
+            "afternoon": "Arrive Cabarete — the kite-surfing capital of the Caribbean. The beach faces the right direction, the wind blows consistently, and there are schools if you want to try. Rent a bike and ride the 3-kilometer beachfront road, swim.",
+            "evening": "Cabarete's main strip has everything from pizza to Lebanese to sushi. Try Mr. Tom's Beach Bar or Casa del Pescador (fresh fish, more serious kitchen). Live music often happens on weekends."
+          },
+          {
+            "day": 7,
+            "title": "27 Charcos de Damajagua",
+            "morning": "Drive 45 minutes west to the 27 Charcos de Damajagua — 27 cascading pools and waterfalls carved into a river gorge near Puerto Plata. Hike upstream through jungle, then descend by jumping, sliding, and swimming through a series of natural limestone chutes and pools. The full circuit takes about 4 hours and requires a guide (mandatory, ~$25–30 with guide and entrance fee). Go early — it gets busy after 10am.",
+            "afternoon": "Drive into Puerto Plata for lunch. Walk Parque Central, Calle Beller's Victorian gingerbread architecture, the San Felipe Fortress on the waterfront. Take the teleférico (cable car, ~$10) up Monte Isabel de Torres for views of the coast from 800 meters.",
+            "evening": "Back in Cabarete. Swim or watch the sunset from the beach. Dinner at La Casita de Papi — a tiny local spot serving fresh seafood."
+          },
+          {
+            "day": 8,
+            "title": "Cabarete rest day + Sosúa",
+            "morning": "Slow start. Breakfast at a beach café in Cabarete. Drive 10 minutes east to Sosúa — a small beach town with a sheltered cove, excellent snorkeling (the reef is 15 feet down, snorkeable from the beach). Sosúa has an unusual history: in 1940 Trujillo admitted 800 Jewish refugees from Nazi Germany; the small Jewish Museum (Calle Dr. Alejo Martínez 24) documents this story.",
+            "afternoon": "Back in Cabarete. A kite-surfing intro lesson if you want one (~$80–100 through Dare2Fly or Laurel Eastman Kiteboarding). Or just swim and read.",
+            "evening": "Sunset beers on the Cabarete main strip. Dinner at Otro Mundo (eclectic menu, rooftop). Pack the car tonight — leaving early for the mountains."
+          },
+          {
+            "day": 9,
+            "title": "Jarabacoa — the City of Eternal Spring",
+            "morning": "Drive south from Cabarete 2.5 hours into the Cordillera Central. Jarabacoa sits at 529 meters — while the coast bakes at 35°C, Jarabacoa hovers around 22°C year-round. Walk to the Jimenoa I waterfall — a 40-meter cascade 15 minutes by car from town, then a 10-minute walk through forest.",
+            "afternoon": "White-water rafting on the Río Yaque del Norte — Class III rapids through mountain forest with Rancho Baiguate (~$45). Or canyoning with Jarabacoa Ecotours — rappelling down waterfalls through jungle canyons, 3–4 hours, ~$50.",
+            "evening": "Dinner in Jarabacoa's town center — small restaurants serving roasted chicken, sancocho, and La Bandera with the cool night air coming in through open windows."
+          },
+          {
+            "day": 10,
+            "title": "Jarabacoa → Santiago → Santo Domingo, fly home",
+            "morning": "Early breakfast in Jarabacoa. Drive 45 minutes north to Santiago. Walk to the Monumento a los Héroes de la Restauración for panoramic views. Walk Calle del Sol, Santiago's commercial main street. Visit the Museo del Tabaco — the Cibao Valley grows some of the finest tobacco in the world.",
+            "afternoon": "Lunch at a Santiago comedor before the 3-hour drive south back to Santo Domingo via the Cibao Valley. Drop the rental car at SDQ. If your flight is late enough, swing through the Zona Colonial one last time.",
+            "evening": "Flight home from SDQ."
+          }
+        ],
+        "tips": [
+          "Rent a car for this trip. A compact SUV or 4WD is recommended (~$40–60/day from SDQ). The freedom to move on your own schedule — especially for the Samaná peninsula, Jarabacoa mountain roads, and El Limón approach — is worth more than any other upgrade. Book before you arrive; inventory at the airport is limited and prices spike.",
+          "The Uber situation at SDQ arrivals is chaotic — taxi touts in vests will follow you aggressively and sometimes block Uber pickups. Open Uber before you clear customs, request your ride inside the terminal, and walk with purpose. Do not engage unprompted.",
+          "Bonyé: free traditional Dominican music (bachata, salsa, merengue) performed at the open-air ruins of San Francisco in the Zona Colonial on Sunday afternoons. It's attended by locals, it's free, and it's one of the most genuine music experiences in the Caribbean. Plan your Santo Domingo days around it if a Sunday falls during your first three days.",
+          "Pay in Dominican pesos (DOP) at comedores and colmados. Withdraw from a bank ATM inside a bank branch. USD is accepted in tourist zones but at poor exchange rates.",
+          "La Bandera is a midday meal only — rice, beans, stewed meat, tostones, served at comedores 11am–2pm. Arrive hungry and order what they're cooking, not what's on the menu. After 2pm the pots are empty.",
+          "Don't drink tap water anywhere in the DR. Bottled water is sold on every block for under 50 cents. Carry a bottle at all times.",
+          "Playa Rincón (Day 5) has no services — bring your own food, snacks, and at least 2 liters of water. The boat from Las Galeras harbor leaves roughly 9am and 10am. Agree on a pickup time when you arrive.",
+          "El Limón waterfall is best on a weekday morning when tour buses from Punta Cana haven't arrived yet."
+        ],
+        "sources": [
+          { "title": "Zona Colonial Walking Tour — WhereToNau", "url": "https://www.wheretonau.com/post/santo-domingo-zona-colonial-walking-tour" },
+          { "title": "El Mesón de la Cava — Atlas Obscura", "url": "https://www.atlasobscura.com/places/el-meson-de-la-cava" },
+          { "title": "Music and Dance of Dominican Bachata — UNESCO ICH", "url": "https://ich.unesco.org/en/RL/music-and-dance-of-dominican-bachata-01514" },
+          { "title": "Playa Rincón — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/samana/las-galeras/" },
+          { "title": "27 Charcos de Damajagua — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/things-to-do/nature/damajagua-waterfalls/" },
+          { "title": "Boca Chica — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/boca-chica" },
+          { "title": "Bachata history and cultural venues — Island Hopper Guides", "url": "https://islandhopperguides.com/dominican-republic/dominican-culture/bachata-beyond-the-dance-floor-decoding-the-rhythm-of-dominican-identity/" },
+          { "title": "Morir Soñando — Atlas Obscura Gastro", "url": "https://www.atlasobscura.com/foods/morir-sonando-dominican-republic" },
+          { "title": "Jarabacoa Ecotourism Guide — Discover Dominican Republic", "url": "https://www.discoverdomincanrepublic.com/jarabacoa/" },
+          { "title": "Sosúa Jewish History — Jewish Heritage Europe", "url": "https://jewish-heritage-europe.eu/directory/sosua-dominican-republic/" },
+          { "title": "First Time in Santo Domingo 2026 — Advised Traveler", "url": "https://advised-traveler.com/en/caribbean/things-to-know-before-visiting-dominican-republic/visit-first-time-santo-domingo/" }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-29",
       "destination": {
         "city": "Richmond",
@@ -83,86 +282,19 @@
         }
       ],
       "itinerary": {
-        "overview": "Richmond is a mid-sized Southern city that punches well above its weight: a world-class free art museum (VMFA), one of the longest intact stretches of Victorian architecture in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and Class IV rapids accessible entirely on foot. Ten days lets you sink into neighborhoods rather than race through them.",
+        "overview": "Richmond is a mid-sized Southern city that punches well above its weight: a world-class free art museum (VMFA), one of the longest intact stretches of Victorian architecture in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and Class IV rapids accessible entirely on foot.",
         "days": [
-          {
-            "day": 1,
-            "title": "Arrival + The Fan Orientation",
-            "morning": "Fly in from DTW, land at RIC. Rideshare to the Fan (~20 minutes). Walk the length of Monument Avenue from Belvidere Street west: the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains), and the remarkable tree canopy.",
-            "afternoon": "Garnett's Cafe (2001 Park Ave) for lunch: the Scuffletown Chicken Salad Sandwich. Then VMFA (200 N Arthur Ashe Blvd) — free admission. Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.",
-            "evening": "Dinner at Beaucoup (111 N Robinson St) — Richmond's best seafood and oyster spot. Then The Jasper (3101 W Cary St) in Carytown — one of the best cocktail bars on the East Coast."
-          },
-          {
-            "day": 2,
-            "title": "VMFA Deep Dive + Carytown",
-            "morning": "Return to the VMFA at 10am. American galleries, African art collection, modern and contemporary floors.",
-            "afternoon": "Carytown (W Cary St between Thompson and Boulevard): For the Love of Chocolate, World of Mirth, Mom's Siam (Thai, 3622 W Cary St — green curry is legendary), Gelati Celesti ice cream.",
-            "evening": "Byrd Theatre (2908 W Cary St) — 1928 movie palace, films nightly $4–8, Mighty Wurlitzer organ on Fri/Sat. Or Can Can Brasserie (3120 W Cary St) for dinner."
-          },
-          {
-            "day": 3,
-            "title": "Jackson Ward History + Soul Food",
-            "morning": "Black History Museum & Cultural Center of Virginia (122 W Leigh St). Maggie L. Walker National Historic Site (600 N 2nd St) — free NPS site, ranger-led tours.",
-            "afternoon": "Mama J's (415 N 1st St) — fried chicken, collard greens, mac and cheese. Walk the Jackson Ward mural corridors. Bill 'Bojangles' Robinson statue at Adams and Leigh.",
-            "evening": "Restaurant Adarra (1 W Marshall St) — Basque pintxos with Virginia ingredients. Soul Taco (2005 W Broad St) for late-night tacos: root beer braised oxtail."
-          },
-          {
-            "day": 4,
-            "title": "Church Hill + The James River",
-            "morning": "Sub Rosa Bakery (620 N 25th St) — labor-intensive sourdough using Virginia grain. St. John's Church (2401 E Broad St) where Patrick Henry gave his 'Give Me Liberty' speech.",
-            "afternoon": "Belle Isle via pedestrian suspension bridge — 54-acre island in the James, flat rocks, Civil War ruins, wade in the rocky pools. Then Tredegar Street along the north bank past the American Civil War Museum.",
-            "evening": "Sam Miller's (1210 E Cary St) in Shockoe Slip — fresh seafood and raw bar."
-          },
-          {
-            "day": 5,
-            "title": "Scott's Addition Brewery District",
-            "morning": "Blanchard's Coffee. Then Brambly Park (2901 W Leigh St) — outdoor urban winery with lawn seating.",
-            "afternoon": "Brewery crawl: The Veil Brewing Co. (2545 W Leigh St), Ardent Craft Ales (3200 W Leigh St), Strangeways Brewing (2277 Dabney Rd). ZZQ Texas Craft Barbeque (3201 W Moore St, Wed–Sun until sold out). Blue Bee Cider (1320 Dell Ave).",
-            "evening": "Dinner at Lost Letter — beef tartare and butterkin squash gnocchi."
-          },
-          {
-            "day": 6,
-            "title": "Maymont Estate + Oregon Hill + L'Opossum",
-            "morning": "Maymont (1700 Hampton St, free admission) — Japanese Garden, Italian Garden, Arboretum, Virginia Wildlife Trail with black bears and bobcats.",
-            "afternoon": "Oregon Hill overlook at South Pine Street for the best elevated river views. Pony Pasture Rapids (7200 Riverside Dr) — Richmond's most popular James River swimming spot.",
-            "evening": "L'Opossum (626 China St) — French technique applied to eclectic Virginia-Southern mashups. Reservations essential. James Beard Award-recognized."
-          },
-          {
-            "day": 7,
-            "title": "ICA VCU + Shockoe Bottom History",
-            "morning": "ICA at VCU (601 W Broad St) — always free, Steven Holl-designed building.",
-            "afternoon": "Virginia Holocaust Museum (2000 E Cary St, $10). 17th Street Farmers Market (100 N 17th St). Reconciliation Triangle acknowledging Richmond's role as the largest domestic slave trading hub pre-Civil War.",
-            "evening": "Poe Museum 'Unhappy Hour' cocktail events (check poemuseum.org). Dinner at Addis Ethiopian (2306 Jefferson Ave)."
-          },
-          {
-            "day": 8,
-            "title": "Day Trip: Route 5 Historic Byway + Upper Shirley Vineyards",
-            "morning": "Drive ~30 minutes east on Route 5 (historic scenic byway) to Upper Shirley Vineyards (600 Shirley Plantation Rd) — tastings from 11am. Pass Berkeley Plantation (birthplace of William Henry Harrison).",
-            "afternoon": "Shirley Plantation (501 Shirley Plantation Rd) — oldest active plantation in the US (1613). Return via River Road. Late afternoon at Hardywood Park Craft Brewery (2410 Ownby Ln).",
-            "evening": "Edo's Squid (411 N Harrison St) — loud Italian, garlic-forward pasta, best calamari in Richmond. Arrive by 5:30pm. Check The National (708 E Broad St) for music."
-          },
-          {
-            "day": 9,
-            "title": "Fan Neighborhood Walk + Museum District + Celladora",
-            "morning": "Slow Fan morning: walk Park Ave to Floyd Ave, Belvidere to Boulevard. Susie's Delicatessen for a bagel. Virginia Museum of History and Culture (428 N Arthur Ashe Blvd).",
-            "afternoon": "Valentine Museum (1015 E Clay St) — city history, walking tours. North End Juice Co. for coffee. Another 90 min at VMFA cafe.",
-            "evening": "Celladora (Fan District) — described by The Infatuation as the best restaurant in Richmond, natural wine focus, French-leaning small plates. Reservations essential."
-          },
-          {
-            "day": 10,
-            "title": "Last Morning on the James + Farewell",
-            "morning": "Belle Isle at sunrise or Pony Pasture for a last swim. Sub Rosa Bakery or Shyndigz (banana pudding cake). Monument Avenue one last time.",
-            "afternoon": "Final lunch at Joe's Inn (205 N Shields Ave) — 73-year Richmond institution. Rideshare to RIC (~20–25 min from the Fan).",
-            "evening": ""
-          }
+          { "day": 1, "title": "Arrival + The Fan Orientation", "morning": "Fly in from DTW, land at RIC. Rideshare to the Fan (~20 minutes). Walk the length of Monument Avenue from Belvidere Street west: the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains), and the remarkable tree canopy.", "afternoon": "Garnett's Cafe (2001 Park Ave) for lunch: the Scuffletown Chicken Salad Sandwich. Then VMFA (200 N Arthur Ashe Blvd) — free admission. Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.", "evening": "Dinner at Beaucoup (111 N Robinson St) — Richmond's best seafood and oyster spot. Then The Jasper (3101 W Cary St) in Carytown — one of the best cocktail bars on the East Coast." },
+          { "day": 2, "title": "VMFA Deep Dive + Carytown", "morning": "Return to the VMFA at 10am. American galleries, African art collection, modern and contemporary floors.", "afternoon": "Carytown (W Cary St between Thompson and Boulevard): For the Love of Chocolate, World of Mirth, Mom's Siam (Thai, 3622 W Cary St — green curry is legendary), Gelati Celesti ice cream.", "evening": "Byrd Theatre (2908 W Cary St) — 1928 movie palace, films nightly $4–8, Mighty Wurlitzer organ on Fri/Sat. Or Can Can Brasserie (3120 W Cary St) for dinner." },
+          { "day": 3, "title": "Jackson Ward History + Soul Food", "morning": "Black History Museum & Cultural Center of Virginia (122 W Leigh St). Maggie L. Walker National Historic Site (600 N 2nd St) — free NPS site, ranger-led tours.", "afternoon": "Mama J's (415 N 1st St) — fried chicken, collard greens, mac and cheese. Walk the Jackson Ward mural corridors. Bill 'Bojangles' Robinson statue at Adams and Leigh.", "evening": "Restaurant Adarra (1 W Marshall St) — Basque pintxos with Virginia ingredients. Soul Taco (2005 W Broad St) for late-night tacos: root beer braised oxtail." }
         ],
         "tips": [
-          "The Fan is the best base — most restaurants, coffee shops, and bars within a 15-minute walk. Airbnb Victorian row houses give a neighborhood feel no hotel can match.",
-          "Pony Pasture (south bank, car/rideshare required) is safer and more popular for James River swimming than Belle Isle — the rocky pools are genuinely beautiful.",
-          "Restaurant scene is best Tue–Thu: L'Opossum, Celladora, and Beaucoup all require advance reservations; book before leaving Detroit.",
-          "VMFA is completely free for the permanent collection — 90 minutes twice beats one exhausting four-hour visit. The cafe is also excellent for lunch.",
-          "Scott's Addition: Uber there and walk between breweries. The Veil has lines on weekend afternoons — arrive at opening (noon Saturday).",
-          "ZZQ sells out by early afternoon (open Wed–Sun, 11am). Get there by 11:30am or miss the brisket — they're genuinely sold out by 2pm."
+          "The Fan is the best base — most restaurants, coffee shops, and bars within a 15-minute walk.",
+          "Pony Pasture (south bank, car/rideshare required) is safer and more popular for James River swimming than Belle Isle.",
+          "Restaurant scene is best Tue–Thu: L'Opossum, Celladora, and Beaucoup all require advance reservations.",
+          "VMFA is completely free for the permanent collection — 90 minutes twice beats one exhausting four-hour visit.",
+          "Scott's Addition: Uber there and walk between breweries. The Veil has lines on weekend afternoons — arrive at opening.",
+          "ZZQ sells out by early afternoon (open Wed–Sun, 11am). Get there by 11:30am or miss the brisket."
         ],
         "sources": [
           { "title": "Visit Richmond VA — Official Tourism", "url": "https://www.visitrichmondva.com/things-to-do/" },
@@ -213,19 +345,7 @@
           "stops": 0,
           "duration": "1h 52m",
           "url": "https://www.jetblue.com/",
-          "notes": "DTW→JFK nonstop. $100 bike handling fee + 80-linear-inch / 50 lb hard case limit. Best backup if Delta is sold out."
-        }
-      ],
-      "transportation": [
-        {
-          "name": "Amtrak Empire Service — Penn Station NYC → Rhinecliff",
-          "mode": "train",
-          "description": "Penn Station NYC to Rhinecliff station · scenic Hudson River route",
-          "duration": "~2h 10m",
-          "price_usd": 38,
-          "price_note": "$30–55 each way · $10 bike reservation fee",
-          "url": "https://www.amtrak.com/empire-service-train",
-          "notes": "Runs 3–4x daily. Reserve bike space at booking — July fills fast."
+          "notes": "DTW→JFK nonstop. $100 bike handling fee + 80-linear-inch / 50 lb hard case limit."
         }
       ],
       "lodging": [
@@ -258,21 +378,18 @@
         }
       ],
       "itinerary": {
-        "overview": "The Hudson Valley has been the best road cycling in the Northeast for decades. The roads around Rhinebeck, Red Hook, and Tivoli are genuinely quiet. You fly into JFK, take Amtrak 90 miles north to Rhinecliff, roll off the train, and you're immediately in back-road territory. Across the Hudson, the Shawangunk Ridge offers 15% pitches accessed via the Walkway Over the Hudson in Poughkeepsie.",
+        "overview": "The Hudson Valley has been the best road cycling in the Northeast for decades. The roads around Rhinebeck, Red Hook, and Tivoli are genuinely quiet. You fly into JFK, take Amtrak 90 miles north to Rhinecliff, roll off the train, and you're immediately in back-road territory.",
         "days": [
           { "day": 1, "title": "Arrive — DTW → JFK → Rhinecliff", "morning": "Fly DTW→JFK (Delta, 1h52m nonstop). AirTrain + subway to Penn Station. Amtrak Empire Service to Rhinecliff ($10 bike reservation, July fills fast).", "afternoon": "Rhinecliff station is a 1873 Victorian depot. Mile from Rhinecliff up to Rhinebeck village. Bread Alone Bakery (45 E Market St) for pastry.", "evening": "Dinner at Terrapin (farm-to-table since 1998) or Aba's Falafel." },
           { "day": 2, "title": "Rhinebeck → Bard → Tivoli → Red Hook — 34mi / 55km", "morning": "North on Route 9G, back roads through Bard College campus. Tivoli General (52 Broadway) for bialys.", "afternoon": "GioBatta Alimentari (48 Broadway, Tivoli) for lunch. Montgomery Place Orchards (Route 9G, Red Hook) — 60+ apple varieties, cider donuts.", "evening": "Gigi (Mediterranean) or Rhinebeck Farmers' Market if Sunday (10am–2pm)." },
-          { "day": 3, "title": "River Road Long Loop — 52mi / 84km", "morning": "Early start 6:30am. Southwest toward the river, connect to River Road south. Migliorelli Farm Stand (668 River Rd) for mid-ride fuel.", "afternoon": "Loop back north through inland farm roads.", "evening": "Terrapin or Cafe Mutton (757 Columbia St, Hudson — crépinettes, beef tartare, Wed–Fri evenings)." },
-          { "day": 4, "title": "Hudson Day — Warren Street, Olana, Lil' Deb's", "morning": "Ride or Amtrak one stop to Hudson. Circles Bagels for breakfast.", "afternoon": "Olana State Historic Site (5720 Route 9G) — Frederic Church's 250-acre Persian-inspired estate, grounds free. Warren Street: 50+ antique dealers, Carrie Haddad Gallery.", "evening": "Lil' Deb's Oasis (747 Columbia St, Thu–Sun only, no reservations) — tropical comfort food with Hudson Valley ingredients. James Beard-nominated." },
-          { "day": 5, "title": "Shawangunk Ridge — 46mi / 74km, 2,800ft", "morning": "Amtrak south to Poughkeepsie (~35min, ~$12), ride to Walkway Over the Hudson (free, 7am–sunset). Cross to Highland, ride 12 miles south to New Paltz.", "afternoon": "Shawangunk Ridge Road Ride (46 mi paved, 15% pitches) or Mohonk/Minnewaska carriage roads ($10 day-use). Amtrak back north.", "evening": "Recovery dinner in Rhinebeck." },
-          { "day": 6, "title": "Farmers' Market Morning → NYC → DTW", "morning": "If Sunday: Rhinebeck Farmers' Market (10am–2pm, 23 E Market St). Amtrak Empire Service south to Penn Station.", "afternoon": "AirTrain and Delta back to DTW.", "evening": "" }
+          { "day": 3, "title": "River Road Long Loop — 52mi / 84km", "morning": "Early start 6:30am. Southwest toward the river, connect to River Road south.", "afternoon": "Loop back north through inland farm roads.", "evening": "Terrapin or Cafe Mutton (757 Columbia St, Hudson — crépinettes, beef tartare, Wed–Fri evenings)." }
         ],
         "tips": [
           "River Road goes by multiple names — download route from midhudsonbicycleclub.com before leaving; cell signal is spotty.",
-          "Lil' Deb's Oasis is Thu–Sun only, no reservations. Go at opening. Plan your Hudson day for Thu–Sun.",
+          "Lil' Deb's Oasis is Thu–Sun only, no reservations. Go at opening.",
           "GioBatta Alimentari in Tivoli (48 Broadway) is not on most lists. Go for lunch — best food in the valley for its price.",
           "Walkway Over the Hudson is the key to the Shawangunks without a car. Free, 7am–sunset, bikes allowed.",
-          "Mid Hudson Bicycle Club (midhudsonbicycleclub.com) has 700+ published routes — single most useful route resource.",
+          "Mid Hudson Bicycle Club (midhudsonbicycleclub.com) has 700+ published routes.",
           "Montgomery Place Orchards (Route 9G, Red Hook) is bike-accessible. Apple cider donuts are not optional."
         ],
         "sources": [
@@ -302,7 +419,7 @@
           "stops": 0,
           "duration": "5h 48m",
           "url": "https://www.alaskaair.com/",
-          "notes": "DTW→SEA nonstop. July peak $380–470 RT. Getting to Bellingham: Amtrak Cascades from King Street Station to Fairhaven Station (~2h, $27–45, bikes $10 reservation) OR car rental at SEA ($55–80/day) I-5 north 80 miles."
+          "notes": "DTW→SEA nonstop. July peak $380–470 RT. Getting to Bellingham: Amtrak Cascades from King Street Station to Fairhaven Station (~2h, $27–45, bikes $10 reservation) OR car rental at SEA."
         }
       ],
       "lodging": [
@@ -335,25 +452,18 @@
         }
       ],
       "itinerary": {
-        "overview": "Bellingham sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east and Chuckanut Drive — a 23-mile cliff-hugging two-lane above Samish Bay — beginning right at the city's southern edge. Ten days: Bellingham as base (Chuckanut Drive, Lummi Island, rest day) for four days; San Juan Islands for three days of island-hopping; Mt. Baker SR-542 for the penultimate day.",
+        "overview": "Bellingham sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east and Chuckanut Drive — a 23-mile cliff-hugging two-lane above Samish Bay — beginning right at the city's southern edge.",
         "days": [
           { "day": 1, "title": "Arrive — SEA → Bellingham, Fairhaven", "morning": "Fly DTW→SEA. Amtrak Cascades to Fairhaven (2h, bike reservation required) or rent car at SEA.", "afternoon": "Check in, assemble bike. Walk Fairhaven Village. Village Books on 11th St.", "evening": "Aslan Brewing (1330 N Forest St) or Wander Brewing (1807 Dean Ave)." },
           { "day": 2, "title": "Chuckanut Drive + Skagit Flats — 50mi / 80km", "morning": "7:30am south through Fairhaven onto Chuckanut Drive (SR-11) — 23 miles of cliff above Chuckanut Bay. Larrabee State Park (mile 7).", "afternoon": "Bow-Edison: Breadfarm (best bread bakery in northwest Washington). Return north.", "evening": "Wander Brewing. La Fiamma Wood Fire Pizza (200 E Chestnut St)." },
-          { "day": 3, "title": "Lummi Island via Whatcom Chief Ferry — 47mi", "morning": "Ride 10 miles south on Haxton Way to Gooseberry Point. Whatcom Chief ferry (~$2–4 RT, 6-min crossing).", "afternoon": "12-mile perimeter road around the island. Return ferry, ride back to Bellingham.", "evening": "Wild Buffalo House of Music or the Shakedown." },
-          { "day": 4, "title": "Rest Day — Whatcom Falls + Bellingham", "morning": "Whatcom Falls Park — basalt shelf falls, canyon pool, stone bridge.", "afternoon": "Whatcom Museum Lightcatcher Building (250 Flora St). Kayak at Squalicum Harbor.", "evening": "The Shakedown (1212 N State St)." },
-          { "day": 5, "title": "Lopez Island — 37mi / 60km", "morning": "Drive to Anacortes. WSF to Lopez (~1h30m, walk-on $15.85).", "afternoon": "Loop Lopez: Shark Reef Sanctuary (seal rookery), Spencer Spit (swim), Fine Mess Bakery in Lopez Village.", "evening": "Overnight: MacKaye Harbor Inn or Odlin County Park camping." },
-          { "day": 6, "title": "Orcas Island, Mt. Constitution — 35mi, 1,900ft", "morning": "Inter-island ferry Lopez → Orcas. 9 miles through Crow Valley to Eastsound.", "afternoon": "Mt. Constitution: 5 miles to 2,409-foot summit, CCC stone tower, views to Mt. Baker.", "evening": "Outlook Inn, Eastsound. Dinner at Mijita's (310 A St)." },
-          { "day": 7, "title": "San Juan Island → Bellingham", "morning": "Ferry Orcas → Friday Harbor. West Side Road to Lime Kiln Point — best land-based orca watching in North America.", "afternoon": "English Camp and American Camp (Pig War history). Ferry to Anacortes, drive north.", "evening": "Back in Bellingham." },
-          { "day": 8, "title": "Recovery — Nooksack Valley Farm Loop", "morning": "Flat 25-mile Lynden loop through Whatcom County farm country.", "afternoon": "Kayak at Squalicum Harbor or spa at Chrysalis Inn.", "evening": "Confirm Mt. Baker road status: (360) 856-5700 ext. 515 or nwroadinfo.org." },
-          { "day": 9, "title": "Mt. Baker SR-542 — 48mi roundtrip, 4,100ft", "morning": "Drive to Glacier (32 miles, 50 min). Climb SR-542 to Artist Point (5,140ft). Nooksack Falls viewpoint at mile 10.", "afternoon": "Descend 24 miles. Lunch at Graham's Store in Glacier. Drive back.", "evening": "Pack the bike tonight." },
-          { "day": 10, "title": "Depart — Bellingham → SEA", "morning": "Tony's Coffee Roastery (2033 Division St). Amtrak Cascades south to King Street Station (2h), Link Light Rail to SeaTac. Or drive rental car.", "afternoon": "", "evening": "" }
+          { "day": 3, "title": "Lummi Island via Whatcom Chief Ferry — 47mi", "morning": "Ride 10 miles south on Haxton Way to Gooseberry Point. Whatcom Chief ferry (~$2–4 RT, 6-min crossing).", "afternoon": "12-mile perimeter road around the island. Return ferry, ride back to Bellingham.", "evening": "Wild Buffalo House of Music or the Shakedown." }
         ],
         "tips": [
           "Amtrak Cascades bike policy: reserve your bike spot ($10 fee) well in advance — July fills fast.",
           "Whatcom Chief ferry (Lummi Island): Whatcom County vessel, NOT WSF. ~$2–4 RT. Runs every 30 min, 6am–10pm.",
           "WSF San Juan Islands: walk-on passengers ($15.85 each way) never need a reservation.",
           "SR-542 / Artist Point road status: typically opens mid-July. Call (360) 856-5700 ext. 515.",
-          "July weather: 65–75°F. Mt. Baker can be 20–30°F colder at 5,000ft — pack a rain shell for Day 9."
+          "July weather: 65–75°F. Mt. Baker can be 20–30°F colder at 5,000ft — pack a rain shell."
         ],
         "sources": [
           { "title": "Bicycles on Washington State Ferries — WSDOT", "url": "https://wsdot.wa.gov/travel/washington-state-ferries/rider-information/what-you-can-bring-aboard/bicycles" },
@@ -382,10 +492,10 @@
         { "name": "Manhattan Hotel Salida", "type": "hotel", "price_per_night_usd": 160, "neighborhood": "Downtown Salida — Arkansas River / F Street Arts District", "highlights": "Only downtown boutique hotel, above the Boathouse Cantina with direct river views.", "url": "https://www.manhattanhotelsalida.com/", "source": "booking" }
       ],
       "itinerary": {
-        "overview": "Salida is the cycling anchor of the Arkansas River Valley at the intersection of three world-class road climbs. Riding is structured around July's weather: brilliant mornings followed by afternoon thunderstorms 1–3pm. Start climbs early, summit before noon.",
+        "overview": "Salida is the cycling anchor of the Arkansas River Valley at the intersection of three world-class road climbs.",
         "days": [
           { "day": 1, "title": "Monarch Pass — 46mi / 74km, 4,258ft", "morning": "7am from Salida (7,036ft). West on US-50 through Poncha Springs. Monarch Pass: 18 miles to 11,312ft, avg 4.3%. Summit lodge has coffee.", "afternoon": "18-mile descent back. Walk F Street Arts District. Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10).", "evening": "Amica's Pizzeria or Fritz (European bistro). Evening light on Collegiate Peaks from the river trail." },
-          { "day": 2, "title": "Cottonwood Pass — 67mi / 108km, 4,100ft", "morning": "Drive to Buena Vista (35 min north). Cottonwood Pass: 19.5 miles to 12,126ft — third-highest paved road in Colorado. 10% wall at mile 14.", "afternoon": "Descend east back to Buena Vista. Eddyline Brewery on the river for lunch.", "evening": "Salida Hot Springs or Mount Princeton Hot Springs (25 miles north, ~$30). Soulcraft Brewing downtown." },
+          { "day": 2, "title": "Cottonwood Pass — 67mi / 108km, 4,100ft", "morning": "Drive to Buena Vista (35 min north). Cottonwood Pass: 19.5 miles to 12,126ft — third-highest paved road in Colorado.", "afternoon": "Descend east back to Buena Vista. Eddyline Brewery on the river for lunch.", "evening": "Salida Hot Springs or Mount Princeton Hot Springs (25 miles north, ~$30). Soulcraft Brewing downtown." },
           { "day": 3, "title": "Poncha Pass + San Luis Valley — 62mi / 100km", "morning": "South on US-285 to Poncha Pass (9,010ft). At summit: the San Luis Valley — 8,000 sq miles of flat high-altitude basin, ringed by mountains.", "afternoon": "Return north over Poncha Pass. Salida Museum (free) or riverside café.", "evening": "Tenderfoot Mountain 'S' hike — 20 min to the best sunset view of Collegiate Peaks. Moonlight Pizza & Brewpub." }
         ],
         "tips": [
@@ -462,7 +572,7 @@
         "days": [
           { "day": 1, "title": "Ljubljana → Bled via Sava Valley — 75 miles, 1,200m", "morning": "Northwest from Dragon Bridge along Sava River. Stop in Kranj (32km) on a limestone peninsula. Continue to Bled.", "afternoon": "Lake Bled circuit (6km). Ojstrica viewpoint (20% pitch). Optional Pokljuka Plateau biathlon venue.", "evening": "Gostilna Pri Planincu (Grajska cesta 8). Bled Castle night view." },
           { "day": 2, "title": "Vršič Pass Queen Stage — 88km, 1,900m", "morning": "Start Kranjska Gora 7am. Vršič climb (12km to 1,611m): bends 5–9 cobbled at 15–17%, 1916 WWI prisoner-built road. Russian Orthodox Chapel at bend #8.", "afternoon": "Descend 26 hairpins into Trenta Valley. Soča source (cold blue-green pool from limestone grotto). Valley 26km to Bovec.", "evening": "Bovška trout and polenta in Bovec. Wade the Soča (8–12°C ice bath)." },
-          { "day": 3, "title": "Mangart Saddle — 90km, 2,200m", "morning": "7am from Bovec. East at Koritnica Valley junction to Mangart. Climb 10km to 2,072m through five dark tunnels (front light required), grades to 25%.", "afternoon": "Descend to Bovec. South to Kobarid (12km) — Hemingway's A Farewell to Arms. Kobarid Museum (European Museum of the Year 1993, one of the best WWI museums in Europe).", "evening": "Return to Kranjska Gora or Ljubljana for flight connection." }
+          { "day": 3, "title": "Mangart Saddle — 90km, 2,200m", "morning": "7am from Bovec. East at Koritnica Valley junction to Mangart. Climb 10km to 2,072m through five dark tunnels (front light required), grades to 25%.", "afternoon": "Descend to Bovec. South to Kobarid (12km) — Hemingway's A Farewell to Arms. Kobarid Museum (European Museum of the Year 1993).", "evening": "Return to Kranjska Gora or Ljubljana for flight connection." }
         ],
         "tips": [
           "Vršič cobbled hairpins (bends 5–9): commit to gear before cobbles — a shift at 15% on rough stone can snap a chain. Wide tires (28–32c) recommended.",
