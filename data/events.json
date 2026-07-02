@@ -1,9 +1,9 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-07-02",
   "events": [
     {
       "title": "Memory Cradle",
-      "date": "2026-06-23",
+      "date": "2026-07-02",
       "time": "11:00",
       "venue": "Eleanor Harwood Gallery (MSP)",
       "neighborhood": "Dogpatch",
@@ -15,7 +15,7 @@
     },
     {
       "title": "Mark Perlman — Recent Works",
-      "date": "2026-06-23",
+      "date": "2026-07-02",
       "time": "11:00",
       "venue": "Nancy Toomey Fine Art (MSP)",
       "neighborhood": "Dogpatch",
@@ -26,88 +26,16 @@
       "url": "https://www.minnesotastreetproject.com"
     },
     {
-      "title": "SalsaCrazy Mondays",
-      "date": "2026-06-29",
-      "time": "18:30",
-      "venue": "406 Clement St",
-      "neighborhood": "Inner Richmond",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$15",
-      "description": "Weekly salsa social in the Richmond. Class at 6:30 PM, social dancing until 10 PM. Multi-level, welcoming to newcomers. 20+ years running.",
-      "url": "https://salsacrazysf.com"
-    },
-    {
-      "title": "Hayes Valley Comedy Night",
-      "date": "2026-06-29",
-      "time": "19:00",
-      "venue": "The Function",
-      "neighborhood": "Hayes Valley",
-      "category": "comedy",
+      "title": "ICA SF: Tara Donovan — Stratagems",
+      "date": "2026-07-02",
+      "time": "11:00",
+      "venue": "ICA SF",
+      "neighborhood": "Dogpatch",
+      "category": "art",
       "cost": 0,
-      "cost_notes": "free with RSVP; two-drink minimum",
-      "description": "Free Monday night comedy showcase featuring rotating local stand-up comedians. Casual neighborhood bar vibe.",
-      "url": "https://sf.funcheap.com/category/event/event-types/comedy-event-types-event/"
-    },
-    {
-      "title": "Mirthquake: Monday Live Comedy",
-      "date": "2026-06-29",
-      "time": "20:00",
-      "venue": "Abbey Tavern",
-      "neighborhood": "Inner Richmond",
-      "category": "comedy",
-      "cost": 0,
-      "cost_notes": "free with RSVP; 21+",
-      "description": "Free weekly Monday comedy show at the Abbey Tavern in the Richmond. Intimate bar setting with up-and-coming Bay Area comedians.",
-      "url": "https://sf.funcheap.com/category/event/event-types/comedy-event-types-event/"
-    },
-    {
-      "title": "Comedy Allstars",
-      "date": "2026-06-30",
-      "time": "19:30",
-      "venue": "Punch Line Comedy Club",
-      "neighborhood": "Embarcadero",
-      "category": "comedy",
-      "cost": 28,
-      "cost_notes": "$28–35",
-      "description": "Rotating ensemble of top Bay Area and touring stand-up comedians. Punch Line's Monday showcase format.",
-      "url": "https://www.punchlinecomedyclub.com/shows"
-    },
-    {
-      "title": "Suzy Q Wednesdays – Salsa & Bachata",
-      "date": "2026-07-01",
-      "time": "20:00",
-      "venue": "Kimbara",
-      "neighborhood": "Mission",
-      "category": "dance",
-      "cost": 10,
-      "cost_notes": "$10 before 10 PM, $15 after",
-      "description": "Weekly salsa and bachata social at Kimbara (1st and 3rd Wednesdays). Salsa class 8–9 PM, social dancing 9 PM–12:30 AM. No partner or experience needed. 21+.",
-      "url": "https://www.salsavida.com/sf/suzy-q-wednesdays/"
-    },
-    {
-      "title": "El Timbon: Cuban Dance Party",
-      "date": "2026-07-01",
-      "time": "21:30",
-      "venue": "Slate Bar",
-      "neighborhood": "Mission",
-      "category": "dance",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Weekly Cuban dance party with DJ Walt Digz spinning Timba and Cuban music. Every Wednesday 9:30 PM–1 AM at Slate Bar (2925 16th St). No partner needed.",
-      "url": "https://www.danceus.org/event/165413614699816/cuban-dance-party-el-timbon-at-slate-bar-san-francisco-ca/"
-    },
-    {
-      "title": "SF Comedy Kings: An Old School Blowout",
-      "date": "2026-07-01",
-      "time": "19:30",
-      "venue": "Punch Line Comedy Club",
-      "neighborhood": "Embarcadero",
-      "category": "comedy",
-      "cost": 30,
-      "cost_notes": "from $30",
-      "description": "Themed comedy event celebrating the classic era of stand-up with established SF Bay Area comedians delivering old-school style sets.",
-      "url": "https://www.punchlinecomedyclub.com/shows"
+      "cost_notes": "always free",
+      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World' and Lily Kwong's 'Earthseed Dome' (through July 26).",
+      "url": "https://www.icasf.org/exhibitions"
     },
     {
       "title": "Chaunte Wayans – Stand-Up Comedy",
@@ -132,6 +60,18 @@
       "cost_notes": "from $29",
       "description": "Comedian Patrick Keane takes the stage at Punch Line. Also performing Friday July 3.",
       "url": "https://www.punchlinecomedyclub.com/shows"
+    },
+    {
+      "title": "BATS Improv: Student Show – Hitchcock Performance Lab",
+      "date": "2026-07-02",
+      "time": "20:00",
+      "venue": "Bayfront Theatre, Fort Mason Center",
+      "neighborhood": "Marina",
+      "category": "comedy",
+      "cost": 15,
+      "cost_notes": "$10–$25",
+      "description": "Student showcase from BATS Improv's Hitchcock Performance Lab. Also showing Thursday July 16. Fort Mason Center, Building B.",
+      "url": "https://www.improv.org/shows/"
     },
     {
       "title": "SF Mime Troupe: Wreckage",
@@ -194,30 +134,6 @@
       "url": "https://www.sfmt.org/full-schedule"
     },
     {
-      "title": "ICA SF: Tara Donovan – Stratagems",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "venue": "ICA SF",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "always free",
-      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World' and Lily Kwong's 'Earthseed Dome.'",
-      "url": "https://www.icasf.org/exhibitions"
-    },
-    {
-      "title": "Bird & Beckett – Jazz Club Saturday Night",
-      "date": "2026-07-04",
-      "time": "19:30",
-      "venue": "Bird & Beckett Books & Records",
-      "neighborhood": "Glen Park",
-      "category": "bar",
-      "cost": 20,
-      "cost_notes": "$20 adults, $10 students",
-      "description": "Bird & Beckett's Saturday Jazz Club series. Rotating local jazz artists in an intimate bookshop setting. A Glen Park institution since 2002.",
-      "url": "https://birdbeckett.com/jazz-club/"
-    },
-    {
       "title": "de Young Free Saturday",
       "date": "2026-07-04",
       "time": "09:30",
@@ -226,8 +142,20 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free for Bay Area residents",
-      "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Show Bay Area ID at the door. Note: July 4 early close at 16:00.",
+      "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Show Bay Area ID at the door. Special exhibitions (Monet and Venice) still ticketed.",
       "url": "https://www.famsf.org"
+    },
+    {
+      "title": "Bird & Beckett – Jazz Club Saturday Night",
+      "date": "2026-07-04",
+      "time": "20:00",
+      "venue": "Bird & Beckett Books & Records",
+      "neighborhood": "Glen Park",
+      "category": "bar",
+      "cost": 20,
+      "cost_notes": "$20 adults, $10 students",
+      "description": "Bird & Beckett's Saturday Jazz Club series. Rotating local jazz artists in an intimate bookshop setting. A Glen Park institution since 2002.",
+      "url": "https://birdbeckett.com/jazz-club/"
     },
     {
       "title": "Major Lazer at Stern Grove",
@@ -302,6 +230,18 @@
       "url": "https://www.punchlinecomedyclub.com/shows"
     },
     {
+      "title": "BATS Improv: Wide Open Westerns with John Remak",
+      "date": "2026-07-06",
+      "time": "19:00",
+      "venue": "Bayfront Theatre, Fort Mason Center",
+      "neighborhood": "Marina",
+      "category": "comedy",
+      "cost": 15,
+      "cost_notes": "$10–$25",
+      "description": "BATS Improv 40th Anniversary series: Wide Open Westerns, a workshop/performance event with John Remak. Fort Mason Center, Building B.",
+      "url": "https://www.improv.org/shows/"
+    },
+    {
       "title": "SalsaCrazy Mondays",
       "date": "2026-07-06",
       "time": "18:30",
@@ -336,6 +276,18 @@
       "cost_notes": "from $25",
       "description": "Stand-up comedian Liz Miele, known for her neurotic, intellectual humor (Comedy Central, FOX, NPR), performs a run of shows July 8–11 at Punch Line SF.",
       "url": "https://www.punchlinecomedyclub.com"
+    },
+    {
+      "title": "EMM",
+      "date": "2026-07-10",
+      "time": "21:00",
+      "venue": "The Chapel",
+      "neighborhood": "Mission",
+      "category": "music",
+      "cost": 23,
+      "cost_notes": "$23–$75",
+      "description": "Live performance by EMM with support from Bentley Robles and TeZATalks at The Chapel. Doors at 8 PM.",
+      "url": "https://www.thechapelsf.com"
     },
     {
       "title": "Dance Fridays – Salsa & Bachata",
@@ -394,8 +346,20 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Monthly celebration of exhibition openings, artist talks, and book signings across 10+ contemporary art spaces. Open to all, no admission. Current shows include 'How to See Ruth Asawa,' 'Memory Cradle,' and 'Mark Perlman.'",
+      "description": "Monthly celebration of exhibition openings, artist talks, and book signings across 10+ contemporary art spaces. Open to all. Also: Open Fell performance at 1150 25th St (Slash) 4–6 PM. Current shows include 'Memory in Motion' (closing July 12), 'Wave Comes In Wave Goes Out' (opens July 7), and 'How to See Ruth Asawa' (through July 20).",
       "url": "https://minnesotastreetproject.com/events/special-event/first-saturday-5"
+    },
+    {
+      "title": "BATS Improv: Super Scene",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "Bayfront Theatre, Fort Mason Center",
+      "neighborhood": "Marina",
+      "category": "comedy",
+      "cost": 20,
+      "cost_notes": "$10–$25",
+      "description": "BATS Improv: Five stories start, only one ends. Saturday improv performance at Fort Mason Center, Building B.",
+      "url": "https://www.improv.org/shows/"
     },
     {
       "title": "San Francisco Free Folk Festival",
@@ -444,6 +408,18 @@
       "cost_notes": "$30 adults, $25 seniors, $23 students; under 18 free",
       "description": "New exhibition 'O. Smith: Artivist' featuring works on paper by Orlando Smith chronicling the criminal legal system and abuses of power. On view through November 29, 2026.",
       "url": "https://www.sfmoma.org/exhibitions/"
+    },
+    {
+      "title": "BATS Improv: Direct Feedback with Regina Saisi",
+      "date": "2026-07-12",
+      "time": "14:00",
+      "venue": "Bayfront Theatre, Fort Mason Center",
+      "neighborhood": "Marina",
+      "category": "comedy",
+      "cost": 20,
+      "cost_notes": "$10–$25",
+      "description": "BATS Improv Sunday workshop/performance with Regina Saisi. Fort Mason Center, Building B.",
+      "url": "https://www.improv.org/shows/"
     },
     {
       "title": "Ferry Fest 2026",

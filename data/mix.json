@@ -10,26 +10,26 @@
     "health": null,
     "social": null,
     "culture": null,
-    "note": "No history.json found — actuals not available yet. Log activities to data/history.json to enable week-over-week tracking."
+    "note": "No history.json found — actuals unavailable. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
-    "updated": "2026-06-29",
-    "summary": "Ann Arbor is under an Extreme Heat Warning all week (heat index 105–109°F Mon–Thu) — all outdoor workouts move indoors to the YMCA, which is the right call anyway. Two time-sensitive professional items: GovAI U.S. AI Policy Program application closes July 5, and WPC 2026 CFP closes July 5. Culture highlight is the Ann Arbor Art Fair July 16–17, the biggest event of the stay.",
+    "updated": "2026-07-02",
+    "summary": "It's July 4th weekend in Ann Arbor with an extreme heat warning (heat index 105°F+) through today — all outdoor workouts move indoors to the YMCA, and the week is naturally heavy on free cultural events. With no history to balance against, the key nudge is: don't let the holiday weekend collapse into passive screen time. One professional touchpoint (the GovAI AI Policy Program deadline is July 5 — tomorrow), one cultural outing, one social connection each day is enough.",
     "suggested": [
       {
         "category": "health",
-        "title": "YMCA indoor gym or pool — mandatory this week given Extreme Heat Warning (heat index 105–109°F Mon–Thu, storms Fri–Sun)",
+        "title": "Ann Arbor YMCA — indoor gym or pool (open 5:30am–9pm weekdays, 7am–6pm weekends). Mandatory this week given extreme heat.",
         "source_section": "gym"
       },
       {
-        "category": "professional",
-        "title": "GovAI U.S. AI Policy Program — application deadline July 5 (6 days). Free 12-week bipartisan AI policy program.",
-        "source_section": "professional"
+        "category": "culture",
+        "title": "Ann Arbor Art Fair — July 16–17, free, 30 city blocks and nearly 1,000 juried artists. Capstone event of the Ann Arbor stay.",
+        "source_section": "events"
       },
       {
-        "category": "culture",
-        "title": "Ann Arbor Art Fair — July 16–17, free, 30 city blocks, nearly 1,000 juried artists. Capstone event of the Ann Arbor stay.",
-        "source_section": "events"
+        "category": "professional",
+        "title": "Subsurface 2026 CFP — deadline July 17. Virtual data/AI conference; submit a talk on AI governance or data strategy before leaving Ann Arbor.",
+        "source_section": "professional"
       }
     ]
   }

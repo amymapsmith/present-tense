@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-07-02",
   "opportunities": [
     {
       "type": "role",
@@ -302,6 +302,21 @@
       "tags": ["tpm", "ai-platform", "biotech", "infrastructure", "san-francisco"]
     },
     {
+      "type": "role",
+      "title": "Senior/Staff Technical Program Manager – AI & Autonomy",
+      "organization": "Zoox",
+      "description": "Cross-functional program management leader responsible for planning and executing technical and integrated product milestones for vehicle platforms at Amazon's autonomous vehicle company. Posted April 2026.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://jobs.lever.co/zoox/84b7c9c7-1307-4f0c-a0f2-aab0c9b72335",
+      "source": "other",
+      "seniority": "senior",
+      "location": "any",
+      "tags": ["technical-program-management", "ai", "autonomous-vehicles", "infrastructure"]
+    },
+    {
       "type": "networking",
       "title": "Ann Arbor AI/ML Meetup — July",
       "organization": "Ann Arbor AI/ML Meetup Group",
@@ -330,21 +345,6 @@
       "seniority": "any",
       "location": "ann-arbor",
       "tags": ["ai", "technical", "networking", "free", "ann-arbor"]
-    },
-    {
-      "type": "networking",
-      "title": "AI Engineer World's Fair 2026",
-      "organization": "AIEngineer.com",
-      "description": "Major AI engineering conference covering enterprise AI strategy, technical leadership, systems architecture, and AI governance. Four days of sessions, networking, and demos. June 29–July 2 at Moscone West, San Francisco.",
-      "date": "2026-06-29",
-      "deadline": null,
-      "cost": 395,
-      "paid": false,
-      "url": "https://www.ai.engineer/worldsfair/2026",
-      "source": "other",
-      "seniority": "any",
-      "location": "sf",
-      "tags": ["ai-governance", "ai-engineering", "conference", "san-francisco", "networking"]
     },
     {
       "type": "networking",
@@ -378,6 +378,21 @@
     },
     {
       "type": "networking",
+      "title": "GenAI Summit SF 2026",
+      "organization": "AGI Summit",
+      "description": "Major generative AI conference at the Palace of Fine Arts. 15,000+ attendees, 200+ speakers from OpenAI, Anthropic, Google DeepMind, Stanford, Berkeley, MIT. Focuses on the shift to autonomous AI execution. July 18–19, 2026.",
+      "date": "2026-07-18",
+      "deadline": null,
+      "cost": 395,
+      "paid": false,
+      "url": "https://agisummit.ai/",
+      "source": "other",
+      "seniority": "any",
+      "location": "sf",
+      "tags": ["ai-governance", "generative-ai", "conference", "san-francisco", "networking"]
+    },
+    {
+      "type": "networking",
       "title": "ALIGN AI Executive Summit San Francisco",
       "organization": "DataSciConnect",
       "description": "Invite-only gathering for 150+ senior data and AI executives. Keynotes, expert panels, and roundtables on agentic AI, data governance, observability, infrastructure at scale, and measuring AI ROI. Free application for director-level+ non-vendor professionals.",
@@ -390,21 +405,6 @@
       "seniority": "director",
       "location": "sf",
       "tags": ["ai-governance", "data-science", "executive-networking", "leadership", "agentic-ai"]
-    },
-    {
-      "type": "networking",
-      "title": "GovAI U.S. AI Policy Program",
-      "organization": "Centre for the Governance of AI (GovAI)",
-      "description": "Bipartisan, part-time 12-week program to accelerate careers in U.S. AI policy. Builds technically-informed understanding of the AI policy landscape. Early September to early December 2026, five hours/week. Free. Deadline July 5.",
-      "date": "2026-09-07",
-      "deadline": "2026-07-05",
-      "cost": 0,
-      "paid": false,
-      "url": "https://www.governance.ai/post/govai-u-s-ai-policy-program",
-      "source": "other",
-      "seniority": "any",
-      "location": "any",
-      "tags": ["ai-policy", "ai-governance", "professional-development", "bipartisan", "us-policy"]
     },
     {
       "type": "cfp",
@@ -420,21 +420,6 @@
       "seniority": "any",
       "location": "any",
       "tags": ["data-science", "ai", "open-data", "cfp", "virtual"]
-    },
-    {
-      "type": "cfp",
-      "title": "WPC 2026 – Call for Speakers",
-      "organization": "WPC 2026",
-      "description": "80-session technical conference in Milan with a Data Platform track (data governance, analytics, Fabric) and AI & Agent cross-cutting theme. Deadline July 5, 2026. Conference Nov 24–26 at NH Milano Congress Centre.",
-      "date": "2026-11-24",
-      "deadline": "2026-07-05",
-      "cost": 0,
-      "paid": false,
-      "url": "https://sessionize.com/wpc-2026/",
-      "source": "other",
-      "seniority": "any",
-      "location": "any",
-      "tags": ["data-governance", "ai", "data-platform", "cfp", "milan"]
     },
     {
       "type": "cfp",

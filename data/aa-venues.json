@@ -1,6 +1,24 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-07-02",
   "venues": [
+    {
+      "id": "ymca",
+      "name": "Ann Arbor YMCA",
+      "address": "400 W Washington St, Ann Arbor, MI 48103",
+      "url": "https://annarborymca.org",
+      "hours": {
+        "monday":    { "open": "05:30", "close": "21:00" },
+        "tuesday":   { "open": "05:30", "close": "21:00" },
+        "wednesday": { "open": "05:30", "close": "21:00" },
+        "thursday":  { "open": "05:30", "close": "21:00" },
+        "friday":    { "open": "05:30", "close": "21:00" },
+        "saturday":  { "open": "07:00", "close": "18:00" },
+        "sunday":    { "open": "07:00", "close": "18:00" }
+      },
+      "_hours_note": "Downtown branch (400 W Washington St). Hours preserved from last confirmed fetch. Primary fitness facility during Ann Arbor stay. Highly recommended all week given Extreme Heat Warning.",
+      "current_exhibitions": [],
+      "events": []
+    },
     {
       "id": "umma",
       "name": "University of Michigan Museum of Art",
@@ -15,6 +33,7 @@
         "saturday":  { "open": "10:00", "close": "17:00" },
         "sunday":    { "open": "10:00", "close": "17:00" }
       },
+      "_hours_note": "Free admission always. Closed Mondays. Extended hours Fridays until 8 PM. Closed July 4 (Friday).",
       "current_exhibitions": [
         {
           "title": "Zina Saro-Wiwa: Table Manners (Season 1)",
@@ -46,7 +65,7 @@
           "title": "Regular gallery admission — free",
           "date": null,
           "time": "11:00",
-          "description": "Free admission to all galleries. UMMA closed July 4 (Friday). Extended hours Fridays until 8 PM.",
+          "description": "Free admission to all galleries. UMMA closed July 4 (Friday). Extended hours Fridays until 8 PM. An artist talk is scheduled for September 17 — no July-specific events confirmed on site.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://umma.umich.edu/visit/"
@@ -71,55 +90,10 @@
       "current_exhibitions": [],
       "events": [
         {
-          "title": "Gregory Stovetop",
-          "date": "2026-06-26",
-          "time": "20:00",
-          "description": "Cosmic folk/rock/soul from Chelsea-based singer-songwriter.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "The RFD Boys",
-          "date": "2026-06-27",
-          "time": "20:00",
-          "description": "Michigan bluegrass legends since 1969.",
-          "cost": 16,
-          "cost_notes": "$16 ($15 students/members)",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Matt Watroba",
-          "date": "2026-06-28",
-          "time": "19:30",
-          "description": "Folk/roots — celebrating 40 years in radio and 50 years performing.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Open Stage",
-          "date": "2026-06-29",
-          "time": "20:00",
-          "description": "8-minute open mic slots for all performers.",
-          "cost": 3,
-          "cost_notes": "$3 ($0 students/members)",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Holly Near with Jan Martinelli",
-          "date": "2026-07-01",
-          "time": "19:30",
-          "description": "Peace-focused folk, 50-year career.",
-          "cost": 31,
-          "cost_notes": "$31",
-          "url": "https://theark.org/events/"
-        },
-        {
           "title": "Blake Whyte",
           "date": "2026-07-02",
           "time": "20:00",
-          "description": "Soul/theatre songwriter-actor.",
+          "description": "Soul/theatre songwriter-actor — theatrical storytelling through music.",
           "cost": 24,
           "cost_notes": "$24",
           "url": "https://theark.org/events/"
@@ -128,7 +102,7 @@
           "title": "Pixie and the Partygrass Boys",
           "date": "2026-07-03",
           "time": "20:00",
-          "description": "High-energy Utah bluegrass.",
+          "description": "High-energy Utah bluegrass. Pre-4th-of-July energy.",
           "cost": 29,
           "cost_notes": "$29",
           "url": "https://theark.org/events/"
@@ -168,6 +142,51 @@
           "cost": 29,
           "cost_notes": "$29",
           "url": "https://www.theark.org/events/"
+        },
+        {
+          "title": "Howie Day",
+          "date": "2026-07-10",
+          "time": "20:00",
+          "description": "Singer-songwriter with emotionally resonant lyrics. Special guest Max Bartos.",
+          "cost": 35,
+          "cost_notes": "$35",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "The James Hunter Six",
+          "date": "2026-07-11",
+          "time": "20:00",
+          "description": "GRAMMY-nominated British soul artist — timeless rhythm & soul. Special guest McKinley James.",
+          "cost": 40,
+          "cost_notes": "$40",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Lucy Wainwright Roche",
+          "date": "2026-07-12",
+          "time": "19:30",
+          "description": "Folk performer with a bell-tone voice; daughter of Loudon Wainwright III and Suzzy Roche.",
+          "cost": 29,
+          "cost_notes": "$29",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Summer Sounds: Schmaltz & Jill Jack",
+          "date": "2026-07-16",
+          "time": "18:00",
+          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair.",
+          "cost": 0,
+          "cost_notes": "free",
+          "url": "https://theark.org/events/"
+        },
+        {
+          "title": "Summer Sounds: The Rupple Brothers & Bobby Alu",
+          "date": "2026-07-17",
+          "time": "18:00",
+          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair.",
+          "cost": 0,
+          "cost_notes": "free",
+          "url": "https://theark.org/events/"
         }
       ]
     },
@@ -203,23 +222,6 @@
         "friday":    { "open": "07:00", "close": "20:00" },
         "saturday":  { "open": "07:00", "close": "20:00" },
         "sunday":    { "open": "07:00", "close": "20:00" }
-      },
-      "current_exhibitions": [],
-      "events": []
-    },
-    {
-      "id": "ymca",
-      "name": "Ann Arbor YMCA",
-      "address": "400 W Washington St, Ann Arbor, MI 48103",
-      "url": "https://annarborymca.org",
-      "hours": {
-        "monday":    { "open": "05:30", "close": "21:00" },
-        "tuesday":   { "open": "05:30", "close": "21:00" },
-        "wednesday": { "open": "05:30", "close": "21:00" },
-        "thursday":  { "open": "05:30", "close": "21:00" },
-        "friday":    { "open": "05:30", "close": "21:00" },
-        "saturday":  { "open": "07:00", "close": "18:00" },
-        "sunday":    { "open": "07:00", "close": "18:00" }
       },
       "current_exhibitions": [],
       "events": []
