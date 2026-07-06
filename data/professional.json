@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "opportunities": [
     {
       "type": "role",
@@ -318,21 +318,6 @@
     },
     {
       "type": "networking",
-      "title": "Ann Arbor AI/ML Meetup — July",
-      "organization": "Ann Arbor AI/ML Meetup Group",
-      "description": "Monthly meetup (first Thursday of each month) for ML and AI practitioners across all levels — self-learners, students, business people, engineers. Lightning talks, demos, open discussion. Free. July meetup: Thu Jul 2.",
-      "date": "2026-07-02",
-      "deadline": null,
-      "cost": 0,
-      "paid": false,
-      "url": "https://www.meetup.com/machine-learning-data-science-and-industry/",
-      "source": "meetup",
-      "seniority": "any",
-      "location": "ann-arbor",
-      "tags": ["ai", "machine-learning", "networking", "free", "ann-arbor"]
-    },
-    {
-      "type": "networking",
       "title": "AI Tinkerers Ann Arbor",
       "organization": "AI Tinkerers",
       "description": "Hands-on community meetup for AI builders — lightning demos covering LLM agents, RAG systems, computer vision, robotics, and creative AI tools, with networking breaks. Free. Check the site for next scheduled date.",
@@ -365,7 +350,7 @@
       "type": "networking",
       "title": "Federated Intelligence in Production — NVIDIA FLARE",
       "organization": "SF Bay AI / Rhino CF",
-      "description": "Technical talks on operationalizing federated learning across distributed infrastructure, with production case studies from healthcare, finance, and automotive. Speakers from Rhino Federated Computing Platform and NVIDIA. SVAI Hub, Menlo Park.",
+      "description": "Technical talks on operationalizing federated learning across distributed infrastructure, with production case studies from healthcare, finance, and automotive. Speakers from Rhino Federated Computing Platform and NVIDIA. 135 Constitution Drive, Menlo Park, CA.",
       "date": "2026-07-09",
       "deadline": null,
       "cost": 0,
@@ -375,6 +360,21 @@
       "seniority": "any",
       "location": "sf",
       "tags": ["federated-learning", "ai", "technical", "networking", "menlo-park"]
+    },
+    {
+      "type": "networking",
+      "title": "AWS Agentic AI Summit with MongoDB & Mastra",
+      "organization": "SF Bay AI",
+      "description": "Building Production-Ready AI Agents on AWS — presentations from MongoDB, Mastra, and AWS experts covering deployment strategies and live demonstrations. July 15, 2026, 4:00 PM PDT. Amazon AWS, 525 Market Street, San Francisco.",
+      "date": "2026-07-15",
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://www.meetup.com/sfbay-ai/",
+      "source": "meetup",
+      "seniority": "any",
+      "location": "sf",
+      "tags": ["agentic-ai", "aws", "networking", "in-person", "san-francisco"]
     },
     {
       "type": "networking",
@@ -410,7 +410,7 @@
       "type": "cfp",
       "title": "Subsurface 2026: The Open Data and AI Conference – Call for Speakers",
       "organization": "Dremio",
-      "description": "Virtual conference on open data lakehouse architecture and agentic AI systems. Accepts talks on Apache Iceberg, Arrow, Spark, and data-driven AI systems. Shares successes, failures, and key lessons from modern data practices. Conference Sep 30–Oct 2, 2026.",
+      "description": "Virtual conference on open data lakehouse architecture and agentic AI systems. Accepts talks on Apache Iceberg, Arrow, Spark, and data-driven AI systems. Shares successes, failures, and key lessons from modern data practices. Conference Sep 30–Oct 2, 2026. CFP closes July 17 at 11:59 PM PT.",
       "date": "2026-09-30",
       "deadline": "2026-07-17",
       "cost": 0,

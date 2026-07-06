@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "group_runs": [
     {
       "day": "Monday",
@@ -39,66 +39,6 @@
     }
   ],
   "events": [
-    {
-      "title": "Sonic Lunch — Laith Al-Saadi",
-      "date": "2026-07-02",
-      "time": "11:30",
-      "venue": "Liberty & Division (outdoor stage)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor lunchtime concert. Ann Arbor blues/rock artist Laith Al-Saadi headlines; Chris Buhalis opens. 11:30am–1:30pm.",
-      "url": "https://www.soniclunch.com/"
-    },
-    {
-      "title": "Blake Whyte — The Ark",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 24,
-      "cost_notes": "$24",
-      "description": "Soul/theatre songwriter-actor — theatrical storytelling through music, strong voice.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Pixie and the Partygrass Boys — The Ark",
-      "date": "2026-07-03",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "High-energy Utah bluegrass band known for raucous, fun performances. Pre-4th-of-July energy.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Pontiac Trail Blazers — Bluegrass Friday",
-      "date": "2026-07-03",
-      "time": "19:00",
-      "venue": "North Star Lounge",
-      "neighborhood": "Kerrytown",
-      "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "The Pontiac Trail Blazers perform their bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose.",
-      "url": "https://www.nstarlounge.com/events"
-    },
-    {
-      "title": "Ann Arbor Jaycees 4th of July Parade",
-      "date": "2026-07-04",
-      "time": "10:00",
-      "venue": "State Street, Downtown Ann Arbor",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Annual parade — floats, marching bands, dance troupes. Route: S State & E William heading north on State, west on Liberty, south on 5th, east on William. Bring a lawn chair.",
-      "url": "https://www.a2jaycees.org/fourth-of-july-parade"
-    },
     {
       "title": "Blue Llama Jazz Club — Live Jazz",
       "date": "2026-07-05",
@@ -268,6 +208,18 @@
       "url": "https://www.aacomedy.com/"
     },
     {
+      "title": "Blue Llama Jazz Club — Live Jazz",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 10,
+      "cost_notes": "$10 cover",
+      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Thursday jazz runs 7–10:15pm.",
+      "url": "https://bluellamaclub.com/tickets-calendar/"
+    },
+    {
       "title": "The James Hunter Six — The Ark",
       "date": "2026-07-11",
       "time": "20:00",
@@ -384,7 +336,7 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free to attend",
-      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm. Last two days within stay.",
+      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm, Sat Jul 18 10am–8pm.",
       "url": "https://www.artfair.org/"
     },
     {

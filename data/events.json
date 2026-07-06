@@ -1,162 +1,6 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "events": [
-    {
-      "title": "Memory Cradle",
-      "date": "2026-07-02",
-      "time": "11:00",
-      "venue": "Eleanor Harwood Gallery (MSP)",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Ongoing through July 18 at Eleanor Harwood Gallery within Minnesota Street Project. Works exploring memory, material, and personal archive. Wed–Sat 11am–5pm.",
-      "url": "https://www.minnesotastreetproject.com"
-    },
-    {
-      "title": "Mark Perlman — Recent Works",
-      "date": "2026-07-02",
-      "time": "11:00",
-      "venue": "Nancy Toomey Fine Art (MSP)",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Ongoing through July 18 at Nancy Toomey Fine Art, Minnesota Street Project. Paintings drawing from landscape and abstraction.",
-      "url": "https://www.minnesotastreetproject.com"
-    },
-    {
-      "title": "ICA SF: Tara Donovan — Stratagems",
-      "date": "2026-07-02",
-      "time": "11:00",
-      "venue": "ICA SF",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "always free",
-      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World' and Lily Kwong's 'Earthseed Dome' (through July 26).",
-      "url": "https://www.icasf.org/exhibitions"
-    },
-    {
-      "title": "Chaunte Wayans – Stand-Up Comedy",
-      "date": "2026-07-02",
-      "time": "19:30",
-      "venue": "Cobb's Comedy Club",
-      "neighborhood": "North Beach",
-      "category": "comedy",
-      "cost": 35,
-      "cost_notes": "from $35",
-      "description": "Member of the legendary Wayans comedy family performs sharp observational comedy on family, life, and pop culture at Cobb's in North Beach.",
-      "url": "https://www.cobbscomedy.com/shows"
-    },
-    {
-      "title": "Patrick Keane – Stand-Up Comedy",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "venue": "Punch Line Comedy Club",
-      "neighborhood": "Embarcadero",
-      "category": "comedy",
-      "cost": 29,
-      "cost_notes": "from $29",
-      "description": "Comedian Patrick Keane takes the stage at Punch Line. Also performing Friday July 3.",
-      "url": "https://www.punchlinecomedyclub.com/shows"
-    },
-    {
-      "title": "BATS Improv: Student Show – Hitchcock Performance Lab",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "venue": "Bayfront Theatre, Fort Mason Center",
-      "neighborhood": "Marina",
-      "category": "comedy",
-      "cost": 15,
-      "cost_notes": "$10–$25",
-      "description": "Student showcase from BATS Improv's Hitchcock Performance Lab. Also showing Thursday July 16. Fort Mason Center, Building B.",
-      "url": "https://www.improv.org/shows/"
-    },
-    {
-      "title": "SF Mime Troupe: Wreckage",
-      "date": "2026-07-03",
-      "time": "14:00",
-      "venue": "Mission Dolores Park",
-      "neighborhood": "Mission",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free, donations welcome",
-      "description": "The Tony Award-winning SF Mime Troupe opens its 67th season with 'Wreckage: A Musical Tragicomedy,' a free outdoor political musical theater performance. Live music begins at 1:30 PM before the 2 PM show.",
-      "url": "https://www.sfmt.org/full-schedule"
-    },
-    {
-      "title": "Dance Fridays – Salsa & Bachata",
-      "date": "2026-07-03",
-      "time": "19:45",
-      "venue": "Space 550",
-      "neighborhood": "Bayview",
-      "category": "dance",
-      "cost": 20,
-      "cost_notes": "$20–$30 advance, $30–$35 door",
-      "description": "SF's largest Latin dance club: beginner salsa and bachata lessons at 7:45 PM followed by social dancing until 1:30 AM. Two rooms, 21+.",
-      "url": "https://www.dancefridays.fun/"
-    },
-    {
-      "title": "Adam Ferrara",
-      "date": "2026-07-03",
-      "time": "21:15",
-      "venue": "Cobb's Comedy Club",
-      "neighborhood": "North Beach",
-      "category": "comedy",
-      "cost": 35,
-      "cost_notes": "$35–$37",
-      "description": "Stand-up veteran and actor Adam Ferrara (Rescue Me, Top Gear US) performs two shows on July 3. Late show at 9:15 PM.",
-      "url": "https://www.cobbscomedy.com/shows"
-    },
-    {
-      "title": "Fillmore Jazz Festival",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "venue": "Fillmore Street (Jackson to Eddy)",
-      "neighborhood": "Fillmore / Western Addition",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "West Coast's largest free jazz festival — 5 stages across 12 blocks with 30+ acts including Adam Theis's MilesTrain Project (Miles Davis tribute), Lavay Smith & Her Red Hot Skillet Lickers, and more. Runs July 4–5.",
-      "url": "https://www.fillmorejazzfest.com/"
-    },
-    {
-      "title": "SF Mime Troupe: Wreckage",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "venue": "Mission Dolores Park",
-      "neighborhood": "Mission",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free, donations welcome",
-      "description": "Second day of the SF Mime Troupe's free outdoor performance of 'Wreckage: A Musical Tragicomedy.' Live music warm-up at 1:30 PM.",
-      "url": "https://www.sfmt.org/full-schedule"
-    },
-    {
-      "title": "de Young Free Saturday",
-      "date": "2026-07-04",
-      "time": "09:30",
-      "venue": "de Young Museum",
-      "neighborhood": "Golden Gate Park",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free for Bay Area residents",
-      "description": "Free general admission every Saturday for residents of the nine Bay Area counties. Show Bay Area ID at the door. Special exhibitions (Monet and Venice) still ticketed.",
-      "url": "https://www.famsf.org"
-    },
-    {
-      "title": "Bird & Beckett – Jazz Club Saturday Night",
-      "date": "2026-07-04",
-      "time": "20:00",
-      "venue": "Bird & Beckett Books & Records",
-      "neighborhood": "Glen Park",
-      "category": "bar",
-      "cost": 20,
-      "cost_notes": "$20 adults, $10 students",
-      "description": "Bird & Beckett's Saturday Jazz Club series. Rotating local jazz artists in an intimate bookshop setting. A Glen Park institution since 2002.",
-      "url": "https://birdbeckett.com/jazz-club/"
-    },
     {
       "title": "Major Lazer at Stern Grove",
       "date": "2026-07-05",
@@ -230,6 +74,18 @@
       "url": "https://www.punchlinecomedyclub.com/shows"
     },
     {
+      "title": "Student Jazz Jam Session",
+      "date": "2026-07-05",
+      "time": "17:00",
+      "venue": "Bird & Beckett Books & Records",
+      "neighborhood": "Glen Park",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "donations requested",
+      "description": "Community Music Center Jazz Combo hosts a student-centric jam session at Bird & Beckett. 5 PM start.",
+      "url": "https://birdbeckett.com/events/"
+    },
+    {
       "title": "BATS Improv: Wide Open Westerns with John Remak",
       "date": "2026-07-06",
       "time": "19:00",
@@ -249,9 +105,21 @@
       "neighborhood": "Inner Richmond",
       "category": "dance",
       "cost": 15,
-      "cost_notes": "$15",
-      "description": "SalsaCrazy's beginner-friendly salsa dance lesson series with social dancing included after lessons. No partner or experience needed. 21+.",
+      "cost_notes": "$15 social only; $40 class + dance",
+      "description": "SalsaCrazy's beginner-friendly salsa dance lesson series with social dancing included after lessons. Lessons at 7 PM, social from 8:30 PM. No partner or experience needed. 21+.",
       "url": "https://salsacrazysf.com/events/list/featured/"
+    },
+    {
+      "title": "People in Plazas – Free Lunchtime Music",
+      "date": "2026-07-08",
+      "time": "12:00",
+      "venue": "Market Street Plazas",
+      "neighborhood": "Downtown / SoMa",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concerts at plazas on and near Market Street (Embarcadero to 4th St). Runs Tuesdays and Thursdays through September 2026. 130+ concerts featuring local musicians.",
+      "url": "https://peopleinplazas.org/"
     },
     {
       "title": "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour",
@@ -278,6 +146,18 @@
       "url": "https://www.punchlinecomedyclub.com"
     },
     {
+      "title": "Bachata Party with Inessence Dance Co.",
+      "date": "2026-07-09",
+      "time": "20:00",
+      "venue": "Cigar Bar and Grill",
+      "neighborhood": "Financial District",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "check door",
+      "description": "Bachata dance social at Cigar Bar and Grill (850 Montgomery St) with Inessence Dance Co.",
+      "url": "https://www.cigarbarandgrill.com/index.php/entertainment"
+    },
+    {
       "title": "EMM",
       "date": "2026-07-10",
       "time": "21:00",
@@ -285,7 +165,7 @@
       "neighborhood": "Mission",
       "category": "music",
       "cost": 23,
-      "cost_notes": "$23–$75",
+      "cost_notes": "$23–$28",
       "description": "Live performance by EMM with support from Bentley Robles and TeZATalks at The Chapel. Doors at 8 PM.",
       "url": "https://www.thechapelsf.com"
     },
@@ -338,6 +218,18 @@
       "url": "https://www.punchlinecomedyclub.com"
     },
     {
+      "title": "Salsa Night with Live Band",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "venue": "Cigar Bar and Grill",
+      "neighborhood": "Financial District",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "check door",
+      "description": "Salsa night with live band at Cigar Bar and Grill, 850 Montgomery St.",
+      "url": "https://www.cigarbarandgrill.com/index.php/entertainment"
+    },
+    {
       "title": "Minnesota Street Project First Saturday",
       "date": "2026-07-11",
       "time": "16:00",
@@ -346,7 +238,7 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Monthly celebration of exhibition openings, artist talks, and book signings across 10+ contemporary art spaces. Open to all. Also: Open Fell performance at 1150 25th St (Slash) 4–6 PM. Current shows include 'Memory in Motion' (closing July 12), 'Wave Comes In Wave Goes Out' (opens July 7), and 'How to See Ruth Asawa' (through July 20).",
+      "description": "Monthly celebration of exhibition openings, artist talks, and book signings across 10+ contemporary art spaces. Open to all. Current shows include 'Memory Cradle' (Eleanor Harwood Gallery, through Jul 18), 'Mark Perlman — Recent Works' (Nancy Toomey, through Jul 18), and ICA SF's 'Tara Donovan: Stratagems' (through Jul 31).",
       "url": "https://minnesotastreetproject.com/events/special-event/first-saturday-5"
     },
     {
@@ -410,6 +302,18 @@
       "url": "https://www.sfmoma.org/exhibitions/"
     },
     {
+      "title": "Stern Grove: SF Symphony + Bela Fleck",
+      "date": "2026-07-12",
+      "time": "14:00",
+      "venue": "Stern Grove Festival",
+      "neighborhood": "West Portal / Sunset",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free — lottery entry",
+      "description": "The San Francisco Symphony teams up with banjo virtuoso Béla Fleck for an afternoon concert at Stern Grove. Free with lottery ticket. Doors noon, show 2 PM.",
+      "url": "https://www.sterngrove.org"
+    },
+    {
       "title": "BATS Improv: Direct Feedback with Regina Saisi",
       "date": "2026-07-12",
       "time": "14:00",
@@ -444,6 +348,30 @@
       "cost_notes": "$26–$30",
       "description": "Austin psych-rock veterans White Denim perform with Arc Iris. Doors at 7 PM. All ages.",
       "url": "https://www.thechapelsf.com"
+    },
+    {
+      "title": "Memory Cradle",
+      "date": "2026-07-05",
+      "time": "11:00",
+      "venue": "Eleanor Harwood Gallery (MSP)",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Ongoing through July 18 at Eleanor Harwood Gallery within Minnesota Street Project. Works exploring memory, material, and personal archive. Wed–Sat 11am–5pm.",
+      "url": "https://www.minnesotastreetproject.com"
+    },
+    {
+      "title": "ICA SF: Tara Donovan — Stratagems",
+      "date": "2026-07-05",
+      "time": "11:00",
+      "venue": "ICA SF",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "always free",
+      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World' and Lily Kwong's 'Earthseed Dome' (through July 26).",
+      "url": "https://www.icasf.org/exhibitions"
     }
   ]
 }

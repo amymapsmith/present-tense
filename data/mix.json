@@ -13,23 +13,23 @@
     "note": "No history.json found — actuals unavailable. Log activities to data/history.json to enable week-over-week tracking."
   },
   "recommendation": {
-    "updated": "2026-07-02",
-    "summary": "It's July 4th weekend in Ann Arbor with an extreme heat warning (heat index 105°F+) through today — all outdoor workouts move indoors to the YMCA, and the week is naturally heavy on free cultural events. With no history to balance against, the key nudge is: don't let the holiday weekend collapse into passive screen time. One professional touchpoint (the GovAI AI Policy Program deadline is July 5 — tomorrow), one cultural outing, one social connection each day is enough.",
+    "updated": "2026-07-05",
+    "summary": "It's the first Sunday of July in Ann Arbor — a week stacked with culture (Celtic Festival, Rolling Sculpture, Sonic Lunch, James Hunter Six, Lucy Wainwright Roche) and two active job searches closing soon. With no activity log to balance against, the structural risk this week is coasting on passive cultural consumption while the Subsurface CFP deadline (July 17 — 12 days away) slips. Concrete next step: block 90 minutes this week to draft a Subsurface CFP abstract on AI governance or data strategy. Weather is mixed (storms likely Sun/Mon/Thu), making YMCA the go-to for health. Storm-threatened evenings are ideal for applications or CFP writing.",
     "suggested": [
       {
+        "category": "professional",
+        "title": "Subsurface 2026 CFP — deadline July 17 at 11:59 PM PT. Virtual data/AI open lakehouse conference. Submit a talk on AI governance frameworks, responsible AI, or data strategy. Draft abstract this week before Art Fair.",
+        "source_section": "professional"
+      },
+      {
         "category": "health",
-        "title": "Ann Arbor YMCA — indoor gym or pool (open 5:30am–9pm weekdays, 7am–6pm weekends). Mandatory this week given extreme heat.",
+        "title": "YMCA Downtown (400 W Washington St) — open 5:30 AM–9 PM weekdays, 7 AM–6 PM weekends. Especially recommended Mon (40% storms) and Thu (58% storms). Pool ideal on hot days (89°F Wed).",
         "source_section": "gym"
       },
       {
         "category": "culture",
-        "title": "Ann Arbor Art Fair — July 16–17, free, 30 city blocks and nearly 1,000 juried artists. Capstone event of the Ann Arbor stay.",
+        "title": "The James Hunter Six at The Ark (Jul 11, $40) — GRAMMY-nominated British soul. Pairs well with Michigan Celtic Festival the same day. Culture-dense Saturday.",
         "source_section": "events"
-      },
-      {
-        "category": "professional",
-        "title": "Subsurface 2026 CFP — deadline July 17. Virtual data/AI conference; submit a talk on AI governance or data strategy before leaving Ann Arbor.",
-        "source_section": "professional"
       }
     ]
   }

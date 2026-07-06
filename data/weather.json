@@ -1,105 +1,105 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "location": "San Francisco, CA",
   "forecast": [
-    {
-      "date": "2026-07-02",
-      "day": "Thursday",
-      "high": 68,
-      "low": 54,
-      "wind_mph": 14,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 12, 13, 13, 13, 14, 13, 12, 12, 10, 10, 10],
-      "precipitation_pct": 0,
-      "humidity": 80,
-      "description": "Mostly Sunny"
-    },
-    {
-      "date": "2026-07-03",
-      "day": "Friday",
-      "high": 68,
-      "low": 55,
-      "wind_mph": 12,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 10, 11, 12, 12, 12, 11, 11, 10, 9, 8, 7, 7, 7],
-      "precipitation_pct": 0,
-      "humidity": 78,
-      "description": "Mostly Sunny"
-    },
-    {
-      "date": "2026-07-04",
-      "day": "Saturday",
-      "high": 67,
-      "low": 55,
-      "wind_mph": 13,
-      "wind_hourly": [6, 6, 6, 6, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 13, 12, 11, 10, 9, 8, 7, 6, 6],
-      "precipitation_pct": 0,
-      "humidity": 79,
-      "description": "Partly Sunny"
-    },
     {
       "date": "2026-07-05",
       "day": "Sunday",
       "high": 66,
       "low": 55,
-      "wind_mph": 13,
-      "wind_hourly": [6, 6, 6, 6, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 13, 12, 11, 10, 9, 8, 7, 6, 6],
-      "precipitation_pct": 2,
-      "humidity": 81,
-      "description": "Partly Sunny"
+      "wind_mph": 12,
+      "wind_hourly": [8, 8, 7, 7, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 12, 12, 12, 12, 11, 10, 9, 8, 7],
+      "precipitation_pct": 1,
+      "humidity": 80,
+      "description": "Mostly cloudy evening. High near 66, low around 55. WSW winds 6–12 mph."
     },
     {
       "date": "2026-07-06",
       "day": "Monday",
-      "high": 61,
+      "high": 66,
       "low": 54,
       "wind_mph": 14,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 10, 11, 12, 13, 14, 14, 13, 12, 11, 10, 9, 8, 7, 7],
-      "precipitation_pct": 0,
-      "humidity": 83,
-      "description": "Partly Sunny"
+      "wind_hourly": [7, 7, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 14, 13, 13, 12, 11, 10, 9, 8, 8, 7],
+      "precipitation_pct": 1,
+      "humidity": 78,
+      "description": "Partly sunny. High near 66, low around 54. WSW winds 6–14 mph."
     },
     {
       "date": "2026-07-07",
       "day": "Tuesday",
-      "high": 62,
+      "high": 64,
       "low": 54,
-      "wind_mph": 14,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 10, 11, 12, 13, 14, 14, 13, 12, 11, 10, 9, 8, 7, 7],
-      "precipitation_pct": 1,
-      "humidity": 82,
-      "description": "Partly Sunny"
+      "wind_mph": 16,
+      "wind_hourly": [8, 7, 7, 7, 7, 7, 8, 9, 10, 12, 13, 14, 15, 16, 16, 15, 14, 13, 12, 11, 10, 9, 8, 8],
+      "precipitation_pct": 0,
+      "humidity": 75,
+      "description": "Partly sunny. High near 64, low around 54. WSW winds 7–16 mph."
     },
     {
       "date": "2026-07-08",
       "day": "Wednesday",
-      "high": 65,
+      "high": 68,
       "low": 56,
       "wind_mph": 13,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 10, 11, 12, 13, 13, 12, 12, 11, 10, 9, 8, 7, 7, 7],
+      "wind_hourly": [7, 7, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 13, 13, 12, 12, 11, 10, 9, 8, 8, 7, 7],
       "precipitation_pct": 0,
-      "humidity": 80,
-      "description": "Mostly Sunny"
+      "humidity": 72,
+      "description": "Mostly sunny. High near 68, low around 56. WSW winds 7–13 mph."
+    },
+    {
+      "date": "2026-07-09",
+      "day": "Thursday",
+      "high": 68,
+      "low": 56,
+      "wind_mph": 14,
+      "wind_hourly": [7, 7, 7, 6, 6, 6, 7, 8, 8, 9, 10, 11, 12, 13, 14, 13, 12, 11, 10, 9, 8, 8, 7, 7],
+      "precipitation_pct": 0,
+      "humidity": 72,
+      "description": "Mostly sunny. High near 68, low around 56. WSW winds 6–14 mph."
+    },
+    {
+      "date": "2026-07-10",
+      "day": "Friday",
+      "high": 67,
+      "low": 56,
+      "wind_mph": 13,
+      "wind_hourly": [7, 7, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 13, 13, 12, 11, 10, 9, 8, 8, 7, 7, 7],
+      "precipitation_pct": 0,
+      "humidity": 73,
+      "description": "Mostly sunny. High near 67, low around 56. WSW winds 7–13 mph."
+    },
+    {
+      "date": "2026-07-11",
+      "day": "Saturday",
+      "high": 66,
+      "low": 56,
+      "wind_mph": 13,
+      "wind_hourly": [7, 6, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 12, 13, 13, 12, 11, 10, 9, 8, 7, 7, 6, 6],
+      "precipitation_pct": 1,
+      "humidity": 76,
+      "description": "Partly sunny. High near 66, low around 56. WSW winds 7–13 mph. Mostly cloudy overnight."
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
       "rating": "good",
-      "reason": "Temps 61–68°F, winds peak at 13–14 mph (at or just above threshold), no rain — good conditions; prefer morning rides before afternoon winds build"
+      "reason": "Temps 64–68°F midweek, winds 12–16 mph — Tuesday slightly over threshold at 16 mph but all others ≤14 mph. No rain all week. Best days: Wed Jul 8 and Thu Jul 9 (highest temps, moderate winds at 13–14 mph)."
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "Temps 61–68°F, wind under 18 mph all days, near-zero precipitation — excellent running conditions all week"
+      "reason": "All 7 days clear with temps 55–68°F and rain ≤1%. Morning runs ideal. Winds within good threshold all week. Excellent conditions."
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club indoor pool always available regardless of outdoor conditions"
+      "reason": "Bay Club indoor pool — always available regardless of weather."
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Bay Club open daily; outdoor conditions are mild this week so gym is a solid complement to outdoor activity"
+      "reason": "Bay Club open all week. Outdoor conditions are mild so gym is a solid complement rather than a necessity this week."
     }
   ]
 }

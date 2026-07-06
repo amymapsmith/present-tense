@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "locations": [
     {
       "id": "sf",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "19:00" },
         "sunday":    { "open": "07:00", "close": "19:00" }
       },
-      "_hours_note": "Hours preserved from last confirmed fetch. Amy is currently in Ann Arbor (through July 17); Bay Club hours are for reference on return.",
+      "_hours_note": "Hours preserved from last confirmed fetch. Amy is currently in Ann Arbor (through July 17); Bay Club hours are for reference on return after July 17.",
       "events": []
     },
     {
