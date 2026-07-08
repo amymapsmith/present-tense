@@ -258,21 +258,6 @@
     },
     {
       "type": "role",
-      "title": "Director, AI Ethics and Governance",
-      "organization": "Centene",
-      "description": "Lead AI governance programs in healthcare — monitoring AI systems for compliance, bias mitigation, fairness, transparency, and risk. Develop AI ethics guidelines for internal and third-party models. Manage AI training and awareness programs. HIPAA knowledge required. 100% remote US. $148K–$274K.",
-      "date": null,
-      "deadline": null,
-      "cost": 0,
-      "paid": true,
-      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Director--Artificial-Intelligence--AI--Ethics-and-Governance_1616985-1/apply",
-      "source": "other",
-      "seniority": "director",
-      "location": "any",
-      "tags": ["ai-governance", "ai-ethics", "healthcare", "responsible-ai", "remote"]
-    },
-    {
-      "type": "role",
       "title": "AI Governance Lead",
       "organization": "First San Francisco Partners",
       "description": "Consulting role establishing AI governance frameworks for regulated organizations. Define enterprise AI use policies, decision rights, accountability structures, and third-party vendor oversight. Integrate AI governance with existing data governance functions. 8–12 years in enterprise data governance or model risk management required. Remote, $100–$125/hr contract.",
