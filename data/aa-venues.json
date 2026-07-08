@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-08",
   "venues": [
     {
       "id": "ymca",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "18:00" },
         "sunday":    { "open": "07:00", "close": "18:00" }
       },
-      "_hours_note": "Downtown branch (400 W Washington St). Hours confirmed via annarborymca.org search data July 2026. Amy's primary fitness facility during Ann Arbor stay through July 17.",
+      "_hours_note": "Downtown branch (400 W Washington St). Hours confirmed via annarborymca.org July 2026. Amy's primary fitness facility during Ann Arbor stay through July 17.",
       "current_exhibitions": [],
       "events": []
     },
@@ -33,7 +33,7 @@
         "saturday":  { "open": "10:00", "close": "17:00" },
         "sunday":    { "open": "10:00", "close": "17:00" }
       },
-      "_hours_note": "Free admission always. Closed Mondays. Extended hours Fridays until 8 PM. No July-specific events confirmed on site — next ticketed event is an artist talk Sep 17.",
+      "_hours_note": "Free admission always. Closed Mondays. Extended hours Fridays until 8 PM.",
       "current_exhibitions": [
         {
           "title": "Zina Saro-Wiwa: Table Manners (Season 1)",
@@ -89,24 +89,6 @@
       "_hours_note": "Concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
       "current_exhibitions": [],
       "events": [
-        {
-          "title": "Open Stage",
-          "date": "2026-07-06",
-          "time": "20:00",
-          "description": "8-minute open mic slots. Free for students/members.",
-          "cost": 3,
-          "cost_notes": "$3 ($0 students/members)",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Davy Knowles",
-          "date": "2026-07-07",
-          "time": "20:00",
-          "description": "Blues-rock guitarist from the Isle of Man — cult favorite with serious chops.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://theark.org/events/"
-        },
         {
           "title": "Black Joe Lewis & The Honeybears",
           "date": "2026-07-08",
@@ -177,7 +159,7 @@
       "name": "Michigan Theater",
       "address": "603 E Liberty St, Ann Arbor, MI 48104",
       "url": "https://michigantheater.org",
-      "_hours_note": "Historic cinema and event venue. Check michigantheater.org directly for current film and event schedule — site redirected during fetch. Box office typically opens 30 min before first show.",
+      "_hours_note": "Historic cinema and event venue. Check michigantheater.org directly for current film and event schedule. Box office typically opens 30 min before first show.",
       "hours": {
         "monday":    null,
         "tuesday":   null,

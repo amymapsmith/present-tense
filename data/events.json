@@ -1,114 +1,6 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-08",
   "events": [
-    {
-      "title": "Major Lazer at Stern Grove",
-      "date": "2026-07-05",
-      "time": "14:00",
-      "venue": "Stern Grove Festival",
-      "neighborhood": "West Portal / Sunset",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free — lottery entry (lottery opened May 24)",
-      "description": "Global dance trio of Diplo, Walshy Fire, and Ape Drums headlining Stern Grove. Support: Fijiana (Indo-Fijian rapper from Richmond CA) and DJ Bad Juuju. Doors noon, show 2 PM.",
-      "url": "https://www.sterngrove.org"
-    },
-    {
-      "title": "Fillmore Jazz Festival – Day 2",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "venue": "Fillmore Street (Jackson to Eddy)",
-      "neighborhood": "Fillmore / Western Addition",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Second day of the Fillmore Jazz Festival. Five stages across 12 blocks. Art, crafts, food vendors alongside 30+ performers.",
-      "url": "https://www.fillmorejazzfest.com/"
-    },
-    {
-      "title": "SF Mime Troupe: Wreckage at Yerba Buena Gardens",
-      "date": "2026-07-05",
-      "time": "14:00",
-      "venue": "Yerba Buena Gardens",
-      "neighborhood": "SoMa",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free, donations welcome",
-      "description": "The SF Mime Troupe performs 'Wreckage: A Musical Tragicomedy' at Yerba Buena Gardens. Free outdoor political musical theater. Live music at 1:30 PM.",
-      "url": "https://www.sfmt.org/full-schedule"
-    },
-    {
-      "title": "After the End of the World Coretet Reunion",
-      "date": "2026-07-05",
-      "time": "19:30",
-      "venue": "Bird & Beckett Books & Records",
-      "neighborhood": "Glen Park",
-      "category": "music",
-      "cost": 20,
-      "cost_notes": "$20 adults, $10 students",
-      "description": "Reunion performance: Jon Birdsong (brass), Annelise Zamula (reeds), Bill Noertker (strings), Dave Mihaly (percussion). Experimental jazz in an intimate bookshop.",
-      "url": "https://birdbeckett.com/events/"
-    },
-    {
-      "title": "Asian Art Museum Free First Sunday",
-      "date": "2026-07-05",
-      "time": "10:00",
-      "venue": "Asian Art Museum",
-      "neighborhood": "Civic Center",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free admission first Sunday of month",
-      "description": "The Asian Art Museum opens its doors for free general public admission on the first Sunday of every month. One of the largest Asian art collections in the world.",
-      "url": "https://asianart.org"
-    },
-    {
-      "title": "SF Comedy Showcase",
-      "date": "2026-07-05",
-      "time": "19:30",
-      "venue": "Punch Line Comedy Club",
-      "neighborhood": "Embarcadero",
-      "category": "comedy",
-      "cost": 25,
-      "cost_notes": "from $25",
-      "description": "Sunday night lineup of Bay Area's best stand-up comedians at Punch Line.",
-      "url": "https://www.punchlinecomedyclub.com/shows"
-    },
-    {
-      "title": "Student Jazz Jam Session",
-      "date": "2026-07-05",
-      "time": "17:00",
-      "venue": "Bird & Beckett Books & Records",
-      "neighborhood": "Glen Park",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "donations requested",
-      "description": "Community Music Center Jazz Combo hosts a student-centric jam session at Bird & Beckett. 5 PM start.",
-      "url": "https://birdbeckett.com/events/"
-    },
-    {
-      "title": "BATS Improv: Wide Open Westerns with John Remak",
-      "date": "2026-07-06",
-      "time": "19:00",
-      "venue": "Bayfront Theatre, Fort Mason Center",
-      "neighborhood": "Marina",
-      "category": "comedy",
-      "cost": 15,
-      "cost_notes": "$10–$25",
-      "description": "BATS Improv 40th Anniversary series: Wide Open Westerns, a workshop/performance event with John Remak. Fort Mason Center, Building B.",
-      "url": "https://www.improv.org/shows/"
-    },
-    {
-      "title": "SalsaCrazy Mondays",
-      "date": "2026-07-06",
-      "time": "18:30",
-      "venue": "Neck of the Woods",
-      "neighborhood": "Inner Richmond",
-      "category": "dance",
-      "cost": 15,
-      "cost_notes": "$15 social only; $40 class + dance",
-      "description": "SalsaCrazy's beginner-friendly salsa dance lesson series with social dancing included after lessons. Lessons at 7 PM, social from 8:30 PM. No partner or experience needed. 21+.",
-      "url": "https://salsacrazysf.com/events/list/featured/"
-    },
     {
       "title": "People in Plazas – Free Lunchtime Music",
       "date": "2026-07-08",
@@ -122,16 +14,16 @@
       "url": "https://peopleinplazas.org/"
     },
     {
-      "title": "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour",
-      "date": "2026-07-07",
-      "time": "20:00",
-      "venue": "The Chapel",
-      "neighborhood": "Mission",
-      "category": "music",
-      "cost": 22,
-      "cost_notes": "$22–$25",
-      "description": "Singer-songwriter Dylan LeBlanc celebrates the 10th anniversary of his album 'Cautionary Tale' with supporting artist Olivia Wolf. Doors at 7 PM.",
-      "url": "https://www.thechapelsf.com"
+      "title": "Timmy No Brakes",
+      "date": "2026-07-08",
+      "time": "19:30",
+      "venue": "Cobb's Comedy Club",
+      "neighborhood": "North Beach",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "from $25",
+      "description": "Stand-up comedian Timmy No Brakes performs at Cobb's Comedy Club, 915 Columbus Ave.",
+      "url": "https://www.cobbscomedy.com/shows"
     },
     {
       "title": "Liz Miele",
@@ -156,6 +48,18 @@
       "cost_notes": "check door",
       "description": "Bachata dance social at Cigar Bar and Grill (850 Montgomery St) with Inessence Dance Co.",
       "url": "https://www.cigarbarandgrill.com/index.php/entertainment"
+    },
+    {
+      "title": "People in Plazas – Free Lunchtime Music",
+      "date": "2026-07-09",
+      "time": "12:00",
+      "venue": "Market Street Plazas",
+      "neighborhood": "Downtown / SoMa",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concerts at plazas on and near Market Street. Runs Tuesdays and Thursdays through September 2026.",
+      "url": "https://peopleinplazas.org/"
     },
     {
       "title": "EMM",
@@ -242,6 +146,18 @@
       "url": "https://minnesotastreetproject.com/events/special-event/first-saturday-5"
     },
     {
+      "title": "Ryan Graff Contemporary: The Backwards Race — Opening",
+      "date": "2026-07-11",
+      "time": "17:00",
+      "venue": "Ryan Graff Contemporary",
+      "neighborhood": "Nob Hill",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Gallery Night opening reception for 'The Backwards Race' by Aina Clotas at Ryan Graff Contemporary, 804 Sutter Street. 5–9 PM.",
+      "url": "https://www.artbusiness.com/calendar.html"
+    },
+    {
       "title": "BATS Improv: Super Scene",
       "date": "2026-07-11",
       "time": "20:00",
@@ -314,15 +230,15 @@
       "url": "https://www.sterngrove.org"
     },
     {
-      "title": "BATS Improv: Direct Feedback with Regina Saisi",
+      "title": "BATS Improv: Summer Cave Match (Student Show)",
       "date": "2026-07-12",
       "time": "14:00",
       "venue": "Bayfront Theatre, Fort Mason Center",
       "neighborhood": "Marina",
       "category": "comedy",
-      "cost": 20,
-      "cost_notes": "$10–$25",
-      "description": "BATS Improv Sunday workshop/performance with Regina Saisi. Fort Mason Center, Building B.",
+      "cost": 15,
+      "cost_notes": "$10–$20",
+      "description": "BATS 40th Summer Cave Match — competitive student improv showcase. Fort Mason Center, Building B.",
       "url": "https://www.improv.org/shows/"
     },
     {
@@ -338,6 +254,18 @@
       "url": "https://www.ferrybuildingmarketplace.com/events/ferry-fest/"
     },
     {
+      "title": "The Shindig Show with Jimmy Shin",
+      "date": "2026-07-12",
+      "time": "19:30",
+      "venue": "Cobb's Comedy Club",
+      "neighborhood": "North Beach",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "from $25",
+      "description": "The Shindig Show with Jimmy Shin at Cobb's Comedy Club, 915 Columbus Ave.",
+      "url": "https://www.cobbscomedy.com/shows"
+    },
+    {
       "title": "White Denim",
       "date": "2026-07-12",
       "time": "20:00",
@@ -350,8 +278,116 @@
       "url": "https://www.thechapelsf.com"
     },
     {
+      "title": "Corrosion of Conformity",
+      "date": "2026-07-13",
+      "time": "19:30",
+      "venue": "Great American Music Hall",
+      "neighborhood": "Tenderloin",
+      "category": "music",
+      "cost": 30,
+      "cost_notes": "$30 advance, $40 door; with Whores and Crobot",
+      "description": "Legendary heavy rock band Corrosion of Conformity reunited with guitarist/vocalist Pepper Keenan — first North American tour since 2006. Support from Whores and Crobot. Doors at 6:30 PM.",
+      "url": "https://wl.seetickets.us/event/corrosion-of-conformity/685651?afflky=GreatAmericanMusicHall"
+    },
+    {
+      "title": "Mohama Saz",
+      "date": "2026-07-14",
+      "time": "20:00",
+      "venue": "The Chapel",
+      "neighborhood": "Mission",
+      "category": "music",
+      "cost": 20,
+      "cost_notes": "$20–$25",
+      "description": "Kurdish multi-instrumentalist Mohama Saz performs traditional and contemporary Kurdish music at The Chapel. Doors at 7 PM.",
+      "url": "https://wl.seetickets.us/event/mohama-saz/689840?afflky=TheChapel"
+    },
+    {
+      "title": "People in Plazas – Free Lunchtime Music",
+      "date": "2026-07-14",
+      "time": "12:00",
+      "venue": "Market Street Plazas",
+      "neighborhood": "Downtown / SoMa",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concerts at plazas on and near Market Street. Runs Tuesdays and Thursdays through September 2026.",
+      "url": "https://peopleinplazas.org/"
+    },
+    {
+      "title": "King Woman",
+      "date": "2026-07-15",
+      "time": "20:00",
+      "venue": "Great American Music Hall",
+      "neighborhood": "Tenderloin",
+      "category": "music",
+      "cost": 20,
+      "cost_notes": "$20–$35",
+      "description": "Heavy, ethereal rock band King Woman at Great American Music Hall. Doors at 7 PM.",
+      "url": "https://wl.seetickets.us/event/king-woman/685128?afflky=GreatAmericanMusicHall"
+    },
+    {
+      "title": "BATS Improv: Hitchcock Performance Lab (Student Show)",
+      "date": "2026-07-16",
+      "time": "19:00",
+      "venue": "Bayfront Theatre, Fort Mason Center",
+      "neighborhood": "Marina",
+      "category": "comedy",
+      "cost": 10,
+      "cost_notes": "$5–$15",
+      "description": "BATS student performance lab: genre-driven improvisation inspired by Hitchcock suspense tropes. Fort Mason Center, Building B.",
+      "url": "https://www.improv.org/shows/"
+    },
+    {
+      "title": "People in Plazas – Free Lunchtime Music",
+      "date": "2026-07-16",
+      "time": "12:00",
+      "venue": "Market Street Plazas",
+      "neighborhood": "Downtown / SoMa",
+      "category": "music",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Free outdoor lunchtime concerts at plazas on and near Market Street. Runs Tuesdays and Thursdays through September 2026.",
+      "url": "https://peopleinplazas.org/"
+    },
+    {
+      "title": "Dead Souls: Joy Division Tribute",
+      "date": "2026-07-17",
+      "time": "21:00",
+      "venue": "The Chapel",
+      "neighborhood": "Mission",
+      "category": "music",
+      "cost": 22,
+      "cost_notes": "$22–$27",
+      "description": "Dead Souls, San Francisco's acclaimed Joy Division and New Order tribute band. Doors at 8 PM.",
+      "url": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel"
+    },
+    {
+      "title": "Futurebirds",
+      "date": "2026-07-18",
+      "time": "21:00",
+      "venue": "The Chapel",
+      "neighborhood": "Mission",
+      "category": "music",
+      "cost": 25,
+      "cost_notes": "$25–$28",
+      "description": "Athens, GA indie rock band Futurebirds at The Chapel. Doors at 8 PM.",
+      "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel"
+    },
+    {
+      "title": "LOVE SUPREME Summer Day Party",
+      "date": "2026-07-19",
+      "time": "14:00",
+      "venue": "The Chapel",
+      "neighborhood": "Mission",
+      "category": "dance",
+      "cost": 0,
+      "cost_notes": "free–$15",
+      "description": "LOVE SUPREME Summer Day Party Series at The Chapel — afternoon dance party with DJ sets. All ages. 2 PM.",
+      "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel"
+    },
+    {
       "title": "Memory Cradle",
-      "date": "2026-07-05",
+      "date": "2026-07-08",
       "time": "11:00",
       "venue": "Eleanor Harwood Gallery (MSP)",
       "neighborhood": "Dogpatch",
@@ -363,14 +399,14 @@
     },
     {
       "title": "ICA SF: Tara Donovan — Stratagems",
-      "date": "2026-07-05",
+      "date": "2026-07-08",
       "time": "11:00",
       "venue": "ICA SF",
       "neighborhood": "Dogpatch",
       "category": "art",
       "cost": 0,
       "cost_notes": "always free",
-      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World' and Lily Kwong's 'Earthseed Dome' (through July 26).",
+      "description": "Site-specific solo exhibition by Tara Donovan on view through July 31. Also on view: Jeffrey Gibson's 'This Burning World', Lily Kwong's 'Earthseed Dome' (through July 26), and Rupy C. Tut's 'The Picnic Potluck'.",
       "url": "https://www.icasf.org/exhibitions"
     }
   ]

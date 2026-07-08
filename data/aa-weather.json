@@ -1,105 +1,105 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-08",
   "location": "Ann Arbor, MI",
   "forecast": [
     {
-      "date": "2026-07-05",
-      "day": "Sunday",
-      "high": 72,
-      "low": 66,
-      "wind_mph": 8,
-      "wind_hourly": [7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 7],
-      "precipitation_pct": 59,
-      "humidity": 85,
-      "description": "Chance showers and thunderstorms tonight. High near 72, low around 66. NNE winds around 8 mph."
-    },
-    {
-      "date": "2026-07-06",
-      "day": "Monday",
-      "high": 82,
-      "low": 60,
-      "wind_mph": 9,
-      "wind_hourly": [6, 5, 5, 5, 5, 5, 6, 7, 8, 9, 9, 9, 9, 9, 8, 8, 7, 6, 5, 5, 4, 4, 3, 3],
-      "precipitation_pct": 40,
-      "humidity": 72,
-      "description": "Scattered showers and thunderstorms morning/afternoon, clearing overnight. High near 82, low around 60. NE winds 9 mph."
-    },
-    {
-      "date": "2026-07-07",
-      "day": "Tuesday",
-      "high": 83,
-      "low": 62,
-      "wind_mph": 6,
-      "wind_hourly": [3, 3, 3, 3, 3, 3, 4, 5, 5, 6, 6, 6, 6, 6, 5, 5, 5, 4, 4, 3, 3, 3, 3, 3],
-      "precipitation_pct": 3,
-      "humidity": 60,
-      "description": "Sunny and pleasant. High near 83, low around 62. NNE winds 0–6 mph. Excellent outdoor conditions."
-    },
-    {
       "date": "2026-07-08",
       "day": "Wednesday",
-      "high": 89,
-      "low": 64,
-      "wind_mph": 6,
-      "wind_hourly": [4, 4, 3, 3, 3, 3, 4, 5, 5, 6, 6, 6, 6, 6, 5, 5, 5, 4, 4, 4, 3, 3, 3, 3],
-      "precipitation_pct": 4,
-      "humidity": 58,
-      "description": "Sunny and hot. High near 89°F, low around 64. WSW winds 0–6 mph. Stay hydrated if exercising outdoors."
+      "high": 90,
+      "low": 66,
+      "wind_mph": 7,
+      "wind_hourly": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 5, 5, 6, 6, 6, 7, 7, 6, 5, 3, 3, 3],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
     },
     {
       "date": "2026-07-09",
       "day": "Thursday",
-      "high": 87,
-      "low": 64,
-      "wind_mph": 12,
-      "wind_hourly": [5, 5, 5, 5, 5, 5, 6, 7, 8, 9, 10, 11, 12, 12, 11, 10, 9, 8, 7, 6, 6, 5, 5, 5],
-      "precipitation_pct": 58,
-      "humidity": 75,
-      "description": "Showers and thunderstorms likely. High near 87, low around 64. WSW winds 5–12 mph. 58% precipitation chance."
+      "high": 89,
+      "low": 65,
+      "wind_mph": 10,
+      "wind_hourly": [3, 3, 3, 3, 3, 3, 3, 3, 3, 6, 7, 9, 9, 10, 10, 10, 10, 9, 9, 8, 6, 5, 3, 3],
+      "precipitation_pct": 57,
+      "humidity": null,
+      "description": "Chance Showers and Thunderstorms"
     },
     {
       "date": "2026-07-10",
       "day": "Friday",
-      "high": 84,
-      "low": 60,
-      "wind_mph": 8,
-      "wind_hourly": [5, 5, 4, 4, 4, 4, 5, 6, 7, 7, 8, 8, 8, 8, 7, 7, 6, 5, 5, 4, 4, 4, 3, 3],
-      "precipitation_pct": 38,
-      "humidity": 68,
-      "description": "Chance rain showers. High near 84, low around 60. N winds 5–8 mph. 38% rain chance."
+      "high": 85,
+      "low": 62,
+      "wind_mph": 6,
+      "wind_hourly": [3, 3, 2, 2, 2, 2, 2, 2, 2, 3, 3, 5, 5, 5, 5, 5, 6, 6, 6, 6, 5, 5, 5, 3],
+      "precipitation_pct": 41,
+      "humidity": null,
+      "description": "Chance Rain Showers, Partly Sunny"
     },
     {
       "date": "2026-07-11",
       "day": "Saturday",
-      "high": 84,
-      "low": 60,
-      "wind_mph": 8,
-      "wind_hourly": [4, 4, 4, 3, 3, 3, 4, 5, 6, 7, 8, 8, 8, 7, 7, 6, 5, 5, 4, 4, 3, 3, 3, 3],
-      "precipitation_pct": 11,
-      "humidity": 62,
-      "description": "Mostly sunny. High near 84, low around 60. NE winds 3–8 mph. Best outdoor day of the week."
+      "high": 86,
+      "low": 63,
+      "wind_mph": 7,
+      "wind_hourly": [3, 2, 2, 2, 2, 2, 2, 3, 3, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 6, 5, 5, 4, 3],
+      "precipitation_pct": 7,
+      "humidity": null,
+      "description": "Mostly Sunny"
+    },
+    {
+      "date": "2026-07-12",
+      "day": "Sunday",
+      "high": 82,
+      "low": 63,
+      "wind_mph": 7,
+      "wind_hourly": [2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 4, 5, 6, 6, 7, 7, 7, 6, 6, 5, 4, 4, 3, 3],
+      "precipitation_pct": 5,
+      "humidity": null,
+      "description": "Partly Sunny"
+    },
+    {
+      "date": "2026-07-13",
+      "day": "Monday",
+      "high": 80,
+      "low": 61,
+      "wind_mph": 7,
+      "wind_hourly": [3, 2, 2, 2, 2, 2, 2, 3, 3, 4, 5, 6, 6, 7, 7, 7, 7, 6, 5, 5, 4, 4, 3, 3],
+      "precipitation_pct": 3,
+      "humidity": null,
+      "description": "Mostly Sunny"
+    },
+    {
+      "date": "2026-07-14",
+      "day": "Tuesday",
+      "high": 83,
+      "low": 63,
+      "wind_mph": 7,
+      "wind_hourly": [3, 3, 2, 2, 2, 2, 2, 3, 4, 5, 5, 6, 7, 7, 7, 7, 7, 6, 5, 5, 4, 4, 3, 3],
+      "precipitation_pct": 5,
+      "humidity": null,
+      "description": "Partly Sunny"
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Temps warm to hot (82–89°F). Sun has 59% storm chance; Mon 40% storms. Best cycling: Tue Jul 7 (83°F, winds 6 mph, clear) and Sat Jul 11 (84°F, winds 8 mph, 11% rain). Avoid Thu (58% storms, 87°F)."
+      "reason": "Good today (Wed, 90°F, calm) and Saturday; Thursday 57% storm chance and Friday 41% rain make those days poor outdoors"
     },
     {
       "activity": "running",
       "rating": "fair",
-      "reason": "Warm/hot temps 82–89°F with thunderstorm risk Sun, Mon, Thu, Fri. Best running: early mornings Tue Jul 7 or Sat Jul 11. Avoid midday on hot days and any day with >40% storm chance."
+      "reason": "Hot this week (80–90°F) — early morning only; Thursday storms (57%) and Friday showers (41%) make those days poor"
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "YMCA indoor pool always available. Especially appealing midweek when outdoor temps hit 87–89°F and storm risk is high."
+      "reason": "Ann Arbor YMCA indoor pool always available; ideal on hot storm days"
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Especially recommended Sun (59% storms), Mon (40% storms), Thu (58% storms), and Wed (89°F). YMCA at 400 W Washington St open 5:30 AM–9 PM weekdays, 7 AM–6 PM weekends."
+      "reason": "Especially recommended Thursday–Friday when thunderstorms are forecast; YMCA open 5:30 AM–9 PM weekdays"
     }
   ]
 }

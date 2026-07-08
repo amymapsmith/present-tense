@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-08",
   "opportunities": [
     {
       "type": "role",
@@ -345,6 +345,21 @@
       "seniority": "any",
       "location": "sf",
       "tags": ["ai", "networking", "builders", "in-person", "san-francisco"]
+    },
+    {
+      "type": "networking",
+      "title": "AI & Tech Networking Event — Ascent Valley",
+      "organization": "Ascent Valley",
+      "description": "Curated startup networking event for founders, investors, and tech talent — AI, ML, and deep tech focus. July 8, 2026, 7 PM. San Francisco.",
+      "date": "2026-07-08",
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-san-francisco/events/315227658/",
+      "source": "meetup",
+      "seniority": "any",
+      "location": "sf",
+      "tags": ["ai", "startups", "networking", "in-person", "san-francisco"]
     },
     {
       "type": "networking",

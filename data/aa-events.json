@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-08",
   "group_runs": [
     {
       "day": "Monday",
@@ -40,52 +40,16 @@
   ],
   "events": [
     {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-07-05",
-      "time": "18:00",
+      "title": "Kahil El'Zabar & David Murray — Blue Llama Jazz Club",
+      "date": "2026-07-08",
+      "time": "20:00",
       "venue": "Blue Llama Jazz Club",
       "neighborhood": "Downtown",
       "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Sunday jazz runs 6–8:30pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
-    },
-    {
-      "title": "The Ark's Open Stage",
-      "date": "2026-07-06",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 3,
-      "cost_notes": "$3 ($0 students/members)",
-      "description": "Open mic — eight minutes or two songs per performer.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Davy Knowles — The Ark",
-      "date": "2026-07-07",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Isle of Man-born blues-rock guitarist with serious chops and an unmistakable style across acoustic, mandolin, and electric guitar.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-07-07",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
+      "cost": 25,
+      "cost_notes": "$25 cover or dinner & show",
+      "description": "Two jazz giants together: percussionist Kahil El'Zabar and tenor saxophonist David Murray. 8pm set. Blue Llama Jazz Club, 314 S Main St.",
+      "url": "https://bluellamaclub.com/event/kahil-el-zabar-david-murray/"
     },
     {
       "title": "Ann Arbor Civic Band — From the Tube",
@@ -124,18 +88,6 @@
       "url": "https://www.nstarlounge.com/events"
     },
     {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-07-08",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
-    },
-    {
       "title": "Sonic Lunch — Theo Katzman",
       "date": "2026-07-09",
       "time": "11:30",
@@ -158,6 +110,18 @@
       "cost_notes": "$29",
       "description": "Michigan native storyteller Mark Jewett performs with his band in a blend of folk, rock, blues, and Americana.",
       "url": "https://www.theark.org/events/"
+    },
+    {
+      "title": "Ken Kozora Quartet — Blue Llama Jazz Club",
+      "date": "2026-07-09",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 25,
+      "cost_notes": "$25 cover",
+      "description": "Ken Kozora Quartet plays two sets (7pm & 8:30pm) at Blue Llama Jazz Club, 314 S Main St.",
+      "url": "https://bluellamaclub.com/event/ken-kozora-quartet-3/"
     },
     {
       "title": "Rolling Sculpture Car Show",
@@ -208,16 +172,16 @@
       "url": "https://www.aacomedy.com/"
     },
     {
-      "title": "Blue Llama Jazz Club — Live Jazz",
+      "title": "Noah Hogan Quartet — Blue Llama Jazz Club",
       "date": "2026-07-10",
       "time": "19:00",
       "venue": "Blue Llama Jazz Club",
       "neighborhood": "Downtown",
       "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Thursday jazz runs 7–10:15pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
+      "cost": 25,
+      "cost_notes": "$25 cover",
+      "description": "Noah Hogan Quartet plays two sets (7pm & 9pm) at Blue Llama Jazz Club, 314 S Main St.",
+      "url": "https://bluellamaclub.com/event/noah-hogan-2/"
     },
     {
       "title": "The James Hunter Six — The Ark",
@@ -256,16 +220,28 @@
       "url": "https://www.aacomedy.com/"
     },
     {
-      "title": "Blue Llama Jazz Club — Live Jazz",
+      "title": "Sean Dobbins Organ Trio ft. Rob Dixon — Blue Llama Jazz Club",
+      "date": "2026-07-11",
+      "time": "19:00",
+      "venue": "Blue Llama Jazz Club",
+      "neighborhood": "Downtown",
+      "category": "music",
+      "cost": 25,
+      "cost_notes": "$25 cover",
+      "description": "Sean Dobbins Organ Trio featuring Rob Dixon plays two sets (7pm & 9pm) at Blue Llama Jazz Club, 314 S Main St.",
+      "url": "https://bluellamaclub.com/event/sean-dobbins-7/"
+    },
+    {
+      "title": "The Triumvirate — Blue Llama Jazz Club",
       "date": "2026-07-12",
       "time": "18:00",
       "venue": "Blue Llama Jazz Club",
       "neighborhood": "Downtown",
       "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Sunday jazz runs 6–8:30pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
+      "cost": 25,
+      "cost_notes": "$25 cover",
+      "description": "The Triumvirate plays two sets (6pm & 7:30pm) at Blue Llama Jazz Club, 314 S Main St.",
+      "url": "https://bluellamaclub.com/event/the-triumvirate-4/"
     },
     {
       "title": "Lucy Wainwright Roche — The Ark",
@@ -286,8 +262,8 @@
       "venue": "Blue Llama Jazz Club",
       "neighborhood": "Downtown",
       "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
+      "cost": 25,
+      "cost_notes": "$25 cover",
       "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
@@ -310,8 +286,8 @@
       "venue": "Blue Llama Jazz Club",
       "neighborhood": "Downtown",
       "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
+      "cost": 25,
+      "cost_notes": "$25 cover",
       "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
       "url": "https://bluellamaclub.com/tickets-calendar/"
     },
