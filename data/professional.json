@@ -303,6 +303,21 @@
     },
     {
       "type": "networking",
+      "title": "1 Million Cups Ann Arbor",
+      "organization": "1 Million Cups / Kauffman Foundation",
+      "description": "Weekly Wednesday morning gathering (9 AM) where entrepreneurs present 6-minute pitches followed by 20 minutes of community Q&A and feedback. Free, open to all. A staple of the Ann Arbor startup community.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": false,
+      "url": "https://www.linkedin.com/company/1-million-cups-ann-arbor/",
+      "source": "other",
+      "seniority": "any",
+      "location": "ann-arbor",
+      "tags": ["entrepreneurship", "startups", "networking", "weekly", "ann-arbor", "free"]
+    },
+    {
+      "type": "networking",
       "title": "AI Tinkerers Ann Arbor",
       "organization": "AI Tinkerers",
       "description": "Hands-on community meetup for AI builders — lightning demos covering LLM agents, RAG systems, computer vision, robotics, and creative AI tools, with networking breaks. Free. Check the site for next scheduled date.",
