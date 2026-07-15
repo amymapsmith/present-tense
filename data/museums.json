@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-15",
   "venues": [
     {
       "id": "deyoung",
       "name": "de Young Museum",
       "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118",
-      "url": "https://www.famsf.org/visit/de-young",
+      "url": "https://deyoung.famsf.org",
       "hours": {
         "monday":    null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
@@ -15,11 +15,11 @@
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Friday evening extended hours currently on summer hiatus (resumes Sep 28). Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included.",
+      "notes": "Closed Mondays. Friday evening extended hours on summer hiatus (resumes Sep 28). Access may be impacted Sun Jul 19 due to the AIDS Walk in Golden Gate Park — allow extra time. Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included. famsf.org blocked direct fetch verification this cycle (403); hours/exhibitions cross-checked via search instead of direct site fetch.",
       "current_exhibitions": [
         {
           "title": "Monet and Venice",
-          "description": "The first exhibition dedicated exclusively to Monet's Venetian cityscapes, reuniting masterworks from his 1908 visit for the first time in over a century. Closes July 26 — time-sensitive.",
+          "description": "The first exhibition dedicated exclusively to Monet's Venetian cityscapes, reuniting masterworks from his 1908 visit for the first time in over a century. Closing soon — 11 days left.",
           "through": "2026-07-26",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/monet-venice"
@@ -49,7 +49,7 @@
       "events": [
         {
           "title": "Free Saturdays at the de Young",
-          "date": "2026-07-11",
+          "date": "2026-07-18",
           "time": "09:30",
           "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Show Bay Area ID. Special exhibitions still require a ticket (included with membership).",
           "cost": 0,
@@ -80,7 +80,7 @@
       "id": "legion",
       "name": "Legion of Honor",
       "address": "100 34th Ave, San Francisco, CA 94121",
-      "url": "https://www.famsf.org/visit/legion-of-honor",
+      "url": "https://legionofhonor.famsf.org",
       "hours": {
         "monday":    null,
         "tuesday":   { "open": "09:30", "close": "17:15" },
@@ -90,7 +90,7 @@
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included.",
+      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included. Ferlinghetti for San Francisco closes this week (July 19) — last chance.",
       "current_exhibitions": [
         {
           "title": "The Etruscans: From the Heart of Ancient Italy",
@@ -115,7 +115,7 @@
         },
         {
           "title": "Ferlinghetti for San Francisco",
-          "description": "Explores Lawrence Ferlinghetti (1919–2021) as painter, draftsman, printmaker. Work combines image and text to explore isolation, violence, resilience. Logan Gallery. Closes July 19.",
+          "description": "Explores Lawrence Ferlinghetti (1919–2021) as painter, draftsman, printmaker. Work combines image and text to explore isolation, violence, resilience. Logan Gallery. Last chance — closes July 19.",
           "through": "2026-07-19",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/ferlinghetti-san-francisco"
@@ -124,7 +124,7 @@
       "events": [
         {
           "title": "Free Saturdays at the Legion of Honor",
-          "date": "2026-07-11",
+          "date": "2026-07-18",
           "time": "09:30",
           "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Valid ID required.",
           "cost": 0,

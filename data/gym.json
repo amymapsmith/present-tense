@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-15",
   "locations": [
     {
       "id": "sf",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "19:00" },
         "sunday":    { "open": "07:00", "close": "19:00" }
       },
-      "_hours_note": "Hours confirmed via bayclubs.com July 8, 2026.",
+      "_hours_note": "Re-confirmed via bayclubs.com July 15, 2026 — unchanged from last check.",
       "events": []
     },
     {
@@ -32,8 +32,9 @@
         "saturday":  null,
         "sunday":    null
       },
-      "_hours_note": "FiDi location closed weekends. Hours preserved from last confirmed fetch.",
+      "_hours_note": "Re-confirmed via bayclubs.com July 15, 2026 — unchanged, closed weekends.",
       "events": []
     }
-  ]
+  ],
+  "_events_note": "No member events currently listed on either location's page as of July 15, 2026 (site shows placeholder/no scheduled events)."
 }

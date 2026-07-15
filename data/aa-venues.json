@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-15",
   "venues": [
     {
       "id": "ymca",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "18:00" },
         "sunday":    { "open": "07:00", "close": "18:00" }
       },
-      "_hours_note": "Downtown branch (400 W Washington St). Hours confirmed via annarborymca.org July 2026. Amy's primary fitness facility during Ann Arbor stay through July 17.",
+      "_hours_note": "Downtown branch (400 W Washington St). Re-confirmed via annarborymca.org July 15, 2026 — unchanged. Amy's primary fitness facility during Ann Arbor stay through July 17.",
       "current_exhibitions": [],
       "events": []
     },
@@ -65,7 +65,7 @@
           "title": "Regular gallery admission — free",
           "date": null,
           "time": "11:00",
-          "description": "Free admission to all galleries. Extended hours Fridays until 8 PM. No ticketed July events confirmed; next artist talk is Sep 17, 2026.",
+          "description": "Free admission to all galleries. Extended hours Fridays until 8 PM. No new ticketed events confirmed for July 15–17 (within Amy's remaining Ann Arbor window); next artist talk is Sep 17, 2026.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://umma.umich.edu/visit/"
@@ -90,55 +90,10 @@
       "current_exhibitions": [],
       "events": [
         {
-          "title": "Black Joe Lewis & The Honeybears",
-          "date": "2026-07-08",
-          "time": "20:00",
-          "description": "Texas blues and soul guitarist with the high-energy Honeybears band.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://theark.org/event/black-joe-lewis-the-honeybears-260708/"
-        },
-        {
-          "title": "Mark Jewett & The Strategic Advisors",
-          "date": "2026-07-09",
-          "time": "20:00",
-          "description": "Michigan folk/rock/blues/Americana storyteller.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://www.theark.org/events/"
-        },
-        {
-          "title": "Howie Day",
-          "date": "2026-07-10",
-          "time": "20:00",
-          "description": "Singer-songwriter with emotionally resonant lyrics. Special guest Max Bartos.",
-          "cost": 35,
-          "cost_notes": "$35",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "The James Hunter Six",
-          "date": "2026-07-11",
-          "time": "20:00",
-          "description": "GRAMMY-nominated British soul artist — timeless rhythm & soul. Special guest McKinley James.",
-          "cost": 40,
-          "cost_notes": "$40",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Lucy Wainwright Roche",
-          "date": "2026-07-12",
-          "time": "19:30",
-          "description": "Folk performer with a bell-tone voice; daughter of Loudon Wainwright III and Suzzy Roche.",
-          "cost": 29,
-          "cost_notes": "$29",
-          "url": "https://theark.org/events/"
-        },
-        {
           "title": "Summer Sounds: Schmaltz & Jill Jack",
           "date": "2026-07-16",
           "time": "18:00",
-          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair.",
+          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair, at The Stage on Main.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://theark.org/events/"
@@ -147,7 +102,7 @@
           "title": "Summer Sounds: The Rupple Brothers & Bobby Alu",
           "date": "2026-07-17",
           "time": "18:00",
-          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair.",
+          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair, at The Stage on Main. Last day of Amy's Ann Arbor stay.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://theark.org/events/"
@@ -159,7 +114,7 @@
       "name": "Michigan Theater",
       "address": "603 E Liberty St, Ann Arbor, MI 48104",
       "url": "https://michigantheater.org",
-      "_hours_note": "Historic cinema and event venue. Check michigantheater.org directly for current film and event schedule. Box office typically opens 30 min before first show.",
+      "_hours_note": "Historic cinema and event venue. michigantheater.org/events/ redirected to an unrelated domain this cycle — could not verify current schedule. Check directly for current film and event schedule. Box office typically opens 30 min before first show.",
       "hours": {
         "monday":    null,
         "tuesday":   null,
@@ -177,7 +132,7 @@
       "name": "Matthaei Botanical Gardens",
       "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
       "url": "https://mbgna.umich.edu",
-      "_hours_note": "Grounds open dawn to dusk (approximately 7am–8pm in summer). Conservatory hours may vary. Check mbgna.umich.edu for current hours and summer events.",
+      "_hours_note": "Grounds open dawn to dusk (approximately 7am–8pm in summer). Conservatory hours may vary. Site returned 403 on direct fetch this cycle — hours preserved from last confirmed check.",
       "hours": {
         "monday":    { "open": "07:00", "close": "20:00" },
         "tuesday":   { "open": "07:00", "close": "20:00" },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-15",
   "group_runs": [
     {
       "day": "Monday",
@@ -40,234 +40,6 @@
   ],
   "events": [
     {
-      "title": "Kahil El'Zabar & David Murray — Blue Llama Jazz Club",
-      "date": "2026-07-08",
-      "time": "20:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover or dinner & show",
-      "description": "Two jazz giants together: percussionist Kahil El'Zabar and tenor saxophonist David Murray. 8pm set. Blue Llama Jazz Club, 314 S Main St.",
-      "url": "https://bluellamaclub.com/event/kahil-el-zabar-david-murray/"
-    },
-    {
-      "title": "Ann Arbor Civic Band — From the Tube",
-      "date": "2026-07-08",
-      "time": "19:30",
-      "venue": "Burns Park",
-      "neighborhood": "Burns Park",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor concert by the Ann Arbor Civic Band at Burns Park. TV theme song program. 7:30–8:30pm.",
-      "url": "https://annarborcivicband.wixsite.com/aacb/concert-schedule"
-    },
-    {
-      "title": "Black Joe Lewis & The Honeybears — The Ark",
-      "date": "2026-07-08",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Texas-born blues and soul guitarist brings his high-energy Honeybears band for a night of gut-bucket blues and soul.",
-      "url": "https://theark.org/event/black-joe-lewis-the-honeybears-260708/"
-    },
-    {
-      "title": "Brielle — Free Happy Hour Concert",
-      "date": "2026-07-08",
-      "time": "17:30",
-      "venue": "North Star Lounge",
-      "neighborhood": "Kerrytown",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free happy hour performance by singer-songwriter Brielle at North Star Lounge. Runs 5:30–6:30pm.",
-      "url": "https://www.nstarlounge.com/events"
-    },
-    {
-      "title": "Sonic Lunch — Theo Katzman",
-      "date": "2026-07-09",
-      "time": "11:30",
-      "venue": "Liberty & Division (outdoor stage)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor lunchtime concert. Theo Katzman (Vulfpeck member, acclaimed solo artist) headlines; The Rebel Eves open. 11:30am–1:30pm.",
-      "url": "https://www.soniclunch.com/"
-    },
-    {
-      "title": "Mark Jewett & The Strategic Advisors — The Ark",
-      "date": "2026-07-09",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Michigan native storyteller Mark Jewett performs with his band in a blend of folk, rock, blues, and Americana.",
-      "url": "https://www.theark.org/events/"
-    },
-    {
-      "title": "Ken Kozora Quartet — Blue Llama Jazz Club",
-      "date": "2026-07-09",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "Ken Kozora Quartet plays two sets (7pm & 8:30pm) at Blue Llama Jazz Club, 314 S Main St.",
-      "url": "https://bluellamaclub.com/event/ken-kozora-quartet-3/"
-    },
-    {
-      "title": "Rolling Sculpture Car Show",
-      "date": "2026-07-10",
-      "time": "14:00",
-      "venue": "Downtown Ann Arbor (Main Street)",
-      "neighborhood": "Downtown",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Annual free outdoor classic, antique, and concept car show featuring 300+ automobiles spanning decades of automotive history on Main Street downtown.",
-      "url": "https://mainstreetannarbor.org/rolling-sculpture"
-    },
-    {
-      "title": "Howie Day — The Ark",
-      "date": "2026-07-10",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 35,
-      "cost_notes": "$35",
-      "description": "Singer-songwriter known for emotionally resonant lyrics and inventive melodies. Special guest Max Bartos.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Michigan Celtic Festival",
-      "date": "2026-07-10",
-      "time": "17:00",
-      "venue": "Washtenaw County Farm Council Grounds",
-      "neighborhood": "Ann Arbor (SW)",
-      "category": "music",
-      "cost": 8,
-      "cost_notes": "$8 adults; under 17 & active military free",
-      "description": "Two-day Celtic festival opens Friday at 5pm. Highland athletics, pipe bands, Celtic music stages, Corgi Races, Ring of Steel live show. Main day Sat Jul 11, 10am–midnight. 5055 Ann Arbor-Saline Rd.",
-      "url": "https://www.mi-celtic.org/"
-    },
-    {
-      "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
-      "date": "2026-07-10",
-      "time": "20:00",
-      "venue": "Ann Arbor Comedy Showcase",
-      "neighborhood": "Downtown",
-      "category": "comedy",
-      "cost": 20,
-      "cost_notes": "~$20",
-      "description": "National touring stand-up comedian Brian Scolaro headlines the Ann Arbor Comedy Showcase at 212 S 4th Ave.",
-      "url": "https://www.aacomedy.com/"
-    },
-    {
-      "title": "Noah Hogan Quartet — Blue Llama Jazz Club",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "Noah Hogan Quartet plays two sets (7pm & 9pm) at Blue Llama Jazz Club, 314 S Main St.",
-      "url": "https://bluellamaclub.com/event/noah-hogan-2/"
-    },
-    {
-      "title": "The James Hunter Six — The Ark",
-      "date": "2026-07-11",
-      "time": "20:00",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 40,
-      "cost_notes": "$40",
-      "description": "GRAMMY-nominated British soul artist delivering timeless rhythm & soul with gritty vocals and sharp songwriting. Special guest McKinley James.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Michigan Celtic Festival — Main Day",
-      "date": "2026-07-11",
-      "time": "10:00",
-      "venue": "Washtenaw County Farm Council Grounds",
-      "neighborhood": "Ann Arbor (SW)",
-      "category": "music",
-      "cost": 8,
-      "cost_notes": "$8 adults; under 17 & active military free",
-      "description": "Full day: Highland athletics, pipe band competition, Celtic stages, Wee Folk Fun, Corgi Races, Ring of Steel. 10am–midnight.",
-      "url": "https://www.mi-celtic.org/festival-schedule-of-events"
-    },
-    {
-      "title": "Brian Scolaro — Ann Arbor Comedy Showcase",
-      "date": "2026-07-11",
-      "time": "20:00",
-      "venue": "Ann Arbor Comedy Showcase",
-      "neighborhood": "Downtown",
-      "category": "comedy",
-      "cost": 20,
-      "cost_notes": "~$20",
-      "description": "Brian Scolaro continues his Ann Arbor Comedy Showcase run at 212 S 4th Ave.",
-      "url": "https://www.aacomedy.com/"
-    },
-    {
-      "title": "Sean Dobbins Organ Trio ft. Rob Dixon — Blue Llama Jazz Club",
-      "date": "2026-07-11",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "Sean Dobbins Organ Trio featuring Rob Dixon plays two sets (7pm & 9pm) at Blue Llama Jazz Club, 314 S Main St.",
-      "url": "https://bluellamaclub.com/event/sean-dobbins-7/"
-    },
-    {
-      "title": "The Triumvirate — Blue Llama Jazz Club",
-      "date": "2026-07-12",
-      "time": "18:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "The Triumvirate plays two sets (6pm & 7:30pm) at Blue Llama Jazz Club, 314 S Main St.",
-      "url": "https://bluellamaclub.com/event/the-triumvirate-4/"
-    },
-    {
-      "title": "Lucy Wainwright Roche — The Ark",
-      "date": "2026-07-12",
-      "time": "19:30",
-      "venue": "The Ark",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 29,
-      "cost_notes": "$29",
-      "description": "Folk performer with a bell-tone voice blending wisdom with wit; daughter of Loudon Wainwright III and Suzzy Roche.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-07-14",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Tuesday jazz runs 7–9:30pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
-    },
-    {
       "title": "Ann Arbor Civic Band — Oh, The Places You'll Go",
       "date": "2026-07-15",
       "time": "19:30",
@@ -295,12 +67,12 @@
       "title": "Summer Sounds at the Ann Arbor Art Fair — Schmaltz & Jill Jack",
       "date": "2026-07-16",
       "time": "18:00",
-      "venue": "The Ark",
+      "venue": "The Ark (The Stage on Main)",
       "neighborhood": "Downtown Ann Arbor",
       "category": "music",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair featuring Schmaltz and Jill Jack. Part of The Ark's free art fair programming.",
+      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair, The Stage on Main (353 S Main St) — modern klezmer from Schmaltz and dynamic folk rock from Jill Jack.",
       "url": "https://theark.org/events/"
     },
     {
@@ -312,7 +84,7 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free to attend",
-      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm, Sat Jul 18 10am–8pm.",
+      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm.",
       "url": "https://www.artfair.org/"
     },
     {
@@ -324,19 +96,19 @@
       "category": "art",
       "cost": 0,
       "cost_notes": "free to attend",
-      "description": "Second day of the Ann Arbor Art Fair. 10am–9pm on Friday July 17. Final day within Ann Arbor stay.",
+      "description": "Second day of the Ann Arbor Art Fair, and the final day within Amy's Ann Arbor stay. 10am–9pm.",
       "url": "https://www.artfair.org/"
     },
     {
       "title": "Summer Sounds at the Ann Arbor Art Fair — The Rupple Brothers & Bobby Alu",
       "date": "2026-07-17",
       "time": "18:00",
-      "venue": "The Ark",
+      "venue": "The Ark (The Stage on Main)",
       "neighborhood": "Downtown Ann Arbor",
       "category": "music",
       "cost": 0,
       "cost_notes": "free",
-      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair featuring The Rupple Brothers and Bobby Alu.",
+      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair featuring psychedelic folk ensemble The Rupple Brothers and tropical ambassador Bobby Alu.",
       "url": "https://theark.org/events/"
     },
     {
@@ -348,7 +120,7 @@
       "category": "music",
       "cost": 10,
       "cost_notes": "$10 cover",
-      "description": "The Pontiac Trail Blazers perform their regular Bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose.",
+      "description": "The Pontiac Trail Blazers perform their regular Bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose. Last night of Amy's Ann Arbor stay.",
       "url": "https://www.nstarlounge.com/events"
     }
   ]

@@ -11,26 +11,26 @@
     "social": 0.0,
     "culture": 0.0,
     "total_hours": 0,
-    "note": "No history.json found — no hours logged yet this week (Jul 6–12)"
+    "note": "No history.json found — no hours logged yet this week (Jul 13–19)"
   },
   "recommendation": {
-    "updated": "2026-07-08",
-    "summary": "All categories at zero with the week half gone and three nights of good culture in Ann Arbor still ahead. The Subsurface 2026 CFP closes July 17 — the last day of the Ann Arbor stay — making this the week to draft a proposal. Pair a YMCA session with a live music night to build health and culture momentum before the weekend.",
+    "updated": "2026-07-15",
+    "summary": "All categories at zero with only two days left in Ann Arbor — the AWS Agentic AI Summit is tonight (4pm PDT, but it's a good remote-networking watch even from Michigan) and the Ann Arbor Art Fair runs through tomorrow, July 17, so today and tomorrow are the last chance to bank culture and professional hours there before the trip ends. Pair a YMCA session with the Art Fair's free Summer Sounds concert tonight to hit health and culture in one evening.",
     "suggested": [
       {
         "category": "professional",
-        "title": "Subsurface 2026 CFP — deadline July 17 (virtual data/AI open lakehouse conference)",
+        "title": "SavvyMoney — Program Manager, Enterprise AI Adoption (new posting, $160K–$175K, remote-eligible)",
         "source_section": "professional"
       },
       {
         "category": "health",
-        "title": "Ann Arbor YMCA — morning workout or pool session (400 W Washington St)",
+        "title": "Ann Arbor YMCA — morning workout before the heat peaks (400 W Washington St, open 5:30 AM)",
         "source_section": "gym"
       },
       {
         "category": "culture",
-        "title": "Sonic Lunch — Theo Katzman (free, Thu Jul 9, 11:30am, Liberty & Division)",
-        "source_section": "events"
+        "title": "Summer Sounds at the Ann Arbor Art Fair — Schmaltz & Jill Jack (free, tonight 6pm, The Stage on Main)",
+        "source_section": "aa-events"
       }
     ]
   }
