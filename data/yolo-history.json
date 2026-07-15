@@ -1,27 +1,615 @@
 {
   "destinations": [
     {
+      "updated": "2026-07-14",
+      "trip_type": "drive",
+      "destination": {
+        "city": "Bay City & Saginaw Bay",
+        "region": "Bay County, Michigan",
+        "country": "USA",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "lat": 43.5945,
+        "lon": -83.8889,
+        "vibe": "The closest real nature getaway to Ann Arbor \u2014 a working river city on Saginaw Bay with a 2,000-acre coastal marsh, quiet wildlife refuges, and a downtown that punches above its weight, all inside a 30-minute radius."
+      },
+      "travel": {
+        "from": "Ann Arbor, MI",
+        "to": "Bay City, MI",
+        "route": "US-23 N",
+        "distance_miles": 101,
+        "drive_time": "~1h 40m",
+        "notes": "By far the shortest drive of the three Michigan getaways so far \u2014 closer to a long weekend afternoon trip than a road trip. Everything in this itinerary sits within about 30 minutes of downtown Bay City."
+      },
+      "lodging": [
+        {
+          "name": "Corky's Cabin",
+          "type": "airbnb",
+          "price_per_night_usd": 140,
+          "neighborhood": "Kawkawlin River, ~10 min north of Bay City, on Saginaw Bay",
+          "highlights": "A freshly renovated cottage right where the Kawkawlin River meets Saginaw Bay, with a private beach and water views from both the river and bay side. Closest thing to true waterfront in this radius without paying resort prices \u2014 check current pricing on the listing, as it isn't posted in search results.",
+          "url": "https://www.airbnb.com/rooms/34543224",
+          "source": "airbnb"
+        },
+        {
+          "name": "DoubleTree by Hilton Bay City \u2013 Riverfront",
+          "type": "hotel",
+          "price_per_night_usd": 120,
+          "neighborhood": "Downtown Bay City, on the Saginaw River",
+          "highlights": "150 rooms right on the Saginaw River, a 5-minute walk to the State Theatre and downtown restaurants, with an indoor pool \u2014 the easy, no-surprises option if you want to walk to dinner instead of drive.",
+          "url": "https://www.hilton.com/en/hotels/mbsbcdt-doubletree-bay-city-riverfront/",
+          "source": "direct"
+        },
+        {
+          "name": "Historic Webster House Bed & Breakfast",
+          "type": "guesthouse",
+          "price_per_night_usd": 277,
+          "neighborhood": "Downtown Bay City",
+          "highlights": "A romantic, highly-rated inn in a restored historic home \u2014 rooms with jacuzzi tubs, saunas, skylights, and fireplaces, plus a cooked-to-order breakfast. Midweek (Sun\u2013Thu) rates drop to around $199 and come with a $50 gift card to Old City Hall restaurant next door.",
+          "url": "https://historicwebsterhouse.com/accommodations/",
+          "source": "direct"
+        }
+      ],
+      "itinerary": {
+        "overview": "This is the low-effort, high-payoff version of a Michigan nature weekend: under two hours from Ann Arbor, and once you're there almost nothing requires more than a 30-minute drive. Bay City sits where the Saginaw River widens into Saginaw Bay, and it's anchored by Tobico Marsh \u2014 one of the largest remaining freshwater coastal wetlands on the Great Lakes \u2014 plus a couple of near-empty wildlife refuges and a downtown with real restaurants and a brewery scene. It's not dramatic scenery like the Thumb or up north \u2014 it's flat, marshy, birdy, and quiet in a way that's easy to underrate.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrival: The Marsh and the River",
+            "morning": "It's only 1h40m up US-23 from Ann Arbor, so there's no need to leave early \u2014 a late-morning departure still gets you there for lunch.",
+            "afternoon": "Head straight to Bay City State Park and Tobico Marsh, a 2,000-acre freshwater coastal wetland \u2014 one of the largest left on the Great Lakes. Walk the paved Frank N. Andersen Nature Trail out to the observation towers and boardwalks; even outside peak migration you'll see great blue herons, egrets, and sandhill cranes. Stop at the Saginaw Bay Visitor Center first for context and a trail map \u2014 it's a genuinely well-done exhibit for a state park visitor center.",
+            "evening": "Check in, then dinner downtown at Riverfront Grille (Lake Huron walleye, patio on the water) or WH Ales for a modern English brewpub take. Walk the Bay City Riverwalk after \u2014 it runs right along the Saginaw River through downtown."
+          },
+          {
+            "day": 2,
+            "title": "On the Water, Then the Quiet Refuges",
+            "morning": "Rent a self-serve kayak at Bay City Boat Rental (1201 Evergreen Dr.) and paddle the Saginaw River out toward where it opens into the bay \u2014 no guide or scheduled tour needed, just launch and go. It shares its dock with Scotty's Sandbar, so there's a waterfront bar and grill right there for afterward.",
+            "afternoon": "Drive about 20 minutes to Nayanquing Point State Wildlife Area, a quiet stretch of dike-top trails through wetland impoundments on the bay's west shore \u2014 dramatically less visited than Tobico Marsh. If you'd rather go the other direction, Quanicassee State Wildlife Area is about 25\u201330 minutes southeast with four miles of trails and a viewing tower kids can climb.",
+            "evening": "Dinner and a pint at Tri-City Brewing Company \u2014 big patio, rotating food trucks, classic beer-garden feel. If you want something more polished, Prost! Wine Bar and Charcuterie in Uptown is the build-your-own-board option."
+          },
+          {
+            "day": 3,
+            "title": "One Last Look at the Marsh, Then Home",
+            "morning": "Go back to Tobico Marsh at first light if you can manage it \u2014 birding is best at dawn, and even in summer the boardwalks are close to empty. Otherwise, a walk on Bay City State Park's sandy Saginaw Bay beach is a low-key way to close out the trip.",
+            "afternoon": "Head home \u2014 1h40m back down US-23 to Ann Arbor.",
+            "evening": "Home in time for dinner."
+          }
+        ],
+        "tips": [
+          "Tobico Marsh's real spectacle is mid-October through early November, when 3,000\u201325,000 migrating birds stage there at once \u2014 worth a return trip in fall even though this one's timed for summer.",
+          "Nayanquing Point and Quanicassee wildlife areas get a fraction of Tobico Marsh's visitors \u2014 if you want to not see another person while birding, go there instead of the state park.",
+          "The Kawkawlin River's only public launch is unpaved with no dock \u2014 fine for a kayak you carry in, but don't plan on trailering a boat there.",
+          "Bay City Boat Rental's self-serve kayak setup is new (2025) and removes the usual friction of guided rental windows \u2014 you can paddle at 7am or 7pm on your own schedule.",
+          "Downtown Bay City's Uptown district has more real food and drink than a town this size usually supports \u2014 seafood, wine bars, an actual brewery scene \u2014 don't assume it's just gas-station coffee between nature stops.",
+          "Fish Point State Wildlife Area, the other big Saginaw Bay birding spot, is worth knowing about but sits about 40 minutes northeast near Unionville \u2014 just outside this trip's 30-minute radius, so it's a better fit for a dedicated Thumb-area trip."
+        ],
+        "sources": [
+          {
+            "title": "Bay City State Park & Tobico Marsh: 8 Best Things to Know \u2014 Historic Webster House",
+            "url": "https://historicwebsterhouse.com/blog/bay-city-state-park-tobico-marsh/"
+          },
+          {
+            "title": "Bay City State Park \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/recsearch/parks/baycity"
+          },
+          {
+            "title": "Saginaw Bay Visitor Center: Your Guide to Tobico Marsh & Bay City State Recreation Area",
+            "url": "https://outdoorsadventures4u.com/2025/02/27/exploring-the-saginaw-bay-visitor-center-at-bay-city-state-recreation-area/"
+          },
+          {
+            "title": "Quanicassee Wildlife Area \u2014 Tripadvisor",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g41970-d2295830-Reviews-Quanicassee_Wildlife_Area-Bay_City_Michigan.html"
+          },
+          {
+            "title": "Nayanquing Point State Wildlife Area \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/dnr/things-to-do/hunting/where/wetland-wonders/nayanquing-point-swa"
+          },
+          {
+            "title": "Fish Point State Wildlife Area \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/dnr/things-to-do/hunting/where/wetland-wonders/fish-point-swa"
+          },
+          {
+            "title": "Where Can I Rent or Launch a Kayak in Bay City, Frankenmuth & Midland, MI? \u2014 Go Great Lakes Bay",
+            "url": "https://www.gogreat.com/blog/paddling-the-great-lakes-bay-where-to-rent-where-to-launch/"
+          },
+          {
+            "title": "Bay City's first self-serve kayak rental service coming soon \u2014 WNEM",
+            "url": "https://www.wnem.com/2025/09/15/bay-citys-first-self-serve-kayak-rental-service-coming-soon/"
+          },
+          {
+            "title": "Kawkawlin River \u2014 Fishing, Boating & Launch Access \u2014 ShorelineScout",
+            "url": "https://shorelinescout.com/michigan/bay/kawkawlin-river/"
+          },
+          {
+            "title": "Spotlight: Bay City, Michigan \u2014 Michigan Chews & Brews",
+            "url": "https://michewsbrews.com/2022/09/30/bay-city-michigan-restaurants/"
+          },
+          {
+            "title": "Top Places to Eat in Bay City: The Ultimate Food Guide 2026 \u2014 Historic Webster House",
+            "url": "https://historicwebsterhouse.com/blog/places-to-eat-in-bay-city/"
+          },
+          {
+            "title": "DoubleTree by Hilton Hotel Bay City \u2013 Riverfront",
+            "url": "https://www.hilton.com/en/hotels/mbsbcdt-doubletree-bay-city-riverfront/"
+          },
+          {
+            "title": "Historic Webster House Bed and Breakfast \u2014 Accommodations",
+            "url": "https://historicwebsterhouse.com/accommodations/"
+          }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-14",
+      "trip_type": "drive",
+      "destination": {
+        "city": "Elk Rapids & Torch Lake",
+        "region": "Antrim County, Northern Michigan",
+        "country": "USA",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "lat": 44.8964,
+        "lon": -85.4322,
+        "vibe": "A small harbor town where the Elk River meets Grand Traverse Bay, minutes from the deepest, clearest, most absurdly turquoise inland lake in the state \u2014 this is the lake-forward, further-north version of a Michigan nature weekend."
+      },
+      "travel": {
+        "from": "Ann Arbor, MI",
+        "to": "Elk Rapids, MI",
+        "route": "US-23 N to I-75 N to M-72 W (or US-127 N to M-72 W)",
+        "distance_miles": 235,
+        "drive_time": "~3h 45m",
+        "onward": {
+          "to": "Traverse City, MI",
+          "route": "M-22 / US-31 S along the bay",
+          "distance_miles": 16,
+          "drive_time": "~20 min",
+          "notes": "Elk Rapids is basically Traverse City's quiet northern suburb on the water \u2014 you can bolt on a Traverse City day without much extra driving."
+        }
+      },
+      "lodging": [
+        {
+          "name": "Rustic log cabin near Alden (Torch Lake)",
+          "type": "airbnb",
+          "price_per_night_usd": 135,
+          "neighborhood": "Alden, on Torch Lake's south shore",
+          "highlights": "A short walk up the hill from the water in the village of Alden \u2014 close enough to bike down to the general store for ice cream and walk it off on the dock. Search Airbnb's Torch Lake cabins filter; several 1951-vintage log cabins around Alden and Elk Rapids come in under $150/night with strong reviews.",
+          "url": "https://www.airbnb.com/torch-lake-mi/stays/cabins",
+          "source": "airbnb"
+        },
+        {
+          "name": "The Inn at Torch Lake",
+          "type": "guesthouse",
+          "price_per_night_usd": 210,
+          "neighborhood": "Alden, Torch Lake's south shore",
+          "highlights": "Five suites in a proper B&B right on the lake, with a gourmet breakfast buffet each morning. Small and books up on summer weekends \u2014 call ahead rather than relying on same-week availability.",
+          "url": "https://www.inn-at-torchlake.com/",
+          "source": "direct"
+        },
+        {
+          "name": "Shanty Creek Resort \u2014 Lakeview Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 190,
+          "neighborhood": "Bellaire, on Lake Bellaire (~20 min from Elk Rapids)",
+          "highlights": "A proper four-village golf-and-ski resort if you want pools, restaurants, and a spa alongside the nature \u2014 rooms overlook Lake Bellaire, and it puts you 10 minutes from Short's Brewing's flagship taproom.",
+          "url": "https://www.shantycreek.com/",
+          "source": "direct"
+        }
+      ],
+      "itinerary": {
+        "overview": "This is the lake-first version of a northern Michigan escape: Elk Rapids is a real harbor town, not a resort strip, sitting where the Elk River empties into Grand Traverse Bay \u2014 and it's a 15-minute drive from Torch Lake, a 19-mile glacial lake so clear and blue it gets compared to the Caribbean unironically. Two nights is enough to swim the famous sandbar, hike a boardwalk through wetlands most visitors never find, and eat dinner at a harbor picnic table with a lake breeze doing all the work.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrival: The Bay Town and the Sandbar",
+            "morning": "Drive up from Ann Arbor \u2014 about 3h45m via US-23/I-75 to M-72 W, the same road that runs past Grayling on the way. Stop for gas and coffee around Kalkaska.",
+            "afternoon": "Head straight to the Torch Lake Sandbar at the south end near the Torch River Bridge \u2014 wade or paddle out from the Lake Street public access in about 10 minutes; the water sits waist-deep for a long stretch and is genuinely that turquoise color, caused by dissolved marl in one of the deepest lakes in Michigan (over 300 feet). Go on a weekday afternoon if you can \u2014 weekends turn it into a floating tailgate of pontoons.",
+            "evening": "Check into your lodging, then dinner in Elk Rapids proper \u2014 Pearl's New Orleans Kitchen for Cajun-Creole, or Alley Cat's Eats & Sweets for a smash burger. Walk it off at Edward C. Grace Memorial Harbor and watch the sun go down over Grand Traverse Bay."
+          },
+          {
+            "day": 2,
+            "title": "Boardwalks, Otters, and a Quieter Shoreline",
+            "morning": "Drive to the Grass River Natural Area near Bellaire \u2014 7 miles of flat, easy trails, much of it ADA-accessible boardwalk over wetlands along a crystal-clear river. Go slow; this is the best wildlife-watching in the area, with river otters, eagles, kingfishers, and swans regularly seen from the boardwalk.",
+            "afternoon": "Rent a kayak or paddleboard in Alden and paddle a quiet stretch of Torch Lake away from the sandbar crowds, or hike the Maplehurst Natural Area (5.5 miles, moderate, a 60-acre upland lake tucked inside it \u2014 you'll carry the kayak a quarter mile in if you want to paddle that one too). Stop in Alden's general store for ice cream afterward, then walk it down to the boat dock like everyone else does.",
+            "evening": "Dinner and a beer at Short's Brewing's Pull Barn in Elk Rapids \u2014 an indoor/outdoor taproom with ~25 beers on tap and a food truck out back. If you want the flagship experience instead, it's 20 minutes to their original Bellaire location."
+          },
+          {
+            "day": 3,
+            "title": "One Last Shoreline, Then Home (or South to Traverse City)",
+            "morning": "Walk the Antrim Creek Natural Area \u2014 2.1 easy, flat miles with a full mile of undeveloped Grand Traverse Bay shoreline, and almost nobody on it even in peak season. A good last look at the water before the drive.",
+            "afternoon": "Head home (~3h45m back to Ann Arbor), or go the other way \u2014 Traverse City is 20 minutes south on M-22/US-31 if you want to extend the trip with cherries, wineries, and a bigger town for lunch.",
+            "evening": "Back in Ann Arbor by dinner, or settling into Traverse City for round two."
+          }
+        ],
+        "tips": [
+          "The Torch Lake sandbar is a floating party scene on summer weekend afternoons \u2014 hundreds of boats rafted together. Go on a weekday morning, or access the quieter south end through Alden's public dock instead of the main sandbar approach.",
+          "Torch Lake is the deepest inland lake in Michigan and one of the clearest in the country \u2014 the turquoise isn't a filter or an exaggeration, it's dissolved marl (limestone sediment) reflecting light the way tropical water does.",
+          "Grass River Natural Area is criminally underused by people who came for the lake \u2014 it's arguably the best 90 minutes of wildlife-watching in the county and most Torch Lake visitors never hear about it.",
+          "Antrim Creek Natural Area gets you a mile of undeveloped Grand Traverse Bay shoreline with none of the crowds you'd find at a public beach \u2014 go at golden hour if you can.",
+          "Short's Brewing's Elk Rapids 'Pull Barn' location is more low-key than the original Bellaire taproom \u2014 better if you want a quiet pint instead of a scene.",
+          "If you're stringing this together with a Grayling trip, M-72 runs directly between the two \u2014 Grayling to Elk Rapids is about an hour and change, so this works as either a standalone weekend or a second leg."
+        ],
+        "sources": [
+          {
+            "title": "11 Most Fun Things to Do in Torch Lake this Year \u2014 Hey Michigan",
+            "url": "https://heymichigan.com/things-to-do-in-torch-lake/"
+          },
+          {
+            "title": "Torch Lake Michigan 2026: The Sandbar, Beaches & What to Know \u2014 My Michigan Beach and Travel",
+            "url": "https://mymichiganbeach.com/torch-lake-michigan/"
+          },
+          {
+            "title": "Torch Lake, Michigan: A Complete Guide to the Lake & Sandbar \u2014 My Michigan Beach and Travel",
+            "url": "https://mymichiganbeach.com/torch-lake-guide/"
+          },
+          {
+            "title": "TRUE BLUE hiking \u2014 Torch Conservation Center",
+            "url": "https://conservetorch.org/having-fun/hiking/"
+          },
+          {
+            "title": "Fun Things to Do in Elk Rapids, Traverse City, and Suttons Bay \u2014 Torch Lake Bed & Breakfast",
+            "url": "https://torchlakebb.com/fun-things-to-do-in-elk-rapids-traverse-city-and-suttons-bay/"
+          },
+          {
+            "title": "Welcome to Alden on Beautiful Torch Lake!",
+            "url": "https://www.visitalden.com/"
+          },
+          {
+            "title": "Your Guide to Elk Rapids Restaurants, Bakeries, Taverns, Bars & More \u2014 MyNorth",
+            "url": "https://mynorth.com/food-drink/your-guide-to-elk-rapids-restaurants-bakeries-taverns-bars-more/"
+          },
+          {
+            "title": "Elk Rapids Pull Barn \u2014 Short's Brewing Company",
+            "url": "https://www.shortsbrewing.com/locations/elk-rapids/"
+          },
+          {
+            "title": "The Inn at Torch Lake \u2014 Alden, MI",
+            "url": "https://www.inn-at-torchlake.com/"
+          },
+          {
+            "title": "Shanty Creek Resort",
+            "url": "https://www.shantycreek.com/"
+          },
+          {
+            "title": "Grayling - Torch Lake - Lake City \u2014 Michigan.org",
+            "url": "https://www.michigan.org/article/grayling-torch-lake-lake-city"
+          }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-14",
+      "trip_type": "drive",
+      "destination": {
+        "city": "Grayling",
+        "region": "Northern Michigan (Crawford County)",
+        "country": "USA",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "lat": 44.662,
+        "lon": -84.7231,
+        "vibe": "The exact midpoint between Ann Arbor and Traverse City is a old-growth pine forest wrapped around a blue-ribbon trout river \u2014 Michigan's canoeing capital, where the loudest sound is a loon and the biggest crowd is a fly hatch."
+      },
+      "travel": {
+        "from": "Ann Arbor, MI",
+        "to": "Grayling, MI",
+        "route": "US-23 N to I-75 N, exit 254",
+        "distance_miles": 172,
+        "drive_time": "~2h 45m",
+        "onward": {
+          "to": "Traverse City, MI",
+          "route": "M-72 W",
+          "distance_miles": 63,
+          "drive_time": "~1h 15m",
+          "notes": "Grayling sits right on M-72, the direct road between I-75 and Traverse City \u2014 easy to continue north or loop back to Ann Arbor."
+        }
+      },
+      "lodging": [
+        {
+          "name": "Hartwick Pines State Park Rustic Cabin",
+          "type": "cabin",
+          "price_per_night_usd": 70,
+          "neighborhood": "Inside Hartwick Pines State Park",
+          "highlights": "One rustic cabin, in the park itself, sleeping up to 5 on bunks with a hand pump for water and a vault toilet outside \u2014 no electricity, no plumbing, no neighbors. You fall asleep under the same old-growth canopy you hiked through that afternoon. Book through Michigan DNR's reservation system well ahead; there's only one.",
+          "url": "https://www2.dnr.state.mi.us/parksandtrails/Details.aspx?id=127&type=SPCG",
+          "source": "michigan-dnr"
+        },
+        {
+          "name": "Gates Au Sable Lodge",
+          "type": "hotel",
+          "price_per_night_usd": 130,
+          "neighborhood": "Stephan Bridge Road, on the Au Sable mainstream",
+          "highlights": "Sixteen motel-style rooms steps from the river, run by a working fly shop and restaurant that's been a fixture of the 'Holy Waters' fishing scene for decades. Even if you don't fish, you can watch guides untie boats at dawn from your doorstep. Call ahead (989-348-8462) \u2014 rates aren't posted online and shift seasonally.",
+          "url": "https://gateslodge.com/lodging/",
+          "source": "direct"
+        },
+        {
+          "name": "Garland Lodge & Resort",
+          "type": "hotel",
+          "price_per_night_usd": 220,
+          "neighborhood": "Lewiston, ~35 min northeast of Grayling",
+          "highlights": "4,000 private acres of forest with a grand timber-frame lodge, restaurant, spa, and trails right off the porch \u2014 the 'hidden gem in the woods' option if you want a splurge night that's still all pine trees and no cell signal. Villas and cottages available if you want more space than a lodge room.",
+          "url": "https://golfgarland.com/",
+          "source": "direct"
+        }
+      ],
+      "itinerary": {
+        "overview": "Grayling is what people mean when they say 'up north' in Michigan without meaning the Upper Peninsula \u2014 a small river town wrapped in 9,000+ acres of old-growth white pine and sitting on one of the best trout streams in the country. It's unpretentious: no boardwalk, no resort strip, just a livery, a fly shop, a burger joint, and the Au Sable running through the middle of it. Two nights here is enough for a slow paddle, a real hike through trees that predate the Civil War, and a dusk fishing spectacle you won't see described on any billboard.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrival: Old Growth and the River at Dusk",
+            "morning": "Leave Ann Arbor by mid-morning \u2014 it's a straight shot up US-23 and I-75, about 2h45m with no traffic. Grab coffee and gas in Standish or Grayling before you turn off the freeway.",
+            "afternoon": "Head straight to Hartwick Pines State Park. Walk the paved 1.4-mile Old Growth Forest Trail \u2014 49 acres of virgin white pine, some over 350 years old and 120+ feet tall, one of the last stands left in a state that used to be covered in them. Stop in the Michigan History Center's logging museum at the trailhead first for 20 minutes of context: this forest is a rounding error compared to what the lumber barons clear-cut in the 1800s, which makes the trees hit different once you're standing under them.",
+            "evening": "Check into your lodging, then dinner at Spike's Keg O' Nails downtown \u2014 order the Spikeburger, a Grayling institution since the 1970s, with a Michigan draft. After dinner, walk down to the river behind the AuSable River Festival grounds and watch the light go long over the water. If it's June or early July, ask locally whether the Hex hatch is on \u2014 giant mayflies come off the river at dusk in a cloud thick enough to see from the bank, and every trout in the river goes into a feeding frenzy on the surface."
+          },
+          {
+            "day": 2,
+            "title": "On the River, Then Off the Grid",
+            "morning": "Rent a canoe or kayak from Carlisle Canoe Livery or Borchers, both a block apart downtown, and put in for a half-day paddle on the Au Sable's mainstream. This stretch is the 'Holy Waters' \u2014 a designated blue-ribbon trout stream, flies-only, no-kill \u2014 but you don't need to fish to feel it: slow current, cedar-lined banks, kingfishers, the occasional bald eagle. Liveries shuttle you back to your car at the takeout.",
+            "afternoon": "Drive 10 miles east on M-72 to Wakeley Lake \u2014 a small, motor-free lake tucked into the Huron-Manistee National Forest that most tourists never find because it's not on the way to anything. Paddle it in near-total silence; it's known for nesting loons. Alternatively, hike a stretch of the Mason Tract Pathway along the South Branch of the Au Sable \u2014 the land was donated by auto executive George Mason specifically so no cabins could ever be built on this bank, so it's some of the wildest river frontage in the Lower Peninsula.",
+            "evening": "Dinner and a pint at Dead Bear Brewing Co. or Paddle Hard Brewing, both easy walks from downtown. If you're a photographer, get back to the river for golden hour \u2014 the light through the pines onto the water around 8:30pm in July is the whole reason to come here."
+          },
+          {
+            "day": 3,
+            "title": "Slow Morning, Then Home (or North)",
+            "morning": "Walk the W.J. Beal Tree Plantation, a quiet, little-known nature trail through 40 tree species planted in 1888 \u2014 20 minutes, almost no one else there. If it's Saturday, swing by the Grayling Farmers Market for coffee and something to eat in the car.",
+            "afternoon": "Head home down I-75/US-23 (2h45m back to Ann Arbor), or if you want to keep going, M-72 W runs directly into Traverse City in about 75 minutes \u2014 cherries, wineries, and Lake Michigan waiting at the other end.",
+            "evening": "Back in Ann Arbor by dinner, or settling into Traverse City for round two."
+          }
+        ],
+        "tips": [
+          "The Hex hatch (giant Hexagenia mayflies) comes off the Au Sable at dusk in late June through mid-July \u2014 one of the most dramatic natural spectacles in Michigan, and almost no one outside the fly-fishing world knows to go watch it from a bridge or bank at dark.",
+          "Wakeley Lake is the quiet alternative to Lake Margrethe, which is the popular, motorized lake locals actually avoid on summer weekends. No motors allowed on Wakeley \u2014 that's the whole point.",
+          "Skip the last Saturday of July if you want quiet: that's the AuSable River Canoe Marathon, a nonstop overnight race to Oscoda that fills every room in town and draws thousands of spectators. Great to watch on purpose, bad to stumble into unplanned.",
+          "Paddle the Au Sable at or before 9am if you want the river to yourself \u2014 by early afternoon in summer it fills with tubers and rental groups between the two main liveries.",
+          "Spike's Keg O' Nails is the actual local spot, not the tourist-facing one \u2014 no website worth mentioning, just go.",
+          "If you're willing to drive 40 minutes north to Pigeon River Country State Forest (better done in September/October), it holds one of the largest free-roaming elk herds east of the Mississippi \u2014 bugling season is worth planning a whole separate trip around."
+        ],
+        "sources": [
+          {
+            "title": "Hartwick Pines State Park \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/recsearch/parks/hartwick"
+          },
+          {
+            "title": "Best hikes and trails in Hartwick Pines State Park \u2014 AllTrails",
+            "url": "https://www.alltrails.com/parks/us/michigan/hartwick-pines-state-park"
+          },
+          {
+            "title": "Hiking in Grayling MI \u2014 Grayling Visitor's Bureau",
+            "url": "https://graylingmichigan.org/things-to-do/outdoors/hiking/"
+          },
+          {
+            "title": "Canoeing & Kayaking in Grayling MI \u2014 Grayling Visitor's Bureau",
+            "url": "https://graylingmichigan.org/things-to-do/outdoors/water-activities/canoeing-kayaking/"
+          },
+          {
+            "title": "Carlisle Canoe Livery \u2014 AuSable River Guide",
+            "url": "https://www.carlislecanoelivery.com/river-guide.php"
+          },
+          {
+            "title": "Au Sable River: Grayling to Oscoda, From a Local \u2014 My Michigan Beach and Travel",
+            "url": "https://mymichiganbeach.com/au-sable-river/"
+          },
+          {
+            "title": "6 Hidden Gems to Explore in Grayling \u2014 Michigan.org",
+            "url": "https://www.michigan.org/article/trip-idea/hidden-gems-explore-grayling"
+          },
+          {
+            "title": "Wakeley Lake Area Guide \u2014 Outdoorithm",
+            "url": "https://outdoorithm.com/campgrounds/mi/huron-manistee-national-forests/wakeley-lake-area"
+          },
+          {
+            "title": "Wakeley Lake Campground \u2014 Recreation.gov",
+            "url": "https://www.recreation.gov/camping/campgrounds/10297713"
+          },
+          {
+            "title": "Mason Tract Pathway \u2014 Michigan DNR",
+            "url": "https://www2.dnr.state.mi.us/parksandtrails/Details.aspx?id=73&type=SFPW"
+          },
+          {
+            "title": "Pigeon River Country State Forest \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/dnr/places/state-forests/prc"
+          },
+          {
+            "title": "Elk Viewing \u2014 Pigeon River Country State Forest",
+            "url": "https://pigeonriverdiscoverycenter.org/elk-viewing/"
+          },
+          {
+            "title": "Hartwick Pines \u2014 Rustic Cabin \u2014 Michigan DNR",
+            "url": "https://www2.dnr.state.mi.us/parksandtrails/Details.aspx?id=127&type=SPCG"
+          },
+          {
+            "title": "Gates Au Sable Lodge \u2014 Lodging",
+            "url": "https://gateslodge.com/lodging/"
+          },
+          {
+            "title": "Garland Lodge & Golf Resort",
+            "url": "https://golfgarland.com/"
+          },
+          {
+            "title": "Spikes Keg O' Nails",
+            "url": "https://www.spikeskegonails.com/"
+          },
+          {
+            "title": "Your Guide to Grayling Restaurants, Breweries, Bakeries, Cafes, Bars & More \u2014 MyNorth",
+            "url": "https://mynorth.com/food-drink/your-guide-to-grayling-restaurants-breweries-bakeries-cafes-bars-more/"
+          }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-02",
+      "destination": {
+        "city": "Porto",
+        "country": "Portugal",
+        "flag": "\ud83c\uddf5\ud83c\uddf9",
+        "iata": "OPO",
+        "lat": 41.1579,
+        "lon": -8.6291,
+        "vibe": "A steep, crumbling, gorgeous port city on the Douro where the wine has its own name, the tiles are UNESCO-protected, the bookshop allegedly inspired Harry Potter, and a francesinha \u2014 a gravy-drenched meat sandwich of aggressive ambition \u2014 will ruin you for sandwiches elsewhere."
+      },
+      "flight_search_date": "2026-07-02",
+      "flights": [
+        {
+          "airline": "TAP Air Portugal",
+          "price_usd": 673,
+          "outbound_dates": "Late July\u2013early August 2026 (Tue/Wed departures cheapest; flexible dates)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~13\u201314h total (DTW\u2192LIS ~8h 30m, LIS\u2192OPO ~55m domestic shuttle)",
+          "url": "https://www.flytap.com/en_us/flights-to-porto",
+          "notes": "Best option for Porto directly \u2014 TAP connects through Lisbon (LIS) with a short domestic hop to OPO. The Lisbon layover can be 1\u20133 hours. TAP's Portugal Stopover program lets you add Lisbon for free on the way in or out. Book at flytap.com for best fares and any promotional deals."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 483,
+          "outbound_dates": "July\u2013August 2026 (midweek Tue/Wed cheapest; flexible dates calendar at delta.com)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~14\u201316h total (typically via ATL or JFK, then LIS or CDG to OPO)",
+          "url": "https://www.delta.com/",
+          "notes": "Delta codeshares with Air France/KLM on transatlantic routes \u2014 fares from $483 RT per Travelocity data. Check the flexible dates calendar. Connecting through Paris CDG or Amsterdam AMS to OPO are common routings. Delta SkyMiles redemptions sometimes offer good value here."
+        },
+        {
+          "airline": "Lufthansa / SWISS",
+          "price_usd": 601,
+          "outbound_dates": "Late July\u2013early August 2026 (Tue/Wed lowest)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~14\u201315h total (DTW\u2192FRA or ZRH, then OPO)",
+          "url": "https://www.lufthansa.com/",
+          "notes": "Lufthansa connects through Frankfurt (FRA\u2192OPO); SWISS through Zurich (ZRH\u2192OPO). Both are Star Alliance partners \u2014 good for United MileagePlus redemptions. SWISS fares from $601 RT per Skyscanner data. Lufthansa often prices similarly or slightly lower."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "The Passenger Hostel",
+          "type": "hostel",
+          "price_per_night_usd": 110,
+          "neighborhood": "S\u00e3o Bento / Baixa (city center)",
+          "highlights": "Located inside S\u00e3o Bento Station \u2014 the most beautiful train station in the world, according to reasonable people \u2014 with private rooms from \u20ac98/night, free breakfast included, and a 9.7/10 rating on Hostelworld. Staying here means you wake up inside a UNESCO World Heritage Site.",
+          "url": "https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Bonfim Apartment (Airbnb)",
+          "type": "airbnb",
+          "price_per_night_usd": 80,
+          "neighborhood": "Bonfim",
+          "highlights": "Entire apartment in Porto's coolest neighborhood \u2014 the Guardian named Bonfim one of the coolest neighborhoods in Europe. Art students, good coffee, restaurants where locals actually eat, and a 15-minute walk to the Ribeira. Much better base than a hotel in the tourist core.",
+          "url": "https://www.airbnb.com/s/Bonfim--Porto--Portugal/homes",
+          "source": "airbnb"
+        },
+        {
+          "name": "Torel Avantgarde",
+          "type": "hotel",
+          "price_per_night_usd": 268,
+          "neighborhood": "Miragaia (between Ribeira and Bonfim)",
+          "highlights": "Boutique design hotel in the Miragaia neighborhood with Douro River views, a rooftop infinity pool, and individually themed rooms \u2014 10-minute walk from the Dom Lu\u00eds I Bridge and the port wine cellars of Vila Nova de Gaia.",
+          "url": "https://www.booking.com/district/pt/porto/miragaia.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Porto is Portugal's second city and first in the hearts of most people who go there. It's built on schist cliffs above the Douro, and the whole historic center \u2014 the Ribeira, S\u00e3o Bento, Miragaia, the medieval lanes climbing toward Cl\u00e9rigos Tower \u2014 is UNESCO-listed. July is warm (mid-20s\u00b0C), the light is extraordinary in the evening, and the city is busy but not yet suffocating. Three days: one for the city's bones, one for the neighborhoods that actually matter, one for the Douro Valley and port wine cellars that gave Porto its name.",
+        "days": [
+          {
+            "day": 1,
+            "title": "The City's Bones: Tiles, Towers, and the Bridge at Sunset",
+            "morning": "Start at S\u00e3o Bento Station (Pra\u00e7a de Almeida Garrett) first thing \u2014 get there by 9am before the tour groups arrive. The 20,000 azulejo tiles in the grand hall were painted by Jorge Cola\u00e7o between 1905 and 1916, depicting scenes from Portuguese history. Free to enter. Spend 20 minutes just looking up. Then walk five minutes up to the Cathedral (S\u00e9 do Porto) \u2014 the cloisters inside have more 18th-century azulejos, blue-and-white biblical scenes covering every surface. Cl\u00e9rigos Tower is two blocks northwest: 240 steep spiral steps, \u20ac8 (or \u20ac10 with the church and museum), genuinely worth the climb for the 360\u00b0 view of the city's terracotta rooftops and the Douro below.",
+            "afternoon": "Lunch at Caf\u00e9 Santiago on Rua de Passos Manuel \u2014 the traditionalist vote for best francesinha in Porto, open since 1959. Order the francesinha, order a beer, do not ask for anything to be modified. The sandwich arrives in a pool of tomato-beer-and-meat sauce, topped with melted cheese and a fried egg, with chips alongside. It is the most Porto thing you can eat and it will take you an hour to finish. Walk down to the Ribeira waterfront afterward \u2014 the quayside promenade of pastel townhouses along the Douro. Take the lower deck of the Dom Lu\u00eds I Bridge on foot to cross to Vila Nova de Gaia on the south bank.",
+            "evening": "Vila Nova de Gaia is where all the port wine lodges are \u2014 Sandeman, Taylor's, Graham's, Ramos Pinto \u2014 lined up along the south bank of the Douro with their painted signs facing Porto across the river. Do a tasting at Taylor's Fladgate (Rua do Choupelo 250): they have the best terrace in Gaia with an unobstructed view of Porto's hillside at dusk, and the tasting format is more serious than most. Then cross back over the upper deck of the Dom Lu\u00eds I Bridge \u2014 at pedestrian level, 60 meters above the river \u2014 as the light goes golden on the Ribeira below. This is the moment Porto earns the postcard."
+          },
+          {
+            "day": 2,
+            "title": "Neighborhoods: Bonfim, Cedofeita, Serralves, and the Fish at Matosinhos",
+            "morning": "Start in Bonfim \u2014 take the Linha D tram or walk 20 minutes east from the city center. This is Porto's neighborhood of the moment: art students, independent caf\u00e9s, a grittiness that hasn't been sanded off yet. Coffee at a local pastelaria (not a tourist caf\u00e9 \u2014 look for the ones with fluorescent lighting and old men at the counter). Walk Rua de Bonfim and Rua do Bonfim. Then find Mercado do Bolh\u00e3o (Rua Formosa) \u2014 the restored 19th-century iron-and-tile market that reopened in 2022, two floors of fresh produce, fish, cheese, presunto, flowers. Locals still shop here; buy a bag of cherries or a piece of local sheep cheese.",
+            "afternoon": "Take the Metro (Line B or D, direction P\u00f3voa / Braga) north to Matosinhos Sul \u2014 20 minutes, about \u20ac2. Matosinhos is a working fishing port immediately north of Porto that almost no tourists bother with. Walk from the metro straight to Rua Her\u00f3is de Fran\u00e7a or Rua de Ant\u00f3nio Nobre and pick a seafood restaurant \u2014 look for grilled fish displayed in the window, tables with paper on top. Order choco grelhado (grilled cuttlefish) or a dourada (sea bream) with boiled potatoes and olive oil. This is the best and cheapest seafood within reach of Porto, and you are eating it 50 meters from the Atlantic. Back in Porto by 4pm: walk Cedofeita, the neighborhood between Bonfim and Cl\u00e9rigos. Rua de Cedofeita has independent bookshops, vintage clothes, decent coffee.",
+            "evening": "Serralves Foundation (Rua Dom Jo\u00e3o de Castro 210) \u2014 the Pritzker Prize-winning \u00c1lvaro Siza Vieira-designed contemporary art museum set in 18 hectares of gardens around a 1930s Art Deco pink villa. Open until 8pm in summer. The gardens alone justify the \u20ac12 admission: formal paths through rhododendron groves, a kitchen garden, modernist follies. Have dinner in Cedofeita or Bonfim afterward \u2014 Euskalduna Studio (Rua de Santo Ildefonso 404) is the most celebrated kitchen in Porto right now, Michelin-starred, tasting menu only, book three to four weeks ahead. If you can't get in, try Cantinho do Avillez (Rua Mouzinho da Silveira 166) for a less austere but excellent take on modern Portuguese cooking."
+          },
+          {
+            "day": 3,
+            "title": "Douro Valley Day Trip: Vineyards, Terraces, and the River Train Home",
+            "morning": "Take the Linha do Douro train from Porto Campanh\u00e3 station to Pinh\u00e3o \u2014 the most scenic train journey in Portugal, 2 hours 15 minutes along the Douro River as it cuts through schist gorge country, the terraced vineyards rising from the water. Buy your ticket at Campanh\u00e3 the night before (trains at 8:04am and 9:34am, about \u20ac12 one-way). Pinh\u00e3o station itself is covered in azulejo tile panels depicting port wine harvest scenes from the 1930s. From Pinh\u00e3o, you are in the Douro Demarcated Region \u2014 the oldest protected wine region in the world, established in 1756.",
+            "afternoon": "Quinta do Crasto (reachable by taxi from Pinh\u00e3o, ~15 minutes) or Quinta do Portal are both worth visiting for a tasting and tour \u2014 the Port and Douro DOC wines are the point, but the views from the terraces are extraordinary: mountains of stacked schist, rivers of green, absolute silence except for the occasional tractor. Lunch at a quinta restaurant or in Pinh\u00e3o village \u2014 order grilled local trout with roasted potatoes and a glass of Douro white. Take the return train from Pinh\u00e3o to Porto Campanh\u00e3 in the afternoon (trains at 4:06pm or 5:52pm). The westbound journey is equally beautiful and the light is better in the late afternoon.",
+            "evening": "Back in Porto by 6:30\u20137pm. Final dinner in the Ribeira or Miragaia \u2014 Casa de Ch\u00e1 da Boa Nova (Rua do Boa Nova, Le\u00e7a da Palmeira, about 20 minutes north by Uber) is Porto's finest restaurant and sits in a \u00c1lvaro Siza Vieira-designed tea house on rocks above the Atlantic, but it requires advance booking. More practically: Taberna dos Mercadores (Rua dos Mercadores 36, in the Ribeira) for serious traditional Portuguese at prices that don't require a second mortgage. Order the bacalhau \u00e0 Gomes de S\u00e1 \u2014 salt cod with potatoes, olives, hard-boiled egg, and olive oil, the Porto standard-bearer \u2014 and a bottle of Douro red from what you just tasted today."
+          }
+        ],
+        "tips": [
+          "The francesinha is a lunch food. The best versions \u2014 Caf\u00e9 Santiago (Rua de Passos Manuel 226), Cervejaria Bras\u00e3o Coliseu (Rua de Passos Manuel 195), Cervejaria Gazela (Rua \u00c1lvares Cabral 74) \u2014 run out or get slammed by 1:30pm. Arrive hungry at noon. Do not ask for it to be less intense; it is supposed to be that intense.",
+          "Livraria Lello (Rua das Carmelitas 144) requires a pre-booked \u20ac8 ticket that's redeemable against a book purchase. Go at 9am when it opens to avoid the tour-group scrum. The bookshop is genuinely beautiful \u2014 neo-Gothic red staircase, stained glass ceiling \u2014 but the Harry Potter connection is largely marketing; Rowling taught English in Porto before the books existed, and the connection is disputed. Worth seeing, not worth suffering a crowd for.",
+          "TAP Air Portugal's Portugal Stopover program lets you add a free stop in Lisbon on the way to or from Porto. If you're flying TAP and have a day to spare, take it \u2014 Lisbon is 3 hours by train anyway, but a free extra night there is a different thing entirely.",
+          "Matosinhos is the open secret. Every food-serious person who comes to Porto ends up there \u2014 20 minutes on the Metro, grilled fish at the harbor for \u20ac12 including wine. The tourists are all in the Ribeira eating \u20ac25 mediocre seafood. You do not have to be.",
+          "The Linha do Douro train to Pinh\u00e3o is better than any wine tour bus. You can go independently, buy tickets at Campanh\u00e3 station, and move at your own pace. The journey itself is the attraction \u2014 130km of river gorge, the terraces of the Douro DOC rising on both banks. Book tickets the evening before or morning of; the trains are not usually sold out mid-week.",
+          "Serralves is underrated. The architecture and gardens at the Serralves Foundation (Rua Dom Jo\u00e3o de Castro 210) are worth the visit even if the current exhibition is mediocre. The Art Deco Casa de Serralves villa from the 1930s inside the grounds is one of the finest examples of the period in Portugal. Budget 2.5 hours total, not the 45 minutes most visitors give it."
+        ],
+        "sources": [
+          {
+            "title": "Ultimate Porto Itinerary 2026 \u2014 Hungry Pursuit",
+            "url": "https://hungrypursuit.com/the-ultimate-porto-itinerary/"
+          },
+          {
+            "title": "Porto Travel Guide 2026: Top Attractions, Hidden Gems & Local Tips \u2014 Tourism Attractions",
+            "url": "https://tourismattractions.net/portugal/porto"
+          },
+          {
+            "title": "3-Day Porto Travel Guide 2026 \u2014 Winalist",
+            "url": "https://www.winalist.com/blog/portugal-wine-region/douro-valley/porto-travel-guide"
+          },
+          {
+            "title": "Best Francesinha in Porto \u2014 Portoalities",
+            "url": "https://portoalities.com/en/best-francesinha-in-porto/"
+          },
+          {
+            "title": "Bonfim neighborhood guide \u2014 Portoalities",
+            "url": "https://portoalities.com/en/guide-bonfim-neighborhood/"
+          },
+          {
+            "title": "Top wineries in the Douro Valley 2026 \u2014 Portoalities",
+            "url": "https://portoalities.com/en/top-wineries-in-douro-valley/"
+          },
+          {
+            "title": "53 Best Things to Do in Porto: From Must-Sees to Hidden Gems [2025 Guide] \u2014 Boundless Roads",
+            "url": "https://www.boundlessroads.com/things-to-do-in-porto-portugal/"
+          },
+          {
+            "title": "A Local's Guide to Visiting Porto \u2014 Go Ask A Local",
+            "url": "https://goaskalocal.com/blog/local-guide-to-porto"
+          },
+          {
+            "title": "Douro Valley Day Trips from Porto 2026 \u2014 porto.travel",
+            "url": "https://porto.travel/douro-valley/"
+          },
+          {
+            "title": "The Passenger Hostel Porto \u2014 Hostelworld",
+            "url": "https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/"
+          },
+          {
+            "title": "Cheap flights from Detroit to Porto (DTW to OPO) \u2014 Expedia",
+            "url": "https://www.expedia.com/lp/flights/dtw/opo/detroit-to-porto"
+          }
+        ]
+      }
+    },
+    {
       "updated": "2026-06-30",
       "destination": {
         "city": "Santo Domingo",
         "country": "Dominican Republic",
-        "flag": "🇩🇴",
+        "flag": "\ud83c\udde9\ud83c\uddf4",
         "iata": "SDQ",
         "lat": 18.4796,
         "lon": -69.9026,
-        "vibe": "The oldest European city in the Western Hemisphere as your base, then a full loop of the island: the Samaná Peninsula's impossible beaches, 27 waterfalls on the north coast, a mountain town with white-water rafting and eternal spring weather, and bachata living in colmados on every corner because this is where it was born."
+        "vibe": "The oldest European city in the Western Hemisphere as your base, then a full loop of the island: the Saman\u00e1 Peninsula's impossible beaches, 27 waterfalls on the north coast, a mountain town with white-water rafting and eternal spring weather, and bachata living in colmados on every corner because this is where it was born."
       },
       "flight_search_date": "2026-06-30",
       "flights": [
         {
           "airline": "Spirit Airlines",
           "price_usd": 280,
-          "outbound_dates": "Mid-August 2026 (Aug 12–20) — budget fares loosen after the Aug 1–10 peak",
+          "outbound_dates": "Mid-August 2026 (Aug 12\u201320) \u2014 budget fares loosen after the Aug 1\u201310 peak",
           "return_dates": "+10 days",
           "stops": 1,
-          "duration": "~6–7h total (DTW→FLL ~2h 30m, FLL→SDQ ~2h 13m, layover ~1.5h)",
+          "duration": "~6\u20137h total (DTW\u2192FLL ~2h 30m, FLL\u2192SDQ ~2h 13m, layover ~1.5h)",
           "url": "https://www.spirit.com/",
-          "notes": "Connect through Fort Lauderdale (FLL). Spirit operates 9 weekly direct FLL→SDQ flights. Bare fare from ~$280 but budget for bag fees ($45–65/checked bag) — pack carry-on only to keep this cheap. Book at spirit.com directly; aggregators show incomplete bag-fee pricing."
+          "notes": "Connect through Fort Lauderdale (FLL). Spirit operates 9 weekly direct FLL\u2192SDQ flights. Bare fare from ~$280 but budget for bag fees ($45\u201365/checked bag) \u2014 pack carry-on only to keep this cheap. Book at spirit.com directly; aggregators show incomplete bag-fee pricing."
         },
         {
           "airline": "American Airlines",
@@ -29,19 +617,19 @@
           "outbound_dates": "Late July 2026, mid-week (Tue/Wed) for lower fares",
           "return_dates": "+10 days",
           "stops": 1,
-          "duration": "~6–7h total (DTW→MIA ~2h, MIA→SDQ ~2h 20m, layover ~1.5h)",
+          "duration": "~6\u20137h total (DTW\u2192MIA ~2h, MIA\u2192SDQ ~2h 20m, layover ~1.5h)",
           "url": "https://www.aa.com/",
-          "notes": "Connect through Miami (MIA) — American's strongest hub for Caribbean routes. Multiple daily MIA→SDQ departures. Roundtrip from ~$420 in July. Use the flexible dates calendar on aa.com to find mid-week savings."
+          "notes": "Connect through Miami (MIA) \u2014 American's strongest hub for Caribbean routes. Multiple daily MIA\u2192SDQ departures. Roundtrip from ~$420 in July. Use the flexible dates calendar on aa.com to find mid-week savings."
         },
         {
           "airline": "Delta Air Lines",
           "price_usd": 520,
-          "outbound_dates": "Early-to-mid August 2026 (Aug 5–15 window has more availability than peak July travel)",
+          "outbound_dates": "Early-to-mid August 2026 (Aug 5\u201315 window has more availability than peak July travel)",
           "return_dates": "+10 days",
           "stops": 1,
-          "duration": "~7–8h total (DTW→ATL ~1h 45m, ATL→SDQ ~3h 16m, layover ~1.5h)",
+          "duration": "~7\u20138h total (DTW\u2192ATL ~1h 45m, ATL\u2192SDQ ~3h 16m, layover ~1.5h)",
           "url": "https://www.delta.com/",
-          "notes": "Connect through Atlanta (ATL). ATL→SDQ runs 6 flights/week. More expensive than Spirit but reliable and Comfort+ makes the layover tolerable. Check flexible dates at delta.com."
+          "notes": "Connect through Atlanta (ATL). ATL\u2192SDQ runs 6 flights/week. More expensive than Spirit but reliable and Comfort+ makes the layover tolerable. Check flexible dates at delta.com."
         }
       ],
       "lodging": [
@@ -50,25 +638,25 @@
           "type": "guesthouse",
           "price_per_night_usd": 65,
           "neighborhood": "Zona Colonial, Santo Domingo",
-          "highlights": "11-room guesthouse in a converted 16th-century convent one minute from the Malecón — stone courtyard, free breakfast buffet 8–10am daily. Base for Days 1–3 and 9–10.",
+          "highlights": "11-room guesthouse in a converted 16th-century convent one minute from the Malec\u00f3n \u2014 stone courtyard, free breakfast buffet 8\u201310am daily. Base for Days 1\u20133 and 9\u201310.",
           "url": "https://www.hotels.com/ho458189/el-beaterio-santo-domingo-dominican-republic/",
           "source": "booking"
         },
         {
-          "name": "Hotel Conde de Peñalba",
+          "name": "Hotel Conde de Pe\u00f1alba",
           "type": "hotel",
           "price_per_night_usd": 95,
           "neighborhood": "Zona Colonial, Santo Domingo",
-          "highlights": "Colonial-era building right on El Conde pedestrian street with a rooftop terrace, rated 8.6 on Booking — best value in SD for a mid-range stay.",
+          "highlights": "Colonial-era building right on El Conde pedestrian street with a rooftop terrace, rated 8.6 on Booking \u2014 best value in SD for a mid-range stay.",
           "url": "https://www.booking.com/hotel/do/conde-de-penalba.html",
           "source": "booking"
         },
         {
-          "name": "Hotel Francés Santo Domingo – MGallery Collection",
+          "name": "Hotel Franc\u00e9s Santo Domingo \u2013 MGallery Collection",
           "type": "hotel",
           "price_per_night_usd": 175,
           "neighborhood": "Zona Colonial, Santo Domingo",
-          "highlights": "19-room boutique in a 16th-century Spanish colonial building — individually furnished rooms, stone-arched common areas that feel like 1502.",
+          "highlights": "19-room boutique in a 16th-century Spanish colonial building \u2014 individually furnished rooms, stone-arched common areas that feel like 1502.",
           "url": "https://all.accor.com/hotel/B2A3/index.en.shtml",
           "source": "direct"
         },
@@ -76,8 +664,8 @@
           "name": "Casa Coson (Airbnb or villa rental)",
           "type": "airbnb",
           "price_per_night_usd": 90,
-          "neighborhood": "Las Terrenas, Samaná Peninsula",
-          "highlights": "Entire villa or apartment in Las Terrenas for the Samaná leg (Days 4–5) — short walk to Playa Bonita and the town's French-expat restaurant strip.",
+          "neighborhood": "Las Terrenas, Saman\u00e1 Peninsula",
+          "highlights": "Entire villa or apartment in Las Terrenas for the Saman\u00e1 leg (Days 4\u20135) \u2014 short walk to Playa Bonita and the town's French-expat restaurant strip.",
           "url": "https://www.airbnb.com/s/Las-Terrenas--Dominican-Republic/homes",
           "source": "airbnb"
         },
@@ -86,7 +674,7 @@
           "type": "hotel",
           "price_per_night_usd": 85,
           "neighborhood": "Cabarete, Puerto Plata Province",
-          "highlights": "Laid-back beachfront rooms in Cabarete — kite surfing capital of the Caribbean, 5-minute walk to the best beach bars on the north coast. Base for Days 6–8.",
+          "highlights": "Laid-back beachfront rooms in Cabarete \u2014 kite surfing capital of the Caribbean, 5-minute walk to the best beach bars on the north coast. Base for Days 6\u20138.",
           "url": "https://www.booking.com/hotel/do/kitebeach.html",
           "source": "booking"
         },
@@ -95,107 +683,140 @@
           "type": "hotel",
           "price_per_night_usd": 70,
           "neighborhood": "Jarabacoa",
-          "highlights": "Riverside hotel at the base of Jimenoa waterfall in the mountain town of Jarabacoa — the starting point for white-water rafting, canyoning, and hiking. Base for Day 9.",
+          "highlights": "Riverside hotel at the base of Jimenoa waterfall in the mountain town of Jarabacoa \u2014 the starting point for white-water rafting, canyoning, and hiking. Base for Day 9.",
           "url": "https://www.booking.com/hotel/do/gran-jimenoa.html",
           "source": "booking"
         }
       ],
       "itinerary": {
-        "overview": "Santo Domingo is the oldest European city in the Western Hemisphere — crumbling fortresses next to buzzing colmados, UNESCO plaques sharing walls with bachata spilling from corner speakers. But 10 days unlocks the rest of the island: the Samaná Peninsula with one of the best beaches in the Caribbean and a 52-meter waterfall accessible by horseback; the north coast's 27 cascading waterfalls near Puerto Plata; the laid-back kite-surfing town of Cabarete; and Jarabacoa, the mountain town at 529 meters where the temperature stays perfect year-round and you can raft Class III rapids before lunch.",
+        "overview": "Santo Domingo is the oldest European city in the Western Hemisphere \u2014 crumbling fortresses next to buzzing colmados, UNESCO plaques sharing walls with bachata spilling from corner speakers. But 10 days unlocks the rest of the island: the Saman\u00e1 Peninsula with one of the best beaches in the Caribbean and a 52-meter waterfall accessible by horseback; the north coast's 27 cascading waterfalls near Puerto Plata; the laid-back kite-surfing town of Cabarete; and Jarabacoa, the mountain town at 529 meters where the temperature stays perfect year-round and you can raft Class III rapids before lunch.",
         "days": [
           {
             "day": 1,
             "title": "Arrive in Santo Domingo, eat twice, walk the colonial zone",
-            "morning": "Land at Las Américas (SDQ). Open Uber before exiting arrivals — request your ride inside the terminal (ignore the taxi touts in vests; Uber is cheaper and metered). Check into your Zona Colonial hotel. Find a neighborhood comedor — hand-painted sign, plastic chairs — and order Los Tres Golpes: mangú (mashed green plantains), fried Dominican salami, fried white cheese, eggs, sautéed red onions, café con leche. Comedores run out by 9:30am so aim for 8–9am. Cost: under $4 USD.",
-            "afternoon": "Walk the Zona Colonial counterclockwise. Start at Fortaleza Ozama on Calle Las Damas — the oldest standing fort in the Americas, open daily 9am–5pm, ~70 DOP (~$1.25). Stroll Calle Las Damas itself (first paved street in the New World). The Alcázar de Colón — Diego Columbus's palace-turned-museum overlooking the Ozama River — budget 45 minutes inside. Walk El Conde to the Catedral Primada de América (oldest cathedral in the Americas, 1504). Mid-afternoon: Mesón de Bari at Calle Hostos 302 for La Bandera — white rice, red beans, stewed meat, tostones. Open since 1976, still feeding locals.",
-            "evening": "The Malecón at sunset: families on benches, vendors selling morir soñando (orange juice + evaporated milk + crushed ice — order one from a street cart and drink it walking), domino tables, couples. After dark, colmados in the Zona Colonial fill up with people drinking ice-cold Presidentes while bachata bleeds from every doorway — the ambient, unscripted version of the music. End at Jalao on El Conde (small cover Thu–Sat for live music starting 7pm) for sancocho and the full two-story Dominican experience."
+            "morning": "Land at Las Am\u00e9ricas (SDQ). Open Uber before exiting arrivals \u2014 request your ride inside the terminal (ignore the taxi touts in vests; Uber is cheaper and metered). Check into your Zona Colonial hotel. Find a neighborhood comedor \u2014 hand-painted sign, plastic chairs \u2014 and order Los Tres Golpes: mang\u00fa (mashed green plantains), fried Dominican salami, fried white cheese, eggs, saut\u00e9ed red onions, caf\u00e9 con leche. Comedores run out by 9:30am so aim for 8\u20139am. Cost: under $4 USD.",
+            "afternoon": "Walk the Zona Colonial counterclockwise. Start at Fortaleza Ozama on Calle Las Damas \u2014 the oldest standing fort in the Americas, open daily 9am\u20135pm, ~70 DOP (~$1.25). Stroll Calle Las Damas itself (first paved street in the New World). The Alc\u00e1zar de Col\u00f3n \u2014 Diego Columbus's palace-turned-museum overlooking the Ozama River \u2014 budget 45 minutes inside. Walk El Conde to the Catedral Primada de Am\u00e9rica (oldest cathedral in the Americas, 1504). Mid-afternoon: Mes\u00f3n de Bari at Calle Hostos 302 for La Bandera \u2014 white rice, red beans, stewed meat, tostones. Open since 1976, still feeding locals.",
+            "evening": "The Malec\u00f3n at sunset: families on benches, vendors selling morir so\u00f1ando (orange juice + evaporated milk + crushed ice \u2014 order one from a street cart and drink it walking), domino tables, couples. After dark, colmados in the Zona Colonial fill up with people drinking ice-cold Presidentes while bachata bleeds from every doorway \u2014 the ambient, unscripted version of the music. End at Jalao on El Conde (small cover Thu\u2013Sat for live music starting 7pm) for sancocho and the full two-story Dominican experience."
           },
           {
             "day": 2,
             "title": "Culture deep dive: Gascue, caves, and an underground dinner",
-            "morning": "Plaza de la Cultura in Gascue — a leafy embassy-district square on land once owned by dictator Trujillo, now home to the Museum of Modern Art and the National Theatre. Gascue is what Santo Domingo looks like when it exhales: wide tree-lined streets, mid-century mansions, actual sidewalks. Coffee at Villar Hermanos, the most beloved cafetería in Gascue — decades of locals, strong coffee, excellent pastelitos (savory pastries). Walk back through the colonial zone to the Iglesia y Convento de los Dominicos (16th century, contains one of the oldest frescoes in the Americas).",
-            "afternoon": "Puerta de la Misericordia, where Dominican independence was declared in 1844 — walk through it, sit for a moment. Taxi to Los Tres Ojos (20 minutes east of the city): a limestone cave system with three lagoons connected underground, one of the genuinely strange and beautiful things in the Caribbean. After, find chicharrones de pollo anywhere — fried chicken chunks, Dominican style, crunchier and more aggressively seasoned than anything else you've had.",
-            "evening": "Reserve ahead for El Mesón de la Cava (Av. Mirador Sur 1) — a restaurant built inside a natural limestone cavern 40 feet underground, open since 1967. Descend spiral stairs into a cave lit by candlelight. The menu runs to grilled octopus, beef tenderloin flamed tableside, serious seafood. Theatrical and delicious. Santo Domingo's old-money class has celebrated milestones here for 60 years. Splurge night."
+            "morning": "Plaza de la Cultura in Gascue \u2014 a leafy embassy-district square on land once owned by dictator Trujillo, now home to the Museum of Modern Art and the National Theatre. Gascue is what Santo Domingo looks like when it exhales: wide tree-lined streets, mid-century mansions, actual sidewalks. Coffee at Villar Hermanos, the most beloved cafeter\u00eda in Gascue \u2014 decades of locals, strong coffee, excellent pastelitos (savory pastries). Walk back through the colonial zone to the Iglesia y Convento de los Dominicos (16th century, contains one of the oldest frescoes in the Americas).",
+            "afternoon": "Puerta de la Misericordia, where Dominican independence was declared in 1844 \u2014 walk through it, sit for a moment. Taxi to Los Tres Ojos (20 minutes east of the city): a limestone cave system with three lagoons connected underground, one of the genuinely strange and beautiful things in the Caribbean. After, find chicharrones de pollo anywhere \u2014 fried chicken chunks, Dominican style, crunchier and more aggressively seasoned than anything else you've had.",
+            "evening": "Reserve ahead for El Mes\u00f3n de la Cava (Av. Mirador Sur 1) \u2014 a restaurant built inside a natural limestone cavern 40 feet underground, open since 1967. Descend spiral stairs into a cave lit by candlelight. The menu runs to grilled octopus, beef tenderloin flamed tableside, serious seafood. Theatrical and delicious. Santo Domingo's old-money class has celebrated milestones here for 60 years. Splurge night."
           },
           {
             "day": 3,
             "title": "Boca Chica beach morning, bachata afternoon, Piantini dinner",
-            "morning": "Boca Chica early — 30–40 minutes by taxi ($15–20 one-way) or público bus from Parque Enriquillo for under $1. Boca Chica is a sheltered lagoon separated from open Caribbean by a natural rock wall, unusually calm — more pool than sea. Arrive by 9am before the weekend vendor gauntlet sets up. Fresh fried fish at a beachfront comedor with tostones and a cold Presidente. You don't need to be there past noon.",
-            "afternoon": "Back in Santo Domingo. Museo del Hombre Dominicano in Plaza de la Cultura — its pre-Columbian Taino collection is one of the strongest in the Caribbean and almost no tourist traffic. Then find a colmado — any corner bodega with plastic chairs and a speaker — order a beer, and sit. This is how bachata actually lives in Santo Domingo: not in a show, but in a colmado on a Tuesday afternoon with someone's cousin singing along.",
-            "evening": "Pick up your rental car for tomorrow's departure — reserve a compact 4WD or SUV, required for some roads ahead. Dinner in Piantini or Naco — the upscale residential neighborhoods where locals actually eat. Buche Perico for contemporary Dominican in a restored colonial mansion. Finish with a Santo Libre (rum + Sprite + lime) at a rooftop bar."
+            "morning": "Boca Chica early \u2014 30\u201340 minutes by taxi ($15\u201320 one-way) or p\u00fablico bus from Parque Enriquillo for under $1. Boca Chica is a sheltered lagoon separated from open Caribbean by a natural rock wall, unusually calm \u2014 more pool than sea. Arrive by 9am before the weekend vendor gauntlet sets up. Fresh fried fish at a beachfront comedor with tostones and a cold Presidente. You don't need to be there past noon.",
+            "afternoon": "Back in Santo Domingo. Museo del Hombre Dominicano in Plaza de la Cultura \u2014 its pre-Columbian Taino collection is one of the strongest in the Caribbean and almost no tourist traffic. Then find a colmado \u2014 any corner bodega with plastic chairs and a speaker \u2014 order a beer, and sit. This is how bachata actually lives in Santo Domingo: not in a show, but in a colmado on a Tuesday afternoon with someone's cousin singing along.",
+            "evening": "Pick up your rental car for tomorrow's departure \u2014 reserve a compact 4WD or SUV, required for some roads ahead. Dinner in Piantini or Naco \u2014 the upscale residential neighborhoods where locals actually eat. Buche Perico for contemporary Dominican in a restored colonial mansion. Finish with a Santo Libre (rum + Sprite + lime) at a rooftop bar."
           },
           {
             "day": 4,
-            "title": "Drive to Samaná Peninsula — Las Terrenas arrival",
-            "morning": "Leave Santo Domingo by 7am. The drive to Las Terrenas on the Samaná Peninsula is 3–3.5 hours via the Autopista del Nordeste. Stop in Nagua for a roadside breakfast — look for a fritería or panadería. The road climbs through the Cordillera Oriental and drops into a landscape of palm trees and coconut plantations as you approach the coast.",
+            "title": "Drive to Saman\u00e1 Peninsula \u2014 Las Terrenas arrival",
+            "morning": "Leave Santo Domingo by 7am. The drive to Las Terrenas on the Saman\u00e1 Peninsula is 3\u20133.5 hours via the Autopista del Nordeste. Stop in Nagua for a roadside breakfast \u2014 look for a friter\u00eda or panader\u00eda. The road climbs through the Cordillera Oriental and drops into a landscape of palm trees and coconut plantations as you approach the coast.",
             "afternoon": "Arrive Las Terrenas, a beach town unlike anything else in the DR: French and Italian expats arrived in the 1980s and stayed, so the restaurant strip on the main road runs French bistros next to local comedores next to Lebanese spots, all within a short walk of genuinely beautiful beach. Check in, walk Playa Las Terrenas, go swimming.",
-            "evening": "Dinner on the Pueblo de los Pescadores strip — a cluster of restaurants along the beach facing the sunset. Try La Terrasse (French, the original expat restaurant, still excellent) or El Mosquito Bar for fresh grilled fish. Then a beer at a beach bar while the waves come in."
+            "evening": "Dinner on the Pueblo de los Pescadores strip \u2014 a cluster of restaurants along the beach facing the sunset. Try La Terrasse (French, the original expat restaurant, still excellent) or El Mosquito Bar for fresh grilled fish. Then a beer at a beach bar while the waves come in."
           },
           {
             "day": 5,
-            "title": "Playa Rincón + El Limón waterfall",
-            "morning": "Take a hired boat from Las Galeras (~$20 roundtrip per person) to Playa Rincón — consistently rated one of the best beaches in the Caribbean. No vendors, no hotels, no development. A 2-kilometer crescent of white sand backed by palms with a freshwater river at one end. Bring your own food and water. Swim. Do nothing.",
-            "afternoon": "Return to Las Galeras, then drive west to El Limón waterfall. Hike 45 minutes or rent a horse in the village of El Limón (~$15 round trip including guide) for a 30-minute ride through jungle to the base of a 52-meter cascade that pours into a swimming pool at the bottom.",
-            "evening": "Drive back to Las Terrenas. Dinner at Popy, the beachfront spot beloved by locals — grilled fish, garlic shrimp, cold beer."
+            "title": "Playa Rinc\u00f3n + El Lim\u00f3n waterfall",
+            "morning": "Take a hired boat from Las Galeras (~$20 roundtrip per person) to Playa Rinc\u00f3n \u2014 consistently rated one of the best beaches in the Caribbean. No vendors, no hotels, no development. A 2-kilometer crescent of white sand backed by palms with a freshwater river at one end. Bring your own food and water. Swim. Do nothing.",
+            "afternoon": "Return to Las Galeras, then drive west to El Lim\u00f3n waterfall. Hike 45 minutes or rent a horse in the village of El Lim\u00f3n (~$15 round trip including guide) for a 30-minute ride through jungle to the base of a 52-meter cascade that pours into a swimming pool at the bottom.",
+            "evening": "Drive back to Las Terrenas. Dinner at Popy, the beachfront spot beloved by locals \u2014 grilled fish, garlic shrimp, cold beer."
           },
           {
             "day": 6,
-            "title": "Samaná → Cabarete (North Coast)",
-            "morning": "Leave Las Terrenas by 8am. Drive along the northern edge of the Samaná Peninsula to Cabarete (3–3.5 hours). Stop in Río San Juan for a quick walk around the Laguna Gri-Gri — a mangrove lagoon you can boat through by hiring a local fisherman for about $10.",
-            "afternoon": "Arrive Cabarete — the kite-surfing capital of the Caribbean. The beach faces the right direction, the wind blows consistently, and there are schools if you want to try. Rent a bike and ride the 3-kilometer beachfront road, swim.",
+            "title": "Saman\u00e1 \u2192 Cabarete (North Coast)",
+            "morning": "Leave Las Terrenas by 8am. Drive along the northern edge of the Saman\u00e1 Peninsula to Cabarete (3\u20133.5 hours). Stop in R\u00edo San Juan for a quick walk around the Laguna Gri-Gri \u2014 a mangrove lagoon you can boat through by hiring a local fisherman for about $10.",
+            "afternoon": "Arrive Cabarete \u2014 the kite-surfing capital of the Caribbean. The beach faces the right direction, the wind blows consistently, and there are schools if you want to try. Rent a bike and ride the 3-kilometer beachfront road, swim.",
             "evening": "Cabarete's main strip has everything from pizza to Lebanese to sushi. Try Mr. Tom's Beach Bar or Casa del Pescador (fresh fish, more serious kitchen). Live music often happens on weekends."
           },
           {
             "day": 7,
             "title": "27 Charcos de Damajagua",
-            "morning": "Drive 45 minutes west to the 27 Charcos de Damajagua — 27 cascading pools and waterfalls carved into a river gorge near Puerto Plata. Hike upstream through jungle, then descend by jumping, sliding, and swimming through a series of natural limestone chutes and pools. The full circuit takes about 4 hours and requires a guide (mandatory, ~$25–30 with guide and entrance fee). Go early — it gets busy after 10am.",
-            "afternoon": "Drive into Puerto Plata for lunch. Walk Parque Central, Calle Beller's Victorian gingerbread architecture, the San Felipe Fortress on the waterfront. Take the teleférico (cable car, ~$10) up Monte Isabel de Torres for views of the coast from 800 meters.",
-            "evening": "Back in Cabarete. Swim or watch the sunset from the beach. Dinner at La Casita de Papi — a tiny local spot serving fresh seafood."
+            "morning": "Drive 45 minutes west to the 27 Charcos de Damajagua \u2014 27 cascading pools and waterfalls carved into a river gorge near Puerto Plata. Hike upstream through jungle, then descend by jumping, sliding, and swimming through a series of natural limestone chutes and pools. The full circuit takes about 4 hours and requires a guide (mandatory, ~$25\u201330 with guide and entrance fee). Go early \u2014 it gets busy after 10am.",
+            "afternoon": "Drive into Puerto Plata for lunch. Walk Parque Central, Calle Beller's Victorian gingerbread architecture, the San Felipe Fortress on the waterfront. Take the telef\u00e9rico (cable car, ~$10) up Monte Isabel de Torres for views of the coast from 800 meters.",
+            "evening": "Back in Cabarete. Swim or watch the sunset from the beach. Dinner at La Casita de Papi \u2014 a tiny local spot serving fresh seafood."
           },
           {
             "day": 8,
-            "title": "Cabarete rest day + Sosúa",
-            "morning": "Slow start. Breakfast at a beach café in Cabarete. Drive 10 minutes east to Sosúa — a small beach town with a sheltered cove, excellent snorkeling (the reef is 15 feet down, snorkeable from the beach). Sosúa has an unusual history: in 1940 Trujillo admitted 800 Jewish refugees from Nazi Germany; the small Jewish Museum (Calle Dr. Alejo Martínez 24) documents this story.",
-            "afternoon": "Back in Cabarete. A kite-surfing intro lesson if you want one (~$80–100 through Dare2Fly or Laurel Eastman Kiteboarding). Or just swim and read.",
-            "evening": "Sunset beers on the Cabarete main strip. Dinner at Otro Mundo (eclectic menu, rooftop). Pack the car tonight — leaving early for the mountains."
+            "title": "Cabarete rest day + Sos\u00faa",
+            "morning": "Slow start. Breakfast at a beach caf\u00e9 in Cabarete. Drive 10 minutes east to Sos\u00faa \u2014 a small beach town with a sheltered cove, excellent snorkeling (the reef is 15 feet down, snorkeable from the beach). Sos\u00faa has an unusual history: in 1940 Trujillo admitted 800 Jewish refugees from Nazi Germany; the small Jewish Museum (Calle Dr. Alejo Mart\u00ednez 24) documents this story.",
+            "afternoon": "Back in Cabarete. A kite-surfing intro lesson if you want one (~$80\u2013100 through Dare2Fly or Laurel Eastman Kiteboarding). Or just swim and read.",
+            "evening": "Sunset beers on the Cabarete main strip. Dinner at Otro Mundo (eclectic menu, rooftop). Pack the car tonight \u2014 leaving early for the mountains."
           },
           {
             "day": 9,
-            "title": "Jarabacoa — the City of Eternal Spring",
-            "morning": "Drive south from Cabarete 2.5 hours into the Cordillera Central. Jarabacoa sits at 529 meters — while the coast bakes at 35°C, Jarabacoa hovers around 22°C year-round. Walk to the Jimenoa I waterfall — a 40-meter cascade 15 minutes by car from town, then a 10-minute walk through forest.",
-            "afternoon": "White-water rafting on the Río Yaque del Norte — Class III rapids through mountain forest with Rancho Baiguate (~$45). Or canyoning with Jarabacoa Ecotours — rappelling down waterfalls through jungle canyons, 3–4 hours, ~$50.",
-            "evening": "Dinner in Jarabacoa's town center — small restaurants serving roasted chicken, sancocho, and La Bandera with the cool night air coming in through open windows."
+            "title": "Jarabacoa \u2014 the City of Eternal Spring",
+            "morning": "Drive south from Cabarete 2.5 hours into the Cordillera Central. Jarabacoa sits at 529 meters \u2014 while the coast bakes at 35\u00b0C, Jarabacoa hovers around 22\u00b0C year-round. Walk to the Jimenoa I waterfall \u2014 a 40-meter cascade 15 minutes by car from town, then a 10-minute walk through forest.",
+            "afternoon": "White-water rafting on the R\u00edo Yaque del Norte \u2014 Class III rapids through mountain forest with Rancho Baiguate (~$45). Or canyoning with Jarabacoa Ecotours \u2014 rappelling down waterfalls through jungle canyons, 3\u20134 hours, ~$50.",
+            "evening": "Dinner in Jarabacoa's town center \u2014 small restaurants serving roasted chicken, sancocho, and La Bandera with the cool night air coming in through open windows."
           },
           {
             "day": 10,
-            "title": "Jarabacoa → Santiago → Santo Domingo, fly home",
-            "morning": "Early breakfast in Jarabacoa. Drive 45 minutes north to Santiago. Walk to the Monumento a los Héroes de la Restauración for panoramic views. Walk Calle del Sol, Santiago's commercial main street. Visit the Museo del Tabaco — the Cibao Valley grows some of the finest tobacco in the world.",
+            "title": "Jarabacoa \u2192 Santiago \u2192 Santo Domingo, fly home",
+            "morning": "Early breakfast in Jarabacoa. Drive 45 minutes north to Santiago. Walk to the Monumento a los H\u00e9roes de la Restauraci\u00f3n for panoramic views. Walk Calle del Sol, Santiago's commercial main street. Visit the Museo del Tabaco \u2014 the Cibao Valley grows some of the finest tobacco in the world.",
             "afternoon": "Lunch at a Santiago comedor before the 3-hour drive south back to Santo Domingo via the Cibao Valley. Drop the rental car at SDQ. If your flight is late enough, swing through the Zona Colonial one last time.",
             "evening": "Flight home from SDQ."
           }
         ],
         "tips": [
-          "Rent a car for this trip. A compact SUV or 4WD is recommended (~$40–60/day from SDQ). The freedom to move on your own schedule — especially for the Samaná peninsula, Jarabacoa mountain roads, and El Limón approach — is worth more than any other upgrade. Book before you arrive; inventory at the airport is limited and prices spike.",
-          "The Uber situation at SDQ arrivals is chaotic — taxi touts in vests will follow you aggressively and sometimes block Uber pickups. Open Uber before you clear customs, request your ride inside the terminal, and walk with purpose. Do not engage unprompted.",
-          "Bonyé: free traditional Dominican music (bachata, salsa, merengue) performed at the open-air ruins of San Francisco in the Zona Colonial on Sunday afternoons. It's attended by locals, it's free, and it's one of the most genuine music experiences in the Caribbean. Plan your Santo Domingo days around it if a Sunday falls during your first three days.",
+          "Rent a car for this trip. A compact SUV or 4WD is recommended (~$40\u201360/day from SDQ). The freedom to move on your own schedule \u2014 especially for the Saman\u00e1 peninsula, Jarabacoa mountain roads, and El Lim\u00f3n approach \u2014 is worth more than any other upgrade. Book before you arrive; inventory at the airport is limited and prices spike.",
+          "The Uber situation at SDQ arrivals is chaotic \u2014 taxi touts in vests will follow you aggressively and sometimes block Uber pickups. Open Uber before you clear customs, request your ride inside the terminal, and walk with purpose. Do not engage unprompted.",
+          "Bony\u00e9: free traditional Dominican music (bachata, salsa, merengue) performed at the open-air ruins of San Francisco in the Zona Colonial on Sunday afternoons. It's attended by locals, it's free, and it's one of the most genuine music experiences in the Caribbean. Plan your Santo Domingo days around it if a Sunday falls during your first three days.",
           "Pay in Dominican pesos (DOP) at comedores and colmados. Withdraw from a bank ATM inside a bank branch. USD is accepted in tourist zones but at poor exchange rates.",
-          "La Bandera is a midday meal only — rice, beans, stewed meat, tostones, served at comedores 11am–2pm. Arrive hungry and order what they're cooking, not what's on the menu. After 2pm the pots are empty.",
+          "La Bandera is a midday meal only \u2014 rice, beans, stewed meat, tostones, served at comedores 11am\u20132pm. Arrive hungry and order what they're cooking, not what's on the menu. After 2pm the pots are empty.",
           "Don't drink tap water anywhere in the DR. Bottled water is sold on every block for under 50 cents. Carry a bottle at all times.",
-          "Playa Rincón (Day 5) has no services — bring your own food, snacks, and at least 2 liters of water. The boat from Las Galeras harbor leaves roughly 9am and 10am. Agree on a pickup time when you arrive.",
-          "El Limón waterfall is best on a weekday morning when tour buses from Punta Cana haven't arrived yet."
+          "Playa Rinc\u00f3n (Day 5) has no services \u2014 bring your own food, snacks, and at least 2 liters of water. The boat from Las Galeras harbor leaves roughly 9am and 10am. Agree on a pickup time when you arrive.",
+          "El Lim\u00f3n waterfall is best on a weekday morning when tour buses from Punta Cana haven't arrived yet."
         ],
         "sources": [
-          { "title": "Zona Colonial Walking Tour — WhereToNau", "url": "https://www.wheretonau.com/post/santo-domingo-zona-colonial-walking-tour" },
-          { "title": "El Mesón de la Cava — Atlas Obscura", "url": "https://www.atlasobscura.com/places/el-meson-de-la-cava" },
-          { "title": "Music and Dance of Dominican Bachata — UNESCO ICH", "url": "https://ich.unesco.org/en/RL/music-and-dance-of-dominican-bachata-01514" },
-          { "title": "Playa Rincón — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/samana/las-galeras/" },
-          { "title": "27 Charcos de Damajagua — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/things-to-do/nature/damajagua-waterfalls/" },
-          { "title": "Boca Chica — Dominican Republic Tourism", "url": "https://www.godominicanrepublic.com/destinations/boca-chica" },
-          { "title": "Bachata history and cultural venues — Island Hopper Guides", "url": "https://islandhopperguides.com/dominican-republic/dominican-culture/bachata-beyond-the-dance-floor-decoding-the-rhythm-of-dominican-identity/" },
-          { "title": "Morir Soñando — Atlas Obscura Gastro", "url": "https://www.atlasobscura.com/foods/morir-sonando-dominican-republic" },
-          { "title": "Jarabacoa Ecotourism Guide — Discover Dominican Republic", "url": "https://www.discoverdomincanrepublic.com/jarabacoa/" },
-          { "title": "Sosúa Jewish History — Jewish Heritage Europe", "url": "https://jewish-heritage-europe.eu/directory/sosua-dominican-republic/" },
-          { "title": "First Time in Santo Domingo 2026 — Advised Traveler", "url": "https://advised-traveler.com/en/caribbean/things-to-know-before-visiting-dominican-republic/visit-first-time-santo-domingo/" }
+          {
+            "title": "Zona Colonial Walking Tour \u2014 WhereToNau",
+            "url": "https://www.wheretonau.com/post/santo-domingo-zona-colonial-walking-tour"
+          },
+          {
+            "title": "El Mes\u00f3n de la Cava \u2014 Atlas Obscura",
+            "url": "https://www.atlasobscura.com/places/el-meson-de-la-cava"
+          },
+          {
+            "title": "Music and Dance of Dominican Bachata \u2014 UNESCO ICH",
+            "url": "https://ich.unesco.org/en/RL/music-and-dance-of-dominican-bachata-01514"
+          },
+          {
+            "title": "Playa Rinc\u00f3n \u2014 Dominican Republic Tourism",
+            "url": "https://www.godominicanrepublic.com/destinations/samana/las-galeras/"
+          },
+          {
+            "title": "27 Charcos de Damajagua \u2014 Dominican Republic Tourism",
+            "url": "https://www.godominicanrepublic.com/things-to-do/nature/damajagua-waterfalls/"
+          },
+          {
+            "title": "Boca Chica \u2014 Dominican Republic Tourism",
+            "url": "https://www.godominicanrepublic.com/destinations/boca-chica"
+          },
+          {
+            "title": "Bachata history and cultural venues \u2014 Island Hopper Guides",
+            "url": "https://islandhopperguides.com/dominican-republic/dominican-culture/bachata-beyond-the-dance-floor-decoding-the-rhythm-of-dominican-identity/"
+          },
+          {
+            "title": "Morir So\u00f1ando \u2014 Atlas Obscura Gastro",
+            "url": "https://www.atlasobscura.com/foods/morir-sonando-dominican-republic"
+          },
+          {
+            "title": "Jarabacoa Ecotourism Guide \u2014 Discover Dominican Republic",
+            "url": "https://www.discoverdomincanrepublic.com/jarabacoa/"
+          },
+          {
+            "title": "Sos\u00faa Jewish History \u2014 Jewish Heritage Europe",
+            "url": "https://jewish-heritage-europe.eu/directory/sosua-dominican-republic/"
+          },
+          {
+            "title": "First Time in Santo Domingo 2026 \u2014 Advised Traveler",
+            "url": "https://advised-traveler.com/en/caribbean/things-to-know-before-visiting-dominican-republic/visit-first-time-santo-domingo/"
+          }
         ]
       }
     },
@@ -204,10 +825,10 @@
       "destination": {
         "city": "Richmond",
         "country": "United States",
-        "flag": "🇺🇸",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
         "iata": "RIC",
         "lat": 37.5407,
-        "lon": -77.4360,
+        "lon": -77.436,
         "vibe": "A mid-sized Southern city with a world-class free art museum, one of the longest intact stretches of Victorian row houses in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and herons accessible entirely on foot."
       },
       "flight_search_date": "2026-06-29",
@@ -215,41 +836,41 @@
         {
           "airline": "Spirit Airlines",
           "price_usd": 240,
-          "outbound_dates": "Late July 2026 (e.g. Jul 29) — mid-week departures cheapest",
+          "outbound_dates": "Late July 2026 (e.g. Jul 29) \u2014 mid-week departures cheapest",
           "return_dates": "+10 days (e.g. Aug 8)",
           "stops": 0,
           "duration": "~1h 50m (nonstop)",
           "url": "https://www.spirit.com/",
-          "notes": "Spirit operates nonstop DTW→RIC. Ultra-low base fare but add bags and seat selection. Cheapest days: Tuesday/Wednesday departures."
+          "notes": "Spirit operates nonstop DTW\u2192RIC. Ultra-low base fare but add bags and seat selection. Cheapest days: Tuesday/Wednesday departures."
         },
         {
           "airline": "Delta Air Lines",
           "price_usd": 380,
-          "outbound_dates": "Late July 2026 (flexible Jul 28–Aug 2 window) — midweek lowest",
+          "outbound_dates": "Late July 2026 (flexible Jul 28\u2013Aug 2 window) \u2014 midweek lowest",
           "return_dates": "+10 days",
           "stops": 0,
           "duration": "~1h 46m (nonstop)",
           "url": "https://www.delta.com/us/en/flight-deals/united-states-flights/flights-to-richmond",
-          "notes": "Delta runs frequent nonstops DTW→RIC. Roundtrip from $350–$450 in peak summer. Includes carry-on bag."
+          "notes": "Delta runs frequent nonstops DTW\u2192RIC. Roundtrip from $350\u2013$450 in peak summer. Includes carry-on bag."
         },
         {
           "airline": "American Airlines",
           "price_usd": 310,
-          "outbound_dates": "Flexible late July / early August 2026 — Tuesday/Wednesday lowest",
+          "outbound_dates": "Flexible late July / early August 2026 \u2014 Tuesday/Wednesday lowest",
           "return_dates": "+10 days",
           "stops": 1,
           "duration": "~4h 10m (1 stop, typically CLT or PHL)",
           "url": "https://www.aa.com/",
-          "notes": "American serves DTW→RIC via connection at Charlotte (CLT) or Philadelphia (PHL). Roundtrip from ~$280–$350."
+          "notes": "American serves DTW\u2192RIC via connection at Charlotte (CLT) or Philadelphia (PHL). Roundtrip from ~$280\u2013$350."
         }
       ],
       "lodging": [
         {
-          "name": "Fan District Victorian Row House (Entire Home — Airbnb)",
+          "name": "Fan District Victorian Row House (Entire Home \u2014 Airbnb)",
           "type": "airbnb",
           "price_per_night_usd": 110,
           "neighborhood": "The Fan District",
-          "highlights": "Entire Victorian row house on or near Strawberry Street — steps from restaurants, the VMFA, and Carytown, with the neighborhood feel that no hotel can replicate.",
+          "highlights": "Entire Victorian row house on or near Strawberry Street \u2014 steps from restaurants, the VMFA, and Carytown, with the neighborhood feel that no hotel can replicate.",
           "url": "https://www.airbnb.com/s/Richmond--Virginia--United-States/homes",
           "source": "airbnb"
         },
@@ -258,7 +879,7 @@
           "type": "hotel",
           "price_per_night_usd": 185,
           "neighborhood": "Downtown / Fan District edge (301 W Franklin St, near VCU)",
-          "highlights": "University-district boutique hotel with rooftop terrace overlooking the VCU Institute for Contemporary Art — walkable to VMFA, the Fan, and downtown.",
+          "highlights": "University-district boutique hotel with rooftop terrace overlooking the VCU Institute for Contemporary Art \u2014 walkable to VMFA, the Fan, and downtown.",
           "url": "https://www.hilton.com/en/hotels/ricgrgu-graduate-richmond/",
           "source": "direct"
         },
@@ -267,7 +888,7 @@
           "type": "hotel",
           "price_per_night_usd": 220,
           "neighborhood": "Arts District / Downtown (Main Street)",
-          "highlights": "Boutique gallery-hotel with rotating art installations, rooftop bar, and on-site restaurant Maple & Pine — Destination by Hyatt property in the heart of the arts district.",
+          "highlights": "Boutique gallery-hotel with rotating art installations, rooftop bar, and on-site restaurant Maple & Pine \u2014 Destination by Hyatt property in the heart of the arts district.",
           "url": "https://www.quirkhotels.com/",
           "source": "direct"
         },
@@ -276,7 +897,7 @@
           "type": "hotel",
           "price_per_night_usd": 420,
           "neighborhood": "Downtown Richmond (Franklin St at Adams St)",
-          "highlights": "National Historic Landmark opened in 1895 — the staircase reportedly inspired Gone With the Wind, Lemaire restaurant is Richmond's finest dining.",
+          "highlights": "National Historic Landmark opened in 1895 \u2014 the staircase reportedly inspired Gone With the Wind, Lemaire restaurant is Richmond's finest dining.",
           "url": "https://www.jeffersonhotel.com/",
           "source": "direct"
         }
@@ -284,23 +905,53 @@
       "itinerary": {
         "overview": "Richmond is a mid-sized Southern city that punches well above its weight: a world-class free art museum (VMFA), one of the longest intact stretches of Victorian architecture in the US, a brewery-and-restaurant scene anchored in Scott's Addition and the Fan, and a James River cutting straight through downtown with swimming holes and Class IV rapids accessible entirely on foot.",
         "days": [
-          { "day": 1, "title": "Arrival + The Fan Orientation", "morning": "Fly in from DTW, land at RIC. Rideshare to the Fan (~20 minutes). Walk the length of Monument Avenue from Belvidere Street west: the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains), and the remarkable tree canopy.", "afternoon": "Garnett's Cafe (2001 Park Ave) for lunch: the Scuffletown Chicken Salad Sandwich. Then VMFA (200 N Arthur Ashe Blvd) — free admission. Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.", "evening": "Dinner at Beaucoup (111 N Robinson St) — Richmond's best seafood and oyster spot. Then The Jasper (3101 W Cary St) in Carytown — one of the best cocktail bars on the East Coast." },
-          { "day": 2, "title": "VMFA Deep Dive + Carytown", "morning": "Return to the VMFA at 10am. American galleries, African art collection, modern and contemporary floors.", "afternoon": "Carytown (W Cary St between Thompson and Boulevard): For the Love of Chocolate, World of Mirth, Mom's Siam (Thai, 3622 W Cary St — green curry is legendary), Gelati Celesti ice cream.", "evening": "Byrd Theatre (2908 W Cary St) — 1928 movie palace, films nightly $4–8, Mighty Wurlitzer organ on Fri/Sat. Or Can Can Brasserie (3120 W Cary St) for dinner." },
-          { "day": 3, "title": "Jackson Ward History + Soul Food", "morning": "Black History Museum & Cultural Center of Virginia (122 W Leigh St). Maggie L. Walker National Historic Site (600 N 2nd St) — free NPS site, ranger-led tours.", "afternoon": "Mama J's (415 N 1st St) — fried chicken, collard greens, mac and cheese. Walk the Jackson Ward mural corridors. Bill 'Bojangles' Robinson statue at Adams and Leigh.", "evening": "Restaurant Adarra (1 W Marshall St) — Basque pintxos with Virginia ingredients. Soul Taco (2005 W Broad St) for late-night tacos: root beer braised oxtail." }
+          {
+            "day": 1,
+            "title": "Arrival + The Fan Orientation",
+            "morning": "Fly in from DTW, land at RIC. Rideshare to the Fan (~20 minutes). Walk the length of Monument Avenue from Belvidere Street west: the grand mansions, the empty pedestals where Confederate statues stood (only Arthur Ashe's statue remains), and the remarkable tree canopy.",
+            "afternoon": "Garnett's Cafe (2001 Park Ave) for lunch: the Scuffletown Chicken Salad Sandwich. Then VMFA (200 N Arthur Ashe Blvd) \u2014 free admission. Kehinde Wiley's 'Rumors of War' out front, the Faberge collection (largest outside Russia), and the Art Nouveau galleries.",
+            "evening": "Dinner at Beaucoup (111 N Robinson St) \u2014 Richmond's best seafood and oyster spot. Then The Jasper (3101 W Cary St) in Carytown \u2014 one of the best cocktail bars on the East Coast."
+          },
+          {
+            "day": 2,
+            "title": "VMFA Deep Dive + Carytown",
+            "morning": "Return to the VMFA at 10am. American galleries, African art collection, modern and contemporary floors.",
+            "afternoon": "Carytown (W Cary St between Thompson and Boulevard): For the Love of Chocolate, World of Mirth, Mom's Siam (Thai, 3622 W Cary St \u2014 green curry is legendary), Gelati Celesti ice cream.",
+            "evening": "Byrd Theatre (2908 W Cary St) \u2014 1928 movie palace, films nightly $4\u20138, Mighty Wurlitzer organ on Fri/Sat. Or Can Can Brasserie (3120 W Cary St) for dinner."
+          },
+          {
+            "day": 3,
+            "title": "Jackson Ward History + Soul Food",
+            "morning": "Black History Museum & Cultural Center of Virginia (122 W Leigh St). Maggie L. Walker National Historic Site (600 N 2nd St) \u2014 free NPS site, ranger-led tours.",
+            "afternoon": "Mama J's (415 N 1st St) \u2014 fried chicken, collard greens, mac and cheese. Walk the Jackson Ward mural corridors. Bill 'Bojangles' Robinson statue at Adams and Leigh.",
+            "evening": "Restaurant Adarra (1 W Marshall St) \u2014 Basque pintxos with Virginia ingredients. Soul Taco (2005 W Broad St) for late-night tacos: root beer braised oxtail."
+          }
         ],
         "tips": [
-          "The Fan is the best base — most restaurants, coffee shops, and bars within a 15-minute walk.",
+          "The Fan is the best base \u2014 most restaurants, coffee shops, and bars within a 15-minute walk.",
           "Pony Pasture (south bank, car/rideshare required) is safer and more popular for James River swimming than Belle Isle.",
-          "Restaurant scene is best Tue–Thu: L'Opossum, Celladora, and Beaucoup all require advance reservations.",
-          "VMFA is completely free for the permanent collection — 90 minutes twice beats one exhausting four-hour visit.",
-          "Scott's Addition: Uber there and walk between breweries. The Veil has lines on weekend afternoons — arrive at opening.",
-          "ZZQ sells out by early afternoon (open Wed–Sun, 11am). Get there by 11:30am or miss the brisket."
+          "Restaurant scene is best Tue\u2013Thu: L'Opossum, Celladora, and Beaucoup all require advance reservations.",
+          "VMFA is completely free for the permanent collection \u2014 90 minutes twice beats one exhausting four-hour visit.",
+          "Scott's Addition: Uber there and walk between breweries. The Veil has lines on weekend afternoons \u2014 arrive at opening.",
+          "ZZQ sells out by early afternoon (open Wed\u2013Sun, 11am). Get there by 11:30am or miss the brisket."
         ],
         "sources": [
-          { "title": "Visit Richmond VA — Official Tourism", "url": "https://www.visitrichmondva.com/things-to-do/" },
-          { "title": "The Infatuation: Best Restaurants in Richmond VA", "url": "https://www.theinfatuation.com/richmond/guides/best-restaurants-richmond-va" },
-          { "title": "Virginia Museum of Fine Arts", "url": "https://www.vmfa.museum/" },
-          { "title": "James River Park System — Swimming", "url": "https://jamesriverpark.org/swimming-in-the-james-river-park/" }
+          {
+            "title": "Visit Richmond VA \u2014 Official Tourism",
+            "url": "https://www.visitrichmondva.com/things-to-do/"
+          },
+          {
+            "title": "The Infatuation: Best Restaurants in Richmond VA",
+            "url": "https://www.theinfatuation.com/richmond/guides/best-restaurants-richmond-va"
+          },
+          {
+            "title": "Virginia Museum of Fine Arts",
+            "url": "https://www.vmfa.museum/"
+          },
+          {
+            "title": "James River Park System \u2014 Swimming",
+            "url": "https://jamesriverpark.org/swimming-in-the-james-river-park/"
+          }
         ]
       }
     },
@@ -309,33 +960,33 @@
       "destination": {
         "city": "Rhinebeck",
         "country": "United States",
-        "flag": "🇺🇸",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
         "iata": "JFK",
         "lat": 41.9262,
-        "lon": -73.9120,
-        "vibe": "90 miles north of Penn Station by Amtrak, Rhinebeck sits at the center of the best road cycling in the Northeast — 300-year-old country lanes through orchards and river estates, the Hudson at the bottom of every hill, the Catskills on the horizon, and the Shawangunk Ridge one bridge-crossing away."
+        "lon": -73.912,
+        "vibe": "90 miles north of Penn Station by Amtrak, Rhinebeck sits at the center of the best road cycling in the Northeast \u2014 300-year-old country lanes through orchards and river estates, the Hudson at the bottom of every hill, the Catskills on the horizon, and the Shawangunk Ridge one bridge-crossing away."
       },
       "flight_search_date": "2026-06-25",
       "flights": [
         {
           "airline": "Delta Air Lines",
           "price_usd": 179,
-          "outbound_dates": "July–August flexible (Tue/Wed cheapest; 4+ daily nonstops DTW→JFK)",
-          "return_dates": "flexible +5–7 days",
+          "outbound_dates": "July\u2013August flexible (Tue/Wed cheapest; 4+ daily nonstops DTW\u2192JFK)",
+          "return_dates": "flexible +5\u20137 days",
           "stops": 0,
           "duration": "1h 52m",
           "url": "https://www.delta.com/",
-          "notes": "DTW→JFK nonstop. Best bike policy of any major carrier: bikes as oversized checked bag ~$35/way. Average $179–$217 RT in July."
+          "notes": "DTW\u2192JFK nonstop. Best bike policy of any major carrier: bikes as oversized checked bag ~$35/way. Average $179\u2013$217 RT in July."
         },
         {
           "airline": "United Airlines",
           "price_usd": 149,
-          "outbound_dates": "Early August (Tue Aug 4 cheapest; ~daily nonstops DTW→EWR)",
-          "return_dates": "flexible +5–7 days",
+          "outbound_dates": "Early August (Tue Aug 4 cheapest; ~daily nonstops DTW\u2192EWR)",
+          "return_dates": "flexible +5\u20137 days",
           "stops": 0,
           "duration": "2h",
           "url": "https://www.united.com/",
-          "notes": "DTW→EWR (Newark). Cheapest ticket but United's bike fee is ~$150 each way. EWR to Penn Station: Newark AirTrain + NJ Transit (~40min, ~$18)."
+          "notes": "DTW\u2192EWR (Newark). Cheapest ticket but United's bike fee is ~$150 each way. EWR to Penn Station: Newark AirTrain + NJ Transit (~40min, ~$18)."
         },
         {
           "airline": "JetBlue",
@@ -345,7 +996,7 @@
           "stops": 0,
           "duration": "1h 52m",
           "url": "https://www.jetblue.com/",
-          "notes": "DTW→JFK nonstop. $100 bike handling fee + 80-linear-inch / 50 lb hard case limit."
+          "notes": "DTW\u2192JFK nonstop. $100 bike handling fee + 80-linear-inch / 50 lb hard case limit."
         }
       ],
       "lodging": [
@@ -354,7 +1005,7 @@
           "type": "hotel",
           "price_per_night_usd": 145,
           "neighborhood": "Rhinebeck village center",
-          "highlights": "America's oldest continuously operating inn (est. 1766) — roll out the front door onto back roads, free breakfast, free parking.",
+          "highlights": "America's oldest continuously operating inn (est. 1766) \u2014 roll out the front door onto back roads, free breakfast, free parking.",
           "url": "https://www.beekmandelamaterinn.com/",
           "source": "booking"
         },
@@ -363,7 +1014,7 @@
           "type": "hotel",
           "price_per_night_usd": 230,
           "neighborhood": "Warren Street, Hudson NY",
-          "highlights": "Converted 1860s candle factory on Hudson's gallery-lined Warren Street — complimentary breakfast, Lil' Deb's Oasis around the corner.",
+          "highlights": "Converted 1860s candle factory on Hudson's gallery-lined Warren Street \u2014 complimentary breakfast, Lil' Deb's Oasis around the corner.",
           "url": "https://www.thewickhotel.com/",
           "source": "booking"
         },
@@ -372,7 +1023,7 @@
           "type": "hotel",
           "price_per_night_usd": 500,
           "neighborhood": "Rhinebeck village",
-          "highlights": "Complimentary loaner bikes, full spa, pools, on-site dining — one mile from every back road in Dutchess County.",
+          "highlights": "Complimentary loaner bikes, full spa, pools, on-site dining \u2014 one mile from every back road in Dutchess County.",
           "url": "https://rhinebeck.mirbeau.com/",
           "source": "booking"
         }
@@ -380,21 +1031,45 @@
       "itinerary": {
         "overview": "The Hudson Valley has been the best road cycling in the Northeast for decades. The roads around Rhinebeck, Red Hook, and Tivoli are genuinely quiet. You fly into JFK, take Amtrak 90 miles north to Rhinecliff, roll off the train, and you're immediately in back-road territory.",
         "days": [
-          { "day": 1, "title": "Arrive — DTW → JFK → Rhinecliff", "morning": "Fly DTW→JFK (Delta, 1h52m nonstop). AirTrain + subway to Penn Station. Amtrak Empire Service to Rhinecliff ($10 bike reservation, July fills fast).", "afternoon": "Rhinecliff station is a 1873 Victorian depot. Mile from Rhinecliff up to Rhinebeck village. Bread Alone Bakery (45 E Market St) for pastry.", "evening": "Dinner at Terrapin (farm-to-table since 1998) or Aba's Falafel." },
-          { "day": 2, "title": "Rhinebeck → Bard → Tivoli → Red Hook — 34mi / 55km", "morning": "North on Route 9G, back roads through Bard College campus. Tivoli General (52 Broadway) for bialys.", "afternoon": "GioBatta Alimentari (48 Broadway, Tivoli) for lunch. Montgomery Place Orchards (Route 9G, Red Hook) — 60+ apple varieties, cider donuts.", "evening": "Gigi (Mediterranean) or Rhinebeck Farmers' Market if Sunday (10am–2pm)." },
-          { "day": 3, "title": "River Road Long Loop — 52mi / 84km", "morning": "Early start 6:30am. Southwest toward the river, connect to River Road south.", "afternoon": "Loop back north through inland farm roads.", "evening": "Terrapin or Cafe Mutton (757 Columbia St, Hudson — crépinettes, beef tartare, Wed–Fri evenings)." }
+          {
+            "day": 1,
+            "title": "Arrive \u2014 DTW \u2192 JFK \u2192 Rhinecliff",
+            "morning": "Fly DTW\u2192JFK (Delta, 1h52m nonstop). AirTrain + subway to Penn Station. Amtrak Empire Service to Rhinecliff ($10 bike reservation, July fills fast).",
+            "afternoon": "Rhinecliff station is a 1873 Victorian depot. Mile from Rhinecliff up to Rhinebeck village. Bread Alone Bakery (45 E Market St) for pastry.",
+            "evening": "Dinner at Terrapin (farm-to-table since 1998) or Aba's Falafel."
+          },
+          {
+            "day": 2,
+            "title": "Rhinebeck \u2192 Bard \u2192 Tivoli \u2192 Red Hook \u2014 34mi / 55km",
+            "morning": "North on Route 9G, back roads through Bard College campus. Tivoli General (52 Broadway) for bialys.",
+            "afternoon": "GioBatta Alimentari (48 Broadway, Tivoli) for lunch. Montgomery Place Orchards (Route 9G, Red Hook) \u2014 60+ apple varieties, cider donuts.",
+            "evening": "Gigi (Mediterranean) or Rhinebeck Farmers' Market if Sunday (10am\u20132pm)."
+          },
+          {
+            "day": 3,
+            "title": "River Road Long Loop \u2014 52mi / 84km",
+            "morning": "Early start 6:30am. Southwest toward the river, connect to River Road south.",
+            "afternoon": "Loop back north through inland farm roads.",
+            "evening": "Terrapin or Cafe Mutton (757 Columbia St, Hudson \u2014 cr\u00e9pinettes, beef tartare, Wed\u2013Fri evenings)."
+          }
         ],
         "tips": [
-          "River Road goes by multiple names — download route from midhudsonbicycleclub.com before leaving; cell signal is spotty.",
-          "Lil' Deb's Oasis is Thu–Sun only, no reservations. Go at opening.",
-          "GioBatta Alimentari in Tivoli (48 Broadway) is not on most lists. Go for lunch — best food in the valley for its price.",
-          "Walkway Over the Hudson is the key to the Shawangunks without a car. Free, 7am–sunset, bikes allowed.",
+          "River Road goes by multiple names \u2014 download route from midhudsonbicycleclub.com before leaving; cell signal is spotty.",
+          "Lil' Deb's Oasis is Thu\u2013Sun only, no reservations. Go at opening.",
+          "GioBatta Alimentari in Tivoli (48 Broadway) is not on most lists. Go for lunch \u2014 best food in the valley for its price.",
+          "Walkway Over the Hudson is the key to the Shawangunks without a car. Free, 7am\u2013sunset, bikes allowed.",
           "Mid Hudson Bicycle Club (midhudsonbicycleclub.com) has 700+ published routes.",
           "Montgomery Place Orchards (Route 9G, Red Hook) is bike-accessible. Apple cider donuts are not optional."
         ],
         "sources": [
-          { "title": "Mid Hudson Bicycle Club — Ride with GPS", "url": "https://ridewithgps.com/organizations/2644-mid-hudson-bicycle-club/routes" },
-          { "title": "Best Restaurants in Rhinebeck — The Infatuation", "url": "https://www.theinfatuation.com/hudson-valley/guides/best-restaurants-rhinebeck-new-york" }
+          {
+            "title": "Mid Hudson Bicycle Club \u2014 Ride with GPS",
+            "url": "https://ridewithgps.com/organizations/2644-mid-hudson-bicycle-club/routes"
+          },
+          {
+            "title": "Best Restaurants in Rhinebeck \u2014 The Infatuation",
+            "url": "https://www.theinfatuation.com/hudson-valley/guides/best-restaurants-rhinebeck-new-york"
+          }
         ]
       }
     },
@@ -403,7 +1078,7 @@
       "destination": {
         "city": "Bellingham",
         "country": "United States",
-        "flag": "🇺🇸",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
         "iata": "BLI",
         "lat": 48.7519,
         "lon": -122.4787,
@@ -414,12 +1089,12 @@
         {
           "airline": "Alaska Airlines",
           "price_usd": 380,
-          "outbound_dates": "July–August (Tue/Wed departures cheapest)",
-          "return_dates": "flexible +7–10 days",
+          "outbound_dates": "July\u2013August (Tue/Wed departures cheapest)",
+          "return_dates": "flexible +7\u201310 days",
           "stops": 0,
           "duration": "5h 48m",
           "url": "https://www.alaskaair.com/",
-          "notes": "DTW→SEA nonstop. July peak $380–470 RT. Getting to Bellingham: Amtrak Cascades from King Street Station to Fairhaven Station (~2h, $27–45, bikes $10 reservation) OR car rental at SEA."
+          "notes": "DTW\u2192SEA nonstop. July peak $380\u2013470 RT. Getting to Bellingham: Amtrak Cascades from King Street Station to Fairhaven Station (~2h, $27\u201345, bikes $10 reservation) OR car rental at SEA."
         }
       ],
       "lodging": [
@@ -452,22 +1127,46 @@
         }
       ],
       "itinerary": {
-        "overview": "Bellingham sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east and Chuckanut Drive — a 23-mile cliff-hugging two-lane above Samish Bay — beginning right at the city's southern edge.",
+        "overview": "Bellingham sits 80 miles north of Seattle on Bellingham Bay, with the North Cascades rising immediately east and Chuckanut Drive \u2014 a 23-mile cliff-hugging two-lane above Samish Bay \u2014 beginning right at the city's southern edge.",
         "days": [
-          { "day": 1, "title": "Arrive — SEA → Bellingham, Fairhaven", "morning": "Fly DTW→SEA. Amtrak Cascades to Fairhaven (2h, bike reservation required) or rent car at SEA.", "afternoon": "Check in, assemble bike. Walk Fairhaven Village. Village Books on 11th St.", "evening": "Aslan Brewing (1330 N Forest St) or Wander Brewing (1807 Dean Ave)." },
-          { "day": 2, "title": "Chuckanut Drive + Skagit Flats — 50mi / 80km", "morning": "7:30am south through Fairhaven onto Chuckanut Drive (SR-11) — 23 miles of cliff above Chuckanut Bay. Larrabee State Park (mile 7).", "afternoon": "Bow-Edison: Breadfarm (best bread bakery in northwest Washington). Return north.", "evening": "Wander Brewing. La Fiamma Wood Fire Pizza (200 E Chestnut St)." },
-          { "day": 3, "title": "Lummi Island via Whatcom Chief Ferry — 47mi", "morning": "Ride 10 miles south on Haxton Way to Gooseberry Point. Whatcom Chief ferry (~$2–4 RT, 6-min crossing).", "afternoon": "12-mile perimeter road around the island. Return ferry, ride back to Bellingham.", "evening": "Wild Buffalo House of Music or the Shakedown." }
+          {
+            "day": 1,
+            "title": "Arrive \u2014 SEA \u2192 Bellingham, Fairhaven",
+            "morning": "Fly DTW\u2192SEA. Amtrak Cascades to Fairhaven (2h, bike reservation required) or rent car at SEA.",
+            "afternoon": "Check in, assemble bike. Walk Fairhaven Village. Village Books on 11th St.",
+            "evening": "Aslan Brewing (1330 N Forest St) or Wander Brewing (1807 Dean Ave)."
+          },
+          {
+            "day": 2,
+            "title": "Chuckanut Drive + Skagit Flats \u2014 50mi / 80km",
+            "morning": "7:30am south through Fairhaven onto Chuckanut Drive (SR-11) \u2014 23 miles of cliff above Chuckanut Bay. Larrabee State Park (mile 7).",
+            "afternoon": "Bow-Edison: Breadfarm (best bread bakery in northwest Washington). Return north.",
+            "evening": "Wander Brewing. La Fiamma Wood Fire Pizza (200 E Chestnut St)."
+          },
+          {
+            "day": 3,
+            "title": "Lummi Island via Whatcom Chief Ferry \u2014 47mi",
+            "morning": "Ride 10 miles south on Haxton Way to Gooseberry Point. Whatcom Chief ferry (~$2\u20134 RT, 6-min crossing).",
+            "afternoon": "12-mile perimeter road around the island. Return ferry, ride back to Bellingham.",
+            "evening": "Wild Buffalo House of Music or the Shakedown."
+          }
         ],
         "tips": [
-          "Amtrak Cascades bike policy: reserve your bike spot ($10 fee) well in advance — July fills fast.",
-          "Whatcom Chief ferry (Lummi Island): Whatcom County vessel, NOT WSF. ~$2–4 RT. Runs every 30 min, 6am–10pm.",
+          "Amtrak Cascades bike policy: reserve your bike spot ($10 fee) well in advance \u2014 July fills fast.",
+          "Whatcom Chief ferry (Lummi Island): Whatcom County vessel, NOT WSF. ~$2\u20134 RT. Runs every 30 min, 6am\u201310pm.",
           "WSF San Juan Islands: walk-on passengers ($15.85 each way) never need a reservation.",
           "SR-542 / Artist Point road status: typically opens mid-July. Call (360) 856-5700 ext. 515.",
-          "July weather: 65–75°F. Mt. Baker can be 20–30°F colder at 5,000ft — pack a rain shell."
+          "July weather: 65\u201375\u00b0F. Mt. Baker can be 20\u201330\u00b0F colder at 5,000ft \u2014 pack a rain shell."
         ],
         "sources": [
-          { "title": "Bicycles on Washington State Ferries — WSDOT", "url": "https://wsdot.wa.gov/travel/washington-state-ferries/rider-information/what-you-can-bring-aboard/bicycles" },
-          { "title": "Lummi Island Ferry — Whatcom County", "url": "https://www.whatcomcounty.us/1219/Lummi-Island-Ferry" }
+          {
+            "title": "Bicycles on Washington State Ferries \u2014 WSDOT",
+            "url": "https://wsdot.wa.gov/travel/washington-state-ferries/rider-information/what-you-can-bring-aboard/bicycles"
+          },
+          {
+            "title": "Lummi Island Ferry \u2014 Whatcom County",
+            "url": "https://www.whatcomcounty.us/1219/Lummi-Island-Ferry"
+          }
         ]
       }
     },
@@ -476,36 +1175,91 @@
       "destination": {
         "city": "Salida",
         "country": "United States",
-        "flag": "🇺🇸",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
         "iata": "DEN",
         "lat": 38.5347,
-        "lon": -105.9990,
-        "vibe": "A Victorian silver-mining town of 6,500 at 7,036 feet in the Arkansas River Valley, circled by more 14,000-foot peaks per square mile than anywhere in North America — where a 22-mile road climb takes you to the Continental Divide at 11,312 feet, the descent is 4,000 vertical feet of fast pavement back to green chile and hot springs, and the entire town fits on two walkable blocks."
+        "lon": -105.999,
+        "vibe": "A Victorian silver-mining town of 6,500 at 7,036 feet in the Arkansas River Valley, circled by more 14,000-foot peaks per square mile than anywhere in North America \u2014 where a 22-mile road climb takes you to the Continental Divide at 11,312 feet, the descent is 4,000 vertical feet of fast pavement back to green chile and hot springs, and the entire town fits on two walkable blocks."
       },
       "flight_search_date": "2026-06-24",
       "flights": [
-        { "airline": "Frontier Airlines", "price_usd": 140, "outbound_dates": "July–August flexible (Friday departures cheapest)", "return_dates": "flexible +5–7 days", "stops": 0, "duration": "~2h 45m", "url": "https://www.flyfrontier.com/", "notes": "DTW→DEN direct. Bag fees trap: bike ~$75–100 each way. Consider BikeFlights.com (~$80–120/way). Drive to Salida: US-285 south from Denver, ~2.5 hours." },
-        { "airline": "Delta Air Lines", "price_usd": 240, "outbound_dates": "July–August flexible (midweek cheapest)", "return_dates": "flexible +5–7 days", "stops": 0, "duration": "~2h 50m", "url": "https://www.delta.com/", "notes": "DTW→DEN direct. Delta bike fee: $150 each way. Fly into Colorado Springs (COS) as alternative — $180–250 RT, 30 min closer to Salida." }
+        {
+          "airline": "Frontier Airlines",
+          "price_usd": 140,
+          "outbound_dates": "July\u2013August flexible (Friday departures cheapest)",
+          "return_dates": "flexible +5\u20137 days",
+          "stops": 0,
+          "duration": "~2h 45m",
+          "url": "https://www.flyfrontier.com/",
+          "notes": "DTW\u2192DEN direct. Bag fees trap: bike ~$75\u2013100 each way. Consider BikeFlights.com (~$80\u2013120/way). Drive to Salida: US-285 south from Denver, ~2.5 hours."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 240,
+          "outbound_dates": "July\u2013August flexible (midweek cheapest)",
+          "return_dates": "flexible +5\u20137 days",
+          "stops": 0,
+          "duration": "~2h 50m",
+          "url": "https://www.delta.com/",
+          "notes": "DTW\u2192DEN direct. Delta bike fee: $150 each way. Fly into Colorado Springs (COS) as alternative \u2014 $180\u2013250 RT, 30 min closer to Salida."
+        }
       ],
       "lodging": [
-        { "name": "Amigo Motor Lodge", "type": "hotel", "price_per_night_usd": 130, "neighborhood": "Salida — east end near US-50", "highlights": "1960s motor lodge renovated to boutique — bike parking on-site, mountain view patio, hot tub. Michelin Select. Roll to Monarch Pass climb in 5 minutes.", "url": "https://amigomotorlodge.com/", "source": "booking" },
-        { "name": "Manhattan Hotel Salida", "type": "hotel", "price_per_night_usd": 160, "neighborhood": "Downtown Salida — Arkansas River / F Street Arts District", "highlights": "Only downtown boutique hotel, above the Boathouse Cantina with direct river views.", "url": "https://www.manhattanhotelsalida.com/", "source": "booking" }
+        {
+          "name": "Amigo Motor Lodge",
+          "type": "hotel",
+          "price_per_night_usd": 130,
+          "neighborhood": "Salida \u2014 east end near US-50",
+          "highlights": "1960s motor lodge renovated to boutique \u2014 bike parking on-site, mountain view patio, hot tub. Michelin Select. Roll to Monarch Pass climb in 5 minutes.",
+          "url": "https://amigomotorlodge.com/",
+          "source": "booking"
+        },
+        {
+          "name": "Manhattan Hotel Salida",
+          "type": "hotel",
+          "price_per_night_usd": 160,
+          "neighborhood": "Downtown Salida \u2014 Arkansas River / F Street Arts District",
+          "highlights": "Only downtown boutique hotel, above the Boathouse Cantina with direct river views.",
+          "url": "https://www.manhattanhotelsalida.com/",
+          "source": "booking"
+        }
       ],
       "itinerary": {
         "overview": "Salida is the cycling anchor of the Arkansas River Valley at the intersection of three world-class road climbs.",
         "days": [
-          { "day": 1, "title": "Monarch Pass — 46mi / 74km, 4,258ft", "morning": "7am from Salida (7,036ft). West on US-50 through Poncha Springs. Monarch Pass: 18 miles to 11,312ft, avg 4.3%. Summit lodge has coffee.", "afternoon": "18-mile descent back. Walk F Street Arts District. Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10).", "evening": "Amica's Pizzeria or Fritz (European bistro). Evening light on Collegiate Peaks from the river trail." },
-          { "day": 2, "title": "Cottonwood Pass — 67mi / 108km, 4,100ft", "morning": "Drive to Buena Vista (35 min north). Cottonwood Pass: 19.5 miles to 12,126ft — third-highest paved road in Colorado.", "afternoon": "Descend east back to Buena Vista. Eddyline Brewery on the river for lunch.", "evening": "Salida Hot Springs or Mount Princeton Hot Springs (25 miles north, ~$30). Soulcraft Brewing downtown." },
-          { "day": 3, "title": "Poncha Pass + San Luis Valley — 62mi / 100km", "morning": "South on US-285 to Poncha Pass (9,010ft). At summit: the San Luis Valley — 8,000 sq miles of flat high-altitude basin, ringed by mountains.", "afternoon": "Return north over Poncha Pass. Salida Museum (free) or riverside café.", "evening": "Tenderfoot Mountain 'S' hike — 20 min to the best sunset view of Collegiate Peaks. Moonlight Pizza & Brewpub." }
+          {
+            "day": 1,
+            "title": "Monarch Pass \u2014 46mi / 74km, 4,258ft",
+            "morning": "7am from Salida (7,036ft). West on US-50 through Poncha Springs. Monarch Pass: 18 miles to 11,312ft, avg 4.3%. Summit lodge has coffee.",
+            "afternoon": "18-mile descent back. Walk F Street Arts District. Salida Hot Springs Aquatic Center (410 W Rainbow Blvd, ~$10).",
+            "evening": "Amica's Pizzeria or Fritz (European bistro). Evening light on Collegiate Peaks from the river trail."
+          },
+          {
+            "day": 2,
+            "title": "Cottonwood Pass \u2014 67mi / 108km, 4,100ft",
+            "morning": "Drive to Buena Vista (35 min north). Cottonwood Pass: 19.5 miles to 12,126ft \u2014 third-highest paved road in Colorado.",
+            "afternoon": "Descend east back to Buena Vista. Eddyline Brewery on the river for lunch.",
+            "evening": "Salida Hot Springs or Mount Princeton Hot Springs (25 miles north, ~$30). Soulcraft Brewing downtown."
+          },
+          {
+            "day": 3,
+            "title": "Poncha Pass + San Luis Valley \u2014 62mi / 100km",
+            "morning": "South on US-285 to Poncha Pass (9,010ft). At summit: the San Luis Valley \u2014 8,000 sq miles of flat high-altitude basin, ringed by mountains.",
+            "afternoon": "Return north over Poncha Pass. Salida Museum (free) or riverside caf\u00e9.",
+            "evening": "Tenderfoot Mountain 'S' hike \u2014 20 min to the best sunset view of Collegiate Peaks. Moonlight Pizza & Brewpub."
+          }
         ],
         "tips": [
           "Colorado afternoon thunderstorms: start Monarch and Cottonwood by 7am, summit by 10:30am, be descending before noon.",
-          "BikeFlights.com (~$80–120/way) beats airline fees ($150–200) for this route.",
+          "BikeFlights.com (~$80\u2013120/way) beats airline fees ($150\u2013200) for this route.",
           "Altitude: Salida at 7,036ft, Monarch at 11,312ft. Plan one easy day before the big climbs.",
-          "Salida Hot Springs (410 W Rainbow Blvd, ~$10/day) is geothermal-fed — open daily."
+          "Salida Hot Springs (410 W Rainbow Blvd, ~$10/day) is geothermal-fed \u2014 open daily."
         ],
         "sources": [
-          { "title": "Bike Monarch Pass — Colorado Tourism", "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/" }
+          {
+            "title": "Bike Monarch Pass \u2014 Colorado Tourism",
+            "url": "https://www.colorfulcolorado.com/outdoors/biking/road-biking/monarch-pass-summit/"
+          }
         ]
       }
     },
@@ -514,36 +1268,91 @@
       "destination": {
         "city": "Chiang Rai",
         "country": "Thailand",
-        "flag": "🇹🇭",
+        "flag": "\ud83c\uddf9\ud83c\udded",
         "iata": "CEI",
         "lat": 19.9105,
         "lon": 99.8406,
-        "vibe": "A 62,000-person mountain town where Chinese Nationalist soldiers stranded after Mao's 1949 victory planted oolong tea on 1,200-meter ridges and built a Yunnan village that has nothing to do with Thailand — and a 108km road loop climbing 1,700 meters through it waits 40km from your guesthouse, morning clear before the rains arrive."
+        "vibe": "A 62,000-person mountain town where Chinese Nationalist soldiers stranded after Mao's 1949 victory planted oolong tea on 1,200-meter ridges and built a Yunnan village that has nothing to do with Thailand \u2014 and a 108km road loop climbing 1,700 meters through it waits 40km from your guesthouse, morning clear before the rains arrive."
       },
       "flight_search_date": "2026-06-24",
       "flights": [
-        { "airline": "Korean Air", "price_usd": 1025, "outbound_dates": "July–August flexible (Tue/Wed cheapest)", "return_dates": "flexible +7–10 days", "stops": 2, "duration": "~22h total", "url": "https://www.koreanair.com/", "notes": "DTW → ICN → BKK. Add domestic Thai AirAsia or Nok Air BKK(DMK) → CEI, ~$30–45." },
-        { "airline": "EVA Air", "price_usd": 1099, "outbound_dates": "July–August flexible (midweek best)", "return_dates": "flexible +7–10 days", "stops": 2, "duration": "~23h total", "url": "https://flights.evaair.com/", "notes": "DTW → TPE → BKK. Add domestic BKK → CEI separately." }
+        {
+          "airline": "Korean Air",
+          "price_usd": 1025,
+          "outbound_dates": "July\u2013August flexible (Tue/Wed cheapest)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 2,
+          "duration": "~22h total",
+          "url": "https://www.koreanair.com/",
+          "notes": "DTW \u2192 ICN \u2192 BKK. Add domestic Thai AirAsia or Nok Air BKK(DMK) \u2192 CEI, ~$30\u201345."
+        },
+        {
+          "airline": "EVA Air",
+          "price_usd": 1099,
+          "outbound_dates": "July\u2013August flexible (midweek best)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 2,
+          "duration": "~23h total",
+          "url": "https://flights.evaair.com/",
+          "notes": "DTW \u2192 TPE \u2192 BKK. Add domestic BKK \u2192 CEI separately."
+        }
       ],
       "lodging": [
-        { "name": "Bed & Bike Hostel (Poshtel)", "type": "hostel", "price_per_night_usd": 28, "neighborhood": "Chiang Rai city center", "highlights": "Only cycling-dedicated accommodation in Chiang Rai — bike hire, secure storage, coffee shop on-site.", "url": "https://www.booking.com/hotel/th/bed-amp-bike-poshtel.html", "source": "booking" },
-        { "name": "The Legend Chiang Rai Boutique River Resort & Spa", "type": "hotel", "price_per_night_usd": 110, "neighborhood": "Kok River bank", "highlights": "Boutique bungalow resort on the Kok River — spa, pool, riverside dining. Bike rentals on-site.", "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447534-Reviews-The_Legend_Chiang_Rai_Boutique_River_Resort_Spa-Chiang_Rai_Chiang_Rai_Province.html", "source": "booking" }
+        {
+          "name": "Bed & Bike Hostel (Poshtel)",
+          "type": "hostel",
+          "price_per_night_usd": 28,
+          "neighborhood": "Chiang Rai city center",
+          "highlights": "Only cycling-dedicated accommodation in Chiang Rai \u2014 bike hire, secure storage, coffee shop on-site.",
+          "url": "https://www.booking.com/hotel/th/bed-amp-bike-poshtel.html",
+          "source": "booking"
+        },
+        {
+          "name": "The Legend Chiang Rai Boutique River Resort & Spa",
+          "type": "hotel",
+          "price_per_night_usd": 110,
+          "neighborhood": "Kok River bank",
+          "highlights": "Boutique bungalow resort on the Kok River \u2014 spa, pool, riverside dining. Bike rentals on-site.",
+          "url": "https://www.tripadvisor.com/Hotel_Review-g297920-d447534-Reviews-The_Legend_Chiang_Rai_Boutique_River_Resort_Spa-Chiang_Rai_Chiang_Rai_Province.html",
+          "source": "booking"
+        }
       ],
       "itinerary": {
-        "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges pushing to 1,600 meters. July rainy season: reliable morning windows 7am–noon, afternoon thunderstorms daily.",
+        "overview": "Chiang Rai sits at 580 meters in Thailand's far north, surrounded by mountain ranges pushing to 1,600 meters. July rainy season: reliable morning windows 7am\u2013noon, afternoon thunderstorms daily.",
         "days": [
-          { "day": 1, "title": "Doi Mae Salong Loop — 108km, 1,729m", "morning": "7am north on Route 1 to Mae Chan (34km flat). West on Route 1130 to Santikhiri (Mae Salong) at 1,200m — Yunnan Chinese KMT enclave. Tea and khao soi.", "afternoon": "Descend south via Route 1234. Back by 1pm. Wat Rong Khun (White Temple).", "evening": "Night Bazaar (6–11pm)." },
-          { "day": 2, "title": "Doi Tung + Golden Triangle — 95km, 1,300m", "morning": "6:30am north to Doi Tung junction. Climb 18km to 1,389m through Mae Fah Luang Royal Project.", "afternoon": "East via Mekong River Road (Route 1016) to Golden Triangle. Hall of Opium museum (800 THB, 2 hrs).", "evening": "Riverside dinner in Sop Ruak watching longtail boats." },
-          { "day": 3, "title": "Chiang Saen River Loop — 80km", "morning": "North on Route 1016. Chiang Saen (55km): Lanna Kingdom former capital, intact walls, Wat Chedi Luang ruins.", "afternoon": "Golden Triangle viewpoint, return south.", "evening": "Saturday Night Walking Street if timing works." }
+          {
+            "day": 1,
+            "title": "Doi Mae Salong Loop \u2014 108km, 1,729m",
+            "morning": "7am north on Route 1 to Mae Chan (34km flat). West on Route 1130 to Santikhiri (Mae Salong) at 1,200m \u2014 Yunnan Chinese KMT enclave. Tea and khao soi.",
+            "afternoon": "Descend south via Route 1234. Back by 1pm. Wat Rong Khun (White Temple).",
+            "evening": "Night Bazaar (6\u201311pm)."
+          },
+          {
+            "day": 2,
+            "title": "Doi Tung + Golden Triangle \u2014 95km, 1,300m",
+            "morning": "6:30am north to Doi Tung junction. Climb 18km to 1,389m through Mae Fah Luang Royal Project.",
+            "afternoon": "East via Mekong River Road (Route 1016) to Golden Triangle. Hall of Opium museum (800 THB, 2 hrs).",
+            "evening": "Riverside dinner in Sop Ruak watching longtail boats."
+          },
+          {
+            "day": 3,
+            "title": "Chiang Saen River Loop \u2014 80km",
+            "morning": "North on Route 1016. Chiang Saen (55km): Lanna Kingdom former capital, intact walls, Wat Chedi Luang ruins.",
+            "afternoon": "Golden Triangle viewpoint, return south.",
+            "evening": "Saturday Night Walking Street if timing works."
+          }
         ],
         "tips": [
           "July rain: start all rides by 7am, plan descent or return by 11:30am.",
-          "Mae Salong grades: up to 22–24% on steepest ramps. Route 1130 surface well-maintained.",
+          "Mae Salong grades: up to 22\u201324% on steepest ramps. Route 1130 surface well-maintained.",
           "Hall of Opium (Sop Ruak): 2 hours minimum. ~800 THB (~$22).",
           "Hydration: Thai 7-Eleven stocks Pocari Sweat and coconut water everywhere including mountain villages."
         ],
         "sources": [
-          { "title": "Doi Mae Salong Chiang Rai road ride — Bicycle Thailand", "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/" }
+          {
+            "title": "Doi Mae Salong Chiang Rai road ride \u2014 Bicycle Thailand",
+            "url": "https://bicyclethailand.com/doi-mae-salong-chiang-rai-road-ride/"
+          }
         ]
       }
     },
@@ -552,48 +1361,348 @@
       "destination": {
         "city": "Ljubljana",
         "country": "Slovenia",
-        "flag": "🇸🇮",
+        "flag": "\ud83c\uddf8\ud83c\uddee",
         "iata": "LJU",
         "lat": 46.0569,
         "lon": 14.5058,
-        "vibe": "Home turf of Tadej Pogačar — where 50 cobbled hairpins climb to 1,611 meters on a road built by Russian WWI prisoners, the Soča runs glacier-turquoise through raw limestone gorges, and summer temperatures in the low 20s mean you can push 80-mile days in the Julian Alps without a 5am alarm."
+        "vibe": "Home turf of Tadej Poga\u010dar \u2014 where 50 cobbled hairpins climb to 1,611 meters on a road built by Russian WWI prisoners, the So\u010da runs glacier-turquoise through raw limestone gorges, and summer temperatures in the low 20s mean you can push 80-mile days in the Julian Alps without a 5am alarm."
       },
       "flight_search_date": "2026-06-23",
       "flights": [
-        { "airline": "Lufthansa", "price_usd": 879, "outbound_dates": "July–August flexible (Tue/Wed cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~15h total", "url": "https://www.lufthansa.com/", "notes": "Connects through Frankfurt (FRA→LJU). Bike fee €100 each way." },
-        { "airline": "Austrian Airlines", "price_usd": 925, "outbound_dates": "July–August flexible (midweek best)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h total", "url": "https://www.austrian.com/", "notes": "Connects through Vienna (VIE→LJU, ~1h). Bike fee €75–100 each way." }
+        {
+          "airline": "Lufthansa",
+          "price_usd": 879,
+          "outbound_dates": "July\u2013August flexible (Tue/Wed cheapest)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~15h total",
+          "url": "https://www.lufthansa.com/",
+          "notes": "Connects through Frankfurt (FRA\u2192LJU). Bike fee \u20ac100 each way."
+        },
+        {
+          "airline": "Austrian Airlines",
+          "price_usd": 925,
+          "outbound_dates": "July\u2013August flexible (midweek best)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~14h total",
+          "url": "https://www.austrian.com/",
+          "notes": "Connects through Vienna (VIE\u2192LJU, ~1h). Bike fee \u20ac75\u2013100 each way."
+        }
       ],
       "lodging": [
-        { "name": "Reset Apartments — Bike Resort Kranjska Gora", "type": "hotel", "price_per_night_usd": 75, "neighborhood": "Kranjska Gora village center", "highlights": "Officially designated 'Bike Resort' — secure indoor bike storage, wash station, drying room. Walking distance to Vršič Pass start.", "url": "https://resetapartments.com/kranjska-gora-and-sorrundings/bike-resort-kranjska-gora/", "source": "booking" },
-        { "name": "Hotel Cubo Ljubljana", "type": "hotel", "price_per_night_usd": 220, "neighborhood": "Ljubljana Old Town — 400m from Triple Bridge", "highlights": "Cycle-friendly certified, confirmed secure bike storage. Perfect first/last night before the Julian Alps.", "url": "https://www.booking.com/hotel/si/cubo.html", "source": "booking" }
+        {
+          "name": "Reset Apartments \u2014 Bike Resort Kranjska Gora",
+          "type": "hotel",
+          "price_per_night_usd": 75,
+          "neighborhood": "Kranjska Gora village center",
+          "highlights": "Officially designated 'Bike Resort' \u2014 secure indoor bike storage, wash station, drying room. Walking distance to Vr\u0161i\u010d Pass start.",
+          "url": "https://resetapartments.com/kranjska-gora-and-sorrundings/bike-resort-kranjska-gora/",
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Cubo Ljubljana",
+          "type": "hotel",
+          "price_per_night_usd": 220,
+          "neighborhood": "Ljubljana Old Town \u2014 400m from Triple Bridge",
+          "highlights": "Cycle-friendly certified, confirmed secure bike storage. Perfect first/last night before the Julian Alps.",
+          "url": "https://www.booking.com/hotel/si/cubo.html",
+          "source": "booking"
+        }
       ],
       "itinerary": {
-        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Pogačar. Within a day's ride: 1,611 meters on Vršič Pass, 50 hairpin turns, cobbled bends 5–9, the Soča Valley below.",
+        "overview": "Ljubljana sits at the foot of the Julian Alps, 50km from roads that shaped Tadej Poga\u010dar. Within a day's ride: 1,611 meters on Vr\u0161i\u010d Pass, 50 hairpin turns, cobbled bends 5\u20139, the So\u010da Valley below.",
         "days": [
-          { "day": 1, "title": "Ljubljana → Bled via Sava Valley — 75 miles, 1,200m", "morning": "Northwest from Dragon Bridge along Sava River. Stop in Kranj (32km) on a limestone peninsula. Continue to Bled.", "afternoon": "Lake Bled circuit (6km). Ojstrica viewpoint (20% pitch). Optional Pokljuka Plateau biathlon venue.", "evening": "Gostilna Pri Planincu (Grajska cesta 8). Bled Castle night view." },
-          { "day": 2, "title": "Vršič Pass Queen Stage — 88km, 1,900m", "morning": "Start Kranjska Gora 7am. Vršič climb (12km to 1,611m): bends 5–9 cobbled at 15–17%, 1916 WWI prisoner-built road. Russian Orthodox Chapel at bend #8.", "afternoon": "Descend 26 hairpins into Trenta Valley. Soča source (cold blue-green pool from limestone grotto). Valley 26km to Bovec.", "evening": "Bovška trout and polenta in Bovec. Wade the Soča (8–12°C ice bath)." },
-          { "day": 3, "title": "Mangart Saddle — 90km, 2,200m", "morning": "7am from Bovec. East at Koritnica Valley junction to Mangart. Climb 10km to 2,072m through five dark tunnels (front light required), grades to 25%.", "afternoon": "Descend to Bovec. South to Kobarid (12km) — Hemingway's A Farewell to Arms. Kobarid Museum (European Museum of the Year 1993).", "evening": "Return to Kranjska Gora or Ljubljana for flight connection." }
+          {
+            "day": 1,
+            "title": "Ljubljana \u2192 Bled via Sava Valley \u2014 75 miles, 1,200m",
+            "morning": "Northwest from Dragon Bridge along Sava River. Stop in Kranj (32km) on a limestone peninsula. Continue to Bled.",
+            "afternoon": "Lake Bled circuit (6km). Ojstrica viewpoint (20% pitch). Optional Pokljuka Plateau biathlon venue.",
+            "evening": "Gostilna Pri Planincu (Grajska cesta 8). Bled Castle night view."
+          },
+          {
+            "day": 2,
+            "title": "Vr\u0161i\u010d Pass Queen Stage \u2014 88km, 1,900m",
+            "morning": "Start Kranjska Gora 7am. Vr\u0161i\u010d climb (12km to 1,611m): bends 5\u20139 cobbled at 15\u201317%, 1916 WWI prisoner-built road. Russian Orthodox Chapel at bend #8.",
+            "afternoon": "Descend 26 hairpins into Trenta Valley. So\u010da source (cold blue-green pool from limestone grotto). Valley 26km to Bovec.",
+            "evening": "Bov\u0161ka trout and polenta in Bovec. Wade the So\u010da (8\u201312\u00b0C ice bath)."
+          },
+          {
+            "day": 3,
+            "title": "Mangart Saddle \u2014 90km, 2,200m",
+            "morning": "7am from Bovec. East at Koritnica Valley junction to Mangart. Climb 10km to 2,072m through five dark tunnels (front light required), grades to 25%.",
+            "afternoon": "Descend to Bovec. South to Kobarid (12km) \u2014 Hemingway's A Farewell to Arms. Kobarid Museum (European Museum of the Year 1993).",
+            "evening": "Return to Kranjska Gora or Ljubljana for flight connection."
+          }
         ],
         "tips": [
-          "Vršič cobbled hairpins (bends 5–9): commit to gear before cobbles — a shift at 15% on rough stone can snap a chain. Wide tires (28–32c) recommended.",
+          "Vr\u0161i\u010d cobbled hairpins (bends 5\u20139): commit to gear before cobbles \u2014 a shift at 15% on rough stone can snap a chain. Wide tires (28\u201332c) recommended.",
           "Mangart tunnels: front light mandatory, five tunnels, longest ~90 seconds at climbing pace.",
-          "Alpine afternoon weather: July thunderstorms by 1–2pm over Triglav. Be off exposed ridges by noon.",
-          "Soča River: 8–12°C even in July. A 10-min wade after Day 2 is the best ice-bath at altitude."
+          "Alpine afternoon weather: July thunderstorms by 1\u20132pm over Triglav. Be off exposed ridges by noon.",
+          "So\u010da River: 8\u201312\u00b0C even in July. A 10-min wade after Day 2 is the best ice-bath at altitude."
         ],
         "sources": [
-          { "title": "Cycling Slovenia's Julian Alps — Epic Road Rides", "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/" },
-          { "title": "Vršič Pass climb stats — Pjamm Cycling", "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic" }
+          {
+            "title": "Cycling Slovenia's Julian Alps \u2014 Epic Road Rides",
+            "url": "https://epicroadrides.com/destinations/cycling-slovenia/julian-alps/"
+          },
+          {
+            "title": "Vr\u0161i\u010d Pass climb stats \u2014 Pjamm Cycling",
+            "url": "https://pjammcycling.com/climb/1220.Prelaz-Vrsic"
+          }
         ]
       }
     },
-    { "updated": "2026-06-23", "destination": { "city": "Seville", "country": "Spain", "flag": "🇪🇸", "iata": "SVQ", "lat": 37.3891, "lon": -5.9845, "vibe": "The flattest big city in Europe, wrapped in Moorish palaces and orange trees, with 180km of dedicated bike lanes connecting neighborhoods that haven't changed in 500 years — you just have to be on the road before the sun gets serious." }, "flight_search_date": "2026-06-23", "flights": [ { "airline": "Turkish Airlines", "price_usd": 849, "outbound_dates": "July–August flexible (Tue/Wed cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~17h total", "url": "https://www.turkishairlines.com/", "notes": "Connects through Istanbul. Bike fees €50–80 each way." }, { "airline": "Iberia", "price_usd": 910, "outbound_dates": "July–August flexible (midweek cheapest)", "return_dates": "flexible +7–10 days", "stops": 1, "duration": "~14h total", "url": "https://www.iberia.com/", "notes": "Connects through Madrid (MAD→SVQ, 1h15m shuttle). Bike fees €50–100 each way." } ], "lodging": [ { "name": "Hotel Corral del Rey", "type": "hotel", "price_per_night_usd": 280, "neighborhood": "Santa Cruz", "highlights": "17th-century merchant's townhouse, four courtyards, 13 rooms. Secure bike storage. Most atmospheric address in Seville.", "url": "https://www.corraldelrey.com/en/", "source": "booking" } ], "itinerary": { "overview": "Seville has 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars. Completely flat. The catch: July temperatures hit 40–43°C by noon. All serious cycling before 9am or after 6:30pm.", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-23", "destination": { "city": "Athens", "country": "Greece", "flag": "🇬🇷", "iata": "ATH", "lat": 37.9838, "lon": 23.7275, "vibe": "The birthplace of democracy, tragedy, and the gyro — where a 2,500-year-old citadel glows gold at sunset over a city of five million, a souvlaki costs €4, and nothing serious happens before 9pm." }, "flight_search_date": "2026-06-23", "flights": [ { "airline": "Turkish Airlines", "price_usd": 849, "outbound_dates": "July–August flexible (midweek cheapest)", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~15h total", "url": "https://www.turkishairlines.com/", "notes": "Connects through Istanbul." }, { "airline": "Delta Air Lines", "price_usd": 981, "outbound_dates": "Jul 12–28 (midweek saves ~$60)", "return_dates": "flexible +7–14 days", "stops": 1, "duration": "~17h total", "url": "https://www.delta.com/", "notes": "Connects through JFK or ATL." } ], "lodging": [ { "name": "AthensWas Design Hotel", "type": "hotel", "price_per_night_usd": 210, "neighborhood": "Makrygianni / Dionysiou Areopagitou", "highlights": "21 rooms on the pedestrian promenade directly below the Acropolis with unobstructed Parthenon views.", "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html", "source": "booking" } ], "itinerary": { "overview": "Athens is not a museum with a city around it — it's a city of five million that happens to have an intact 5th-century BC temple on its central hill.", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-22", "destination": { "city": "Bologna", "country": "Italy", "flag": "🇮🇹", "iata": "BLQ", "lat": 44.4949, "lon": 11.3426, "vibe": "The city that taught Europe to eat — 900 years of university life, the world's longest portico, tagliatelle al ragù that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them." }, "flight_search_date": "2026-06-22", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-22", "destination": { "city": "Medellín", "country": "Colombia", "flag": "🇨🇴", "iata": "MDE", "lat": 6.2442, "lon": -75.5812, "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation — and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride." }, "flight_search_date": "2026-06-22", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-22", "destination": { "city": "Bangkok", "country": "Thailand", "flag": "🇹🇭", "iata": "BKK", "lat": 13.7563, "lon": 100.5018, "vibe": "No nonstops, no problem — Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years." }, "flight_search_date": "2026-06-22", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-19", "destination": { "city": "Mexico City", "country": "Mexico", "flag": "🇲🇽", "iata": "MEX", "lat": 19.4326, "lon": -99.1332, "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions." }, "flight_search_date": "2026-06-19", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-19", "destination": { "city": "Lisbon", "country": "Portugal", "flag": "🇵🇹", "iata": "LIS", "lat": 38.7169, "lon": -9.1399, "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented — all held together by custard tarts and cheap wine." }, "flight_search_date": "2026-06-19", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-19", "destination": { "city": "Taipei", "country": "Taiwan", "flag": "🇹🇼", "iata": "TPE", "lat": 25.0330, "lon": 121.5654, "vibe": "A city that does everything well and brags about none of it — temples next to bubble tea next to Michelin stalls next to the world's best convenience stores." }, "flight_search_date": "2026-06-19", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } },
-    { "updated": "2026-06-19", "destination": { "city": "Seoul", "country": "South Korea", "flag": "🇰🇷", "iata": "ICN", "lat": 37.5665, "lon": 126.9780, "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture — all running at 5G." }, "flight_search_date": "2026-06-19", "flights": [], "lodging": [], "itinerary": { "overview": "", "days": [], "tips": [], "sources": [] } }
+    {
+      "updated": "2026-06-23",
+      "destination": {
+        "city": "Seville",
+        "country": "Spain",
+        "flag": "\ud83c\uddea\ud83c\uddf8",
+        "iata": "SVQ",
+        "lat": 37.3891,
+        "lon": -5.9845,
+        "vibe": "The flattest big city in Europe, wrapped in Moorish palaces and orange trees, with 180km of dedicated bike lanes connecting neighborhoods that haven't changed in 500 years \u2014 you just have to be on the road before the sun gets serious."
+      },
+      "flight_search_date": "2026-06-23",
+      "flights": [
+        {
+          "airline": "Turkish Airlines",
+          "price_usd": 849,
+          "outbound_dates": "July\u2013August flexible (Tue/Wed cheapest)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~17h total",
+          "url": "https://www.turkishairlines.com/",
+          "notes": "Connects through Istanbul. Bike fees \u20ac50\u201380 each way."
+        },
+        {
+          "airline": "Iberia",
+          "price_usd": 910,
+          "outbound_dates": "July\u2013August flexible (midweek cheapest)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~14h total",
+          "url": "https://www.iberia.com/",
+          "notes": "Connects through Madrid (MAD\u2192SVQ, 1h15m shuttle). Bike fees \u20ac50\u2013100 each way."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Hotel Corral del Rey",
+          "type": "hotel",
+          "price_per_night_usd": 280,
+          "neighborhood": "Santa Cruz",
+          "highlights": "17th-century merchant's townhouse, four courtyards, 13 rooms. Secure bike storage. Most atmospheric address in Seville.",
+          "url": "https://www.corraldelrey.com/en/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Seville has 180km of separated bike lanes through a city of Moorish palaces, orange trees, and flamenco bars. Completely flat. The catch: July temperatures hit 40\u201343\u00b0C by noon. All serious cycling before 9am or after 6:30pm.",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-23",
+      "destination": {
+        "city": "Athens",
+        "country": "Greece",
+        "flag": "\ud83c\uddec\ud83c\uddf7",
+        "iata": "ATH",
+        "lat": 37.9838,
+        "lon": 23.7275,
+        "vibe": "The birthplace of democracy, tragedy, and the gyro \u2014 where a 2,500-year-old citadel glows gold at sunset over a city of five million, a souvlaki costs \u20ac4, and nothing serious happens before 9pm."
+      },
+      "flight_search_date": "2026-06-23",
+      "flights": [
+        {
+          "airline": "Turkish Airlines",
+          "price_usd": 849,
+          "outbound_dates": "July\u2013August flexible (midweek cheapest)",
+          "return_dates": "flexible +7\u201314 days",
+          "stops": 1,
+          "duration": "~15h total",
+          "url": "https://www.turkishairlines.com/",
+          "notes": "Connects through Istanbul."
+        },
+        {
+          "airline": "Delta Air Lines",
+          "price_usd": 981,
+          "outbound_dates": "Jul 12\u201328 (midweek saves ~$60)",
+          "return_dates": "flexible +7\u201314 days",
+          "stops": 1,
+          "duration": "~17h total",
+          "url": "https://www.delta.com/",
+          "notes": "Connects through JFK or ATL."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "AthensWas Design Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 210,
+          "neighborhood": "Makrygianni / Dionysiou Areopagitou",
+          "highlights": "21 rooms on the pedestrian promenade directly below the Acropolis with unobstructed Parthenon views.",
+          "url": "https://www.booking.com/hotel/gr/athensvas-design-hotel.html",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Athens is not a museum with a city around it \u2014 it's a city of five million that happens to have an intact 5th-century BC temple on its central hill.",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-22",
+      "destination": {
+        "city": "Bologna",
+        "country": "Italy",
+        "flag": "\ud83c\uddee\ud83c\uddf9",
+        "iata": "BLQ",
+        "lat": 44.4949,
+        "lon": 11.3426,
+        "vibe": "The city that taught Europe to eat \u2014 900 years of university life, the world's longest portico, tagliatelle al rag\u00f9 that has nothing to do with 'spaghetti bolognese,' and terracotta buildings so red they named a political color after them."
+      },
+      "flight_search_date": "2026-06-22",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-22",
+      "destination": {
+        "city": "Medell\u00edn",
+        "country": "Colombia",
+        "flag": "\ud83c\udde8\ud83c\uddf4",
+        "iata": "MDE",
+        "lat": 6.2442,
+        "lon": -75.5812,
+        "vibe": "The city that went from narco capital to Most Innovative City on Earth in one generation \u2014 and is now doing it again with food, coffee, street art, and a metro system that's become a point of civic pride."
+      },
+      "flight_search_date": "2026-06-22",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-22",
+      "destination": {
+        "city": "Bangkok",
+        "country": "Thailand",
+        "flag": "\ud83c\uddf9\ud83c\udded",
+        "iata": "BKK",
+        "lat": 13.7563,
+        "lon": 100.5018,
+        "vibe": "No nonstops, no problem \u2014 Bangkok rewards the extra hours in transit with 12 million people, temples against skyscrapers, Michelin street food for $1, and the baht weaker than it's been in years."
+      },
+      "flight_search_date": "2026-06-22",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
+        "city": "Mexico City",
+        "country": "Mexico",
+        "flag": "\ud83c\uddf2\ud83c\uddfd",
+        "iata": "MEX",
+        "lat": 19.4326,
+        "lon": -99.1332,
+        "vibe": "Twenty-two million people, the world's best street tacos, Diego Rivera murals on government buildings, Frida's blue house, Aztec ruins under a baroque cathedral, mezcal bars in converted mansions."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "flag": "\ud83c\uddf5\ud83c\uddf9",
+        "iata": "LIS",
+        "lat": 38.7169,
+        "lon": -9.1399,
+        "vibe": "Seven hills, a 1755 earthquake that flattened everything and got rebuilt fast, 600 years of seafaring bravado, and the most melancholic pop music genre ever invented \u2014 all held together by custard tarts and cheap wine."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
+        "city": "Taipei",
+        "country": "Taiwan",
+        "flag": "\ud83c\uddf9\ud83c\uddfc",
+        "iata": "TPE",
+        "lat": 25.033,
+        "lon": 121.5654,
+        "vibe": "A city that does everything well and brags about none of it \u2014 temples next to bubble tea next to Michelin stalls next to the world's best convenience stores."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    },
+    {
+      "updated": "2026-06-19",
+      "destination": {
+        "city": "Seoul",
+        "country": "South Korea",
+        "flag": "\ud83c\uddf0\ud83c\uddf7",
+        "iata": "ICN",
+        "lat": 37.5665,
+        "lon": 126.978,
+        "vibe": "Ten million people, 600 years of history, and the world's most obsessive food culture \u2014 all running at 5G."
+      },
+      "flight_search_date": "2026-06-19",
+      "flights": [],
+      "lodging": [],
+      "itinerary": {
+        "overview": "",
+        "days": [],
+        "tips": [],
+        "sources": []
+      }
+    }
   ]
 }

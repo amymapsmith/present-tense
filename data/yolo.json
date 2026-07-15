@@ -1,121 +1,97 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-14",
+  "trip_type": "drive",
   "destination": {
-    "city": "Porto",
-    "country": "Portugal",
-    "flag": "🇵🇹",
-    "iata": "OPO",
-    "lat": 41.1579,
-    "lon": -8.6291,
-    "vibe": "A steep, crumbling, gorgeous port city on the Douro where the wine has its own name, the tiles are UNESCO-protected, the bookshop allegedly inspired Harry Potter, and a francesinha — a gravy-drenched meat sandwich of aggressive ambition — will ruin you for sandwiches elsewhere."
+    "city": "Houghton Lake",
+    "region": "Roscommon County, Michigan",
+    "country": "USA",
+    "flag": "🇺🇸",
+    "lat": 44.3095,
+    "lon": -84.7614,
+    "vibe": "Michigan's largest inland lake — 20,000+ acres of wide, shallow, forgiving water ringed by cedar swamp, a Depression-era CCC museum, and two of the state's most underrated state parks."
   },
-  "flight_search_date": "2026-07-02",
-  "flights": [
-    {
-      "airline": "TAP Air Portugal",
-      "price_usd": 673,
-      "outbound_dates": "Late July–early August 2026 (Tue/Wed departures cheapest; flexible dates)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~13–14h total (DTW→LIS ~8h 30m, LIS→OPO ~55m domestic shuttle)",
-      "url": "https://www.flytap.com/en_us/flights-to-porto",
-      "notes": "Best option for Porto directly — TAP connects through Lisbon (LIS) with a short domestic hop to OPO. The Lisbon layover can be 1–3 hours. TAP's Portugal Stopover program lets you add Lisbon for free on the way in or out. Book at flytap.com for best fares and any promotional deals."
-    },
-    {
-      "airline": "Delta Air Lines",
-      "price_usd": 483,
-      "outbound_dates": "July–August 2026 (midweek Tue/Wed cheapest; flexible dates calendar at delta.com)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~14–16h total (typically via ATL or JFK, then LIS or CDG to OPO)",
-      "url": "https://www.delta.com/",
-      "notes": "Delta codeshares with Air France/KLM on transatlantic routes — fares from $483 RT per Travelocity data. Check the flexible dates calendar. Connecting through Paris CDG or Amsterdam AMS to OPO are common routings. Delta SkyMiles redemptions sometimes offer good value here."
-    },
-    {
-      "airline": "Lufthansa / SWISS",
-      "price_usd": 601,
-      "outbound_dates": "Late July–early August 2026 (Tue/Wed lowest)",
-      "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~14–15h total (DTW→FRA or ZRH, then OPO)",
-      "url": "https://www.lufthansa.com/",
-      "notes": "Lufthansa connects through Frankfurt (FRA→OPO); SWISS through Zurich (ZRH→OPO). Both are Star Alliance partners — good for United MileagePlus redemptions. SWISS fares from $601 RT per Skyscanner data. Lufthansa often prices similarly or slightly lower."
-    }
-  ],
+  "travel": {
+    "from": "Ann Arbor, MI",
+    "to": "Houghton Lake, MI",
+    "route": "US-23 N through Bay City, then M-55 W",
+    "distance_miles": 176,
+    "drive_time": "~2h 52m",
+    "notes": "Sits about 25 miles / 30 minutes south of Grayling on the same north-south corridor — easy to combine with or swap for that trip if you want a lake instead of a river."
+  },
   "lodging": [
     {
-      "name": "The Passenger Hostel",
-      "type": "hostel",
-      "price_per_night_usd": 110,
-      "neighborhood": "São Bento / Baixa (city center)",
-      "highlights": "Located inside São Bento Station — the most beautiful train station in the world, according to reasonable people — with private rooms from €98/night, free breakfast included, and a 9.7/10 rating on Hostelworld. Staying here means you wake up inside a UNESCO World Heritage Site.",
-      "url": "https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/",
-      "source": "hostelworld"
-    },
-    {
-      "name": "Bonfim Apartment (Airbnb)",
-      "type": "airbnb",
-      "price_per_night_usd": 80,
-      "neighborhood": "Bonfim",
-      "highlights": "Entire apartment in Porto's coolest neighborhood — the Guardian named Bonfim one of the coolest neighborhoods in Europe. Art students, good coffee, restaurants where locals actually eat, and a 15-minute walk to the Ribeira. Much better base than a hotel in the tourist core.",
-      "url": "https://www.airbnb.com/s/Bonfim--Porto--Portugal/homes",
-      "source": "airbnb"
-    },
-    {
-      "name": "Torel Avantgarde",
+      "name": "Lakeside Resort and Conference Center",
       "type": "hotel",
-      "price_per_night_usd": 268,
-      "neighborhood": "Miragaia (between Ribeira and Bonfim)",
-      "highlights": "Boutique design hotel in the Miragaia neighborhood with Douro River views, a rooftop infinity pool, and individually themed rooms — 10-minute walk from the Dom Luís I Bridge and the port wine cellars of Vila Nova de Gaia.",
-      "url": "https://www.booking.com/district/pt/porto/miragaia.html",
-      "source": "booking"
+      "price_per_night_usd": 95,
+      "neighborhood": "Clearview Drive, ~2.5 miles from downtown Houghton Lake",
+      "highlights": "The cheap, family-value pick — an indoor water park with a lazy river and slides is included with the room, plus an arcade and on-site restaurant. Less about the nature, more about a comfortable, inexpensive base.",
+      "url": "https://www.lakesideresortandconferencecenter.com/",
+      "source": "direct"
+    },
+    {
+      "name": "Beachfront Hotel Houghton Lake",
+      "type": "hotel",
+      "price_per_night_usd": 130,
+      "neighborhood": "Directly on Houghton Lake's shoreline",
+      "highlights": "48 rooms with private balconies (12 with jacuzzis), an indoor pool and hot tub, and a 14-slip private dock with free boat parking — the pick if you actually want to wake up on the water. July rates run higher than the rest of the year; book ahead.",
+      "url": "https://www.beachfronthl.com/",
+      "source": "direct"
+    },
+    {
+      "name": "Lakefront chalet on Houghton Lake",
+      "type": "airbnb",
+      "price_per_night_usd": 350,
+      "neighborhood": "North Shore, Houghton Lake",
+      "highlights": "5-bedroom lakefront homes with private docks and fire pits show up regularly in this search — the splurge option if you're bringing a group and want a real dock and a private beach instead of a hotel balcony.",
+      "url": "https://www.airbnb.com/houghton-lake-mi/stays/lakehouses",
+      "source": "airbnb"
     }
   ],
   "itinerary": {
-    "overview": "Porto is Portugal's second city and first in the hearts of most people who go there. It's built on schist cliffs above the Douro, and the whole historic center — the Ribeira, São Bento, Miragaia, the medieval lanes climbing toward Clérigos Tower — is UNESCO-listed. July is warm (mid-20s°C), the light is extraordinary in the evening, and the city is busy but not yet suffocating. Three days: one for the city's bones, one for the neighborhoods that actually matter, one for the Douro Valley and port wine cellars that gave Porto its name.",
+    "overview": "Houghton Lake is Michigan's biggest inland lake by surface area — 20,044 acres, but wide and shallow (averaging 7–8 feet), so it's a swim-far-from-shore kind of lake rather than a deep, dramatic one. What makes it worth a nature-focused trip is what surrounds it: one of the largest wilderness wetlands left in the Lower Peninsula to the north, and two quietly excellent state parks on nearby Higgins Lake to the northeast. It's unpretentious and a little worn-in — more Up North fishing town than resort town — which is exactly the appeal if you've already done the more polished version of this trip.",
     "days": [
       {
         "day": 1,
-        "title": "The City's Bones: Tiles, Towers, and the Bridge at Sunset",
-        "morning": "Start at São Bento Station (Praça de Almeida Garrett) first thing — get there by 9am before the tour groups arrive. The 20,000 azulejo tiles in the grand hall were painted by Jorge Colaço between 1905 and 1916, depicting scenes from Portuguese history. Free to enter. Spend 20 minutes just looking up. Then walk five minutes up to the Cathedral (Sé do Porto) — the cloisters inside have more 18th-century azulejos, blue-and-white biblical scenes covering every surface. Clérigos Tower is two blocks northwest: 240 steep spiral steps, €8 (or €10 with the church and museum), genuinely worth the climb for the 360° view of the city's terracotta rooftops and the Douro below.",
-        "afternoon": "Lunch at Café Santiago on Rua de Passos Manuel — the traditionalist vote for best francesinha in Porto, open since 1959. Order the francesinha, order a beer, do not ask for anything to be modified. The sandwich arrives in a pool of tomato-beer-and-meat sauce, topped with melted cheese and a fried egg, with chips alongside. It is the most Porto thing you can eat and it will take you an hour to finish. Walk down to the Ribeira waterfront afterward — the quayside promenade of pastel townhouses along the Douro. Take the lower deck of the Dom Luís I Bridge on foot to cross to Vila Nova de Gaia on the south bank.",
-        "evening": "Vila Nova de Gaia is where all the port wine lodges are — Sandeman, Taylor's, Graham's, Ramos Pinto — lined up along the south bank of the Douro with their painted signs facing Porto across the river. Do a tasting at Taylor's Fladgate (Rua do Choupelo 250): they have the best terrace in Gaia with an unobstructed view of Porto's hillside at dusk, and the tasting format is more serious than most. Then cross back over the upper deck of the Dom Luís I Bridge — at pedestrian level, 60 meters above the river — as the light goes golden on the Ribeira below. This is the moment Porto earns the postcard."
+        "title": "Arrival: Onto the Water",
+        "morning": "It's about 2h52m up from Ann Arbor — US-23 N through Bay City, then M-55 W into Roscommon County.",
+        "afternoon": "Check in, then get on or in the lake — it's shallow enough near shore to wade out a long way, which makes it an easy, low-stakes swim. Walk a stretch of the Houghton Lake Nature Trail for an easy orientation to the area's woods and wetlands.",
+        "evening": "Dinner at Buccilli's for pizza, or drive 10 minutes to Irish Kilt Brewing Company in Roscommon — a genuinely local spot (opened by former Red Wing Darren McCarty) that's a better bet than the places directly on the Houghton Lake strip. If your lodging has a dock or fire pit, Houghton Lake's width makes for unusually long, flat sunsets."
       },
       {
         "day": 2,
-        "title": "Neighborhoods: Bonfim, Cedofeita, Serralves, and the Fish at Matosinhos",
-        "morning": "Start in Bonfim — take the Linha D tram or walk 20 minutes east from the city center. This is Porto's neighborhood of the moment: art students, independent cafés, a grittiness that hasn't been sanded off yet. Coffee at a local pastelaria (not a tourist café — look for the ones with fluorescent lighting and old men at the counter). Walk Rua de Bonfim and Rua do Bonfim. Then find Mercado do Bolhão (Rua Formosa) — the restored 19th-century iron-and-tile market that reopened in 2022, two floors of fresh produce, fish, cheese, presunto, flowers. Locals still shop here; buy a bag of cherries or a piece of local sheep cheese.",
-        "afternoon": "Take the Metro (Line B or D, direction Póvoa / Braga) north to Matosinhos Sul — 20 minutes, about €2. Matosinhos is a working fishing port immediately north of Porto that almost no tourists bother with. Walk from the metro straight to Rua Heróis de França or Rua de António Nobre and pick a seafood restaurant — look for grilled fish displayed in the window, tables with paper on top. Order choco grelhado (grilled cuttlefish) or a dourada (sea bream) with boiled potatoes and olive oil. This is the best and cheapest seafood within reach of Porto, and you are eating it 50 meters from the Atlantic. Back in Porto by 4pm: walk Cedofeita, the neighborhood between Bonfim and Clérigos. Rua de Cedofeita has independent bookshops, vintage clothes, decent coffee.",
-        "evening": "Serralves Foundation (Rua Dom João de Castro 210) — the Pritzker Prize-winning Álvaro Siza Vieira-designed contemporary art museum set in 18 hectares of gardens around a 1930s Art Deco pink villa. Open until 8pm in summer. The gardens alone justify the €12 admission: formal paths through rhododendron groves, a kitchen garden, modernist follies. Have dinner in Cedofeita or Bonfim afterward — Euskalduna Studio (Rua de Santo Ildefonso 404) is the most celebrated kitchen in Porto right now, Michelin-starred, tasting menu only, book three to four weeks ahead. If you can't get in, try Cantinho do Avillez (Rua Mouzinho da Silveira 166) for a less austere but excellent take on modern Portuguese cooking."
+        "title": "Cedar Swamp, Then a Second Lake",
+        "morning": "Put a canoe or kayak into the Dead Stream Flooding State Wildlife Management Area — one of the largest wilderness wetlands left in Michigan's Lower Peninsula, centered on the Muskegon River just north of Houghton Lake. Most of it is accessible only by water: flooded northern white cedar swamp, largemouth bass, pike, and enough bends and channels that it's worth bringing a map or going with someone who's paddled it before.",
+        "afternoon": "Drive about 20 minutes to South Higgins Lake State Park and hike the 5.5-mile Marl Lake trail loop — the park's quieter, less-developed section, wrapped around a smaller lake instead of the busy main beach. If you have another 30 minutes, continue to North Higgins Lake State Park for the Michigan CCC Museum, a genuinely well-done and under-visited exhibit on the Depression-era Civilian Conservation Corps, which planted 484 million trees across the state.",
+        "evening": "Back to Roscommon or Houghton Lake for dinner — Irish Kilt again if you liked it, or Little Boots if you want something more low-key."
       },
       {
         "day": 3,
-        "title": "Douro Valley Day Trip: Vineyards, Terraces, and the River Train Home",
-        "morning": "Take the Linha do Douro train from Porto Campanhã station to Pinhão — the most scenic train journey in Portugal, 2 hours 15 minutes along the Douro River as it cuts through schist gorge country, the terraced vineyards rising from the water. Buy your ticket at Campanhã the night before (trains at 8:04am and 9:34am, about €12 one-way). Pinhão station itself is covered in azulejo tile panels depicting port wine harvest scenes from the 1930s. From Pinhão, you are in the Douro Demarcated Region — the oldest protected wine region in the world, established in 1756.",
-        "afternoon": "Quinta do Crasto (reachable by taxi from Pinhão, ~15 minutes) or Quinta do Portal are both worth visiting for a tasting and tour — the Port and Douro DOC wines are the point, but the views from the terraces are extraordinary: mountains of stacked schist, rivers of green, absolute silence except for the occasional tractor. Lunch at a quinta restaurant or in Pinhão village — order grilled local trout with roasted potatoes and a glass of Douro white. Take the return train from Pinhão to Porto Campanhã in the afternoon (trains at 4:06pm or 5:52pm). The westbound journey is equally beautiful and the light is better in the late afternoon.",
-        "evening": "Back in Porto by 6:30–7pm. Final dinner in the Ribeira or Miragaia — Casa de Chá da Boa Nova (Rua do Boa Nova, Leça da Palmeira, about 20 minutes north by Uber) is Porto's finest restaurant and sits in a Álvaro Siza Vieira-designed tea house on rocks above the Atlantic, but it requires advance booking. More practically: Taberna dos Mercadores (Rua dos Mercadores 36, in the Ribeira) for serious traditional Portuguese at prices that don't require a second mortgage. Order the bacalhau à Gomes de Sá — salt cod with potatoes, olives, hard-boiled egg, and olive oil, the Porto standard-bearer — and a bottle of Douro red from what you just tasted today."
+        "title": "One More Trail, Then Home",
+        "morning": "Hike the Lost Twin Lakes Pathway in the AuSable State Forest — a 3.3-mile loop through quiet forest, a good last walk before the drive.",
+        "afternoon": "Head home — about 2h52m back down to Ann Arbor via M-55 and US-23.",
+        "evening": "Home in time for dinner."
       }
     ],
     "tips": [
-      "The francesinha is a lunch food. The best versions — Café Santiago (Rua de Passos Manuel 226), Cervejaria Brasão Coliseu (Rua de Passos Manuel 195), Cervejaria Gazela (Rua Álvares Cabral 74) — run out or get slammed by 1:30pm. Arrive hungry at noon. Do not ask for it to be less intense; it is supposed to be that intense.",
-      "Livraria Lello (Rua das Carmelitas 144) requires a pre-booked €8 ticket that's redeemable against a book purchase. Go at 9am when it opens to avoid the tour-group scrum. The bookshop is genuinely beautiful — neo-Gothic red staircase, stained glass ceiling — but the Harry Potter connection is largely marketing; Rowling taught English in Porto before the books existed, and the connection is disputed. Worth seeing, not worth suffering a crowd for.",
-      "TAP Air Portugal's Portugal Stopover program lets you add a free stop in Lisbon on the way to or from Porto. If you're flying TAP and have a day to spare, take it — Lisbon is 3 hours by train anyway, but a free extra night there is a different thing entirely.",
-      "Matosinhos is the open secret. Every food-serious person who comes to Porto ends up there — 20 minutes on the Metro, grilled fish at the harbor for €12 including wine. The tourists are all in the Ribeira eating €25 mediocre seafood. You do not have to be.",
-      "The Linha do Douro train to Pinhão is better than any wine tour bus. You can go independently, buy tickets at Campanhã station, and move at your own pace. The journey itself is the attraction — 130km of river gorge, the terraces of the Douro DOC rising on both banks. Book tickets the evening before or morning of; the trains are not usually sold out mid-week.",
-      "Serralves is underrated. The architecture and gardens at the Serralves Foundation (Rua Dom João de Castro 210) are worth the visit even if the current exhibition is mediocre. The Art Deco Casa de Serralves villa from the 1930s inside the grounds is one of the finest examples of the period in Portugal. Budget 2.5 hours total, not the 45 minutes most visitors give it."
+      "Houghton Lake is wide and shallow, not deep — great for swimming far from shore or paddling, less interesting if you're hoping for a dramatic, clear-water lake like Torch Lake further north.",
+      "Dead Stream Swamp is mostly water-access only and easy to get turned around in — download a map beforehand or go with someone who's paddled it, rather than winging it on a first visit.",
+      "South Higgins Lake's Marl Lake section is the antidote to the park's huge, busy main campground — go there specifically if you want quiet trails instead of a crowded beach.",
+      "The Michigan CCC Museum at North Higgins Lake State Park is easy to skip and shouldn't be — it's a small, well-curated piece of Depression-era Michigan history that most lake visitors never bother with.",
+      "Irish Kilt Brewing Company in Roscommon is the actual local hangout, not a tourist-facing spot on the main strip — better food and beer than most places directly in Houghton Lake town.",
+      "July is the priciest and busiest month for lodging here — rates run close to double what they are in shoulder season, so book lodging early or aim for right after the July 4th week when things quiet down."
     ],
     "sources": [
-      { "title": "Ultimate Porto Itinerary 2026 — Hungry Pursuit", "url": "https://hungrypursuit.com/the-ultimate-porto-itinerary/" },
-      { "title": "Porto Travel Guide 2026: Top Attractions, Hidden Gems & Local Tips — Tourism Attractions", "url": "https://tourismattractions.net/portugal/porto" },
-      { "title": "3-Day Porto Travel Guide 2026 — Winalist", "url": "https://www.winalist.com/blog/portugal-wine-region/douro-valley/porto-travel-guide" },
-      { "title": "Best Francesinha in Porto — Portoalities", "url": "https://portoalities.com/en/best-francesinha-in-porto/" },
-      { "title": "Bonfim neighborhood guide — Portoalities", "url": "https://portoalities.com/en/guide-bonfim-neighborhood/" },
-      { "title": "Top wineries in the Douro Valley 2026 — Portoalities", "url": "https://portoalities.com/en/top-wineries-in-douro-valley/" },
-      { "title": "53 Best Things to Do in Porto: From Must-Sees to Hidden Gems [2025 Guide] — Boundless Roads", "url": "https://www.boundlessroads.com/things-to-do-in-porto-portugal/" },
-      { "title": "A Local's Guide to Visiting Porto — Go Ask A Local", "url": "https://goaskalocal.com/blog/local-guide-to-porto" },
-      { "title": "Douro Valley Day Trips from Porto 2026 — porto.travel", "url": "https://porto.travel/douro-valley/" },
-      { "title": "The Passenger Hostel Porto — Hostelworld", "url": "https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/" },
-      { "title": "Cheap flights from Detroit to Porto (DTW to OPO) — Expedia", "url": "https://www.expedia.com/lp/flights/dtw/opo/detroit-to-porto" }
+      { "title": "Houghton Lake, MI: Lakeside Bliss & Outdoor Escapes — Michigan.org", "url": "https://www.michigan.org/city/houghton-lake" },
+      { "title": "First Timers Guide to Houghton Lake, Michigan — Brook Walsh", "url": "https://www.brookwalsh.com/blog/first-timers-guide-to-houghton-lake-michigan.html" },
+      { "title": "Dead Stream Flooding State Wildlife Management Area — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dead_Stream_Flooding_State_Wildlife_Management_Area" },
+      { "title": "Dead Stream Swamp — Michigan DNR", "url": "https://www.michigan.gov/dnr/places/natural-areas/dead-stream-swamp" },
+      { "title": "Saturday outing to take canoes, kayaks into Deadstream Swamp — Houghton Lake Resorter", "url": "https://www.houghtonlakeresorter.com/articles/saturday-outing-to-take-canoes-kayaks-into-deadstream-swamp/" },
+      { "title": "South Higgins Lake State Park — Wikipedia", "url": "https://en.wikipedia.org/wiki/South_Higgins_Lake_State_Park" },
+      { "title": "North Higgins Lake State Park — America's State Parks", "url": "https://www.americasstateparks.org/state-park/north-higgins-lake-state-park/" },
+      { "title": "Irish Kilt Brewing Company", "url": "https://www.irishkiltbrewing.com/" },
+      { "title": "Irish Kilt Brewing Company named a 2026 SBDC 'Best Small Business' — Houghton Lake Resorter", "url": "https://www.houghtonlakeresorter.com/articles/irish-kilt-brewing-company-named-a-2026-sbdc-best-small-business/" },
+      { "title": "Beachfront Hotel Houghton Lake", "url": "https://www.beachfronthl.com/" },
+      { "title": "Lakeside Resort and Conference Center", "url": "https://www.lakesideresortandconferencecenter.com/" }
     ]
   }
 }
