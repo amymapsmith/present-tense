@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-19",
+  "_note": "Amy's Ann Arbor stay (June 23–July 17) has concluded — venue hours/exhibitions kept for reference; date-specific events from the stay window have been cleared since they're now past.",
   "venues": [
     {
       "id": "ymca",
@@ -15,7 +16,7 @@
         "saturday":  { "open": "07:00", "close": "18:00" },
         "sunday":    { "open": "07:00", "close": "18:00" }
       },
-      "_hours_note": "Downtown branch (400 W Washington St). Re-confirmed via annarborymca.org July 15, 2026 — unchanged. Amy's primary fitness facility during Ann Arbor stay through July 17.",
+      "_hours_note": "Downtown branch (400 W Washington St). Last confirmed via annarborymca.org July 15, 2026. Was Amy's primary fitness facility during the Ann Arbor stay (concluded July 17); kept for reference.",
       "current_exhibitions": [],
       "events": []
     },
@@ -65,7 +66,7 @@
           "title": "Regular gallery admission — free",
           "date": null,
           "time": "11:00",
-          "description": "Free admission to all galleries. Extended hours Fridays until 8 PM. No new ticketed events confirmed for July 15–17 (within Amy's remaining Ann Arbor window); next artist talk is Sep 17, 2026.",
+          "description": "Free admission to all galleries. Extended hours Fridays until 8 PM. Next confirmed ticketed event is an artist talk Sep 17, 2026.",
           "cost": 0,
           "cost_notes": "free",
           "url": "https://umma.umich.edu/visit/"
@@ -88,33 +89,14 @@
       },
       "_hours_note": "Concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
       "current_exhibitions": [],
-      "events": [
-        {
-          "title": "Summer Sounds: Schmaltz & Jill Jack",
-          "date": "2026-07-16",
-          "time": "18:00",
-          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair, at The Stage on Main.",
-          "cost": 0,
-          "cost_notes": "free",
-          "url": "https://theark.org/events/"
-        },
-        {
-          "title": "Summer Sounds: The Rupple Brothers & Bobby Alu",
-          "date": "2026-07-17",
-          "time": "18:00",
-          "description": "Free outdoor Summer Sounds concert during the Ann Arbor Art Fair, at The Stage on Main. Last day of Amy's Ann Arbor stay.",
-          "cost": 0,
-          "cost_notes": "free",
-          "url": "https://theark.org/events/"
-        }
-      ]
+      "events": []
     },
     {
       "id": "michigan-theater",
       "name": "Michigan Theater",
       "address": "603 E Liberty St, Ann Arbor, MI 48104",
       "url": "https://michigantheater.org",
-      "_hours_note": "Historic cinema and event venue. michigantheater.org/events/ redirected to an unrelated domain this cycle — could not verify current schedule. Check directly for current film and event schedule. Box office typically opens 30 min before first show.",
+      "_hours_note": "Historic cinema and event venue. michigantheater.org/events/ redirected to an unrelated domain again this cycle — could not verify current schedule. Check directly for current film and event schedule. Box office typically opens 30 min before first show.",
       "hours": {
         "monday":    null,
         "tuesday":   null,
@@ -132,7 +114,7 @@
       "name": "Matthaei Botanical Gardens",
       "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
       "url": "https://mbgna.umich.edu",
-      "_hours_note": "Grounds open dawn to dusk (approximately 7am–8pm in summer). Conservatory hours may vary. Site returned 403 on direct fetch this cycle — hours preserved from last confirmed check.",
+      "_hours_note": "Grounds open dawn to dusk (approximately 7am–8pm in summer). Conservatory hours may vary. Hours preserved from last confirmed check (site not re-fetched this cycle).",
       "hours": {
         "monday":    { "open": "07:00", "close": "20:00" },
         "tuesday":   { "open": "07:00", "close": "20:00" },

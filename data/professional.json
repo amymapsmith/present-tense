@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-19",
   "opportunities": [
     {
       "type": "role",
       "title": "Program Manager, Enterprise AI Adoption",
       "organization": "SavvyMoney",
-      "description": "Highly visible, cross-functional leadership role at a Bay Area fintech, sitting at the intersection of technology strategy, people change, and org performance. Design and own the enterprise AI adoption program across Engineering, Product, Sales, Marketing, Finance, Operations, and Partner Success — charters, roadmaps, governance cadences, KPIs, executive dashboards. Reports to C-suite/Board. 7+ years program/project management, 2+ years leading enterprise-wide transformation. $160K–$175K + bonus. Dublin, CA or fully remote US.",
+      "description": "Highly visible, cross-functional leadership role at a Bay Area fintech, sitting at the intersection of technology strategy, people change, and org performance. Design and own the enterprise AI adoption program across Engineering, Product, Sales, Marketing, Finance, Operations, and Partner Success \u2014 charters, roadmaps, governance cadences, KPIs, executive dashboards. Reports to C-suite/Board. 7+ years program/project management, 2+ years leading enterprise-wide transformation. $160K\u2013$175K + bonus. Dublin, CA or fully remote US.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -14,13 +14,19 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["ai-adoption", "change-management", "program-management", "fintech", "remote"]
+      "tags": [
+        "ai-adoption",
+        "change-management",
+        "program-management",
+        "fintech",
+        "remote"
+      ]
     },
     {
       "type": "role",
       "title": "Director, Technical Program Manager",
       "organization": "Scale AI",
-      "description": "Build and lead Scale AI's TPM org from the ground up — team hiring, enterprise execution frameworks, cross-functional coordination between Engineering and Product leadership. Requires 10+ years TPM/engineering leadership, 4+ years people management. $241,600–$302,000 + equity, SF onsite 3x/week.",
+      "description": "Build and lead Scale AI's TPM org from the ground up \u2014 team hiring, enterprise execution frameworks, cross-functional coordination between Engineering and Product leadership. Requires 10+ years TPM/engineering leadership, 4+ years people management. $241,600\u2013$302,000 + equity, SF onsite 3x/week.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -29,13 +35,18 @@
       "source": "linkedin",
       "seniority": "director",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "leadership", "san-francisco"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "leadership",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Databases",
       "organization": "Anthropic",
-      "description": "Own roadmap execution for Anthropic's cross-region, multi-cloud database strategy. Manage external vendor relationships, drive dependencies and tradeoffs for critical infrastructure. Hybrid SF/Seattle. $365k–$435k.",
+      "description": "Own roadmap execution for Anthropic's cross-region, multi-cloud database strategy. Manage external vendor relationships, drive dependencies and tradeoffs for critical infrastructure. Hybrid SF/Seattle. $365k\u2013$435k.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -44,13 +55,19 @@
       "source": "linkedin",
       "seniority": "senior",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "infrastructure", "anthropic", "san-francisco"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "infrastructure",
+        "anthropic",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Apps Platform",
       "organization": "Anthropic",
-      "description": "Work across platform engineering teams and every product team, driving one cohesive roadmap for Anthropic's Apps Platform. Hybrid SF/Seattle. $365k–$435k.",
+      "description": "Work across platform engineering teams and every product team, driving one cohesive roadmap for Anthropic's Apps Platform. Hybrid SF/Seattle. $365k\u2013$435k.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -59,13 +76,19 @@
       "source": "linkedin",
       "seniority": "senior",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "product", "anthropic", "san-francisco"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "product",
+        "anthropic",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Research",
       "organization": "Anthropic",
-      "description": "Coordinate across Anthropic's research organization — managing roadmaps and dependencies between fundamental AI research teams and the infrastructure/product teams that build on their outputs. SF or NYC. $365k–$435k.",
+      "description": "Coordinate across Anthropic's research organization \u2014 managing roadmaps and dependencies between fundamental AI research teams and the infrastructure/product teams that build on their outputs. SF or NYC. $365k\u2013$435k.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -74,13 +97,19 @@
       "source": "linkedin",
       "seniority": "senior",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "research", "anthropic", "san-francisco"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "research",
+        "anthropic",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Launches",
       "organization": "Anthropic",
-      "description": "Orchestrate cross-functional efforts to bring Anthropic's AI capabilities to the world — working closely with research teams and coordinating across engineering, product, infrastructure, and go-to-market. Requires deep technical knowledge to engage meaningfully with ML researchers. SF or NYC. $365k–$435k.",
+      "description": "Orchestrate cross-functional efforts to bring Anthropic's AI capabilities to the world \u2014 working closely with research teams and coordinating across engineering, product, infrastructure, and go-to-market. Requires deep technical knowledge to engage meaningfully with ML researchers. SF or NYC. $365k\u2013$435k.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -89,13 +118,19 @@
       "source": "linkedin",
       "seniority": "senior",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "launches", "anthropic", "san-francisco"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "launches",
+        "anthropic",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Director, AI Enablement",
       "organization": "Headspace",
-      "description": "Lead Headspace's AI adoption strategy and operating model — AI governance frameworks, vendor evaluation, portfolio oversight, and org-wide AI fluency programs. Reports to COO. Remote US or hybrid SF (3 days/week). $177k–$250k SF range.",
+      "description": "Lead Headspace's AI adoption strategy and operating model \u2014 AI governance frameworks, vendor evaluation, portfolio oversight, and org-wide AI fluency programs. Reports to COO. Remote US or hybrid SF (3 days/week). $177k\u2013$250k SF range.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -104,7 +139,13 @@
       "source": "linkedin",
       "seniority": "director",
       "location": "any",
-      "tags": ["ai-governance", "ai-enablement", "director", "san-francisco", "hybrid"]
+      "tags": [
+        "ai-governance",
+        "ai-enablement",
+        "director",
+        "san-francisco",
+        "hybrid"
+      ]
     },
     {
       "type": "role",
@@ -119,7 +160,14 @@
       "source": "other",
       "seniority": "senior",
       "location": "sf",
-      "tags": ["privacy", "compliance", "technical-program-management", "security", "infrastructure", "openai"]
+      "tags": [
+        "privacy",
+        "compliance",
+        "technical-program-management",
+        "security",
+        "infrastructure",
+        "openai"
+      ]
     },
     {
       "type": "role",
@@ -134,13 +182,20 @@
       "source": "other",
       "seniority": "senior",
       "location": "sf",
-      "tags": ["safety", "ai-governance", "technical-program-management", "risk", "model-evaluation", "openai"]
+      "tags": [
+        "safety",
+        "ai-governance",
+        "technical-program-management",
+        "risk",
+        "model-evaluation",
+        "openai"
+      ]
     },
     {
       "type": "role",
-      "title": "Technical Program Manager – Adversarial Model Research",
+      "title": "Technical Program Manager \u2013 Adversarial Model Research",
       "organization": "OpenAI",
-      "description": "TPM leading initiatives that test safety and robustness of OpenAI models through structured evaluation, coordinating across research and engineering teams to transform ambiguous risks into concrete research programs. $207K–$285K + equity. Hybrid SF.",
+      "description": "TPM leading initiatives that test safety and robustness of OpenAI models through structured evaluation, coordinating across research and engineering teams to transform ambiguous risks into concrete research programs. $207K\u2013$285K + equity. Hybrid SF.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -149,13 +204,20 @@
       "source": "other",
       "seniority": "senior",
       "location": "sf",
-      "tags": ["red-teaming", "model-safety", "technical-program-management", "ai-research", "responsible-ai", "openai"]
+      "tags": [
+        "red-teaming",
+        "model-safety",
+        "technical-program-management",
+        "ai-research",
+        "responsible-ai",
+        "openai"
+      ]
     },
     {
       "type": "role",
       "title": "Program Manager, Alignment",
       "organization": "OpenAI",
-      "description": "Supports OpenAI's alignment and safety ecosystem through program execution, relationship management, and operational ownership. Works with alignment leadership to run external-facing programs and partnerships. $162K–$240K + equity. Hybrid SF.",
+      "description": "Supports OpenAI's alignment and safety ecosystem through program execution, relationship management, and operational ownership. Works with alignment leadership to run external-facing programs and partnerships. $162K\u2013$240K + equity. Hybrid SF.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -164,13 +226,19 @@
       "source": "other",
       "seniority": "senior",
       "location": "sf",
-      "tags": ["ai-alignment", "safety", "program-management", "research-operations", "openai"]
+      "tags": [
+        "ai-alignment",
+        "safety",
+        "program-management",
+        "research-operations",
+        "openai"
+      ]
     },
     {
       "type": "role",
       "title": "Senior Staff AI Governance Engineer",
       "organization": "Google",
-      "description": "Drives lineage coverage and governance tooling adoption for AI/ML at Google scale, influencing partners across DeepMind and Product Areas to build joint roadmaps for AI governance compliance with relevant regulations. Requires 8+ years infrastructure experience, 5+ years technical leadership, 2+ years data governance. $248K–$349K + bonus + equity.",
+      "description": "Drives lineage coverage and governance tooling adoption for AI/ML at Google scale, influencing partners across DeepMind and Product Areas to build joint roadmaps for AI governance compliance with relevant regulations. Requires 8+ years infrastructure experience, 5+ years technical leadership, 2+ years data governance. $248K\u2013$349K + bonus + equity.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -179,13 +247,19 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["ai-governance", "ml-infrastructure", "data-lineage", "compliance", "google-deepmind"]
+      "tags": [
+        "ai-governance",
+        "ml-infrastructure",
+        "data-lineage",
+        "compliance",
+        "google-deepmind"
+      ]
     },
     {
       "type": "role",
       "title": "VP of Data and AI",
       "organization": "Lyra Health",
-      "description": "Visionary VP to define and execute comprehensive data and AI strategy, leading teams of Data Engineers, Data Analysts, Data Scientists, AI Platform and ML Engineers. Requires 10+ years in AI/ML/data with 5+ years in senior leadership. Fully remote. $251K–$346K base + bonus.",
+      "description": "Visionary VP to define and execute comprehensive data and AI strategy, leading teams of Data Engineers, Data Analysts, Data Scientists, AI Platform and ML Engineers. Requires 10+ years in AI/ML/data with 5+ years in senior leadership. Fully remote. $251K\u2013$346K base + bonus.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -194,11 +268,17 @@
       "source": "other",
       "seniority": "vp",
       "location": "any",
-      "tags": ["data-science", "ai-strategy", "leadership", "healthtech", "machine-learning"]
+      "tags": [
+        "data-science",
+        "ai-strategy",
+        "leadership",
+        "healthtech",
+        "machine-learning"
+      ]
     },
     {
       "type": "role",
-      "title": "GRC and AI Governance – Senior Manager",
+      "title": "GRC and AI Governance \u2013 Senior Manager",
       "organization": "CFGI",
       "description": "Cybersecurity GRC and AI Governance SME leading strategic advisory engagements for CISOs, CFOs, and PE deal teams. Designs AI governance frameworks, conducts AI risk assessments, guides clients through EU AI Act, NIST AI RMF, and ISO 42001 compliance. 8+ years in cybersecurity GRC, privacy, or consulting.",
       "date": null,
@@ -209,7 +289,14 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["ai-governance", "grc", "responsible-ai", "eu-ai-act", "nist-ai-rmf", "consulting"]
+      "tags": [
+        "ai-governance",
+        "grc",
+        "responsible-ai",
+        "eu-ai-act",
+        "nist-ai-rmf",
+        "consulting"
+      ]
     },
     {
       "type": "role",
@@ -224,7 +311,14 @@
       "source": "other",
       "seniority": "director",
       "location": "any",
-      "tags": ["ai-engineering", "responsible-ai", "healthtech", "mlops", "director", "llm"]
+      "tags": [
+        "ai-engineering",
+        "responsible-ai",
+        "healthtech",
+        "mlops",
+        "director",
+        "llm"
+      ]
     },
     {
       "type": "role",
@@ -239,7 +333,15 @@
       "source": "other",
       "seniority": "director",
       "location": "any",
-      "tags": ["ai-governance", "responsible-ai", "iso-42001", "nist-ai-rmf", "eu-ai-act", "security", "remote"]
+      "tags": [
+        "ai-governance",
+        "responsible-ai",
+        "iso-42001",
+        "nist-ai-rmf",
+        "eu-ai-act",
+        "security",
+        "remote"
+      ]
     },
     {
       "type": "role",
@@ -254,13 +356,19 @@
       "source": "other",
       "seniority": "director",
       "location": "any",
-      "tags": ["ai-governance", "data-governance", "responsible-ai", "healthtech", "remote"]
+      "tags": [
+        "ai-governance",
+        "data-governance",
+        "responsible-ai",
+        "healthtech",
+        "remote"
+      ]
     },
     {
       "type": "role",
       "title": "Principal, Programs and Policy (Tech and AI)",
       "organization": "Omidyar Network",
-      "description": "Shape frontier AI policy and governance through grantmaking, advocacy, and ecosystem-building. Manage relationships across AI companies, VC, academia, and civil society; convene policymakers and researchers. Portfolio spans frontier AI, nuclear energy, and brain-computer interfaces. Hybrid SF (Tues/Wed). $171K–$214K.",
+      "description": "Shape frontier AI policy and governance through grantmaking, advocacy, and ecosystem-building. Manage relationships across AI companies, VC, academia, and civil society; convene policymakers and researchers. Portfolio spans frontier AI, nuclear energy, and brain-computer interfaces. Hybrid SF (Tues/Wed). $171K\u2013$214K.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -269,13 +377,20 @@
       "source": "other",
       "seniority": "principal",
       "location": "sf",
-      "tags": ["ai-policy", "ai-governance", "philanthropy", "responsible-ai", "hybrid", "san-francisco"]
+      "tags": [
+        "ai-policy",
+        "ai-governance",
+        "philanthropy",
+        "responsible-ai",
+        "hybrid",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "AI Governance Lead",
       "organization": "First San Francisco Partners",
-      "description": "Consulting role establishing AI governance frameworks for regulated organizations. Define enterprise AI use policies, decision rights, accountability structures, and third-party vendor oversight. Integrate AI governance with existing data governance functions. 8–12 years in enterprise data governance or model risk management required. Remote, $100–$125/hr contract.",
+      "description": "Consulting role establishing AI governance frameworks for regulated organizations. Define enterprise AI use policies, decision rights, accountability structures, and third-party vendor oversight. Integrate AI governance with existing data governance functions. 8\u201312 years in enterprise data governance or model risk management required. Remote, $100\u2013$125/hr contract.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -284,13 +399,19 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["ai-governance", "data-governance", "consulting", "contract", "remote"]
+      "tags": [
+        "ai-governance",
+        "data-governance",
+        "consulting",
+        "contract",
+        "remote"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, AI Platform",
       "organization": "Lila Sciences",
-      "description": "Senior or Principal TPM managing AI Platform programs at a biotech AI company. Oversee compute fleet scaling, unified storage strategy, cluster utilization metrics, ML software vendor partnerships, and researcher support programs. 8+ years in technology or infrastructure program management. In-person SF or Cambridge MA. $192K–$306K.",
+      "description": "Senior or Principal TPM managing AI Platform programs at a biotech AI company. Oversee compute fleet scaling, unified storage strategy, cluster utilization metrics, ML software vendor partnerships, and researcher support programs. 8+ years in technology or infrastructure program management. In-person SF or Cambridge MA. $192K\u2013$306K.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -299,11 +420,17 @@
       "source": "other",
       "seniority": "principal",
       "location": "sf",
-      "tags": ["tpm", "ai-platform", "biotech", "infrastructure", "san-francisco"]
+      "tags": [
+        "tpm",
+        "ai-platform",
+        "biotech",
+        "infrastructure",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
-      "title": "Senior/Staff Technical Program Manager – AI & Autonomy",
+      "title": "Senior/Staff Technical Program Manager \u2013 AI & Autonomy",
       "organization": "Zoox",
       "description": "Cross-functional program management leader responsible for planning and executing technical and integrated product milestones for vehicle platforms at Amazon's autonomous vehicle company. Posted April 2026.",
       "date": null,
@@ -314,13 +441,18 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["technical-program-management", "ai", "autonomous-vehicles", "infrastructure"]
+      "tags": [
+        "technical-program-management",
+        "ai",
+        "autonomous-vehicles",
+        "infrastructure"
+      ]
     },
     {
       "type": "role",
       "title": "Senior Program Manager, Safety, Alignment, and Collaboration",
       "organization": "Google DeepMind",
-      "description": "Support the VP of Safety and Alignment at DeepMind — bridge strategy with operational execution, own day-to-day operations, and lead annual/biannual planning processes for a geographically dispersed team across Mountain View, New York, London, and Zurich. 8+ years program management experience required. $252K–$274K + bonus + equity.",
+      "description": "Support the VP of Safety and Alignment at DeepMind \u2014 bridge strategy with operational execution, own day-to-day operations, and lead annual/biannual planning processes for a geographically dispersed team across Mountain View, New York, London, and Zurich. 8+ years program management experience required. $252K\u2013$274K + bonus + equity.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -329,13 +461,19 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["ai-alignment", "ai-safety", "program-management", "deepmind", "mountain-view"]
+      "tags": [
+        "ai-alignment",
+        "ai-safety",
+        "program-management",
+        "deepmind",
+        "mountain-view"
+      ]
     },
     {
       "type": "role",
       "title": "Program Manager",
       "organization": "Center for AI Safety",
-      "description": "Lead impactful projects for the leading AI safety research and advocacy org — fellowships, workshops, publications, policy convenings, and community-building initiatives. Work with a small, mission-driven team. Strong program management skills and genuine interest in AI safety required. San Francisco.",
+      "description": "Lead impactful projects for the leading AI safety research and advocacy org \u2014 fellowships, workshops, publications, policy convenings, and community-building initiatives. Work with a small, mission-driven team. Strong program management skills and genuine interest in AI safety required. San Francisco.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -344,13 +482,20 @@
       "source": "other",
       "seniority": "any",
       "location": "sf",
-      "tags": ["ai-safety", "ai-alignment", "program-management", "nonprofit", "policy", "san-francisco"]
+      "tags": [
+        "ai-safety",
+        "ai-alignment",
+        "program-management",
+        "nonprofit",
+        "policy",
+        "san-francisco"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Human Data Annotation",
       "organization": "Mistral AI",
-      "description": "Drive programs around human data acquisition and annotation for frontier AI model training and evaluation — coordinating across science, engineering, and operations teams. Cross-functional leadership at one of Europe's leading frontier AI labs. Remote-friendly; Mistral has US presence.",
+      "description": "Drive programs around human data acquisition and annotation for frontier AI model training and evaluation \u2014 coordinating across science, engineering, and operations teams. Cross-functional leadership at one of Europe's leading frontier AI labs. Remote-friendly; Mistral has US presence.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -359,13 +504,20 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["data-acquisition", "human-data", "annotation", "frontier-ai", "tpm", "mistral"]
+      "tags": [
+        "data-acquisition",
+        "human-data",
+        "annotation",
+        "frontier-ai",
+        "tpm",
+        "mistral"
+      ]
     },
     {
       "type": "role",
       "title": "Senior Project Manager, Generative AI Data Operations",
       "organization": "Welo Global",
-      "description": "Manage generative AI data collection and annotation operations at scale — delivering high-quality training datasets for frontier AI models. Work with data contributors and internal teams to define quality standards, resolve operational blockers, and drive program execution. Remote.",
+      "description": "Manage generative AI data collection and annotation operations at scale \u2014 delivering high-quality training datasets for frontier AI models. Work with data contributors and internal teams to define quality standards, resolve operational blockers, and drive program execution. Remote.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -374,13 +526,20 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["data-quality", "data-operations", "generative-ai", "annotation", "data-acquisition", "remote"]
+      "tags": [
+        "data-quality",
+        "data-operations",
+        "generative-ai",
+        "annotation",
+        "data-acquisition",
+        "remote"
+      ]
     },
     {
       "type": "role",
       "title": "Robotics Data Quality Lead",
       "organization": "Welo Global",
-      "description": "Define and own end-to-end data quality strategy across robotics data collection and annotation workflows — video, sensor, teleoperation outputs, and annotations for AI model training. Lead a team of quality specialists, set training programs, serve as primary escalation point for quality issues, and present reports to clients. Experience in large-scale data operations, robotics, or AI/ML required.",
+      "description": "Define and own end-to-end data quality strategy across robotics data collection and annotation workflows \u2014 video, sensor, teleoperation outputs, and annotations for AI model training. Lead a team of quality specialists, set training programs, serve as primary escalation point for quality issues, and present reports to clients. Experience in large-scale data operations, robotics, or AI/ML required.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -389,7 +548,14 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["data-quality", "robotics", "ai-training", "data-operations", "annotation", "remote"]
+      "tags": [
+        "data-quality",
+        "robotics",
+        "ai-training",
+        "data-operations",
+        "annotation",
+        "remote"
+      ]
     },
     {
       "type": "role",
@@ -404,13 +570,20 @@
       "source": "other",
       "seniority": "any",
       "location": "any",
-      "tags": ["data-operations", "rlhf", "human-feedback", "data-quality", "ai-training", "surge-ai"]
+      "tags": [
+        "data-operations",
+        "rlhf",
+        "human-feedback",
+        "data-quality",
+        "ai-training",
+        "surge-ai"
+      ]
     },
     {
       "type": "role",
       "title": "Technical Program Manager, Data Operations Lead",
       "organization": "Zoox",
-      "description": "Lead data operations for the Perception Data and Labeling team — overseeing the training and evaluation data that powers perception ML models for autonomous vehicles. Manage labeling pipelines, data quality programs, and cross-functional dependencies between data operations and ML research. Amazon's autonomous vehicle company.",
+      "description": "Lead data operations for the Perception Data and Labeling team \u2014 overseeing the training and evaluation data that powers perception ML models for autonomous vehicles. Manage labeling pipelines, data quality programs, and cross-functional dependencies between data operations and ML research. Amazon's autonomous vehicle company.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -419,13 +592,20 @@
       "source": "other",
       "seniority": "senior",
       "location": "any",
-      "tags": ["data-operations", "data-acquisition", "ml-data", "autonomous-vehicles", "tpm", "perception"]
+      "tags": [
+        "data-operations",
+        "data-acquisition",
+        "ml-data",
+        "autonomous-vehicles",
+        "tpm",
+        "perception"
+      ]
     },
     {
       "type": "cfp",
-      "title": "Global Data & AI Virtual Tech Conference 2026 – Call for Speakers",
+      "title": "Global Data & AI Virtual Tech Conference 2026 \u2013 Call for Speakers",
       "organization": "DataGlobalHub",
-      "description": "Virtual conference (August 22–24, 2026) with tracks on AI & Data Innovations, Enterprise Data Strategy & Leadership, and Future of Work & AI in Society. Accepts talks, lightning talks, workshops, panels. All speakers get free conference access.",
+      "description": "Virtual conference (August 22\u201324, 2026) with tracks on AI & Data Innovations, Enterprise Data Strategy & Leadership, and Future of Work & AI in Society. Accepts talks, lightning talks, workshops, panels. All speakers get free conference access.",
       "date": "2026-08-22",
       "deadline": "2026-08-22",
       "cost": 0,
@@ -434,13 +614,20 @@
       "source": "other",
       "seniority": "any",
       "location": "any",
-      "tags": ["data-governance", "ai-ethics", "cfp", "virtual", "data-science", "ai-regulation"]
+      "tags": [
+        "data-governance",
+        "ai-ethics",
+        "cfp",
+        "virtual",
+        "data-science",
+        "ai-regulation"
+      ]
     },
     {
       "type": "cfp",
-      "title": "Conf42 AI Agents 2026 – Call for Papers",
+      "title": "Conf42 AI Agents 2026 \u2013 Call for Papers",
       "organization": "Conf42",
-      "description": "Online conference (September 24, 2026) on AI agents and autonomous systems — architectures, tool use, reasoning, multi-agent coordination, ethics, safety, and reliability. CFP open through August 24, 2026. All experience levels welcome.",
+      "description": "Online conference (September 24, 2026) on AI agents and autonomous systems \u2014 architectures, tool use, reasoning, multi-agent coordination, ethics, safety, and reliability. CFP open through August 24, 2026. All experience levels welcome.",
       "date": "2026-09-24",
       "deadline": "2026-08-24",
       "cost": 0,
@@ -449,7 +636,14 @@
       "source": "papercall",
       "seniority": "any",
       "location": "any",
-      "tags": ["ai-agents", "autonomous-systems", "ai-ethics", "cfp", "safety", "responsible-ai"]
+      "tags": [
+        "ai-agents",
+        "autonomous-systems",
+        "ai-ethics",
+        "cfp",
+        "safety",
+        "responsible-ai"
+      ]
     },
     {
       "type": "networking",
@@ -464,13 +658,20 @@
       "source": "other",
       "seniority": "any",
       "location": "ann-arbor",
-      "tags": ["entrepreneurship", "startups", "networking", "weekly", "ann-arbor", "free"]
+      "tags": [
+        "entrepreneurship",
+        "startups",
+        "networking",
+        "weekly",
+        "ann-arbor",
+        "free"
+      ]
     },
     {
       "type": "networking",
       "title": "AI Tinkerers Ann Arbor",
       "organization": "AI Tinkerers",
-      "description": "Hands-on community meetup for AI builders — lightning demos covering LLM agents, RAG systems, computer vision, robotics, and creative AI tools, with networking breaks. Free. Check the site for next scheduled date.",
+      "description": "Hands-on community meetup for AI builders \u2014 lightning demos covering LLM agents, RAG systems, computer vision, robotics, and creative AI tools, with networking breaks. Free. Check the site for next scheduled date.",
       "date": null,
       "deadline": null,
       "cost": 0,
@@ -479,37 +680,13 @@
       "source": "meetup",
       "seniority": "any",
       "location": "ann-arbor",
-      "tags": ["ai", "technical", "networking", "free", "ann-arbor"]
-    },
-    {
-      "type": "networking",
-      "title": "AWS Agentic AI Summit with MongoDB & Mastra",
-      "organization": "SF Bay AI",
-      "description": "Building Production-Ready AI Agents on AWS — presentations from MongoDB, Mastra, and AWS experts covering deployment strategies and live demonstrations. July 15, 2026, 4:00 PM PDT. Amazon AWS, 525 Market Street, San Francisco.",
-      "date": "2026-07-15",
-      "deadline": null,
-      "cost": 0,
-      "paid": false,
-      "url": "https://www.meetup.com/sfbay-ai/",
-      "source": "meetup",
-      "seniority": "any",
-      "location": "sf",
-      "tags": ["agentic-ai", "aws", "networking", "in-person", "san-francisco"]
-    },
-    {
-      "type": "networking",
-      "title": "GenAI Summit SF 2026",
-      "organization": "AGI Summit",
-      "description": "Major generative AI conference at the Palace of Fine Arts. 15,000+ attendees, 200+ speakers from OpenAI, Anthropic, Google DeepMind, Stanford, Berkeley, MIT. Focuses on the shift to autonomous AI execution. July 18–19, 2026.",
-      "date": "2026-07-18",
-      "deadline": null,
-      "cost": 395,
-      "paid": false,
-      "url": "https://agisummit.ai/",
-      "source": "other",
-      "seniority": "any",
-      "location": "sf",
-      "tags": ["ai-governance", "generative-ai", "conference", "san-francisco", "networking"]
+      "tags": [
+        "ai",
+        "technical",
+        "networking",
+        "free",
+        "ann-arbor"
+      ]
     },
     {
       "type": "networking",
@@ -524,7 +701,13 @@
       "source": "other",
       "seniority": "director",
       "location": "sf",
-      "tags": ["ai-governance", "data-science", "executive-networking", "leadership", "agentic-ai"]
+      "tags": [
+        "ai-governance",
+        "data-science",
+        "executive-networking",
+        "leadership",
+        "agentic-ai"
+      ]
     }
   ]
 }

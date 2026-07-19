@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-19",
+  "_note": "Amy's Ann Arbor stay (June 23–July 17) has concluded. All previously tracked events for that window have now passed, so the events list is empty until a future Ann Arbor visit is scheduled. Group runs kept below as a standing reference (recurring weekly, not date-bound).",
   "group_runs": [
     {
       "day": "Monday",
@@ -38,90 +39,5 @@
       "url": "https://www.annarborrunningcompany.com/pages/group-runs"
     }
   ],
-  "events": [
-    {
-      "title": "Ann Arbor Civic Band — Oh, The Places You'll Go",
-      "date": "2026-07-15",
-      "time": "19:30",
-      "venue": "Burns Park",
-      "neighborhood": "Burns Park",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor concert by the Ann Arbor Civic Band at Burns Park. Dr. Seuss-themed musical journey program. 7:30–8:30pm.",
-      "url": "https://annarborcivicband.wixsite.com/aacb/concert-schedule"
-    },
-    {
-      "title": "Blue Llama Jazz Club — Live Jazz",
-      "date": "2026-07-15",
-      "time": "19:00",
-      "venue": "Blue Llama Jazz Club",
-      "neighborhood": "Downtown",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25 cover",
-      "description": "Live jazz at the Blue Llama Jazz Club, 314 S Main St. Wednesday jazz runs 7–10:15pm.",
-      "url": "https://bluellamaclub.com/tickets-calendar/"
-    },
-    {
-      "title": "Summer Sounds at the Ann Arbor Art Fair — Schmaltz & Jill Jack",
-      "date": "2026-07-16",
-      "time": "18:00",
-      "venue": "The Ark (The Stage on Main)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair, The Stage on Main (353 S Main St) — modern klezmer from Schmaltz and dynamic folk rock from Jill Jack.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Ann Arbor Art Fair",
-      "date": "2026-07-16",
-      "time": "10:00",
-      "venue": "Downtown Ann Arbor (30 city blocks)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free to attend",
-      "description": "One of the nation's largest juried art fairs — nearly 1,000 artists across 30 city blocks. Three simultaneously running fairs: Street Art Fair, Summer Art Fair, State Street Art Fair. Thu Jul 16 10am–9pm, Fri Jul 17 10am–9pm.",
-      "url": "https://www.artfair.org/"
-    },
-    {
-      "title": "Ann Arbor Art Fair — Day 2",
-      "date": "2026-07-17",
-      "time": "10:00",
-      "venue": "Downtown Ann Arbor (30 city blocks)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free to attend",
-      "description": "Second day of the Ann Arbor Art Fair, and the final day within Amy's Ann Arbor stay. 10am–9pm.",
-      "url": "https://www.artfair.org/"
-    },
-    {
-      "title": "Summer Sounds at the Ann Arbor Art Fair — The Rupple Brothers & Bobby Alu",
-      "date": "2026-07-17",
-      "time": "18:00",
-      "venue": "The Ark (The Stage on Main)",
-      "neighborhood": "Downtown Ann Arbor",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor Summer Sounds concert at the Ann Arbor Art Fair featuring psychedelic folk ensemble The Rupple Brothers and tropical ambassador Bobby Alu.",
-      "url": "https://theark.org/events/"
-    },
-    {
-      "title": "Pontiac Trail Blazers — Bluegrass Friday",
-      "date": "2026-07-17",
-      "time": "19:00",
-      "venue": "North Star Lounge",
-      "neighborhood": "Kerrytown",
-      "category": "music",
-      "cost": 10,
-      "cost_notes": "$10 cover",
-      "description": "The Pontiac Trail Blazers perform their regular Bluegrass Friday residency at North Star Lounge with special guest Sequoia Rose. Last night of Amy's Ann Arbor stay.",
-      "url": "https://www.nstarlounge.com/events"
-    }
-  ]
+  "events": []
 }

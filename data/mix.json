@@ -11,26 +11,26 @@
     "social": 0.0,
     "culture": 0.0,
     "total_hours": 0,
-    "note": "No history.json found — no hours logged yet this week (Jul 13–19)"
+    "note": "No history.json found — no hours logged yet this week (Jul 20–26)"
   },
   "recommendation": {
-    "updated": "2026-07-15",
-    "summary": "All categories at zero with only two days left in Ann Arbor — the AWS Agentic AI Summit is tonight (4pm PDT, but it's a good remote-networking watch even from Michigan) and the Ann Arbor Art Fair runs through tomorrow, July 17, so today and tomorrow are the last chance to bank culture and professional hours there before the trip ends. Pair a YMCA session with the Art Fair's free Summer Sounds concert tonight to hit health and culture in one evening.",
+    "updated": "2026-07-19",
+    "summary": "All categories at zero, and this is the first week back on SF's normal rhythm after the Ann Arbor stay ended — a good moment to re-establish the Bay Club habit rather than let the travel gap turn into a longer one. No new verified roles surfaced this cycle, so the highest-leverage professional move is applying to the invite-only ALIGN AI Executive Summit (Aug 19) now, since applications for director-level summits like this take longer to clear than a job application.",
     "suggested": [
       {
         "category": "professional",
-        "title": "SavvyMoney — Program Manager, Enterprise AI Adoption (new posting, $160K–$175K, remote-eligible)",
+        "title": "Apply to ALIGN AI Executive Summit San Francisco (Aug 19, invite application for director-level+ professionals)",
         "source_section": "professional"
       },
       {
         "category": "health",
-        "title": "Ann Arbor YMCA — morning workout before the heat peaks (400 W Washington St, open 5:30 AM)",
+        "title": "Bay Club San Francisco — re-start the routine post-travel (open 5 AM daily)",
         "source_section": "gym"
       },
       {
         "category": "culture",
-        "title": "Summer Sounds at the Ann Arbor Art Fair — Schmaltz & Jill Jack (free, tonight 6pm, The Stage on Main)",
-        "source_section": "aa-events"
+        "title": "San Francisco Art Book Fair — free, Thu Jul 23, 6–10 PM at Minnesota Street Project",
+        "source_section": "events"
       }
     ]
   }

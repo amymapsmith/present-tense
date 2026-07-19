@@ -1,114 +1,6 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-19",
   "events": [
-    {
-      "title": "King Woman",
-      "date": "2026-07-15",
-      "time": "20:00",
-      "venue": "Great American Music Hall",
-      "neighborhood": "Tenderloin",
-      "category": "music",
-      "cost": 20,
-      "cost_notes": "$20–$35",
-      "description": "Heavy, ethereal rock band King Woman at Great American Music Hall. Doors at 7 PM.",
-      "url": "https://wl.seetickets.us/event/king-woman/685128?afflky=GreatAmericanMusicHall"
-    },
-    {
-      "title": "Wynton Marsalis Septet",
-      "date": "2026-07-15",
-      "time": "19:30",
-      "venue": "SFJAZZ Center, Miner Auditorium",
-      "neighborhood": "Hayes Valley",
-      "category": "music",
-      "cost": 65,
-      "cost_notes": "$45–$90 typical, check site for exact pricing",
-      "description": "Wynton Marsalis leads his septet as part of SFJAZZ's 2026 Summer Sessions, a six-week concert series celebrating musical traditions across the Americas.",
-      "url": "https://www.sfjazz.org/calendar/"
-    },
-    {
-      "title": "ICA SF: Tara Donovan — Stratagems",
-      "date": "2026-07-15",
-      "time": "11:00",
-      "venue": "ICA SF",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "always free",
-      "description": "Site-specific solo exhibition by Tara Donovan, on view through July 31 — closing in the next two weeks. Also on view: Jeffrey Gibson's 'This Burning World' and Rupy C. Tut's 'The Picnic Potluck'.",
-      "url": "https://www.icasf.org/exhibitions"
-    },
-    {
-      "title": "Memory Cradle — Last Chance",
-      "date": "2026-07-15",
-      "time": "11:00",
-      "venue": "Eleanor Harwood Gallery (Minnesota Street Project)",
-      "neighborhood": "Dogpatch",
-      "category": "art",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Final days for this exhibition exploring memory, material, and personal archive — closes July 18. Wed–Sat 11am–5pm.",
-      "url": "https://www.minnesotastreetproject.com"
-    },
-    {
-      "title": "BATS Improv: Hitchcock Performance Lab (Student Show)",
-      "date": "2026-07-16",
-      "time": "19:00",
-      "venue": "Bayfront Theatre, Fort Mason Center",
-      "neighborhood": "Marina",
-      "category": "comedy",
-      "cost": 10,
-      "cost_notes": "$5–$15",
-      "description": "BATS student performance lab: genre-driven improvisation inspired by Hitchcock suspense tropes. Fort Mason Center, Building B.",
-      "url": "https://www.improv.org/shows/"
-    },
-    {
-      "title": "People in Plazas – Free Lunchtime Music",
-      "date": "2026-07-16",
-      "time": "12:00",
-      "venue": "Market Street Plazas",
-      "neighborhood": "Downtown / SoMa",
-      "category": "music",
-      "cost": 0,
-      "cost_notes": "free",
-      "description": "Free outdoor lunchtime concerts at plazas on and near Market Street. Runs Tuesdays and Thursdays through September 2026.",
-      "url": "https://peopleinplazas.org/"
-    },
-    {
-      "title": "Lettuce",
-      "date": "2026-07-16",
-      "time": "19:30",
-      "venue": "SFJAZZ Center, Miner Auditorium",
-      "neighborhood": "Hayes Valley",
-      "category": "music",
-      "cost": 55,
-      "cost_notes": "check sfjazz.org for exact pricing",
-      "description": "Funk/groove veterans Lettuce play a multi-night run (July 16–19) as part of SFJAZZ's 2026 Summer Sessions.",
-      "url": "https://www.sfjazz.org/calendar/"
-    },
-    {
-      "title": "Dead Souls: Joy Division Tribute",
-      "date": "2026-07-17",
-      "time": "21:00",
-      "venue": "The Chapel",
-      "neighborhood": "Mission",
-      "category": "music",
-      "cost": 22,
-      "cost_notes": "$22–$27",
-      "description": "Dead Souls, San Francisco's acclaimed Joy Division and New Order tribute band. Doors at 8 PM.",
-      "url": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel"
-    },
-    {
-      "title": "Futurebirds",
-      "date": "2026-07-18",
-      "time": "21:00",
-      "venue": "The Chapel",
-      "neighborhood": "Mission",
-      "category": "music",
-      "cost": 25,
-      "cost_notes": "$25–$28",
-      "description": "Athens, GA indie rock band Futurebirds at The Chapel. Doors at 8 PM.",
-      "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel"
-    },
     {
       "title": "LOVE SUPREME Summer Day Party",
       "date": "2026-07-19",
@@ -122,6 +14,42 @@
       "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel"
     },
     {
+      "title": "Comedy Allstars ft. Chad Opitz",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "venue": "Punch Line Comedy Club",
+      "neighborhood": "Embarcadero",
+      "category": "comedy",
+      "cost": 20,
+      "cost_notes": "check punchlinecomedyclub.com for exact pricing",
+      "description": "Rotating stand-up showcase headlined by Chad Opitz, running July 21–22 at Punch Line SF.",
+      "url": "https://www.punchlinecomedyclub.com"
+    },
+    {
+      "title": "Dark and Darker: A Dark Comedy Show",
+      "date": "2026-07-22",
+      "time": "19:30",
+      "venue": "Cobb's Comedy Club",
+      "neighborhood": "North Beach",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "check cobbscomedy.com for exact pricing",
+      "description": "A comedy showcase leaning into darker, edgier material at Cobb's, 915 Columbus Ave.",
+      "url": "https://www.cobbscomedy.com/shows"
+    },
+    {
+      "title": "San Francisco Art Book Fair",
+      "date": "2026-07-23",
+      "time": "18:00",
+      "venue": "Minnesota Street Project",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Minnesota Street Project Foundation presents the 2026 SF Art Book Fair — independent publishers, zines, and artist books. 6–10 PM at 1201 Minnesota St.",
+      "url": "https://minnesotastreetproject.org/"
+    },
+    {
       "title": "Dance Fridays – Salsa & Bachata",
       "date": "2026-07-25",
       "time": "19:45",
@@ -132,6 +60,18 @@
       "cost_notes": "$20–$30 advance, $30–$35 door",
       "description": "Weekly SF Latin dance party: beginner lessons at 7:45 PM, then social dancing until 1:30 AM across two rooms. 21+.",
       "url": "https://www.dancefridays.fun/"
+    },
+    {
+      "title": "AVOTCJA & MODUPUE",
+      "date": "2026-07-25",
+      "time": "19:30",
+      "venue": "Bird & Beckett Books & Records",
+      "neighborhood": "Glen Park",
+      "category": "music",
+      "cost": 15,
+      "cost_notes": "suggested donation",
+      "description": "Poetry, percussion, violin, saxophone, bass, and talking drum in a genre-blurring live set at this beloved Glen Park bookstore-venue.",
+      "url": "https://birdbeckett.com/events/"
     },
     {
       "title": "Tommy Brennan",
@@ -216,6 +156,18 @@
       "cost_notes": "check bottomofthehill.com for exact pricing",
       "description": "Three-band experimental/noise-rock bill at Bottom of the Hill.",
       "url": "https://www.bottomofthehill.com/calendar.html"
+    },
+    {
+      "title": "Monsieur Periné — SFJAZZ Summer Sessions: Tropical Charm",
+      "date": "2026-08-01",
+      "time": "19:30",
+      "venue": "SFJAZZ Center, Miner Auditorium",
+      "neighborhood": "Hayes Valley",
+      "category": "music",
+      "cost": 55,
+      "cost_notes": "$55–$125",
+      "description": "2015 Latin GRAMMY Best New Artist winner Monsieur Periné (Bogotá) blends French jazz manouche with Latin American dance rhythms. Multi-night run July 30–Aug 2 as part of SFJAZZ's Tropical Charm program.",
+      "url": "https://www.sfjazz.org/tickets/productions/summer-2026/monsieur-perine/"
     }
   ]
 }
