@@ -1,6 +1,428 @@
 {
   "destinations": [
     {
+      "updated": "2026-07-19",
+      "destination": {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "iata": "IST",
+        "lat": 41.0082,
+        "lon": 28.9784,
+        "vibe": "The only city on earth straddling two continents, where a Byzantine cathedral, an Ottoman palace, and a third-wave coffee shop can sit on the same block \u2014 loud, layered, and one of the best value trips in Europe-adjacent travel right now."
+      },
+      "flight_search_date": "2026-07-19",
+      "flights": [
+        {
+          "airline": "Turkish Airlines (nonstop)",
+          "price_usd": 723,
+          "outbound_dates": "August 2026 (flexible; August is the cheapest month on this route)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 0,
+          "duration": "~10h 20m nonstop",
+          "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-istanbul",
+          "notes": "The only true nonstop on this route \u2014 Turkish Airlines flies DTW\u2192IST directly about 7x/week, landing you right at Istanbul Airport (IST) rather than the older Sabiha G\u00f6k\u00e7en (SAW) on the Asian side. Worth the modest premium over connecting itineraries just to skip a layover on a long-haul."
+        },
+        {
+          "airline": "Multi-carrier via Amsterdam (KLM/Delta/Air France)",
+          "price_usd": 540,
+          "outbound_dates": "August 2026 (flexible)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~14\u201316h total via AMS",
+          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-istanbul.html",
+          "notes": "Cheapest verified aggregate price for the route \u2014 one stop in Amsterdam, mixing Delta's nonstop DTW\u2192AMS with a KLM or Air France continuation to IST. Check Google Flights' flexible calendar; fares below $450 do turn up occasionally but skew toward less convenient connections."
+        },
+        {
+          "airline": "Turkish Airlines (via partner connection)",
+          "price_usd": 602,
+          "outbound_dates": "August\u2013September 2026 (flexible)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~13\u201315h total",
+          "url": "https://www.expedia.com/lp/flights/dtw/ist/detroit-to-istanbul",
+          "notes": "A middle-ground option if the nonstop is sold out or priced up for your dates \u2014 one-stop Turkish Airlines or codeshare itineraries running consistently in the $540\u2013$650 range on Expedia."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Sultan Hostel",
+          "type": "hostel",
+          "price_per_night_usd": 47,
+          "neighborhood": "Sultanahmet (Old City), on Akb\u0131y\u0131k Caddesi",
+          "highlights": "Rated 7.6/10 across 1,100+ reviews, with an unbeatable location a short walk from the Blue Mosque, Hagia Sophia, and the Grand Bazaar. Free breakfast included, 24-hour reception, no curfew \u2014 a solid budget base for the historic core.",
+          "url": "https://www.hostelworld.com/hostels/p/790/sultan-hostel/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Cihangir apartment (Airbnb)",
+          "type": "airbnb",
+          "price_per_night_usd": 85,
+          "neighborhood": "Cihangir, Beyo\u011flu",
+          "highlights": "Istanbul's most bohemian neighborhood \u2014 famous caf\u00e9s, independent bookshops, and a 10-minute walk to Taksim Square, Galata, and the Bosphorus ferry piers. Search Airbnb's Istanbul apartments filter; several Cihangir studios and one-bedrooms run well under $100/night with strong reviews.",
+          "url": "https://www.airbnb.com/istanbul-region-turkiye/stays/apartments",
+          "source": "airbnb"
+        },
+        {
+          "name": "Four Seasons Hotel Istanbul at Sultanahmet",
+          "type": "hotel",
+          "price_per_night_usd": 514,
+          "neighborhood": "Sultanahmet, steps from the Blue Mosque and Hagia Sophia",
+          "highlights": "A restored 1918 neoclassical Turkish building \u2014 65 rooms, dramatic domes and arches, and the single best-located luxury property in the old city. The splurge that turns sightseeing into a five-minute walk instead of a taxi ride.",
+          "url": "https://www.fourseasons.com/istanbul/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Istanbul is the rare city that lives up to the hype and then keeps going past it \u2014 the Hagia Sophia and Blue Mosque are genuinely worth the crowds, but the real trip happens in the neighborhoods most visitors never reach: Balat's pastel streets, Kad\u0131k\u00f6y's record shops and meyhanes on the Asian side, a ferry ride at sunset that costs less than a coffee. Go for the history, stay for the fact that this might be the best-value major city left in reach of a direct flight from the US.",
+        "days": [
+          {
+            "day": 1,
+            "title": "The Historic Core: Sultanahmet and the Grand Bazaar",
+            "morning": "Start early at Hagia Sophia before the tour groups arrive \u2014 the scale of the dome still stops people mid-sentence 1,500 years on. Walk five minutes to the Blue Mosque (Sultan Ahmed Mosque) for the six minarets and the blue \u0130znik tilework it's named for. Both are free to enter; go before 9am if you can.",
+            "afternoon": "Topkapi Palace, the Ottoman sultans' seat for 400 years \u2014 budget two hours minimum for the Harem and the Treasury (the Topkapi Dagger and Spoonmaker's Diamond are worth the extra ticket). Lunch near G\u00fclhane Park, then dive into the Grand Bazaar \u2014 4,000 shops under one roof. Buy loose, unpackaged spices (sumac, red pepper flakes, isot) rather than the pre-bagged tourist tins; they're fresher and a fraction of the price.",
+            "evening": "Walk down to the water and take a Bosphorus ferry at golden hour \u2014 a scheduled public ferry, not a tour boat, costs a couple of dollars with an Istanbulkart and gives you the same skyline views as the $50 'sunset cruise' packages. Dinner in Sultanahmet or cross to Karak\u00f6y for a livelier scene."
+          },
+          {
+            "day": 2,
+            "title": "Off the Peninsula: Balat, Fener, and the Golden Horn",
+            "morning": "Take the ferry or tram to Balat and Fener \u2014 go between 8 and 10am while the pastel-colored houses and cobbled hills are quiet and it's just locals starting their day, not photo lines. Duck into Community Kitchen, a small vegan caf\u00e9 doing adapted Turkish classics, for coffee and breakfast.",
+            "afternoon": "Walk uphill to the Chora Church (Kariye Camii) in nearby Edirnekap\u0131 \u2014 routinely skipped in favor of Hagia Sophia, but its Byzantine mosaics and frescoes are arguably better preserved and you'll often have the room to yourself. If you want one more offbeat stop, the Great Palace Mosaics Museum sits on the actual ruins of the Byzantine Great Palace, with mosaics still in their original setting.",
+            "evening": "Head to Karak\u00f6y or Galata for dinner and a walk up to Galata Tower at dusk \u2014 skip the paid viewing deck if the line is long; the surrounding streets at sunset give nearly the same view for free."
+          },
+          {
+            "day": 3,
+            "title": "The Asian Side: Kad\u0131k\u00f6y and Moda",
+            "morning": "Ferry across to Kad\u0131k\u00f6y \u2014 the crossing itself is one of the best cheap experiences in the city. Wander the produce market and Tellalzade Street (the antique dealers' row) before the day heats up, then walk to Moda along Bahariye Street, riding the T3 nostalgic tramway for at least one stop just for the novelty.",
+            "afternoon": "Moda Park and the lighthouse for a slow waterfront walk, then lunch at Ciya Sofrasi \u2014 a legendary spot for regional Turkish dishes most visitors never make it across the water to try. If you'd rather graze, Kad\u0131k\u00f6y's Umbrella Street and surrounding lanes have Istanbul's best concentration of independent coffee roasters and record shops.",
+            "evening": "Dinner in Moda at Ko\u00e7o (Aegean seafood) or Arafta (grilled meats and mezes), then end the night at a meyhane \u2014 a proper Turkish tavern with rak\u0131, small plates, and no rush to leave. This side of the city is where locals actually spend their evenings, and it shows."
+          }
+        ],
+        "tips": [
+          "Get an Istanbulkart on arrival (available at kiosks in the airport and most stations) \u2014 it works on trams, ferries, buses, and the metro, and public ferries are dramatically cheaper than any tourist 'Bosphorus cruise' for nearly the same view.",
+          "Use BiTaksi over Uber \u2014 it's the ride-hailing app locals actually use and tends to have better availability and pricing in Istanbul specifically.",
+          "Visit Balat and Fener between 8\u201310am. Later in the day the narrow streets fill with tour groups and the photogenic doors become a queue for a photo rather than a neighborhood.",
+          "Chora Church (Kariye Camii) in Edirnekap\u0131 is the mosaic-and-fresco experience most visitors skip in favor of Hagia Sophia \u2014 go if you only have time for one Byzantine interior beyond the big one.",
+          "Buy spices loose and unpackaged in the Grand Bazaar or the Spice Bazaar \u2014 the bagged 'gift tin' versions are markedly more expensive and often staler.",
+          "One or two 'hidden gem' stops per day is plenty \u2014 Istanbul rewards slowing down in a neighborhood over trying to check off a long list, and the Asian side (Kad\u0131k\u00f6y/Moda) alone is worth a full unhurried day."
+        ],
+        "sources": [
+          {
+            "title": "Istanbul Travel Guide 2026: Explore Like a Local + Hidden Gems \u2014 The Viennese Girl",
+            "url": "https://theviennesegirl.com/istanbul-travel-guide-2026-like-a-local/"
+          },
+          {
+            "title": "Istanbul Travel Guide 2026: Everything You Need to Know Before You Go \u2014 Mokan Travel",
+            "url": "https://www.mokantravel.com/blog/istanbul-travel-guide-2026-everything-you-need-to-know-befor"
+          },
+          {
+            "title": "Hidden Gems in Istanbul Most Visitors Never Reach \u2014 GoWithGuide",
+            "url": "https://gowithguide.com/blog/hidden-gems-in-istanbul-most-visitors-never-reach-and-why-thats-okay-6062"
+          },
+          {
+            "title": "9 hidden gems in Istanbul to get off the tourist trail \u2014 GetYourGuide",
+            "url": "https://www.getyourguide.com/explorer/istanbul-ttd56/hidden-gems-in-istanbul/"
+          },
+          {
+            "title": "How to get off the beaten track in Istanbul \u2014 Bradt Guides",
+            "url": "https://www.bradtguides.com/off-the-beaten-track-istanbul/"
+          },
+          {
+            "title": "Kad\u0131k\u00f6y-Moda guide \u2014 the best things to do, see, eat and drink \u2014 Time Out Istanbul",
+            "url": "https://www.timeout.com/istanbul/things-to-do/kadikoy-moda-guide"
+          },
+          {
+            "title": "35+ Amazing Things To Do in Kadikoy, Istanbul (From a Local!) \u2014 Let's Travel to T\u00fcrkiye",
+            "url": "https://letstraveltoturkiye.com/things-to-do-kadikoy-istanbul/"
+          },
+          {
+            "title": "Guide To The Best Restaurants In Kad\u0131k\u00f6y \u2014 Chasing the Donkey",
+            "url": "https://www.chasingthedonkey.com/best-restaurants-in-kadikoy-where-to-eat/"
+          },
+          {
+            "title": "Sultan Hostel, Istanbul \u2014 Hostelworld",
+            "url": "https://www.hostelworld.com/hostels/p/790/sultan-hostel/"
+          },
+          {
+            "title": "Four Seasons Hotel Istanbul at Sultanahmet",
+            "url": "https://www.fourseasons.com/istanbul/"
+          }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-19",
+      "destination": {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "flag": "\ud83c\udde9\ud83c\uddf0",
+        "iata": "CPH",
+        "lat": 55.6761,
+        "lon": 12.5683,
+        "vibe": "The best-designed city in Europe as your playground \u2014 canals, world-class pastry, the best craft beer scene of any city its size, and a bike lane to absolutely everywhere, all running on a culture that would rather sit by the harbor than show off."
+      },
+      "flight_search_date": "2026-07-19",
+      "flights": [
+        {
+          "airline": "Delta / KLM",
+          "price_usd": 650,
+          "outbound_dates": "Late August\u2013September 2026 (flexible)",
+          "return_dates": "flexible +7\u201310 days",
+          "stops": 1,
+          "duration": "~11\u201312h total (DTW\u2192AMS nonstop ~8h, AMS\u2192CPH ~1h 15m short hop)",
+          "url": "https://www.delta.com/us/en/flight-deals/europe-flights/flights-to-copenhagen",
+          "notes": "Delta flies nonstop DTW\u2192Amsterdam (18x/week), then a quick KLM-operated hop AMS\u2192CPH \u2014 the smoothest connection of the three options since it's a single-stop routing on one alliance. Check delta.com's flexible calendar."
+        },
+        {
+          "airline": "Multi-carrier (best aggregate price)",
+          "price_usd": 657,
+          "outbound_dates": "Aug 30 (flexible)",
+          "return_dates": "Sep 6",
+          "stops": 2,
+          "duration": "~16h 34m outbound, ~11h 45m return (1\u20132 stops)",
+          "url": "https://www.google.com/travel/flights/flights-from-detroit-to-copenhagen.html",
+          "notes": "Kayak's cheapest current combo for this route \u2014 typical range runs $540\u2013$738 for the season. More stops than the Delta/KLM option, but worth checking if dates are flexible; November is the single cheapest month to fly this route overall."
+        },
+        {
+          "airline": "Turkish Airlines",
+          "price_usd": 761,
+          "outbound_dates": "Sep 23 (flexible)",
+          "return_dates": "Sep 29",
+          "stops": 1,
+          "duration": "~16\u201318h total via Istanbul (IST), 1 stop each way",
+          "url": "https://www.turkishairlines.com/en-us/flights/flights-to-copenhagen/",
+          "notes": "Routes through Turkish Airlines' Istanbul hub \u2014 long but well-reviewed carrier, lie-flat business options if you want to splurge on the flight itself. A good pick if the exact Aug 30\u2013Sep 6 week doesn't work."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "Copenhagen Downtown Hostel",
+          "type": "hostel",
+          "price_per_night_usd": 85,
+          "neighborhood": "City Centre (Vandkunsten), 0.4km from the center",
+          "highlights": "Multiple Hoscar-award winner and Copenhagen's most popular hostel, rated 8.5/10 across 14,000+ reviews. En-suite private rooms available, steps from Tivoli Gardens \u2014 request a room away from the bar if you want to actually sleep before 2am.",
+          "url": "https://www.hostelworld.com/hostels/p/23831/copenhagen-downtown-hostel/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Andersen Boutique Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 180,
+          "neighborhood": "Vesterbro, 656 feet from Central Station",
+          "highlights": "Design-forward rooms by Designers Guild in Copenhagen's hippest neighborhood \u2014 soundproofed windows, Molton Brown toiletries, a 5-minute walk to both the station and Tivoli. Rates run $146\u2013$294 depending on room tier and dates.",
+          "url": "https://www.booking.com/hotel/dk/andersen-hotel.html",
+          "source": "booking"
+        },
+        {
+          "name": "Nimb Hotel",
+          "type": "hotel",
+          "price_per_night_usd": 530,
+          "neighborhood": "Inside Tivoli Gardens, city center",
+          "highlights": "5-star-superior, 38-room fairy-tale property literally inside Tivoli's gates, with a rooftop pool overlooking the gardens and a 300m\u00b2 spa. Small Luxury Hotels of the World member \u2014 the splurge that makes the whole trip feel like an event.",
+          "url": "https://www.nimb.dk/en/hotel",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Copenhagen in late summer is close to unbeatable \u2014 long light, harbor swimming, outdoor dining, and a city that was built (and is constantly rebuilt) around the idea that daily life should be pleasant, not just photogenic. It's small enough to bike across in 30 minutes and dense enough with good food, design, and water that three days barely scratches it. Go now for the two-week window where Tivoli's summer lights, harbor bathing, and outdoor markets all overlap before the weather turns.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Center City: Canals, Castles, and the Market Halls",
+            "morning": "Start at Torvehallerne (Frederiksborggade 21), the glass-hall food market that's open year-round \u2014 coffee at Estate Coffee, then graze the sm\u00f8rrebr\u00f8d counters for an open-faced herring or roast beef sandwich instead of a sit-down breakfast. Walk 10 minutes to Rosenborg Castle and King's Garden for a slow loop through the grounds; skip the ticketed castle interior unless you're a Danish crown jewels completist.",
+            "afternoon": "Walk south into the historic center (Indre By) toward Nyhavn \u2014 take the requisite harbor-front photo, but don't eat there; the restaurants lining the canal are priced for tourists who don't know better. Instead cut two streets back and find lunch in the surrounding lanes. From Nyhavn, a 20-minute canal boat tour (departs dockside) is worth it once, purely for the views of Christiansborg and the Opera House from the water.",
+            "evening": "Tivoli Gardens at dusk \u2014 this is the one unmissable tourist attraction and it earns it. Even if rides aren't your thing, walk the gardens as the lights come on, get a glass of wine at one of the garden bars, and stay for the evening illumination. Dinner inside the gardens or just outside on Vesterbrogade."
+          },
+          {
+            "day": 2,
+            "title": "Refshale\u00f8en and the Craft Beer Circuit",
+            "morning": "Cross to Refshale\u00f8en and Holmen \u2014 Copenhagen's two most underrated neighborhoods, former shipyard and military land turned into the city's most interesting redevelopment. Grab a pastry at Lille Bakery, then walk the waterfront for harbor views without the crowds of the center.",
+            "afternoon": "Reffen (April\u2013October only), the 50-stall open-air street food market on the water \u2014 go hungry and share plates across a few stalls rather than committing to one. Live music and harbor-front seating make it worth lingering for a few hours rather than a quick lunch stop.",
+            "evening": "Copenhagen has, by a lot of accounts, the best craft beer scene of any city its size \u2014 spend the evening doing a small crawl through BRUS, Mikkeller, and Too Old to Die Young (all walkable from each other in N\u00f8rrebro/city center). If beer isn't the draw, swap in a sauna-and-harbor-dip evening at CopenHot or La Banchina instead \u2014 genuinely one of the more memorable things you can do here."
+          },
+          {
+            "day": 3,
+            "title": "Neighborhoods Over Monuments",
+            "morning": "Walk or bike The Lakes (S\u00f8erne) \u2014 the string of lakes ringing the city center, lined with caf\u00e9s and locals running, biking, and sitting by the water. Grab a bolle med ost (bun with cheese) at Andersen & Maillard or BR\u00d8D near Enghave Plads \u2014 go early, they sell out. Then wander Assistens Kirkegaard, the cemetery-park where Hans Christian Andersen and S\u00f8ren Kierkegaard are buried; it's genuinely pleasant, not morbid, and full of locals reading on blankets.",
+            "afternoon": "Pick one neighborhood and go deep instead of chasing more sights: Vesterbro for vintage shops and K\u00f8dbyen (the Meatpacking District, now bars and galleries), or Frederiksberg for wide leafy streets and Forno a Legna's excellent pizza. Both are a rental-bike ride from the center \u2014 Copenhagen is designed for this, and everywhere is within 30 minutes by bike.",
+            "evening": "Last dinner should be sm\u00f8rrebr\u00f8d done properly \u2014 Aamanns Deli & Takeaway in \u00d8sterbro is the move, unpretentious and exactly the hygge the city is known for. If you have any energy left, end at a bar rather than a sight: Copenhagen at night is quiet and low-key by design, which is its own kind of good."
+          }
+        ],
+        "tips": [
+          "Skip The Little Mermaid unless you're a completist \u2014 it's a 30-minute walk from downtown for a small, underwhelming statue. Walk Langelinie promenade instead and you'll get better harbor views for the same effort.",
+          "Avoid Str\u00f8get except for actual shopping \u2014 it's the main pedestrian shopping street and exactly that: crowded and generic. The interesting stuff is one or two streets over.",
+          "Skip hop-on-hop-off bus tours entirely \u2014 Copenhagen is built for walking and cycling, and buses get stuck in the same traffic everyone else does. Rent a bike (city-wide docked bike-share or a rental shop) instead; it's how locals actually get around.",
+          "The Copenhagen Card (24hr ~459 DKK / 72hr ~889 DKK) pays for itself fast if you're doing 2+ paid museums a day plus transit \u2014 factor it in before buying individual tickets.",
+          "Reffen and the open-air street food markets only run April\u2013October \u2014 if you're coming outside that window, Torvehallerne is the year-round equivalent and just as good.",
+          "The famous 'Superkilen' squiggly-lines photo spot is overrated in person \u2014 the park itself is worth a walk-through, just don't make a special trip only for the photo."
+        ],
+        "sources": [
+          {
+            "title": "My 42 Favorite Things to Do in Copenhagen as a Local (+ What I Would Skip)",
+            "url": "https://danny-cph.com/things-to-do-in-copenhagen/"
+          },
+          {
+            "title": "Copenhagen Travel Guide 2026: Best Things to Do & See",
+            "url": "https://www.machupicchu.org/copenhagen-travel-guide-2026-best-things-to-do-see.htm"
+          },
+          {
+            "title": "Copenhagen Street Food: Reffen, Torvehallerne & the Markets Worth Visiting \u2014 Eating Europe",
+            "url": "https://www.eatingeurope.com/blog/copenhagen-street-food/"
+          },
+          {
+            "title": "Street food markets in and around Copenhagen \u2014 Visit Copenhagen",
+            "url": "https://www.visitcopenhagen.com/copenhagen/eat-drink/street-food-markets-and-around-copenhagen"
+          },
+          {
+            "title": "Reffen in Copenhagen: the temple of street food \u2014 Passion Copenhagen",
+            "url": "https://www.passion-copenhagen.com/neighborhoods/reffen/"
+          },
+          {
+            "title": "The Best Copenhagen Airbnbs in Every Neighborhood \u2014 Scandinavia Standard",
+            "url": "https://www.scandinaviastandard.com/the-best-copenhagen-airbnbs-in-every-neighborhood/"
+          },
+          {
+            "title": "Copenhagen Downtown Hostel \u2014 Hostelworld",
+            "url": "https://www.hostelworld.com/hostels/p/23831/copenhagen-downtown-hostel/"
+          },
+          {
+            "title": "Nimb Hotel \u2014 Exclusive Boutique Hotel in Copenhagen",
+            "url": "https://www.nimb.dk/en/hotel"
+          }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-14",
+      "trip_type": "drive",
+      "destination": {
+        "city": "Houghton Lake",
+        "region": "Roscommon County, Michigan",
+        "country": "USA",
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "lat": 44.3095,
+        "lon": -84.7614,
+        "vibe": "Michigan's largest inland lake \u2014 20,000+ acres of wide, shallow, forgiving water ringed by cedar swamp, a Depression-era CCC museum, and two of the state's most underrated state parks."
+      },
+      "travel": {
+        "from": "Ann Arbor, MI",
+        "to": "Houghton Lake, MI",
+        "route": "US-23 N through Bay City, then M-55 W",
+        "distance_miles": 176,
+        "drive_time": "~2h 52m",
+        "notes": "Sits about 25 miles / 30 minutes south of Grayling on the same north-south corridor \u2014 easy to combine with or swap for that trip if you want a lake instead of a river."
+      },
+      "lodging": [
+        {
+          "name": "Lakeside Resort and Conference Center",
+          "type": "hotel",
+          "price_per_night_usd": 95,
+          "neighborhood": "Clearview Drive, ~2.5 miles from downtown Houghton Lake",
+          "highlights": "The cheap, family-value pick \u2014 an indoor water park with a lazy river and slides is included with the room, plus an arcade and on-site restaurant. Less about the nature, more about a comfortable, inexpensive base.",
+          "url": "https://www.lakesideresortandconferencecenter.com/",
+          "source": "direct"
+        },
+        {
+          "name": "Beachfront Hotel Houghton Lake",
+          "type": "hotel",
+          "price_per_night_usd": 130,
+          "neighborhood": "Directly on Houghton Lake's shoreline",
+          "highlights": "48 rooms with private balconies (12 with jacuzzis), an indoor pool and hot tub, and a 14-slip private dock with free boat parking \u2014 the pick if you actually want to wake up on the water. July rates run higher than the rest of the year; book ahead.",
+          "url": "https://www.beachfronthl.com/",
+          "source": "direct"
+        },
+        {
+          "name": "Lakefront chalet on Houghton Lake",
+          "type": "airbnb",
+          "price_per_night_usd": 350,
+          "neighborhood": "North Shore, Houghton Lake",
+          "highlights": "5-bedroom lakefront homes with private docks and fire pits show up regularly in this search \u2014 the splurge option if you're bringing a group and want a real dock and a private beach instead of a hotel balcony.",
+          "url": "https://www.airbnb.com/houghton-lake-mi/stays/lakehouses",
+          "source": "airbnb"
+        }
+      ],
+      "itinerary": {
+        "overview": "Houghton Lake is Michigan's biggest inland lake by surface area \u2014 20,044 acres, but wide and shallow (averaging 7\u20138 feet), so it's a swim-far-from-shore kind of lake rather than a deep, dramatic one. What makes it worth a nature-focused trip is what surrounds it: one of the largest wilderness wetlands left in the Lower Peninsula to the north, and two quietly excellent state parks on nearby Higgins Lake to the northeast. It's unpretentious and a little worn-in \u2014 more Up North fishing town than resort town \u2014 which is exactly the appeal if you've already done the more polished version of this trip.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Arrival: Onto the Water",
+            "morning": "It's about 2h52m up from Ann Arbor \u2014 US-23 N through Bay City, then M-55 W into Roscommon County.",
+            "afternoon": "Check in, then get on or in the lake \u2014 it's shallow enough near shore to wade out a long way, which makes it an easy, low-stakes swim. Walk a stretch of the Houghton Lake Nature Trail for an easy orientation to the area's woods and wetlands.",
+            "evening": "Dinner at Buccilli's for pizza, or drive 10 minutes to Irish Kilt Brewing Company in Roscommon \u2014 a genuinely local spot (opened by former Red Wing Darren McCarty) that's a better bet than the places directly on the Houghton Lake strip. If your lodging has a dock or fire pit, Houghton Lake's width makes for unusually long, flat sunsets."
+          },
+          {
+            "day": 2,
+            "title": "Cedar Swamp, Then a Second Lake",
+            "morning": "Put a canoe or kayak into the Dead Stream Flooding State Wildlife Management Area \u2014 one of the largest wilderness wetlands left in Michigan's Lower Peninsula, centered on the Muskegon River just north of Houghton Lake. Most of it is accessible only by water: flooded northern white cedar swamp, largemouth bass, pike, and enough bends and channels that it's worth bringing a map or going with someone who's paddled it before.",
+            "afternoon": "Drive about 20 minutes to South Higgins Lake State Park and hike the 5.5-mile Marl Lake trail loop \u2014 the park's quieter, less-developed section, wrapped around a smaller lake instead of the busy main beach. If you have another 30 minutes, continue to North Higgins Lake State Park for the Michigan CCC Museum, a genuinely well-done and under-visited exhibit on the Depression-era Civilian Conservation Corps, which planted 484 million trees across the state.",
+            "evening": "Back to Roscommon or Houghton Lake for dinner \u2014 Irish Kilt again if you liked it, or Little Boots if you want something more low-key."
+          },
+          {
+            "day": 3,
+            "title": "One More Trail, Then Home",
+            "morning": "Hike the Lost Twin Lakes Pathway in the AuSable State Forest \u2014 a 3.3-mile loop through quiet forest, a good last walk before the drive.",
+            "afternoon": "Head home \u2014 about 2h52m back down to Ann Arbor via M-55 and US-23.",
+            "evening": "Home in time for dinner."
+          }
+        ],
+        "tips": [
+          "Houghton Lake is wide and shallow, not deep \u2014 great for swimming far from shore or paddling, less interesting if you're hoping for a dramatic, clear-water lake like Torch Lake further north.",
+          "Dead Stream Swamp is mostly water-access only and easy to get turned around in \u2014 download a map beforehand or go with someone who's paddled it, rather than winging it on a first visit.",
+          "South Higgins Lake's Marl Lake section is the antidote to the park's huge, busy main campground \u2014 go there specifically if you want quiet trails instead of a crowded beach.",
+          "The Michigan CCC Museum at North Higgins Lake State Park is easy to skip and shouldn't be \u2014 it's a small, well-curated piece of Depression-era Michigan history that most lake visitors never bother with.",
+          "Irish Kilt Brewing Company in Roscommon is the actual local hangout, not a tourist-facing spot on the main strip \u2014 better food and beer than most places directly in Houghton Lake town.",
+          "July is the priciest and busiest month for lodging here \u2014 rates run close to double what they are in shoulder season, so book lodging early or aim for right after the July 4th week when things quiet down."
+        ],
+        "sources": [
+          {
+            "title": "Houghton Lake, MI: Lakeside Bliss & Outdoor Escapes \u2014 Michigan.org",
+            "url": "https://www.michigan.org/city/houghton-lake"
+          },
+          {
+            "title": "First Timers Guide to Houghton Lake, Michigan \u2014 Brook Walsh",
+            "url": "https://www.brookwalsh.com/blog/first-timers-guide-to-houghton-lake-michigan.html"
+          },
+          {
+            "title": "Dead Stream Flooding State Wildlife Management Area \u2014 Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Dead_Stream_Flooding_State_Wildlife_Management_Area"
+          },
+          {
+            "title": "Dead Stream Swamp \u2014 Michigan DNR",
+            "url": "https://www.michigan.gov/dnr/places/natural-areas/dead-stream-swamp"
+          },
+          {
+            "title": "Saturday outing to take canoes, kayaks into Deadstream Swamp \u2014 Houghton Lake Resorter",
+            "url": "https://www.houghtonlakeresorter.com/articles/saturday-outing-to-take-canoes-kayaks-into-deadstream-swamp/"
+          },
+          {
+            "title": "South Higgins Lake State Park \u2014 Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/South_Higgins_Lake_State_Park"
+          },
+          {
+            "title": "North Higgins Lake State Park \u2014 America's State Parks",
+            "url": "https://www.americasstateparks.org/state-park/north-higgins-lake-state-park/"
+          },
+          {
+            "title": "Irish Kilt Brewing Company",
+            "url": "https://www.irishkiltbrewing.com/"
+          },
+          {
+            "title": "Irish Kilt Brewing Company named a 2026 SBDC 'Best Small Business' \u2014 Houghton Lake Resorter",
+            "url": "https://www.houghtonlakeresorter.com/articles/irish-kilt-brewing-company-named-a-2026-sbdc-best-small-business/"
+          },
+          {
+            "title": "Beachfront Hotel Houghton Lake",
+            "url": "https://www.beachfronthl.com/"
+          },
+          {
+            "title": "Lakeside Resort and Conference Center",
+            "url": "https://www.lakesideresortandconferencecenter.com/"
+          }
+        ]
+      }
+    },
+    {
       "updated": "2026-07-14",
       "trip_type": "drive",
       "destination": {

@@ -1,97 +1,119 @@
 {
-  "updated": "2026-07-14",
-  "trip_type": "drive",
+  "updated": "2026-07-19",
   "destination": {
-    "city": "Houghton Lake",
-    "region": "Roscommon County, Michigan",
-    "country": "USA",
-    "flag": "🇺🇸",
-    "lat": 44.3095,
-    "lon": -84.7614,
-    "vibe": "Michigan's largest inland lake — 20,000+ acres of wide, shallow, forgiving water ringed by cedar swamp, a Depression-era CCC museum, and two of the state's most underrated state parks."
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "iata": "DBV",
+    "lat": 42.6507,
+    "lon": 18.0944,
+    "vibe": "A walled medieval city dropped onto the most dramatic stretch of the Adriatic coast — genuinely as beautiful as the postcards, as long as you time your visit around the cruise ships instead of into them."
   },
-  "travel": {
-    "from": "Ann Arbor, MI",
-    "to": "Houghton Lake, MI",
-    "route": "US-23 N through Bay City, then M-55 W",
-    "distance_miles": 176,
-    "drive_time": "~2h 52m",
-    "notes": "Sits about 25 miles / 30 minutes south of Grayling on the same north-south corridor — easy to combine with or swap for that trip if you want a lake instead of a river."
-  },
+  "flight_search_date": "2026-07-19",
+  "flights": [
+    {
+      "airline": "Lufthansa / Austrian Airlines (via Munich or Vienna)",
+      "price_usd": 573,
+      "outbound_dates": "September–October 2026 (flexible; October is the cheapest month on this route)",
+      "return_dates": "flexible +7–10 days",
+      "stops": 1,
+      "duration": "~14–16h total via a Central European hub",
+      "url": "https://www.expedia.com/lp/flights/dtw/dbv/detroit-to-dubrovnik",
+      "notes": "No daily direct flights exist on this route — every itinerary connects, most commonly through Munich (Lufthansa) or Vienna (Austrian). This is the low end of the current range; book a Sunday for the extra 6–13% discount data shows for this route."
+    },
+    {
+      "airline": "Multi-carrier (specific date example)",
+      "price_usd": 644,
+      "outbound_dates": "Sep 28, 2026",
+      "return_dates": "Oct 7, 2026",
+      "stops": 1,
+      "duration": "~15h total, 1 stop",
+      "url": "https://www.travelocity.com/lp/flights/dtw/dbv/detroit-metropolitan-wayne-county-to-dubrovnik",
+      "notes": "A concrete late-September departure landing right at the start of shoulder season — smaller crowds in the Old Town and noticeably lower hotel rates than July/August."
+    },
+    {
+      "airline": "Best recent aggregate price",
+      "price_usd": 631,
+      "outbound_dates": "flexible, late Aug–Sep 2026",
+      "return_dates": "flexible +7–10 days",
+      "stops": 1,
+      "duration": "~14–17h total",
+      "url": "https://www.kayak.com/flight-routes/United-States-US0/Dubrovnik-DBV",
+      "notes": "The cheapest fare Kayak's tracked for this route in the last week — worth setting a price-drop alert here since Dubrovnik fares from DTW fluctuate more than the Western European routes."
+    }
+  ],
   "lodging": [
     {
-      "name": "Lakeside Resort and Conference Center",
-      "type": "hotel",
-      "price_per_night_usd": 95,
-      "neighborhood": "Clearview Drive, ~2.5 miles from downtown Houghton Lake",
-      "highlights": "The cheap, family-value pick — an indoor water park with a lazy river and slides is included with the room, plus an arcade and on-site restaurant. Less about the nature, more about a comfortable, inexpensive base.",
-      "url": "https://www.lakesideresortandconferencecenter.com/",
-      "source": "direct"
+      "name": "Old Town Hostel",
+      "type": "hostel",
+      "price_per_night_usd": 65,
+      "neighborhood": "Old Town, 15 meters from the Stradun",
+      "highlights": "Rated 9.0/10 (Superb) across nearly 2,900 reviews — a boutique hostel in a restored 400-year-old building right on Dubrovnik's main street. En-suite private rooms, no curfew, and genuinely walkable to every Old Town sight in five minutes.",
+      "url": "https://www.hostelworld.com/hostels/p/43839/old-town-hostel/",
+      "source": "hostelworld"
     },
     {
-      "name": "Beachfront Hotel Houghton Lake",
+      "name": "Hotel More",
       "type": "hotel",
-      "price_per_night_usd": 130,
-      "neighborhood": "Directly on Houghton Lake's shoreline",
-      "highlights": "48 rooms with private balconies (12 with jacuzzis), an indoor pool and hot tub, and a 14-slip private dock with free boat parking — the pick if you actually want to wake up on the water. July rates run higher than the rest of the year; book ahead.",
-      "url": "https://www.beachfronthl.com/",
-      "source": "direct"
+      "price_per_night_usd": 150,
+      "neighborhood": "Lapad Peninsula, ~2.2 miles from Old Town",
+      "highlights": "5-star boutique property with a private beach, heated pool, rooftop sea views, and the memorably named Cave Bar carved into the rock. Trades a short bus ride to Old Town for genuine quiet and a swimmable front yard.",
+      "url": "https://www.booking.com/hotel/hr/more.html",
+      "source": "booking"
     },
     {
-      "name": "Lakefront chalet on Houghton Lake",
-      "type": "airbnb",
-      "price_per_night_usd": 350,
-      "neighborhood": "North Shore, Houghton Lake",
-      "highlights": "5-bedroom lakefront homes with private docks and fire pits show up regularly in this search — the splurge option if you're bringing a group and want a real dock and a private beach instead of a hotel balcony.",
-      "url": "https://www.airbnb.com/houghton-lake-mi/stays/lakehouses",
-      "source": "airbnb"
+      "name": "Villa Dubrovnik",
+      "type": "hotel",
+      "price_per_night_usd": 900,
+      "neighborhood": "Ploče, 15-minute walk from Old Town",
+      "highlights": "Widely regarded as Croatia's most exclusive hotel — 56 sea-view residences carved into the cliffside with private teak balconies overlooking the Old City walls and Lokrum Island. The splurge that's actually a destination in itself.",
+      "url": "https://www.booking.com/hotel/hr/villa-dubrovnik-dubrovnik.html",
+      "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Houghton Lake is Michigan's biggest inland lake by surface area — 20,044 acres, but wide and shallow (averaging 7–8 feet), so it's a swim-far-from-shore kind of lake rather than a deep, dramatic one. What makes it worth a nature-focused trip is what surrounds it: one of the largest wilderness wetlands left in the Lower Peninsula to the north, and two quietly excellent state parks on nearby Higgins Lake to the northeast. It's unpretentious and a little worn-in — more Up North fishing town than resort town — which is exactly the appeal if you've already done the more polished version of this trip.",
+    "overview": "Dubrovnik earns its reputation — the Old Town's limestone streets and the sea views from the city walls are as dramatic in person as they look on a screen. The catch is that everyone knows this, and the cruise ship crowds between 10am and 4pm can turn the Stradun into a shuffling line. The trick to a good Dubrovnik trip isn't avoiding the famous stuff, it's timing it — walk the walls at 8am, eat where the cruise groups don't go, and use the afternoon lull for the islands and beaches locals actually use.",
     "days": [
       {
         "day": 1,
-        "title": "Arrival: Onto the Water",
-        "morning": "It's about 2h52m up from Ann Arbor — US-23 N through Bay City, then M-55 W into Roscommon County.",
-        "afternoon": "Check in, then get on or in the lake — it's shallow enough near shore to wade out a long way, which makes it an easy, low-stakes swim. Walk a stretch of the Houghton Lake Nature Trail for an easy orientation to the area's woods and wetlands.",
-        "evening": "Dinner at Buccilli's for pizza, or drive 10 minutes to Irish Kilt Brewing Company in Roscommon — a genuinely local spot (opened by former Red Wing Darren McCarty) that's a better bet than the places directly on the Houghton Lake strip. If your lodging has a dock or fire pit, Houghton Lake's width makes for unusually long, flat sunsets."
+        "title": "The Walls and the Old Town, on the Right Schedule",
+        "morning": "Walk the City Walls at opening time (check the current mandatory-booking system online first — Dubrovnik introduced advance reservations in 2026 to manage crowds). The full loop takes 1.5–2 hours and gives you the Adriatic, the terracotta rooftops, and the fortress towers with a fraction of the midday foot traffic. Enter the Old Town itself through the Buža Gate near the University rather than the bottlenecked Pile Gate.",
+        "afternoon": "Check the day's cruise ship schedule before committing to Old Town sightseeing — if ships are in port, the Stradun is miserable from late morning to mid-afternoon. Use that window for Lokrum Island instead: a 10–15 minute boat ride to a shaded nature reserve with rocky swimming coves, a genuine reset from the Old Town rush.",
+        "evening": "Back in Old Town after 5pm once the cruise crowds have re-boarded. Skip Prijeko street entirely — it's the tourist-trap restaurant row — and walk a block or two further for Kamenice, Bota Šare, or Azur instead. Sunset from the Buža Bar, a cliffside bar built into the city walls facing the open sea, is the single best-value evening in the city."
       },
       {
         "day": 2,
-        "title": "Cedar Swamp, Then a Second Lake",
-        "morning": "Put a canoe or kayak into the Dead Stream Flooding State Wildlife Management Area — one of the largest wilderness wetlands left in Michigan's Lower Peninsula, centered on the Muskegon River just north of Houghton Lake. Most of it is accessible only by water: flooded northern white cedar swamp, largemouth bass, pike, and enough bends and channels that it's worth bringing a map or going with someone who's paddled it before.",
-        "afternoon": "Drive about 20 minutes to South Higgins Lake State Park and hike the 5.5-mile Marl Lake trail loop — the park's quieter, less-developed section, wrapped around a smaller lake instead of the busy main beach. If you have another 30 minutes, continue to North Higgins Lake State Park for the Michigan CCC Museum, a genuinely well-done and under-visited exhibit on the Depression-era Civilian Conservation Corps, which planted 484 million trees across the state.",
-        "evening": "Back to Roscommon or Houghton Lake for dinner — Irish Kilt again if you liked it, or Little Boots if you want something more low-key."
+        "title": "Beyond the Walls: Lapad, Gruž, and a Real Local Beach",
+        "morning": "Take the local bus (10 minutes) out to Lapad and Babin Kuk, where most Dubrovnik residents actually live. Coffee at a neighborhood café rather than an Old Town tourist patio, then walk Lapad's tree-lined promenade down to the bay.",
+        "afternoon": "Sveti Jakov beach, about 15 minutes along Jadranska cesta — the beach locals go to instead of the packed coves directly below Old Town. Clear water, sunshades, showers, food nearby, and a fraction of the crowd. If you want something more dramatic, Pasjača Beach south of the city is reachable via a long staircase carved into cliffside rock, with pristine water as the reward.",
+        "evening": "Head to Gruž after dark — the harborside neighborhood where locals and expats actually drink, with wine bars lining Obala Stjepana Radića and Ulica Andrije Hebranga. A completely different, much less touristy version of a Dubrovnik evening."
       },
       {
         "day": 3,
-        "title": "One More Trail, Then Home",
-        "morning": "Hike the Lost Twin Lakes Pathway in the AuSable State Forest — a 3.3-mile loop through quiet forest, a good last walk before the drive.",
-        "afternoon": "Head home — about 2h52m back down to Ann Arbor via M-55 and US-23.",
-        "evening": "Home in time for dinner."
+        "title": "Mount Srđ, the Islands, and One Last View",
+        "morning": "Take the cable car up Mount Srđ before it gets hot and crowded — the panoramic view over the Old Town, the islands, and (on a clear day) the mountains of Bosnia is worth the early alarm. Walk the ruined Napoleonic fort at the summit for war-history context most visitors skip entirely.",
+        "afternoon": "Boat out to the Elafiti Islands for the afternoon — Koločep, Lopud, or Šipan all offer the crystal-clear water and slow island pace that the mainland coast can't quite match once the day-trip crowds thin out. Lopud in particular has a genuinely excellent sandy beach, a rarity on this coastline.",
+        "evening": "Last dinner at a traditional konoba (family-run tavern) rather than anything with a view-tax markup — ask your hotel for their actual neighborhood recommendation, not the one on the tourist map. If you have one more sunset in you, Fort Lovrijenac just outside the main walls is atmospheric, historically the 'King's Landing' fortress from Game of Thrones, and dramatically less crowded than the wall walk itself."
       }
     ],
     "tips": [
-      "Houghton Lake is wide and shallow, not deep — great for swimming far from shore or paddling, less interesting if you're hoping for a dramatic, clear-water lake like Torch Lake further north.",
-      "Dead Stream Swamp is mostly water-access only and easy to get turned around in — download a map beforehand or go with someone who's paddled it, rather than winging it on a first visit.",
-      "South Higgins Lake's Marl Lake section is the antidote to the park's huge, busy main campground — go there specifically if you want quiet trails instead of a crowded beach.",
-      "The Michigan CCC Museum at North Higgins Lake State Park is easy to skip and shouldn't be — it's a small, well-curated piece of Depression-era Michigan history that most lake visitors never bother with.",
-      "Irish Kilt Brewing Company in Roscommon is the actual local hangout, not a tourist-facing spot on the main strip — better food and beer than most places directly in Houghton Lake town.",
-      "July is the priciest and busiest month for lodging here — rates run close to double what they are in shoulder season, so book lodging early or aim for right after the July 4th week when things quiet down."
+      "Book City Wall tickets in advance — as of 2026, Dubrovnik requires advance reservations to manage the wall's crowd levels, and walk-up availability can't be assumed anymore.",
+      "Check the daily cruise ship schedule (published by the Dubrovnik Port Authority) before planning your Old Town hours — the single biggest lever for a good vs. miserable visit is simply not overlapping with a ship's passenger release window.",
+      "Enter through Buža Gate, not Pile Gate — Pile is the main cruise-crowd bottleneck and can take 10+ minutes to clear at peak times; Buža near the University is nearly always quiet.",
+      "Skip Prijeko street for dinner entirely — it's the most concentrated stretch of tourist-trap restaurants in the Old Town. Walk one block over instead.",
+      "Stay outside the Old Town walls (Lapad, Gruž, Babin Kuk) if you want to see how Dubrovnik actually lives day to day — these neighborhoods have their own beaches, cafés, and a completely different, calmer rhythm than the postcard center.",
+      "Go in shoulder season if your dates are flexible — late September through October (also the cheapest flight window) trades a few degrees of warmth for dramatically thinner crowds and lower hotel rates."
     ],
     "sources": [
-      { "title": "Houghton Lake, MI: Lakeside Bliss & Outdoor Escapes — Michigan.org", "url": "https://www.michigan.org/city/houghton-lake" },
-      { "title": "First Timers Guide to Houghton Lake, Michigan — Brook Walsh", "url": "https://www.brookwalsh.com/blog/first-timers-guide-to-houghton-lake-michigan.html" },
-      { "title": "Dead Stream Flooding State Wildlife Management Area — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dead_Stream_Flooding_State_Wildlife_Management_Area" },
-      { "title": "Dead Stream Swamp — Michigan DNR", "url": "https://www.michigan.gov/dnr/places/natural-areas/dead-stream-swamp" },
-      { "title": "Saturday outing to take canoes, kayaks into Deadstream Swamp — Houghton Lake Resorter", "url": "https://www.houghtonlakeresorter.com/articles/saturday-outing-to-take-canoes-kayaks-into-deadstream-swamp/" },
-      { "title": "South Higgins Lake State Park — Wikipedia", "url": "https://en.wikipedia.org/wiki/South_Higgins_Lake_State_Park" },
-      { "title": "North Higgins Lake State Park — America's State Parks", "url": "https://www.americasstateparks.org/state-park/north-higgins-lake-state-park/" },
-      { "title": "Irish Kilt Brewing Company", "url": "https://www.irishkiltbrewing.com/" },
-      { "title": "Irish Kilt Brewing Company named a 2026 SBDC 'Best Small Business' — Houghton Lake Resorter", "url": "https://www.houghtonlakeresorter.com/articles/irish-kilt-brewing-company-named-a-2026-sbdc-best-small-business/" },
-      { "title": "Beachfront Hotel Houghton Lake", "url": "https://www.beachfronthl.com/" },
-      { "title": "Lakeside Resort and Conference Center", "url": "https://www.lakesideresortandconferencecenter.com/" }
+      { "title": "Dubrovnik Travel Guide 2026: What to Do, Budget, Insider Tips — Croatia Unscripted", "url": "https://croatiaunscripted.com/dubrovnik-travel-guide-2026/" },
+      { "title": "5 Dubrovnik Must See Attractions (and 5 Popular Spots to Skip) — Croatia Unscripted", "url": "https://croatiaunscripted.com/dubrovnik-must-see-attractions/" },
+      { "title": "How To Avoid Crowds in Dubrovnik: Top Tips and Hidden Gems — GetYourGuide", "url": "https://www.getyourguide.com/explorer/dubrovnik-ttd513/avoid-the-crowds-in-dubrovnik/" },
+      { "title": "22 Dubrovnik Hidden Gems to add to your trip — Helena Bradbury", "url": "https://www.helenabradbury.com/blog-1/dubrovnik-hidden-gems" },
+      { "title": "Secret Dubrovnik — Time Out Croatia", "url": "https://www.timeout.com/croatia/things-to-do/secret-dubrovnik" },
+      { "title": "8 Things to Avoid in Dubrovnik — Jayway Travel", "url": "https://jaywaytravel.com/blog/8-things-to-avoid-in-dubrovnik" },
+      { "title": "A Helpful Dubrovnik Travel Guide (Fun Things to Do Beyond GOT) — Embrace Some Place", "url": "https://embracesomeplace.com/visiting-dubrovnik-best-things-to-do/" },
+      { "title": "Old Town Hostel, Dubrovnik — Hostelworld", "url": "https://www.hostelworld.com/hostels/p/43839/old-town-hostel/" },
+      { "title": "Villa Dubrovnik — Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g295371-d308208-Reviews-Villa_Dubrovnik-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html" }
     ]
   }
 }
