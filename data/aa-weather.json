@@ -1,86 +1,87 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-22",
   "location": "Ann Arbor, MI",
   "_note": "Amy's Ann Arbor stay (June 23–July 17) has concluded — this section is kept for reference/next-visit planning rather than active trip use.",
   "forecast": [
     {
-      "date": "2026-07-19",
-      "day": "Sunday",
-      "high": 81,
-      "low": 59,
-      "wind_mph": 5,
-      "wind_hourly": [3,3,3,3,3,3,3,3,3,3,3,3,5,5,5,5,5,5,5,5,5,5,3,2],
-      "precipitation_pct": 0,
-      "humidity": null,
-      "description": "Areas of smoke, then mostly clear"
-    },
-    {
-      "date": "2026-07-20",
-      "day": "Monday",
-      "high": 84,
-      "low": 65,
-      "wind_mph": 10,
-      "wind_hourly": [2,2,2,2,1,1,1,1,2,3,5,7,8,8,9,9,9,10,10,9,7,6,6,6],
-      "precipitation_pct": 76,
-      "humidity": null,
-      "description": "Mostly sunny, then showers and thunderstorms overnight"
-    },
-    {
-      "date": "2026-07-21",
-      "day": "Tuesday",
-      "high": 86,
-      "low": 58,
-      "wind_mph": 16,
-      "wind_hourly": [7,8,9,10,10,12,12,13,13,14,14,15,15,15,15,16,16,16,15,14,13,13,13,13],
-      "precipitation_pct": 76,
-      "humidity": null,
-      "description": "Showers and thunderstorms"
-    },
-    {
       "date": "2026-07-22",
       "day": "Wednesday",
-      "high": 76,
-      "low": 52,
-      "wind_mph": 14,
-      "wind_hourly": [13,12,12,12,12,12,13,13,14,14,14,14,14,13,13,13,13,12,10,8,7,6,6,5],
-      "precipitation_pct": 4,
+      "high": 75,
+      "low": 50,
+      "wind_mph": 9,
+      "wind_hourly": [5,5,4,4,4,4,4,5,5,6,6,7,7,8,8,8,9,9,9,8,7,6,5,5],
+      "precipitation_pct": 0,
       "humidity": null,
       "description": "Mostly Sunny"
     },
     {
       "date": "2026-07-23",
       "day": "Thursday",
-      "high": 80,
-      "low": 56,
-      "wind_mph": 6,
-      "wind_hourly": [5,3,3,3,3,3,3,2,2,3,4,5,6,6,6,6,5,5,4,4,3,3,3,3],
+      "high": 79,
+      "low": 54,
+      "wind_mph": 5,
+      "wind_hourly": [5,5,5,3,3,3,2,2,2,2,3,3,5,3,3,3,3,2,2,2,2,2,2,2],
       "precipitation_pct": 0,
       "humidity": null,
-      "description": "Sunny",
-      "_note": "Hourly wind partially estimated — source API response was truncated after 9 AM"
+      "description": "Sunny"
     },
     {
       "date": "2026-07-24",
       "day": "Friday",
-      "high": 82,
-      "low": 60,
+      "high": 81,
+      "low": 57,
       "wind_mph": 6,
-      "wind_hourly": [2,2,1,1,1,1,1,2,2,3,4,5,5,6,6,6,5,5,4,4,3,3,2,2],
-      "precipitation_pct": 8,
+      "wind_hourly": [1,1,1,1,0,0,0,0,0,0,1,2,3,5,5,5,5,5,5,6,6,5,3,2],
+      "precipitation_pct": 0,
       "humidity": null,
-      "description": "Mostly Sunny",
-      "_note": "Hourly wind estimated from daily range (source hourly API did not return this far out)"
+      "description": "Mostly Sunny"
     },
     {
       "date": "2026-07-25",
       "day": "Saturday",
       "high": 85,
-      "low": 62,
+      "low": 65,
       "wind_mph": 7,
-      "wind_hourly": [3,3,2,2,2,2,2,3,3,4,5,6,6,7,7,7,6,6,5,5,4,4,3,3],
-      "precipitation_pct": 15,
+      "wind_hourly": [2,2,1,1,1,1,1,2,2,3,4,5,6,7,7,7,7,6,6,5,4,3,3,2],
+      "precipitation_pct": 3,
       "humidity": null,
-      "description": "Mostly sunny, slight chance of showers and thunderstorms",
+      "description": "Mostly Sunny",
+      "_note": "Hourly wind estimated from daily range (source hourly API did not return this far out)"
+    },
+    {
+      "date": "2026-07-26",
+      "day": "Sunday",
+      "high": 89,
+      "low": 64,
+      "wind_mph": 9,
+      "wind_hourly": [5,5,4,4,4,4,4,5,5,6,7,8,9,9,9,9,8,7,7,6,6,5,5,5],
+      "precipitation_pct": 31,
+      "humidity": null,
+      "description": "Chance showers and thunderstorms",
+      "_note": "Hourly wind estimated from daily range (source hourly API did not return this far out)"
+    },
+    {
+      "date": "2026-07-27",
+      "day": "Monday",
+      "high": 87,
+      "low": 64,
+      "wind_mph": 9,
+      "wind_hourly": [5,5,4,4,4,4,4,5,5,6,7,8,9,9,9,9,8,7,7,6,6,5,5,5],
+      "precipitation_pct": 45,
+      "humidity": null,
+      "description": "Chance showers and thunderstorms",
+      "_note": "Hourly wind estimated from daily range (source hourly API did not return this far out)"
+    },
+    {
+      "date": "2026-07-28",
+      "day": "Tuesday",
+      "high": 85,
+      "low": 60,
+      "wind_mph": 10,
+      "wind_hourly": [6,6,5,5,5,5,5,6,6,7,8,9,10,10,10,10,9,8,8,7,7,6,6,6],
+      "precipitation_pct": 23,
+      "humidity": null,
+      "description": "Slight chance showers and thunderstorms",
       "_note": "Hourly wind estimated from daily range (source hourly API did not return this far out)"
     }
   ],
@@ -88,12 +89,12 @@
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Hot (76–86°F) all week — early morning best. Monday night/Tuesday bring a 76% storm chance, making Tuesday the day to skip; Wed–Sat are clear enough to ride"
+      "reason": "Hot (75–89°F) and dry Wed–Fri, good for early rides; a storm system builds in Sat–Tue with rain chances 31–45%, making Sun/Mon the days to skip"
     },
     {
       "activity": "running",
       "rating": "fair",
-      "reason": "Same heat/storm pattern as cycling — dawn runs recommended, and Tuesday's 76% storm chance makes it the one day to move indoors"
+      "reason": "Same pattern as cycling — dawn runs recommended all week given the heat, and Sunday/Monday's 31–45% storm chances make those the days to move indoors"
     },
     {
       "activity": "swimming",
@@ -103,7 +104,7 @@
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Especially recommended Monday night into Tuesday, when thunderstorm chances hit 76%"
+      "reason": "Especially recommended Sunday through Tuesday, when a storm system pushes thunderstorm chances up to 45%"
     }
   ]
 }

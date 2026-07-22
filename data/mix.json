@@ -14,22 +14,22 @@
     "note": "No history.json found — no hours logged yet this week (Jul 20–26)"
   },
   "recommendation": {
-    "updated": "2026-07-19",
-    "summary": "All categories at zero, and this is the first week back on SF's normal rhythm after the Ann Arbor stay ended — a good moment to re-establish the Bay Club habit rather than let the travel gap turn into a longer one. No new verified roles surfaced this cycle, so the highest-leverage professional move is applying to the invite-only ALIGN AI Executive Summit (Aug 19) now, since applications for director-level summits like this take longer to clear than a job application.",
+    "updated": "2026-07-22",
+    "summary": "All categories at zero, and this is genuinely the last week to catch Monet and Venice at the de Young — it closes Sunday, July 26, the same week the Legion's Drawn to Venice companion show also winds down. No fresh professional postings cleared verification this cycle (last week's Dropbox lead turned out to be closed), so lean on the CFPs already in the pipeline — both still have a month-plus runway — rather than waiting on new roles to appear.",
     "suggested": [
       {
+        "category": "culture",
+        "title": "Monet and Venice at the de Young — final days, closes Sunday July 26",
+        "source_section": "museums"
+      },
+      {
         "category": "professional",
-        "title": "Apply to ALIGN AI Executive Summit San Francisco (Aug 19, invite application for director-level+ professionals)",
+        "title": "Draft a submission for the Global Data & AI Virtual Tech Conference CFP (deadline Aug 22)",
         "source_section": "professional"
       },
       {
-        "category": "health",
-        "title": "Bay Club San Francisco — re-start the routine post-travel (open 5 AM daily)",
-        "source_section": "gym"
-      },
-      {
-        "category": "culture",
-        "title": "San Francisco Art Book Fair — free, Thu Jul 23, 6–10 PM at Minnesota Street Project",
+        "category": "social",
+        "title": "San Francisco Art Book Fair — free, Thu Jul 23 or Fri Jul 24, 6–10 PM at Minnesota Street Project",
         "source_section": "events"
       }
     ]

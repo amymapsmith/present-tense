@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-22",
   "venues": [
     {
       "id": "deyoung",
@@ -15,11 +15,11 @@
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Friday evening extended hours on summer hiatus (resumes Sep 28). Access impacted TODAY (Sun Jul 19) due to the AIDS Walk in Golden Gate Park — allow extra time. Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included. famsf.org blocked direct fetch verification again this cycle (403); hours/exhibitions cross-checked via search instead of direct site fetch.",
+      "notes": "Closed Mondays. Friday evening extended hours on summer hiatus (resumes Sep 28). Access may be impacted Sun Jul 26 due to the SF Marathon in Golden Gate Park — allow extra time. Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included. famsf.org blocked direct fetch verification again this cycle (403); hours/exhibitions cross-checked via search instead of direct site fetch.",
       "current_exhibitions": [
         {
-          "title": "Monet and Venice",
-          "description": "The first exhibition dedicated exclusively to Monet's Venetian cityscapes, reuniting masterworks from his 1908 visit for the first time in over a century. Last week — closes July 26.",
+          "title": "Monet and Venice — Final Days",
+          "description": "The first exhibition dedicated exclusively to Monet's Venetian cityscapes, reuniting masterworks from his 1908 visit for the first time in over a century. Closes this Sunday, July 26 — last chance.",
           "through": "2026-07-26",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/monet-venice"
@@ -51,7 +51,7 @@
           "title": "Free Saturdays at the de Young",
           "date": "2026-07-25",
           "time": "09:30",
-          "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Show Bay Area ID. Special exhibitions still require a ticket (included with membership).",
+          "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Show Bay Area ID. Special exhibitions still require a ticket (included with membership) — this Saturday is your last chance to catch Monet and Venice under this offer before it closes Sunday.",
           "cost": 0,
           "cost_notes": "free for Bay Area residents; included with FAMSF membership",
           "url": "https://www.famsf.org/events/free-saturdays-de-young"
@@ -60,7 +60,7 @@
           "title": "Docents in the Galleries: Monet and Venice",
           "date": null,
           "time": "11:30",
-          "description": "Docents available in the Monet and Venice galleries Tue–Sun at 11:30 AM and 1:30 PM. No reservation required. Final week — closes July 26.",
+          "description": "Docents available in the Monet and Venice galleries Tue–Sun at 11:30 AM and 1:30 PM. No reservation required. Final days — closes July 26.",
           "cost": 0,
           "cost_notes": "included with FAMSF membership",
           "url": "https://www.famsf.org/events/docents-galleries-monet-venice"
@@ -90,7 +90,7 @@
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included. Ferlinghetti for San Francisco closes TODAY (July 19) — last day to see it.",
+      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included. Ferlinghetti for San Francisco has closed (ended July 19).",
       "current_exhibitions": [
         {
           "title": "The Etruscans: From the Heart of Ancient Italy",
@@ -101,7 +101,7 @@
         },
         {
           "title": "Drawn to Venice",
-          "description": "30+ drawings and prints celebrating the arts of Venice and the Veneto from Renaissance to Rococo. In dialogue with 'Monet and Venice' at the de Young.",
+          "description": "30+ drawings and prints celebrating the arts of Venice and the Veneto from Renaissance to Rococo. In dialogue with 'Monet and Venice' at the de Young — both close the same week (July 26).",
           "through": "2026-08-02",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/drawn-to-venice"
@@ -112,13 +112,6 @@
           "through": "2026-08-02",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/wayne-thiebaud"
-        },
-        {
-          "title": "Ferlinghetti for San Francisco — Last Day",
-          "description": "Explores Lawrence Ferlinghetti (1919–2021) as painter, draftsman, printmaker. Work combines image and text to explore isolation, violence, resilience. Logan Gallery. Closes today.",
-          "through": "2026-07-19",
-          "membership_included": true,
-          "url": "https://www.famsf.org/exhibitions/ferlinghetti-san-francisco"
         }
       ],
       "events": [

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19",
-  "_note": "Amy's Ann Arbor stay (June 23–July 17) has concluded. All previously tracked events for that window have now passed, so the events list is empty until a future Ann Arbor visit is scheduled. Group runs kept below as a standing reference (recurring weekly, not date-bound).",
+  "updated": "2026-07-22",
+  "_note": "Amy's Ann Arbor stay (June 23\u2013July 17) has concluded. All previously tracked events for that window have now passed, so the events list is empty until a future Ann Arbor visit is scheduled. Group runs kept below as a standing reference (recurring weekly, not date-bound).",
   "group_runs": [
     {
       "day": "Monday",
@@ -8,7 +8,7 @@
       "title": "Monday Night Group Run",
       "location": "Corner Brewery",
       "address": "720 Norris St, Ypsilanti",
-      "distance": "0.1–5K · all paces",
+      "distance": "0.1\u20135K \u00b7 all paces",
       "url": "https://www.annarborrunningcompany.com/pages/group-runs"
     },
     {
@@ -17,7 +17,7 @@
       "title": "Tuesday Night Intervals",
       "location": "Rotating (check Strava)",
       "address": "Ferry Field, Palmer Park, Argo Loop, B2B Trail, the Arb + more",
-      "distance": "4–10 miles · structured intervals, all levels",
+      "distance": "4\u201310 miles \u00b7 structured intervals, all levels",
       "url": "https://www.annarborrunningcompany.com/pages/group-runs"
     },
     {
@@ -26,7 +26,7 @@
       "title": "Thursday Night Group Run",
       "location": "HOMES Brewery",
       "address": "2321 Jackson Ave, Ann Arbor",
-      "distance": "0.1–5K · all paces",
+      "distance": "0.1\u20135K \u00b7 all paces",
       "url": "https://www.annarborrunningcompany.com/pages/group-runs"
     },
     {
@@ -35,7 +35,7 @@
       "title": "Saturday Morning Group Run",
       "location": "AARC Traver Village",
       "address": "2621 Plymouth Rd, Ann Arbor",
-      "distance": "longer workouts on marked course · beginner + fast groups",
+      "distance": "longer workouts on marked course \u00b7 beginner + fast groups",
       "url": "https://www.annarborrunningcompany.com/pages/group-runs"
     }
   ],

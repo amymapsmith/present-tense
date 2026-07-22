@@ -1,30 +1,6 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-22",
   "events": [
-    {
-      "title": "LOVE SUPREME Summer Day Party",
-      "date": "2026-07-19",
-      "time": "14:00",
-      "venue": "The Chapel",
-      "neighborhood": "Mission",
-      "category": "dance",
-      "cost": 0,
-      "cost_notes": "free–$15",
-      "description": "LOVE SUPREME Summer Day Party Series at The Chapel — afternoon dance party with DJ sets. All ages. 2 PM.",
-      "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel"
-    },
-    {
-      "title": "Comedy Allstars ft. Chad Opitz",
-      "date": "2026-07-21",
-      "time": "19:30",
-      "venue": "Punch Line Comedy Club",
-      "neighborhood": "Embarcadero",
-      "category": "comedy",
-      "cost": 20,
-      "cost_notes": "check punchlinecomedyclub.com for exact pricing",
-      "description": "Rotating stand-up showcase headlined by Chad Opitz, running July 21–22 at Punch Line SF.",
-      "url": "https://www.punchlinecomedyclub.com"
-    },
     {
       "title": "Dark and Darker: A Dark Comedy Show",
       "date": "2026-07-22",
@@ -38,6 +14,18 @@
       "url": "https://www.cobbscomedy.com/shows"
     },
     {
+      "title": "Brent Morin",
+      "date": "2026-07-23",
+      "time": "20:00",
+      "venue": "Cobb's Comedy Club",
+      "neighborhood": "North Beach",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "check cobbscomedy.com for exact pricing",
+      "description": "Stand-up comedian Brent Morin performs at Cobb's, 915 Columbus Ave.",
+      "url": "https://www.cobbscomedy.com/shows"
+    },
+    {
       "title": "San Francisco Art Book Fair",
       "date": "2026-07-23",
       "time": "18:00",
@@ -48,6 +36,30 @@
       "cost_notes": "free",
       "description": "Minnesota Street Project Foundation presents the 2026 SF Art Book Fair — independent publishers, zines, and artist books. 6–10 PM at 1201 Minnesota St.",
       "url": "https://minnesotastreetproject.org/"
+    },
+    {
+      "title": "San Francisco Art Book Fair — Preview Night",
+      "date": "2026-07-24",
+      "time": "18:00",
+      "venue": "Minnesota Street Project",
+      "neighborhood": "Dogpatch",
+      "category": "art",
+      "cost": 0,
+      "cost_notes": "free",
+      "description": "Second free evening of the 2026 SF Art Book Fair at Minnesota Street Project Foundation (1150 25th St / 1275 Minnesota St). 6–10 PM.",
+      "url": "https://minnesotastreetproject.org/"
+    },
+    {
+      "title": "Tommy Brennan",
+      "date": "2026-07-24",
+      "time": "19:30",
+      "venue": "Cobb's Comedy Club",
+      "neighborhood": "North Beach",
+      "category": "comedy",
+      "cost": 25,
+      "cost_notes": "check cobbscomedy.com for exact pricing",
+      "description": "Stand-up comedian Tommy Brennan opens a multi-night run at Cobb's, 915 Columbus Ave, continuing at Punch Line SF July 25.",
+      "url": "https://www.cobbscomedy.com/shows"
     },
     {
       "title": "Dance Fridays – Salsa & Bachata",
@@ -82,7 +94,7 @@
       "category": "comedy",
       "cost": 25,
       "cost_notes": "from $25",
-      "description": "Stand-up comedian Tommy Brennan performs at Punch Line SF, 444 Battery St.",
+      "description": "Stand-up comedian Tommy Brennan continues his run at Punch Line SF, 444 Battery St.",
       "url": "https://www.punchlinecomedyclub.com"
     },
     {

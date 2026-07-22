@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19",
-  "_note": "Amy's Ann Arbor stay (June 23–July 17) has concluded — venue hours/exhibitions kept for reference; date-specific events from the stay window have been cleared since they're now past.",
+  "updated": "2026-07-22",
+  "_note": "Amy's Ann Arbor stay (June 23\u2013July 17) has concluded \u2014 venue hours/exhibitions kept for reference; date-specific events from the stay window have been cleared since they're now past.",
   "venues": [
     {
       "id": "ymca",
@@ -8,13 +8,34 @@
       "address": "400 W Washington St, Ann Arbor, MI 48103",
       "url": "https://www.annarborymca.org",
       "hours": {
-        "monday":    { "open": "05:30", "close": "21:00" },
-        "tuesday":   { "open": "05:30", "close": "21:00" },
-        "wednesday": { "open": "05:30", "close": "21:00" },
-        "thursday":  { "open": "05:30", "close": "21:00" },
-        "friday":    { "open": "05:30", "close": "21:00" },
-        "saturday":  { "open": "07:00", "close": "18:00" },
-        "sunday":    { "open": "07:00", "close": "18:00" }
+        "monday": {
+          "open": "05:30",
+          "close": "21:00"
+        },
+        "tuesday": {
+          "open": "05:30",
+          "close": "21:00"
+        },
+        "wednesday": {
+          "open": "05:30",
+          "close": "21:00"
+        },
+        "thursday": {
+          "open": "05:30",
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "05:30",
+          "close": "21:00"
+        },
+        "saturday": {
+          "open": "07:00",
+          "close": "18:00"
+        },
+        "sunday": {
+          "open": "07:00",
+          "close": "18:00"
+        }
       },
       "_hours_note": "Downtown branch (400 W Washington St). Last confirmed via annarborymca.org July 15, 2026. Was Amy's primary fitness facility during the Ann Arbor stay (concluded July 17); kept for reference.",
       "current_exhibitions": [],
@@ -26,13 +47,31 @@
       "address": "525 S State St, Ann Arbor, MI 48109",
       "url": "https://umma.umich.edu",
       "hours": {
-        "monday":    null,
-        "tuesday":   { "open": "11:00", "close": "17:00" },
-        "wednesday": { "open": "11:00", "close": "17:00" },
-        "thursday":  { "open": "11:00", "close": "17:00" },
-        "friday":    { "open": "11:00", "close": "20:00" },
-        "saturday":  { "open": "10:00", "close": "17:00" },
-        "sunday":    { "open": "10:00", "close": "17:00" }
+        "monday": null,
+        "tuesday": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "17:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "17:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "17:00"
+        }
       },
       "_hours_note": "Free admission always. Closed Mondays. Extended hours Fridays until 8 PM.",
       "current_exhibitions": [
@@ -63,7 +102,7 @@
       ],
       "events": [
         {
-          "title": "Regular gallery admission — free",
+          "title": "Regular gallery admission \u2014 free",
           "date": null,
           "time": "11:00",
           "description": "Free admission to all galleries. Extended hours Fridays until 8 PM. Next confirmed ticketed event is an artist talk Sep 17, 2026.",
@@ -79,15 +118,15 @@
       "address": "316 S Main St, Ann Arbor, MI 48104",
       "url": "https://theark.org",
       "hours": {
-        "monday":    null,
-        "tuesday":   null,
+        "monday": null,
+        "tuesday": null,
         "wednesday": null,
-        "thursday":  null,
-        "friday":    null,
-        "saturday":  null,
-        "sunday":    null
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
       },
-      "_hours_note": "Concert venue — open only for events, typically doors 1 hour before showtime. Check individual event pages.",
+      "_hours_note": "Concert venue \u2014 open only for events, typically doors 1 hour before showtime. Check individual event pages.",
       "current_exhibitions": [],
       "events": []
     },
@@ -96,15 +135,15 @@
       "name": "Michigan Theater",
       "address": "603 E Liberty St, Ann Arbor, MI 48104",
       "url": "https://michigantheater.org",
-      "_hours_note": "Historic cinema and event venue. michigantheater.org/events/ redirected to an unrelated domain again this cycle — could not verify current schedule. Check directly for current film and event schedule. Box office typically opens 30 min before first show.",
+      "_hours_note": "Historic cinema and event venue. michigantheater.org/events/ redirected to an unrelated domain again this cycle \u2014 could not verify current schedule. Check directly for current film and event schedule. Box office typically opens 30 min before first show.",
       "hours": {
-        "monday":    null,
-        "tuesday":   null,
+        "monday": null,
+        "tuesday": null,
         "wednesday": null,
-        "thursday":  null,
-        "friday":    null,
-        "saturday":  null,
-        "sunday":    null
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
       },
       "current_exhibitions": [],
       "events": []
@@ -114,15 +153,36 @@
       "name": "Matthaei Botanical Gardens",
       "address": "1800 N Dixboro Rd, Ann Arbor, MI 48105",
       "url": "https://mbgna.umich.edu",
-      "_hours_note": "Grounds open dawn to dusk (approximately 7am–8pm in summer). Conservatory hours may vary. Hours preserved from last confirmed check (site not re-fetched this cycle).",
+      "_hours_note": "Grounds open dawn to dusk (approximately 7am\u20138pm in summer). Conservatory hours may vary. Hours preserved from last confirmed check (site not re-fetched this cycle).",
       "hours": {
-        "monday":    { "open": "07:00", "close": "20:00" },
-        "tuesday":   { "open": "07:00", "close": "20:00" },
-        "wednesday": { "open": "07:00", "close": "20:00" },
-        "thursday":  { "open": "07:00", "close": "20:00" },
-        "friday":    { "open": "07:00", "close": "20:00" },
-        "saturday":  { "open": "07:00", "close": "20:00" },
-        "sunday":    { "open": "07:00", "close": "20:00" }
+        "monday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "sunday": {
+          "open": "07:00",
+          "close": "20:00"
+        }
       },
       "current_exhibitions": [],
       "events": []

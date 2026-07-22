@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-22",
   "locations": [
     {
       "id": "sf",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "19:00" },
         "sunday":    { "open": "07:00", "close": "19:00" }
       },
-      "_hours_note": "Re-confirmed via bayclubs.com July 19, 2026 — unchanged from last check.",
+      "_hours_note": "Re-confirmed via bayclubs.com July 22, 2026 — unchanged from last check.",
       "events": []
     },
     {
@@ -32,9 +32,9 @@
         "saturday":  null,
         "sunday":    null
       },
-      "_hours_note": "Re-confirmed via bayclubs.com July 19, 2026 — unchanged, closed weekends.",
+      "_hours_note": "Re-confirmed via bayclubs.com July 22, 2026 — unchanged, closed weekends.",
       "events": []
     }
   ],
-  "_events_note": "No member events currently listed on either location's page as of July 19, 2026 (site shows placeholder/no scheduled events, unchanged from last check)."
+  "_events_note": "No member events currently listed on either location's page as of July 22, 2026 (unchanged from last few checks)."
 }
