@@ -1,105 +1,105 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-28",
   "location": "San Francisco, CA",
   "forecast": [
     {
-      "date": "2026-07-22",
-      "day": "Wednesday",
-      "high": 72,
-      "low": 58,
-      "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,12,12,13,14,14,13,12,10,8,7,7],
-      "precipitation_pct": 0,
-      "humidity": null,
-      "description": "Mostly Sunny"
-    },
-    {
-      "date": "2026-07-23",
-      "day": "Thursday",
-      "high": 70,
+      "date": "2026-07-28",
+      "day": "Tuesday",
+      "high": 74,
       "low": 57,
-      "wind_mph": 15,
-      "wind_hourly": [7,6,6,6,6,6,7,7,7,7,8,9,12,13,14,15,15,15,15,15,14,14,14,13],
-      "precipitation_pct": 0,
-      "humidity": null,
-      "description": "Mostly Sunny"
-    },
-    {
-      "date": "2026-07-24",
-      "day": "Friday",
-      "high": 70,
-      "low": 58,
-      "wind_mph": 15,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,15,15,15,14,13,12,10,9,8],
-      "precipitation_pct": 0,
-      "humidity": null,
-      "description": "Mostly Sunny"
-    },
-    {
-      "date": "2026-07-25",
-      "day": "Saturday",
-      "high": 72,
-      "low": 58,
       "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,14,14,13,12,11,10,9,8,7],
+      "wind_hourly": [12,12,12,12,12,12,12,12,12,12,12,12,12,12,12,13,14,14,13,12,12,10,9,8],
       "precipitation_pct": 0,
       "humidity": null,
       "description": "Sunny"
     },
     {
-      "date": "2026-07-26",
-      "day": "Sunday",
-      "high": 68,
+      "date": "2026-07-29",
+      "day": "Wednesday",
+      "high": 74,
       "low": 57,
       "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,14,14,13,12,11,10,9,8,7],
+      "wind_hourly": [8,7,7,6,6,5,5,5,5,5,6,6,7,8,12,13,14,14,14,12,12,10,9,8],
       "precipitation_pct": 0,
       "humidity": null,
-      "description": "Mostly Sunny"
+      "description": "Sunny"
     },
     {
-      "date": "2026-07-27",
-      "day": "Monday",
-      "high": 69,
+      "date": "2026-07-30",
+      "day": "Thursday",
+      "high": 73,
+      "low": 57,
+      "wind_mph": 14,
+      "wind_hourly": [8,8,7,7,7,6,6,6,6,6,6,8,8,8,12,12,12,14,14,14,10,10,10,8],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
+    },
+    {
+      "date": "2026-07-31",
+      "day": "Friday",
+      "high": 76,
       "low": 58,
-      "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,14,14,13,12,11,10,9,8,7],
+      "wind_mph": 13,
+      "wind_hourly": [8,8,7,7,7,5,5,5,5,5,5,5,5,5,10,10,10,13,13,13,10,10,10,8],
       "precipitation_pct": 0,
       "humidity": null,
-      "description": "Mostly Sunny"
+      "description": "Sunny"
     },
     {
-      "date": "2026-07-28",
-      "day": "Tuesday",
-      "high": 69,
+      "date": "2026-08-01",
+      "day": "Saturday",
+      "high": 73,
       "low": 57,
-      "wind_mph": 14,
-      "wind_hourly": [7,7,6,6,6,6,6,7,8,9,10,11,12,13,14,14,14,13,12,11,10,9,8,7],
+      "wind_mph": 12,
+      "wind_hourly": [8,8,7,7,7,6,6,6,5,5,5,5,5,5,9,9,9,12,12,12,8,8,8,9],
       "precipitation_pct": 0,
       "humidity": null,
-      "description": "Mostly Sunny"
+      "description": "Sunny"
+    },
+    {
+      "date": "2026-08-02",
+      "day": "Sunday",
+      "high": 72,
+      "low": 57,
+      "wind_mph": 13,
+      "wind_hourly": [9,9,7,7,7,6,6,6,5,5,5,5,5,5,9,9,9,13,13,13,9,9,9,9],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
+    },
+    {
+      "date": "2026-08-03",
+      "day": "Monday",
+      "high": 70,
+      "low": 57,
+      "wind_mph": 13,
+      "wind_hourly": [9,9,7,7,7,6,6,6,5,5,5,6,6,6,10,10,10,13,13,13,9,9,9,9],
+      "precipitation_pct": 0,
+      "humidity": null,
+      "description": "Sunny"
     }
   ],
   "recommendations": [
     {
       "activity": "cycling",
       "rating": "fair",
-      "reason": "Consistent 68–72°F all week, but afternoon westerlies hit 14–15 mph every day — above the 12 mph 'good' cutoff, though comfortably within the 'fair' range"
+      "reason": "Warm and bone-dry all week (70–76°F, 0% rain), but afternoon westerlies run 12–14 mph most days — right at the good/fair line; Saturday's 12 mph peak is the best window"
     },
     {
       "activity": "running",
       "rating": "good",
-      "reason": "Mild temps, winds under 18 mph, and zero rain in the forecast all seven days — the AFD calls for a stable, dry pattern through early next week"
+      "reason": "Winds stay well under 18 mph and there's zero rain in the forecast through next Monday — the AFD calls for dry high pressure building in by Thursday"
     },
     {
       "activity": "swimming",
       "rating": "good",
-      "reason": "Bay Club indoor pool always available; outdoor conditions mild and dry all week too"
+      "reason": "Bay Club indoor pool always available; coastal SF itself stays mild in the 70s even as inland areas heat up"
     },
     {
       "activity": "indoor_gym",
       "rating": "good",
-      "reason": "Always solid; breezy onshore winds return late this week per the NWS discussion, so late-afternoon outdoor plans should build in the wind"
+      "reason": "Especially recommended Friday–Sunday afternoons, when the AFD flags a significant inland heat event (100–110°F) even though the coast stays comfortable"
     }
   ]
 }

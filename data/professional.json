@@ -1,6 +1,69 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-28",
   "opportunities": [
+    {
+      "type": "role",
+      "title": "Product Manager, Agent Security & Governance",
+      "organization": "Glean",
+      "description": "Develop explainable/transparent AI product features and risk-prevention, security, and privacy capabilities for AI agents and the data underlying them. Collaborate across design, engineering, sales, and success to build a roadmap for governing and scaling enterprise AI. 8+ years SaaS product management experience. $160K–$280K + equity. Mountain View, hybrid 4 days/week.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4525297005",
+      "source": "other",
+      "seniority": "senior",
+      "location": "any",
+      "tags": [
+        "ai-governance",
+        "agent-security",
+        "product-management",
+        "enterprise-ai",
+        "mountain-view"
+      ]
+    },
+    {
+      "type": "role",
+      "title": "Data Governance Technical Program Manager",
+      "organization": "Gusto",
+      "description": "Own the definition and delivery of Gusto's data governance program across Data Platforms, R&D, Legal & Compliance, Security, and Risk. Stand up new controls, harden data flows feeding ML models, and ensure workstreams meet regulatory/audit bars. Requires AI/ML governance familiarity (training data hygiene, feature stores) and working knowledge of SOC 1/2, ISO 27001, ISO 42001, GDPR, CCPA. Denver, CO (other Gusto hub locations may apply).",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7982793",
+      "source": "other",
+      "seniority": "senior",
+      "location": "any",
+      "tags": [
+        "data-governance",
+        "ai-governance",
+        "technical-program-management",
+        "iso-42001",
+        "fintech"
+      ]
+    },
+    {
+      "type": "role",
+      "title": "Staff AI Transformation Program Manager",
+      "organization": "Omada Health",
+      "description": "Senior IC role owning Omada's AI Transformation and Business Process Excellence program — governance models, intake/prioritization frameworks, executive reporting, and delivery oversight for enterprise-wide AI-focused process transformation. Reports to VP of IT. $155K–$202K. Remote, USA.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/7963790",
+      "source": "other",
+      "seniority": "senior",
+      "location": "any",
+      "tags": [
+        "ai-transformation",
+        "program-management",
+        "governance",
+        "healthtech",
+        "remote"
+      ]
+    },
     {
       "type": "role",
       "title": "Program Manager, Enterprise AI Adoption",
