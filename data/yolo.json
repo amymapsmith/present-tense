@@ -1,119 +1,118 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-30",
   "destination": {
-    "city": "Dubrovnik",
-    "country": "Croatia",
-    "flag": "🇭🇷",
-    "iata": "DBV",
-    "lat": 42.6507,
-    "lon": 18.0944,
-    "vibe": "A walled medieval city dropped onto the most dramatic stretch of the Adriatic coast — genuinely as beautiful as the postcards, as long as you time your visit around the cruise ships instead of into them."
+    "city": "Kos",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "iata": "KGS",
+    "lat": 36.8933,
+    "lon": 27.2880,
+    "vibe": "Hippocrates' home island — flat, bike-friendly, dotted with Crusader castles and ancient healing sanctuaries, close enough to Turkey's Bodrum coast that you can see it across the strait."
   },
-  "flight_search_date": "2026-07-19",
+  "flight_search_date": "2026-07-30",
   "flights": [
     {
-      "airline": "Lufthansa / Austrian Airlines (via Munich or Vienna)",
-      "price_usd": 573,
-      "outbound_dates": "September–October 2026 (flexible; October is the cheapest month on this route)",
+      "airline": "Turkish Airlines (DTW–Istanbul–Athens) + Aegean (Athens–Kos)",
+      "price_usd": 798,
+      "outbound_dates": "flexible, Aug–Sep 2026",
       "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~14–16h total via a Central European hub",
-      "url": "https://www.expedia.com/lp/flights/dtw/dbv/detroit-to-dubrovnik",
-      "notes": "No daily direct flights exist on this route — every itinerary connects, most commonly through Munich (Lufthansa) or Vienna (Austrian). This is the low end of the current range; book a Sunday for the extra 6–13% discount data shows for this route."
+      "stops": 2,
+      "duration": "~24h total (long-haul + short domestic hop)",
+      "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-athens",
+      "notes": "The cheapest realistic path: book Turkish Airlines DTW–Athens separately (~$692 RT via Istanbul) then add the 55-minute Aegean hop from Athens to Kos (~$106 RT, 3 flights daily) as a second ticket. Two-ticket routing consistently beats single-itinerary DTW–KGS fares on this route."
     },
     {
-      "airline": "Multi-carrier (specific date example)",
-      "price_usd": 644,
-      "outbound_dates": "Sep 28, 2026",
-      "return_dates": "Oct 7, 2026",
-      "stops": 1,
-      "duration": "~15h total, 1 stop",
-      "url": "https://www.travelocity.com/lp/flights/dtw/dbv/detroit-metropolitan-wayne-county-to-dubrovnik",
-      "notes": "A concrete late-September departure landing right at the start of shoulder season — smaller crowds in the Old Town and noticeably lower hotel rates than July/August."
+      "airline": "SWISS / Lufthansa (via Zurich or Frankfurt), single ticket into KGS",
+      "price_usd": 789,
+      "outbound_dates": "e.g. Aug 31 (flexible)",
+      "return_dates": "flexible +14 days",
+      "stops": 2,
+      "duration": "~15–30h depending on connection",
+      "url": "https://www.momondo.com/flights/united-states/kos-south-aegean",
+      "notes": "Momondo's tracked low for US-origin Kos itineraries in the last 72 hours — a single booking straight into Kos Island Airport via a Central European hub, no separate domestic ticket needed, at the cost of a longer return routing."
     },
     {
-      "airline": "Best recent aggregate price",
-      "price_usd": 631,
-      "outbound_dates": "flexible, late Aug–Sep 2026",
+      "airline": "Multi-carrier aggregate (best recent price)",
+      "price_usd": 986,
+      "outbound_dates": "flexible, Aug–Sep 2026",
       "return_dates": "flexible +7–10 days",
       "stops": 1,
-      "duration": "~14–17h total",
-      "url": "https://www.kayak.com/flight-routes/United-States-US0/Dubrovnik-DBV",
-      "notes": "The cheapest fare Kayak's tracked for this route in the last week — worth setting a price-drop alert here since Dubrovnik fares from DTW fluctuate more than the Western European routes."
+      "duration": "~15–17h total",
+      "url": "https://www.kayak.com/flight-routes/United-States-US0/Kos-KGS",
+      "notes": "Kayak's tracked range for US-to-Kos fares — worth a price-drop alert since there's no daily direct service from Detroit and prices swing week to week depending on which European hub has capacity."
     }
   ],
   "lodging": [
     {
-      "name": "Old Town Hostel",
-      "type": "hostel",
-      "price_per_night_usd": 65,
-      "neighborhood": "Old Town, 15 meters from the Stradun",
-      "highlights": "Rated 9.0/10 (Superb) across nearly 2,900 reviews — a boutique hostel in a restored 400-year-old building right on Dubrovnik's main street. En-suite private rooms, no curfew, and genuinely walkable to every Old Town sight in five minutes.",
-      "url": "https://www.hostelworld.com/hostels/p/43839/old-town-hostel/",
+      "name": "Kos Bay Hotel",
+      "type": "hotel",
+      "price_per_night_usd": 67,
+      "neighborhood": "Kos Marina, ~3.6km from Old Town (walkable/short bus ride)",
+      "highlights": "Rated 8.0/10 Fabulous — right across the new marina, 100m from the beach and minutes from the port and ferry terminal. Balconied rooms with sea/mountain views and free breakfast included.",
+      "url": "https://www.hostelworld.com/hostels/p/48296/kos-bay-hotel/",
       "source": "hostelworld"
     },
     {
-      "name": "Hotel More",
+      "name": "Aegean Houses",
       "type": "hotel",
-      "price_per_night_usd": 150,
-      "neighborhood": "Lapad Peninsula, ~2.2 miles from Old Town",
-      "highlights": "5-star boutique property with a private beach, heated pool, rooftop sea views, and the memorably named Cave Bar carved into the rock. Trades a short bus ride to Old Town for genuine quiet and a swimmable front yard.",
-      "url": "https://www.booking.com/hotel/hr/more.html",
+      "price_per_night_usd": 140,
+      "neighborhood": "Lambi, 150m from the beach and 1km from the historic center",
+      "highlights": "4.5/5 from 276 reviews — apartment-style rooms with kitchen and balcony around a 220m² pool, plus a hot tub, sauna, and an authentic Greek à la carte restaurant.",
+      "url": "https://www.aegeanhouses-kos.com/",
       "source": "booking"
     },
     {
-      "name": "Villa Dubrovnik",
+      "name": "Kos Aktis Art Hotel",
       "type": "hotel",
-      "price_per_night_usd": 900,
-      "neighborhood": "Ploče, 15-minute walk from Old Town",
-      "highlights": "Widely regarded as Croatia's most exclusive hotel — 56 sea-view residences carved into the cliffside with private teak balconies overlooking the Old City walls and Lokrum Island. The splurge that's actually a destination in itself.",
-      "url": "https://www.booking.com/hotel/hr/villa-dubrovnik-dubrovnik.html",
+      "price_per_night_usd": 315,
+      "neighborhood": "Kos Town seafront, in the heart of town near the marina and castle",
+      "highlights": "Condé Nast Traveler Top 50 Hotels alum — 49 sea-facing rooms with glass balconies, freshly renovated Sea Front Collection rooms with direct sea access and jacuzzis, and the H2O bar-restaurant built over the water.",
+      "url": "https://kosaktis.gr/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Dubrovnik earns its reputation — the Old Town's limestone streets and the sea views from the city walls are as dramatic in person as they look on a screen. The catch is that everyone knows this, and the cruise ship crowds between 10am and 4pm can turn the Stradun into a shuffling line. The trick to a good Dubrovnik trip isn't avoiding the famous stuff, it's timing it — walk the walls at 8am, eat where the cruise groups don't go, and use the afternoon lull for the islands and beaches locals actually use.",
+    "overview": "Kos is the easy-living Dodecanese island — flatter and more bike-friendly than its rocky neighbors, with a genuinely walkable old town, Crusader-era castle, and the ancient sanctuary where Hippocrates is said to have taught medicine. It's low-key rather than showy: fewer cruise-ship crowds than Rhodes or Santorini, cheap and excellent seafood, and on a clear day you can see the Turkish coast at Bodrum right across the strait. Go in the shoulder months (May or September) for the same warm sea with a fraction of the July/August package-tour crowd.",
     "days": [
       {
         "day": 1,
-        "title": "The Walls and the Old Town, on the Right Schedule",
-        "morning": "Walk the City Walls at opening time (check the current mandatory-booking system online first — Dubrovnik introduced advance reservations in 2026 to manage crowds). The full loop takes 1.5–2 hours and gives you the Adriatic, the terracotta rooftops, and the fortress towers with a fraction of the midday foot traffic. Enter the Old Town itself through the Buža Gate near the University rather than the bottlenecked Pile Gate.",
-        "afternoon": "Check the day's cruise ship schedule before committing to Old Town sightseeing — if ships are in port, the Stradun is miserable from late morning to mid-afternoon. Use that window for Lokrum Island instead: a 10–15 minute boat ride to a shaded nature reserve with rocky swimming coves, a genuine reset from the Old Town rush.",
-        "evening": "Back in Old Town after 5pm once the cruise crowds have re-boarded. Skip Prijeko street entirely — it's the tourist-trap restaurant row — and walk a block or two further for Kamenice, Bota Šare, or Azur instead. Sunset from the Buža Bar, a cliffside bar built into the city walls facing the open sea, is the single best-value evening in the city."
+        "title": "Kos Town: Castle, Old Town, and the Waterfront Bike Path",
+        "morning": "Start at Neratzia Castle, the Knights of St. John fortress guarding the harbor, then wander into the Old Town alleys along Apellou and Ifestou streets — bougainvillea-lined lanes of jewelry, ceramics, and leather shops. Don't rush; the best corners are the ones off the direct route between sights.",
+        "afternoon": "Stand under Hippocrates' Plane Tree in Plane Tree Square — legend says he taught medicine in its shade — then rent a bike (Kos has 200km+ of dedicated paths) and ride the flat waterfront route from Lambi through town down to Psalidi, about 13km round trip, with a detour down Finikas Avenue past Neratzia Castle.",
+        "evening": "Dinner one block back from the harbor, not on it — the restaurants directly on the port water are the tourist-markup tier. Look for a taverna serving fresh-caught fish and, if it's on the menu, krasotyri (wine-aged goat/sheep cheese), a Kos specialty that barely travels off the island."
       },
       {
         "day": 2,
-        "title": "Beyond the Walls: Lapad, Gruž, and a Real Local Beach",
-        "morning": "Take the local bus (10 minutes) out to Lapad and Babin Kuk, where most Dubrovnik residents actually live. Coffee at a neighborhood café rather than an Old Town tourist patio, then walk Lapad's tree-lined promenade down to the bay.",
-        "afternoon": "Sveti Jakov beach, about 15 minutes along Jadranska cesta — the beach locals go to instead of the packed coves directly below Old Town. Clear water, sunshades, showers, food nearby, and a fraction of the crowd. If you want something more dramatic, Pasjača Beach south of the city is reachable via a long staircase carved into cliffside rock, with pristine water as the reward.",
-        "evening": "Head to Gruž after dark — the harborside neighborhood where locals and expats actually drink, with wine bars lining Obala Stjepana Radića and Ulica Andrije Hebranga. A completely different, much less touristy version of a Dubrovnik evening."
+        "title": "The Asklepieion, Zia, and a Sulfur-Spring Soak",
+        "morning": "Cycle or drive 4km west to the Asklepieion, the ancient healing sanctuary built into a wooded hillside with sweeping views over the Aegean toward the Turkish coast — one of the most important archaeological sites in ancient Greece. Go before 9am to beat both the heat and the tour groups.",
+        "afternoon": "Take City Bus Line 5 (~20 min) from near the Albergo Gelsomino Hotel out to Embros Thermae, where 47–50°C sulfur springs bubble up right where they meet the cool sea. Water shoes are essential for the rocky pool floor and the steep 10–15 minute path down; there are loungers and showers but no other facilities.",
+        "evening": "Head up to Zia, the mountain village famous for its sunset — but the trick is timing: go before 10am if you want it quiet, or if you're there for sunset, either book a rooftop table in advance or hike the extra 25 minutes to Metoxi Cafe above the village, which gets a fraction of the tour-bus crowd that swarms Zia's main square at golden hour."
       },
       {
         "day": 3,
-        "title": "Mount Srđ, the Islands, and One Last View",
-        "morning": "Take the cable car up Mount Srđ before it gets hot and crowded — the panoramic view over the Old Town, the islands, and (on a clear day) the mountains of Bosnia is worth the early alarm. Walk the ruined Napoleonic fort at the summit for war-history context most visitors skip entirely.",
-        "afternoon": "Boat out to the Elafiti Islands for the afternoon — Koločep, Lopud, or Šipan all offer the crystal-clear water and slow island pace that the mainland coast can't quite match once the day-trip crowds thin out. Lopud in particular has a genuinely excellent sandy beach, a rarity on this coastline.",
-        "evening": "Last dinner at a traditional konoba (family-run tavern) rather than anything with a view-tax markup — ask your hotel for their actual neighborhood recommendation, not the one on the tourist map. If you have one more sunset in you, Fort Lovrijenac just outside the main walls is atmospheric, historically the 'King's Landing' fortress from Game of Thrones, and dramatically less crowded than the wall walk itself."
+        "title": "Kefalos Bay and the Kastri Islet",
+        "morning": "Drive or bus 40km south to Kefalos peninsula and Agios Stefanos beach, framed by the ruins of two 5th–6th century early-Christian basilicas and facing the picture-postcard Kastri islet with its tiny whitewashed Agios Nikolaos chapel.",
+        "afternoon": "Rent a paddleboard or pedalo and get out on the water toward Kastri (currents pick up past 100m out, so know your limits); otherwise just swim and lunch at a taverna in Kefalos village, well outside the day-tripper density of Kos Town.",
+        "evening": "Back in Kos Town for a last sunset drink along the Lambi or Psalidi beachfront, then a final dinner in the Old Town — this time you'll know which back streets to walk to skip the harbor markup."
       }
     ],
     "tips": [
-      "Book City Wall tickets in advance — as of 2026, Dubrovnik requires advance reservations to manage the wall's crowd levels, and walk-up availability can't be assumed anymore.",
-      "Check the daily cruise ship schedule (published by the Dubrovnik Port Authority) before planning your Old Town hours — the single biggest lever for a good vs. miserable visit is simply not overlapping with a ship's passenger release window.",
-      "Enter through Buža Gate, not Pile Gate — Pile is the main cruise-crowd bottleneck and can take 10+ minutes to clear at peak times; Buža near the University is nearly always quiet.",
-      "Skip Prijeko street for dinner entirely — it's the most concentrated stretch of tourist-trap restaurants in the Old Town. Walk one block over instead.",
-      "Stay outside the Old Town walls (Lapad, Gruž, Babin Kuk) if you want to see how Dubrovnik actually lives day to day — these neighborhoods have their own beaches, cafés, and a completely different, calmer rhythm than the postcard center.",
-      "Go in shoulder season if your dates are flexible — late September through October (also the cheapest flight window) trades a few degrees of warmth for dramatically thinner crowds and lower hotel rates."
+      "Zia's sunset is genuinely beautiful but gets mobbed by tour buses — visit before 10am for a quiet version, or hike the extra 25 minutes to Metoxi Cafe above the village if you want the sunset without the crowd.",
+      "Renting a bike isn't just a novelty here — Kos has 200+ km of dedicated bike paths connecting Kos Town to Tigaki, Mastichari, and Marmari, and it's genuinely the most pleasant way to get around the flat parts of the island.",
+      "Reach Embros Thermae hot springs by public City Bus Line 5 (~20 min, a few euros) instead of a tour boat — same sulfur springs meeting the sea, a fraction of the price.",
+      "Skip any restaurant directly on the Kos Town harbor with a menu that has no prices — walk one block inland for the same fresh seafood at local rates.",
+      "Look for krasotyri (wine-aged goat/sheep cheese) on menus — it's a Kos-specific specialty that doesn't really exist outside the island.",
+      "Go in May or September if your dates are flexible: warm sea, noticeably thinner crowds than July/August, and (per the flight research) some of the cheaper fare windows on the DTW route too."
     ],
     "sources": [
-      { "title": "Dubrovnik Travel Guide 2026: What to Do, Budget, Insider Tips — Croatia Unscripted", "url": "https://croatiaunscripted.com/dubrovnik-travel-guide-2026/" },
-      { "title": "5 Dubrovnik Must See Attractions (and 5 Popular Spots to Skip) — Croatia Unscripted", "url": "https://croatiaunscripted.com/dubrovnik-must-see-attractions/" },
-      { "title": "How To Avoid Crowds in Dubrovnik: Top Tips and Hidden Gems — GetYourGuide", "url": "https://www.getyourguide.com/explorer/dubrovnik-ttd513/avoid-the-crowds-in-dubrovnik/" },
-      { "title": "22 Dubrovnik Hidden Gems to add to your trip — Helena Bradbury", "url": "https://www.helenabradbury.com/blog-1/dubrovnik-hidden-gems" },
-      { "title": "Secret Dubrovnik — Time Out Croatia", "url": "https://www.timeout.com/croatia/things-to-do/secret-dubrovnik" },
-      { "title": "8 Things to Avoid in Dubrovnik — Jayway Travel", "url": "https://jaywaytravel.com/blog/8-things-to-avoid-in-dubrovnik" },
-      { "title": "A Helpful Dubrovnik Travel Guide (Fun Things to Do Beyond GOT) — Embrace Some Place", "url": "https://embracesomeplace.com/visiting-dubrovnik-best-things-to-do/" },
-      { "title": "Old Town Hostel, Dubrovnik — Hostelworld", "url": "https://www.hostelworld.com/hostels/p/43839/old-town-hostel/" },
-      { "title": "Villa Dubrovnik — Tripadvisor", "url": "https://www.tripadvisor.com/Hotel_Review-g295371-d308208-Reviews-Villa_Dubrovnik-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html" }
+      { "title": "Kos Greece: Travel Guide 2026 — Greeka", "url": "https://www.greeka.com/dodecanese/kos/" },
+      { "title": "19+ BEST Things to do in Kos, Greece in 2026 — Island Hopping in Greece", "url": "https://islandhoppingingreece.com/best-things-to-do-in-kos/" },
+      { "title": "The 7 best things to do in Kos, Greece — Lonely Planet", "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-kos-dodecanese-greece" },
+      { "title": "Zia on Kos: 8 important tips for the mountain village — Greece Moments", "url": "https://greece-moments.com/en/zia-on-kos/" },
+      { "title": "Embros Hot Springs Kos • 5 important things you need to know — Greece Moments", "url": "https://greece-moments.com/en/embros-kos/" },
+      { "title": "Kos Travel Advice: Insider Tips For A Smooth Holiday — Travelodeal", "url": "https://www.travelodeal.co.uk/blog/kos-travel-guide-insider-tips/" },
+      { "title": "Cycling in Kos — Tree of Hippocrates", "url": "https://treeofhippocrates.com/cycling-in-kos-cheap-and-easy-way-to-get-around/" },
+      { "title": "Kefalos Bay & Agios Stefanos: Finding Picturesque Ruins, Kastri Islet — Bella's Bold Adventures", "url": "https://bellasboldadventures.com/kefalos-bay-agios-stefanos-finding-picturesque-ruins-kastri-islet-and-the-quieter-side-of-kos/" }
     ]
   }
 }
