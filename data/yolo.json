@@ -1,118 +1,118 @@
 {
   "updated": "2026-07-30",
   "destination": {
-    "city": "Kos",
-    "country": "Greece",
-    "flag": "🇬🇷",
-    "iata": "KGS",
-    "lat": 36.8933,
-    "lon": 27.2880,
-    "vibe": "Hippocrates' home island — flat, bike-friendly, dotted with Crusader castles and ancient healing sanctuaries, close enough to Turkey's Bodrum coast that you can see it across the strait."
+    "city": "Bodrum",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "iata": "BJV",
+    "lat": 37.0344,
+    "lon": 27.4305,
+    "vibe": "Ancient Halicarnassus reborn as a yacht-marina party town — a 15th-century Crusader castle guarding one of the world's best shipwreck museums by day, Bar Street by night, with a genuinely quiet fishing-village alternative a short drive away if you know to go to Gümüşlük."
   },
   "flight_search_date": "2026-07-30",
   "flights": [
     {
-      "airline": "Turkish Airlines (DTW–Istanbul–Athens) + Aegean (Athens–Kos)",
-      "price_usd": 798,
+      "airline": "Turkish Airlines (single ticket, via Istanbul)",
+      "price_usd": 885,
+      "outbound_dates": "e.g. Sep 22 (flexible, Sep–Oct is the cheap window)",
+      "return_dates": "flexible +10–14 days",
+      "stops": 1,
+      "duration": "~21h outbound / ~18h return",
+      "url": "https://www.momondo.com/flights/detroit/bodrum",
+      "notes": "Momondo's tracked low for a single DTW–BJV itinerary in the last 72 hours, all on Turkish Airlines metal through Istanbul. This beats booking the long-haul and domestic hop separately in most cases."
+    },
+    {
+      "airline": "Turkish Airlines nonstop (DTW–Istanbul) + separate domestic hop (Istanbul–Bodrum)",
+      "price_usd": 1050,
       "outbound_dates": "flexible, Aug–Sep 2026",
       "return_dates": "flexible +7–10 days",
       "stops": 2,
-      "duration": "~24h total (long-haul + short domestic hop)",
-      "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-athens",
-      "notes": "The cheapest realistic path: book Turkish Airlines DTW–Athens separately (~$692 RT via Istanbul) then add the 55-minute Aegean hop from Athens to Kos (~$106 RT, 3 flights daily) as a second ticket. Two-ticket routing consistently beats single-itinerary DTW–KGS fares on this route."
-    },
-    {
-      "airline": "SWISS / Lufthansa (via Zurich or Frankfurt), single ticket into KGS",
-      "price_usd": 789,
-      "outbound_dates": "e.g. Aug 31 (flexible)",
-      "return_dates": "flexible +14 days",
-      "stops": 2,
-      "duration": "~15–30h depending on connection",
-      "url": "https://www.momondo.com/flights/united-states/kos-south-aegean",
-      "notes": "Momondo's tracked low for US-origin Kos itineraries in the last 72 hours — a single booking straight into Kos Island Airport via a Central European hub, no separate domestic ticket needed, at the cost of a longer return routing."
+      "duration": "~10h nonstop long-haul + ~1h15m domestic hop",
+      "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-istanbul",
+      "notes": "TK206 flies DTW–IST nonstop 7x/week (~10h, evening departure) for around $930 RT on its own — add a separate ~$120 RT domestic Istanbul–Bodrum ticket. Costs more than the single-ticket option but guarantees a true nonstop on the long-haul leg and more flexible connection timing."
     },
     {
       "airline": "Multi-carrier aggregate (best recent price)",
-      "price_usd": 986,
+      "price_usd": 933,
       "outbound_dates": "flexible, Aug–Sep 2026",
       "return_dates": "flexible +7–10 days",
-      "stops": 1,
-      "duration": "~15–17h total",
-      "url": "https://www.kayak.com/flight-routes/United-States-US0/Kos-KGS",
-      "notes": "Kayak's tracked range for US-to-Kos fares — worth a price-drop alert since there's no daily direct service from Detroit and prices swing week to week depending on which European hub has capacity."
+      "stops": 2,
+      "duration": "~20–23h total",
+      "url": "https://www.kayak.com/flight-routes/United-States-US0/MilasBodrum-BJV",
+      "notes": "Kayak's tracked range for US-origin Bodrum fares — set a price-drop alert here since there's no daily direct DTW–BJV routing and prices shift depending on which connection has capacity."
     }
   ],
   "lodging": [
     {
-      "name": "Kos Bay Hotel",
-      "type": "hotel",
-      "price_per_night_usd": 67,
-      "neighborhood": "Kos Marina, ~3.6km from Old Town (walkable/short bus ride)",
-      "highlights": "Rated 8.0/10 Fabulous — right across the new marina, 100m from the beach and minutes from the port and ferry terminal. Balconied rooms with sea/mountain views and free breakfast included.",
-      "url": "https://www.hostelworld.com/hostels/p/48296/kos-bay-hotel/",
+      "name": "La Luna Hostel",
+      "type": "hostel",
+      "price_per_night_usd": 48,
+      "neighborhood": "Old Town Bodrum, 100m from the beach",
+      "highlights": "Rated 8.9/10 Fabulous across 416 reviews — family-run and eco-friendly, with a rooftop bar, excellent location score (9.8/10), and a five-minute walk to the bus station and marina.",
+      "url": "https://www.hostelworld.com/hostels/p/299239/la-luna-hostel/",
       "source": "hostelworld"
     },
     {
-      "name": "Aegean Houses",
+      "name": "Costa Maya Bodrum",
       "type": "hotel",
-      "price_per_night_usd": 140,
-      "neighborhood": "Lambi, 150m from the beach and 1km from the historic center",
-      "highlights": "4.5/5 from 276 reviews — apartment-style rooms with kitchen and balcony around a 220m² pool, plus a hot tub, sauna, and an authentic Greek à la carte restaurant.",
-      "url": "https://www.aegeanhouses-kos.com/",
+      "price_per_night_usd": 90,
+      "neighborhood": "Central Bodrum, 550m from the sea and a short walk to Bodrum Castle",
+      "highlights": "8.8/10 from nearly 4,000 reviews — soundproofed rooms with private balconies and sea views, a seasonal pool, and an à la carte restaurant, 3 minutes' walk from the marina.",
+      "url": "https://costa-maya.aegeanhotelspage.com/en/",
       "source": "booking"
     },
     {
-      "name": "Kos Aktis Art Hotel",
+      "name": "The Bodrum EDITION",
       "type": "hotel",
-      "price_per_night_usd": 315,
-      "neighborhood": "Kos Town seafront, in the heart of town near the marina and castle",
-      "highlights": "Condé Nast Traveler Top 50 Hotels alum — 49 sea-facing rooms with glass balconies, freshly renovated Sea Front Collection rooms with direct sea access and jacuzzis, and the H2O bar-restaurant built over the water.",
-      "url": "https://kosaktis.gr/",
+      "price_per_night_usd": 420,
+      "neighborhood": "Yalıkavak, on Bodrum's western peninsula",
+      "highlights": "110 rooms, suites, and villas with private pools and Aegean views; two Michelin-recognized restaurants (KITCHEN and The Trattoria), an infinity pool, private beach club, and a Turkish hammam spa. Shoulder-season rate — climbs sharply in peak August.",
+      "url": "https://www.editionhotels.com/bodrum/",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Kos is the easy-living Dodecanese island — flatter and more bike-friendly than its rocky neighbors, with a genuinely walkable old town, Crusader-era castle, and the ancient sanctuary where Hippocrates is said to have taught medicine. It's low-key rather than showy: fewer cruise-ship crowds than Rhodes or Santorini, cheap and excellent seafood, and on a clear day you can see the Turkish coast at Bodrum right across the strait. Go in the shoulder months (May or September) for the same warm sea with a fraction of the July/August package-tour crowd.",
+    "overview": "Bodrum is ancient Halicarnassus rebuilt as the Turkish Riviera's glossiest resort town — a 15th-century Crusader castle standing guard over a marina full of gulets and superyachts, Bar Street humming until sunrise, and a Grand Bazaar spilling out from the Old Town. It's brasher and more nightlife-forward than quiet Kos just across the water, but the peninsula's outer villages give you an entirely different, calmer version of the same coast if you're willing to drive twenty minutes.",
     "days": [
       {
         "day": 1,
-        "title": "Kos Town: Castle, Old Town, and the Waterfront Bike Path",
-        "morning": "Start at Neratzia Castle, the Knights of St. John fortress guarding the harbor, then wander into the Old Town alleys along Apellou and Ifestou streets — bougainvillea-lined lanes of jewelry, ceramics, and leather shops. Don't rush; the best corners are the ones off the direct route between sights.",
-        "afternoon": "Stand under Hippocrates' Plane Tree in Plane Tree Square — legend says he taught medicine in its shade — then rent a bike (Kos has 200km+ of dedicated paths) and ride the flat waterfront route from Lambi through town down to Psalidi, about 13km round trip, with a detour down Finikas Avenue past Neratzia Castle.",
-        "evening": "Dinner one block back from the harbor, not on it — the restaurants directly on the port water are the tourist-markup tier. Look for a taverna serving fresh-caught fish and, if it's on the menu, krasotyri (wine-aged goat/sheep cheese), a Kos specialty that barely travels off the island."
+        "title": "Bodrum Castle, the Bazaar, and Bar Street",
+        "morning": "Give Bodrum Castle (Castle of St. Peter) at least half a day, not the rushed hour most visitors give it — its 14 exhibition halls hold the Museum of Underwater Archaeology, one of the best shipwreck collections on earth, plus marble fragments salvaged from the ruined Mausoleum of Halicarnassus, one of the Seven Wonders.",
+        "afternoon": "Walk down into the Grand Bazaar's stone-paved, bougainvillea-shaded lanes for textiles, leather, copperware, and Turkish delight, then follow the marina promenade past the rows of docked gulets toward the harbor.",
+        "evening": "Bar Street for the classic loud Bodrum night out, or skip it for a marina-adjacent taverna doing grilled octopus and fresh Aegean fish if you'd rather eat than shout over music."
       },
       {
         "day": 2,
-        "title": "The Asklepieion, Zia, and a Sulfur-Spring Soak",
-        "morning": "Cycle or drive 4km west to the Asklepieion, the ancient healing sanctuary built into a wooded hillside with sweeping views over the Aegean toward the Turkish coast — one of the most important archaeological sites in ancient Greece. Go before 9am to beat both the heat and the tour groups.",
-        "afternoon": "Take City Bus Line 5 (~20 min) from near the Albergo Gelsomino Hotel out to Embros Thermae, where 47–50°C sulfur springs bubble up right where they meet the cool sea. Water shoes are essential for the rocky pool floor and the steep 10–15 minute path down; there are loungers and showers but no other facilities.",
-        "evening": "Head up to Zia, the mountain village famous for its sunset — but the trick is timing: go before 10am if you want it quiet, or if you're there for sunset, either book a rooftop table in advance or hike the extra 25 minutes to Metoxi Cafe above the village, which gets a fraction of the tour-bus crowd that swarms Zia's main square at golden hour."
+        "title": "Orak Island Boat Day",
+        "morning": "Book the Orak/Black Island day boat directly through a local operator (not your hotel concierge — same tour, notably cheaper) for an 11am departure. First stop is the Black Island hot spring cave, then Meteor Bay for a swim.",
+        "afternoon": "Lunch stop at Aquarius Bay, then Red Bay and Rabbit Bay for more swimming and snorkeling — this stretch of the Gulf of Gökova gets called the 'Maldives of Bodrum' for a reason, and it's a genuinely different pace from the marina scene.",
+        "evening": "Back in Bodrum by early evening — an easy night after a full day on the water; a quiet dinner near your hotel is enough."
       },
       {
         "day": 3,
-        "title": "Kefalos Bay and the Kastri Islet",
-        "morning": "Drive or bus 40km south to Kefalos peninsula and Agios Stefanos beach, framed by the ruins of two 5th–6th century early-Christian basilicas and facing the picture-postcard Kastri islet with its tiny whitewashed Agios Nikolaos chapel.",
-        "afternoon": "Rent a paddleboard or pedalo and get out on the water toward Kastri (currents pick up past 100m out, so know your limits); otherwise just swim and lunch at a taverna in Kefalos village, well outside the day-tripper density of Kos Town.",
-        "evening": "Back in Kos Town for a last sunset drink along the Lambi or Psalidi beachfront, then a final dinner in the Old Town — this time you'll know which back streets to walk to skip the harbor markup."
+        "title": "The Quiet Peninsula: Bitez and Gümüşlük",
+        "morning": "Bitez Beach, a Blue Flag stretch about 15 minutes from Bodrum center and the local pick for a calmer, family-friendly swim than the town beaches.",
+        "afternoon": "Drive to Gümüşlük on the western tip of the peninsula — a former fishing village built over the submerged ruins of ancient Myndos, with a bohemian, art-and-music crowd and a much slower rhythm than downtown Bodrum.",
+        "evening": "Sunset dinner at Limon or Mimoza, right at the water's edge with your feet nearly dangling in the sea — Gümüşlük bans amplified music to protect the ruins beneath it, so this is the one properly quiet evening of the trip, and arguably the best one."
       }
     ],
     "tips": [
-      "Zia's sunset is genuinely beautiful but gets mobbed by tour buses — visit before 10am for a quiet version, or hike the extra 25 minutes to Metoxi Cafe above the village if you want the sunset without the crowd.",
-      "Renting a bike isn't just a novelty here — Kos has 200+ km of dedicated bike paths connecting Kos Town to Tigaki, Mastichari, and Marmari, and it's genuinely the most pleasant way to get around the flat parts of the island.",
-      "Reach Embros Thermae hot springs by public City Bus Line 5 (~20 min, a few euros) instead of a tour boat — same sulfur springs meeting the sea, a fraction of the price.",
-      "Skip any restaurant directly on the Kos Town harbor with a menu that has no prices — walk one block inland for the same fresh seafood at local rates.",
-      "Look for krasotyri (wine-aged goat/sheep cheese) on menus — it's a Kos-specific specialty that doesn't really exist outside the island.",
-      "Go in May or September if your dates are flexible: warm sea, noticeably thinner crowds than July/August, and (per the flight research) some of the cheaper fare windows on the DTW route too."
+      "Gümüşlük prohibits amplified music to protect the submerged ruins of ancient Myndos beneath the bay — it's the calm, bohemian counterpoint to Bar Street, and the best pick for a slow sunset dinner with your feet over the water.",
+      "Give Bodrum Castle at least half a day if you want to actually see the Underwater Archaeology Museum's 14 halls — most visitors rush it in under an hour and miss most of the shipwreck collection.",
+      "Book the Orak/Black Island boat trip through a local operator directly rather than your hotel concierge — it's the same route and boats, just notably cheaper without the markup.",
+      "Bitez Beach carries Blue Flag status and is the calmer, more local alternative to the crowded central town beaches — worth the 15-minute trip out.",
+      "Gümbet's party strip has a real reputation for drink-spiking — keep your drink with you and don't accept one from a stranger if you're out there.",
+      "Pick your neighborhood deliberately: downtown Bodrum and Bar Street are the wallet-friendly, high-energy option, while Yalıkavak and Gümüşlük are quieter, more upscale, and noticeably more expensive — decide which trip you actually want before booking."
     ],
     "sources": [
-      { "title": "Kos Greece: Travel Guide 2026 — Greeka", "url": "https://www.greeka.com/dodecanese/kos/" },
-      { "title": "19+ BEST Things to do in Kos, Greece in 2026 — Island Hopping in Greece", "url": "https://islandhoppingingreece.com/best-things-to-do-in-kos/" },
-      { "title": "The 7 best things to do in Kos, Greece — Lonely Planet", "url": "https://www.lonelyplanet.com/articles/top-things-to-do-in-kos-dodecanese-greece" },
-      { "title": "Zia on Kos: 8 important tips for the mountain village — Greece Moments", "url": "https://greece-moments.com/en/zia-on-kos/" },
-      { "title": "Embros Hot Springs Kos • 5 important things you need to know — Greece Moments", "url": "https://greece-moments.com/en/embros-kos/" },
-      { "title": "Kos Travel Advice: Insider Tips For A Smooth Holiday — Travelodeal", "url": "https://www.travelodeal.co.uk/blog/kos-travel-guide-insider-tips/" },
-      { "title": "Cycling in Kos — Tree of Hippocrates", "url": "https://treeofhippocrates.com/cycling-in-kos-cheap-and-easy-way-to-get-around/" },
-      { "title": "Kefalos Bay & Agios Stefanos: Finding Picturesque Ruins, Kastri Islet — Bella's Bold Adventures", "url": "https://bellasboldadventures.com/kefalos-bay-agios-stefanos-finding-picturesque-ruins-kastri-islet-and-the-quieter-side-of-kos/" }
+      { "title": "Bodrum Grand Bazaar and Old Town — Nomads Travel Guide", "url": "https://www.nomads-travel-guide.com/places/bodrum-grand-bazaar/" },
+      { "title": "How To Spend A Day In Gümüşlük, Bodrum's Summer Town — Culture Trip", "url": "https://theculturetrip.com/europe/turkey/articles/how-to-spend-a-day-in-gumusluk-bodrums-summer-town" },
+      { "title": "Bodrum Castle: History and Visitor Guide — Bodrum Museum", "url": "https://www.bodrum-museum.com/castle/" },
+      { "title": "Bodrum Daily Boat Trip / Orak or Black Island — The Abroad Guide", "url": "https://theabroadguide.com/bodrum-daily-boat-trip-orak-or-black-island/" },
+      { "title": "Hidden Bodrum: An insider's guide of things to do — Property Turkey", "url": "https://www.propertyturkey.com/blog-turkey/hidden-bodrum-an-insiders-guide-of-things-to-do" },
+      { "title": "Where to Stay in Bodrum in 2026 — Bodrum Museum", "url": "https://www.bodrum-museum.com/where-to-stay-in-bodrum/" },
+      { "title": "50 Hours in Bodrum — The World's 50 Best", "url": "https://www.theworlds50best.com/stories/News/50-hours-in-bodrum-turkey.html" },
+      { "title": "Bodrum City Guide (Türkiye, 2026) — Take Your Backpack", "url": "https://www.takeyourbackpack.com/backpacking-in-turkiye/visit-bodrum/" }
     ]
   }
 }
