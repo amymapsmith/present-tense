@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-08-09",
   "locations": [
     {
       "id": "sf",
@@ -15,7 +15,7 @@
         "saturday":  { "open": "07:00", "close": "19:00" },
         "sunday":    { "open": "07:00", "close": "19:00" }
       },
-      "_hours_note": "Re-confirmed via bayclubs.com/clubs/sanfrancisco July 28, 2026 — unchanged from last check.",
+      "_hours_note": "Re-confirmed via bayclubs.com/clubs/sanfrancisco Aug 9, 2026 — unchanged from last check.",
       "events": []
     },
     {
@@ -32,9 +32,9 @@
         "saturday":  null,
         "sunday":    null
       },
-      "_hours_note": "Re-confirmed via bayclubs.com/clubs/financialdistrict July 28, 2026 — unchanged, closed weekends.",
+      "_hours_note": "Re-confirmed via bayclubs.com/clubs/financialdistrict Aug 9, 2026 — unchanged, closed weekends.",
       "events": []
     }
   ],
-  "_events_note": "Checked bayclubs.com/events July 28, 2026 — no member events, classes, or workshops listed for the SF or FiDi locations in the next two weeks. Nearby-location events (Fremont, Carmel Valley, Fairbanks Ranch, Griffin Club) were excluded as not relevant to Amy's home clubs."
+  "_events_note": "Checked bayclubs.com/events Aug 9, 2026 — no member events, classes, or workshops listed for the SF or FiDi locations in the next two weeks. Nearby-location events (Fremont, Pleasanton, Fairbanks Ranch) were excluded as not relevant to Amy's home clubs."
 }

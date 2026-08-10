@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-08-09",
   "opportunities": [
     {
       "type": "role",
@@ -662,6 +662,48 @@
         "autonomous-vehicles",
         "tpm",
         "perception"
+      ]
+    },
+    {
+      "type": "role",
+      "title": "Head of Operations Planning",
+      "organization": "Mercor",
+      "description": "Lead operations planning at an AI data/talent platform company \u2014 own forecasting, resourcing, and process design across Mercor's operations org as it scales data and workforce programs for frontier AI labs. $200K\u2013$250K. San Francisco.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://mercor.com/careers/8723bb7f-c0af-43cd-8c5a-a06eeb89bdde/",
+      "source": "other",
+      "seniority": "head",
+      "location": "any",
+      "tags": [
+        "operations",
+        "ai-data",
+        "program-management",
+        "mercor",
+        "san-francisco"
+      ]
+    },
+    {
+      "type": "role",
+      "title": "Research Program Manager",
+      "organization": "Mercor",
+      "description": "Program-manage research operations at Mercor, coordinating data collection and evaluation programs that support frontier AI model training and research partnerships. $120K\u2013$200K. San Francisco.",
+      "date": null,
+      "deadline": null,
+      "cost": 0,
+      "paid": true,
+      "url": "https://mercor.com/careers/9c546843-035f-4400-9d0d-d5de5f7205ff/",
+      "source": "other",
+      "seniority": "senior",
+      "location": "any",
+      "tags": [
+        "program-management",
+        "research-operations",
+        "ai-data",
+        "mercor",
+        "san-francisco"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-08-09",
   "venues": [
     {
       "id": "deyoung",
@@ -11,25 +11,25 @@
         "tuesday":   { "open": "09:30", "close": "17:15" },
         "wednesday": { "open": "09:30", "close": "17:15" },
         "thursday":  { "open": "09:30", "close": "17:15" },
-        "friday":    { "open": "09:30", "close": "17:15" },
+        "friday":    { "open": "09:30", "close": "20:45" },
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Friday evening extended hours on summer hiatus (resumes Sep 28). Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included. famsf.org and deyoung.famsf.org both blocked direct fetch verification this cycle (403/404); hours and exhibitions cross-checked via search instead.",
+      "notes": "Closed Mondays. Friday evening extended hours (until 8:45 PM) are confirmed active this cycle — corrects last cycle's note that they were on summer hiatus. Amy has FAMSF membership — all permanent collection galleries and most ticketed exhibitions included. famsf.org/deyoung.famsf.org direct fetches still return 403; hours and exhibitions cross-checked via search. Note: access to the museum was impacted Aug 7–9 by Outside Lands in Golden Gate Park.",
       "current_exhibitions": [
         {
-          "title": "Rose B. Simpson: LEXICON",
-          "description": "First de Young solo for a contemporary Native American artist. Two customized classic cars painted with Pueblo pottery motifs plus a site-specific mural evoking the Southwest, transforming Wilsey Court.",
-          "through": "2026-08-02",
+          "title": "Treasures of the Pharaohs",
+          "description": "130 rare artifacts from the Egyptian Museum in Cairo and the Luxor Museum spanning 3,000 years, including the US debut of objects from the newly unearthed 'Golden City' near Luxor.",
+          "through": "2027-01-31",
           "membership_included": true,
-          "url": "https://www.famsf.org/exhibitions/rose-b-simpson"
+          "url": "https://www.famsf.org/exhibitions/treasures-pharaohs"
         },
         {
-          "title": "Boom and Bust: Photographing Northern California",
-          "description": "Photographs chronicling cycles of urban settlement in Northern California, including post-1906 earthquake SF, bridge construction, and SoMa development.",
-          "through": "2026-08-02",
+          "title": "Fashioning San Francisco: A Century of Style",
+          "description": "A look at San Francisco fashion history through garments and accessories from the FAMSF collection.",
+          "through": "2026-08-16",
           "membership_included": true,
-          "url": "https://www.famsf.org/exhibitions/boom-bust-photographing-northern-california"
+          "url": "https://www.famsf.org/exhibitions"
         },
         {
           "title": "Nengi Omuku: The Gathering",
@@ -41,8 +41,17 @@
       ],
       "events": [
         {
+          "title": "A Gallery of Their Own: Women Artists from the Carr and Goldblum Gift — Opens",
+          "date": "2026-08-15",
+          "time": "09:30",
+          "description": "New exhibition opening drawn from the Carr and Goldblum gift, spotlighting women artists in the FAMSF collection.",
+          "cost": 0,
+          "cost_notes": "included with FAMSF membership",
+          "url": "https://www.famsf.org/exhibitions"
+        },
+        {
           "title": "Free Saturdays at the de Young",
-          "date": "2026-08-01",
+          "date": "2026-08-15",
           "time": "09:30",
           "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Show Bay Area ID. Special exhibitions still require a ticket (included with membership).",
           "cost": 0,
@@ -74,7 +83,7 @@
         "saturday":  { "open": "09:30", "close": "17:15" },
         "sunday":    { "open": "09:30", "close": "17:15" }
       },
-      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included. Wayne Thiebaud's closing date corrected this cycle to Aug 17 (sources vary Aug 16–17) — earlier data had it at Aug 2, that was wrong.",
+      "notes": "Closed Mondays. Amy has FAMSF membership — all permanent collection and special exhibitions included. Drawn to Venice closed Aug 2 as scheduled — dropped from current exhibitions. Wayne Thiebaud closes Aug 17, last chance this week/next.",
       "current_exhibitions": [
         {
           "title": "The Etruscans: From the Heart of Ancient Italy",
@@ -84,15 +93,8 @@
           "url": "https://www.famsf.org/exhibitions/etruscans-heart-ancient-italy"
         },
         {
-          "title": "Drawn to Venice",
-          "description": "30+ drawings and prints celebrating the arts of Venice and the Veneto from Renaissance to Rococo.",
-          "through": "2026-08-02",
-          "membership_included": true,
-          "url": "https://www.famsf.org/exhibitions/drawn-to-venice"
-        },
-        {
           "title": "Wayne Thiebaud: Art Comes from Art",
-          "description": "About 130 works — Thiebaud's own cakes, people, cityscapes, and mountain landscapes alongside the historical artworks from his personal collection that he reinterpreted across his six-decade career.",
+          "description": "About 130 works — Thiebaud's own cakes, people, cityscapes, and mountain landscapes alongside the historical artworks from his personal collection that he reinterpreted across his six-decade career. Closing soon.",
           "through": "2026-08-17",
           "membership_included": true,
           "url": "https://www.famsf.org/exhibitions/wayne-thiebaud"
@@ -101,7 +103,7 @@
       "events": [
         {
           "title": "Free Saturdays at the Legion of Honor",
-          "date": "2026-08-01",
+          "date": "2026-08-15",
           "time": "09:30",
           "description": "Free general admission to permanent collection galleries for Bay Area residents (9-county area). Valid ID required.",
           "cost": 0,

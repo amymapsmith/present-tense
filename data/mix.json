@@ -11,25 +11,25 @@
     "social": 0.0,
     "culture": 0.0,
     "total_hours": 0,
-    "note": "No history.json found — no hours logged yet this week (Jul 20–26)"
+    "note": "No history.json found in data/ — no hours logged yet this week (Aug 3–9). Same gap as the last several runs; consider whether logging has stalled or the file moved."
   },
   "recommendation": {
-    "updated": "2026-07-22",
-    "summary": "All categories at zero, and this is genuinely the last week to catch Monet and Venice at the de Young — it closes Sunday, July 26, the same week the Legion's Drawn to Venice companion show also winds down. No fresh professional postings cleared verification this cycle (last week's Dropbox lead turned out to be closed), so lean on the CFPs already in the pipeline — both still have a month-plus runway — rather than waiting on new roles to appear.",
+    "updated": "2026-08-09",
+    "summary": "With nothing logged this week, the calendar matters more than the log: the ALIGN AI Executive Summit (Aug 19) is an application-gated director-level room worth applying to now rather than waiting, since 2–3 quality connections there outweigh volume-searching job boards. Pair that one professional push with something unscheduled — Wayne Thiebaud closes at the Legion of Honor Aug 17, a low-effort way to get cultural input in before it's gone, and a Wednesday dance night is an easy social anchor that isn't just another gym session.",
     "suggested": [
       {
-        "category": "culture",
-        "title": "Monet and Venice at the de Young — final days, closes Sunday July 26",
-        "source_section": "museums"
-      },
-      {
         "category": "professional",
-        "title": "Draft a submission for the Global Data & AI Virtual Tech Conference CFP (deadline Aug 22)",
+        "title": "Apply to the ALIGN AI Executive Summit San Francisco — Aug 19, director-level AI/data leaders, free application",
         "source_section": "professional"
       },
       {
+        "category": "culture",
+        "title": "Wayne Thiebaud: Art Comes from Art at the Legion of Honor — closes Aug 17",
+        "source_section": "museums"
+      },
+      {
         "category": "social",
-        "title": "San Francisco Art Book Fair — free, Thu Jul 23 or Fri Jul 24, 6–10 PM at Minnesota Street Project",
+        "title": "El Valenciano Latin Wednesdays — bachata/salsa lesson + social dancing, Aug 12, $12 presale",
         "source_section": "events"
       }
     ]
