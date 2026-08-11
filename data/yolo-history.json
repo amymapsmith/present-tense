@@ -3,6 +3,124 @@
     {
       "updated": "2026-07-30",
       "destination": {
+        "city": "Bodrum",
+        "country": "Turkey",
+        "flag": "🇹🇷",
+        "iata": "BJV",
+        "lat": 37.0344,
+        "lon": 27.4305,
+        "vibe": "Ancient Halicarnassus reborn as a yacht-marina party town — a 15th-century Crusader castle guarding one of the world's best shipwreck museums by day, Bar Street by night, with a genuinely quiet fishing-village alternative a short drive away if you know to go to Gümüşlük."
+      },
+      "flight_search_date": "2026-07-30",
+      "flights": [
+        {
+          "airline": "Turkish Airlines (single ticket, via Istanbul)",
+          "price_usd": 885,
+          "outbound_dates": "e.g. Sep 22 (flexible, Sep–Oct is the cheap window)",
+          "return_dates": "flexible +10–14 days",
+          "stops": 1,
+          "duration": "~21h outbound / ~18h return",
+          "url": "https://www.momondo.com/flights/detroit/bodrum",
+          "notes": "Momondo's tracked low for a single DTW–BJV itinerary in the last 72 hours, all on Turkish Airlines metal through Istanbul. This beats booking the long-haul and domestic hop separately in most cases."
+        },
+        {
+          "airline": "Turkish Airlines nonstop (DTW–Istanbul) + separate domestic hop (Istanbul–Bodrum)",
+          "price_usd": 1050,
+          "outbound_dates": "flexible, Aug–Sep 2026",
+          "return_dates": "flexible +7–10 days",
+          "stops": 2,
+          "duration": "~10h nonstop long-haul + ~1h15m domestic hop",
+          "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-istanbul",
+          "notes": "TK206 flies DTW–IST nonstop 7x/week (~10h, evening departure) for around $930 RT on its own — add a separate ~$120 RT domestic Istanbul–Bodrum ticket. Costs more than the single-ticket option but guarantees a true nonstop on the long-haul leg and more flexible connection timing."
+        },
+        {
+          "airline": "Multi-carrier aggregate (best recent price)",
+          "price_usd": 933,
+          "outbound_dates": "flexible, Aug–Sep 2026",
+          "return_dates": "flexible +7–10 days",
+          "stops": 2,
+          "duration": "~20–23h total",
+          "url": "https://www.kayak.com/flight-routes/United-States-US0/MilasBodrum-BJV",
+          "notes": "Kayak's tracked range for US-origin Bodrum fares — set a price-drop alert here since there's no daily direct DTW–BJV routing and prices shift depending on which connection has capacity."
+        }
+      ],
+      "lodging": [
+        {
+          "name": "La Luna Hostel",
+          "type": "hostel",
+          "price_per_night_usd": 48,
+          "neighborhood": "Old Town Bodrum, 100m from the beach",
+          "highlights": "Rated 8.9/10 Fabulous across 416 reviews — family-run and eco-friendly, with a rooftop bar, excellent location score (9.8/10), and a five-minute walk to the bus station and marina.",
+          "url": "https://www.hostelworld.com/hostels/p/299239/la-luna-hostel/",
+          "source": "hostelworld"
+        },
+        {
+          "name": "Costa Maya Bodrum",
+          "type": "hotel",
+          "price_per_night_usd": 90,
+          "neighborhood": "Central Bodrum, 550m from the sea and a short walk to Bodrum Castle",
+          "highlights": "8.8/10 from nearly 4,000 reviews — soundproofed rooms with private balconies and sea views, a seasonal pool, and an à la carte restaurant, 3 minutes' walk from the marina.",
+          "url": "https://costa-maya.aegeanhotelspage.com/en/",
+          "source": "booking"
+        },
+        {
+          "name": "The Bodrum EDITION",
+          "type": "hotel",
+          "price_per_night_usd": 420,
+          "neighborhood": "Yalıkavak, on Bodrum's western peninsula",
+          "highlights": "110 rooms, suites, and villas with private pools and Aegean views; two Michelin-recognized restaurants (KITCHEN and The Trattoria), an infinity pool, private beach club, and a Turkish hammam spa. Shoulder-season rate — climbs sharply in peak August.",
+          "url": "https://www.editionhotels.com/bodrum/",
+          "source": "booking"
+        }
+      ],
+      "itinerary": {
+        "overview": "Bodrum is ancient Halicarnassus rebuilt as the Turkish Riviera's glossiest resort town — a 15th-century Crusader castle standing guard over a marina full of gulets and superyachts, Bar Street humming until sunrise, and a Grand Bazaar spilling out from the Old Town. It's brasher and more nightlife-forward than quiet Kos just across the water, but the peninsula's outer villages give you an entirely different, calmer version of the same coast if you're willing to drive twenty minutes.",
+        "days": [
+          {
+            "day": 1,
+            "title": "Bodrum Castle, the Bazaar, and Bar Street",
+            "morning": "Give Bodrum Castle (Castle of St. Peter) at least half a day, not the rushed hour most visitors give it — its 14 exhibition halls hold the Museum of Underwater Archaeology, one of the best shipwreck collections on earth, plus marble fragments salvaged from the ruined Mausoleum of Halicarnassus, one of the Seven Wonders.",
+            "afternoon": "Walk down into the Grand Bazaar's stone-paved, bougainvillea-shaded lanes for textiles, leather, copperware, and Turkish delight, then follow the marina promenade past the rows of docked gulets toward the harbor.",
+            "evening": "Bar Street for the classic loud Bodrum night out, or skip it for a marina-adjacent taverna doing grilled octopus and fresh Aegean fish if you'd rather eat than shout over music."
+          },
+          {
+            "day": 2,
+            "title": "Orak Island Boat Day",
+            "morning": "Book the Orak/Black Island day boat directly through a local operator (not your hotel concierge — same tour, notably cheaper) for an 11am departure. First stop is the Black Island hot spring cave, then Meteor Bay for a swim.",
+            "afternoon": "Lunch stop at Aquarius Bay, then Red Bay and Rabbit Bay for more swimming and snorkeling — this stretch of the Gulf of Gökova gets called the 'Maldives of Bodrum' for a reason, and it's a genuinely different pace from the marina scene.",
+            "evening": "Back in Bodrum by early evening — an easy night after a full day on the water; a quiet dinner near your hotel is enough."
+          },
+          {
+            "day": 3,
+            "title": "The Quiet Peninsula: Bitez and Gümüşlük",
+            "morning": "Bitez Beach, a Blue Flag stretch about 15 minutes from Bodrum center and the local pick for a calmer, family-friendly swim than the town beaches.",
+            "afternoon": "Drive to Gümüşlük on the western tip of the peninsula — a former fishing village built over the submerged ruins of ancient Myndos, with a bohemian, art-and-music crowd and a much slower rhythm than downtown Bodrum.",
+            "evening": "Sunset dinner at Limon or Mimoza, right at the water's edge with your feet nearly dangling in the sea — Gümüşlük bans amplified music to protect the ruins beneath it, so this is the one properly quiet evening of the trip, and arguably the best one."
+          }
+        ],
+        "tips": [
+          "Gümüşlük prohibits amplified music to protect the submerged ruins of ancient Myndos beneath the bay — it's the calm, bohemian counterpoint to Bar Street, and the best pick for a slow sunset dinner with your feet over the water.",
+          "Give Bodrum Castle at least half a day if you want to actually see the Underwater Archaeology Museum's 14 halls — most visitors rush it in under an hour and miss most of the shipwreck collection.",
+          "Book the Orak/Black Island boat trip through a local operator directly rather than your hotel concierge — it's the same route and boats, just notably cheaper without the markup.",
+          "Bitez Beach carries Blue Flag status and is the calmer, more local alternative to the crowded central town beaches — worth the 15-minute trip out.",
+          "Gümbet's party strip has a real reputation for drink-spiking — keep your drink with you and don't accept one from a stranger if you're out there.",
+          "Pick your neighborhood deliberately: downtown Bodrum and Bar Street are the wallet-friendly, high-energy option, while Yalıkavak and Gümüşlük are quieter, more upscale, and noticeably more expensive — decide which trip you actually want before booking."
+        ],
+        "sources": [
+          { "title": "Bodrum Grand Bazaar and Old Town — Nomads Travel Guide", "url": "https://www.nomads-travel-guide.com/places/bodrum-grand-bazaar/" },
+          { "title": "How To Spend A Day In Gümüşlük, Bodrum's Summer Town — Culture Trip", "url": "https://theculturetrip.com/europe/turkey/articles/how-to-spend-a-day-in-gumusluk-bodrums-summer-town" },
+          { "title": "Bodrum Castle: History and Visitor Guide — Bodrum Museum", "url": "https://www.bodrum-museum.com/castle/" },
+          { "title": "Bodrum Daily Boat Trip / Orak or Black Island — The Abroad Guide", "url": "https://theabroadguide.com/bodrum-daily-boat-trip-orak-or-black-island/" },
+          { "title": "Hidden Bodrum: An insider's guide of things to do — Property Turkey", "url": "https://www.propertyturkey.com/blog-turkey/hidden-bodrum-an-insiders-guide-of-things-to-do" },
+          { "title": "Where to Stay in Bodrum in 2026 — Bodrum Museum", "url": "https://www.bodrum-museum.com/where-to-stay-in-bodrum/" },
+          { "title": "50 Hours in Bodrum — The World's 50 Best", "url": "https://www.theworlds50best.com/stories/News/50-hours-in-bodrum-turkey.html" },
+          { "title": "Bodrum City Guide (Türkiye, 2026) — Take Your Backpack", "url": "https://www.takeyourbackpack.com/backpacking-in-turkiye/visit-bodrum/" }
+        ]
+      }
+    },
+    {
+      "updated": "2026-07-30",
+      "destination": {
         "city": "Kos",
         "country": "Greece",
         "flag": "🇬🇷",

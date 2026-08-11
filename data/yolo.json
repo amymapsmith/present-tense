@@ -1,118 +1,118 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-08-11",
   "destination": {
-    "city": "Bodrum",
-    "country": "Turkey",
-    "flag": "🇹🇷",
-    "iata": "BJV",
-    "lat": 37.0344,
-    "lon": 27.4305,
-    "vibe": "Ancient Halicarnassus reborn as a yacht-marina party town — a 15th-century Crusader castle guarding one of the world's best shipwreck museums by day, Bar Street by night, with a genuinely quiet fishing-village alternative a short drive away if you know to go to Gümüşlük."
+    "city": "Lima",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "iata": "LIM",
+    "lat": -12.0464,
+    "lon": -77.0428,
+    "vibe": "A foggy cliffside capital that quietly became one of the best food cities on the planet — Pacific sea lions, pre-Inca ruins, and world-class ceviche all within a single Uber ride."
   },
-  "flight_search_date": "2026-07-30",
+  "flight_search_date": "2026-08-11",
   "flights": [
     {
-      "airline": "Turkish Airlines (single ticket, via Istanbul)",
-      "price_usd": 885,
-      "outbound_dates": "e.g. Sep 22 (flexible, Sep–Oct is the cheap window)",
-      "return_dates": "flexible +10–14 days",
+      "airline": "Delta Air Lines (via Atlanta)",
+      "price_usd": 900,
+      "outbound_dates": "Sep 8, 2026 (flexible)",
+      "return_dates": "Sep 20, 2026",
       "stops": 1,
-      "duration": "~21h outbound / ~18h return",
-      "url": "https://www.momondo.com/flights/detroit/bodrum",
-      "notes": "Momondo's tracked low for a single DTW–BJV itinerary in the last 72 hours, all on Turkish Airlines metal through Istanbul. This beats booking the long-haul and domestic hop separately in most cases."
+      "duration": "~11–13h total via ATL",
+      "url": "https://www.delta.com/us/en/flight-deals/latin-america-flights/flights-to-lima",
+      "notes": "A concrete 12-day example itinerary in the sweet spot of the search window — Delta's single-connection routing through Atlanta is the most convenient option even though it isn't the cheapest."
     },
     {
-      "airline": "Turkish Airlines nonstop (DTW–Istanbul) + separate domestic hop (Istanbul–Bodrum)",
-      "price_usd": 1050,
-      "outbound_dates": "flexible, Aug–Sep 2026",
-      "return_dates": "flexible +7–10 days",
-      "stops": 2,
-      "duration": "~10h nonstop long-haul + ~1h15m domestic hop",
-      "url": "https://www.turkishairlines.com/en-us/flights-from-detroit-to-istanbul",
-      "notes": "TK206 flies DTW–IST nonstop 7x/week (~10h, evening departure) for around $930 RT on its own — add a separate ~$120 RT domestic Istanbul–Bodrum ticket. Costs more than the single-ticket option but guarantees a true nonstop on the long-haul leg and more flexible connection timing."
+      "airline": "LATAM Airlines Group (best aggregate price)",
+      "price_usd": 505,
+      "outbound_dates": "flexible, September 2026",
+      "return_dates": "flexible +10–12 days",
+      "stops": 1,
+      "duration": "~14–16h total, typically via Lima's LATAM hub or a US gateway city",
+      "url": "https://www.kayak.com/flight-routes/United-States-US0/Lima-J-Chavez-Intl-LIM",
+      "notes": "Kayak's tracked low for this route recently — LATAM, Copa, and Avianca all fly DTW–LIM itineraries with a single stop (commonly Bogotá or a US hub); no daily direct, so prices swing week to week. Book ~5 weeks out for the best odds, per fare-trend data for this route."
     },
     {
-      "airline": "Multi-carrier aggregate (best recent price)",
-      "price_usd": 933,
-      "outbound_dates": "flexible, Aug–Sep 2026",
+      "airline": "Multi-carrier via Google Flights (American / Copa / Avianca)",
+      "price_usd": 706,
+      "outbound_dates": "flexible, Sep–Oct 2026",
       "return_dates": "flexible +7–10 days",
-      "stops": 2,
-      "duration": "~20–23h total",
-      "url": "https://www.kayak.com/flight-routes/United-States-US0/MilasBodrum-BJV",
-      "notes": "Kayak's tracked range for US-origin Bodrum fares — set a price-drop alert here since there's no daily direct DTW–BJV routing and prices shift depending on which connection has capacity."
+      "stops": 1,
+      "duration": "~12–15h total",
+      "url": "https://www.google.com/travel/flights?q=flights%20from%20DTW%20to%20LIM",
+      "notes": "Google Flights' national average for this route is around $706 RT — use the flexible-dates calendar here since fares fluctuate noticeably by week and by which hub (Miami, Bogotá, Mexico City) has open capacity."
     }
   ],
   "lodging": [
     {
-      "name": "La Luna Hostel",
+      "name": "Pariwana Hostel Lima",
       "type": "hostel",
-      "price_per_night_usd": 48,
-      "neighborhood": "Old Town Bodrum, 100m from the beach",
-      "highlights": "Rated 8.9/10 Fabulous across 416 reviews — family-run and eco-friendly, with a rooftop bar, excellent location score (9.8/10), and a five-minute walk to the bus station and marina.",
-      "url": "https://www.hostelworld.com/hostels/p/299239/la-luna-hostel/",
+      "price_per_night_usd": 25,
+      "neighborhood": "Miraflores, on Av. Larco facing Parque Kennedy",
+      "highlights": "9.3/10 Superb across 6,100+ reviews — private rooms from ~$25, dead center in Lima's safest and most walkable district, with a rooftop bar, guest kitchen, and genuinely strong security/staff ratings.",
+      "url": "https://www.hostelworld.com/hostels/p/36523/pariwana-hostel-lima/",
       "source": "hostelworld"
     },
     {
-      "name": "Costa Maya Bodrum",
-      "type": "hotel",
-      "price_per_night_usd": 90,
-      "neighborhood": "Central Bodrum, 550m from the sea and a short walk to Bodrum Castle",
-      "highlights": "8.8/10 from nearly 4,000 reviews — soundproofed rooms with private balconies and sea views, a seasonal pool, and an à la carte restaurant, 3 minutes' walk from the marina.",
-      "url": "https://costa-maya.aegeanhotelspage.com/en/",
+      "name": "Second Home Peru",
+      "type": "guesthouse",
+      "price_per_night_usd": 150,
+      "neighborhood": "Barranco, on the clifftop above Playa Barranco",
+      "highlights": "A restored Tudor mansion that was sculptor Víctor Delfín's private home, now an 8-room guesthouse run by his daughter — ocean-view rooms, a private gallery of his work, gardens, and a pool, on a quiet street minutes from Barranco's bars and galleries.",
+      "url": "https://www.secondhomeperu.com/",
       "source": "booking"
     },
     {
-      "name": "The Bodrum EDITION",
+      "name": "Belmond Miraflores Park",
       "type": "hotel",
-      "price_per_night_usd": 420,
-      "neighborhood": "Yalıkavak, on Bodrum's western peninsula",
-      "highlights": "110 rooms, suites, and villas with private pools and Aegean views; two Michelin-recognized restaurants (KITCHEN and The Trattoria), an infinity pool, private beach club, and a Turkish hammam spa. Shoulder-season rate — climbs sharply in peak August.",
-      "url": "https://www.editionhotels.com/bodrum/",
+      "price_per_night_usd": 450,
+      "neighborhood": "Miraflores, on the Malecón de la Reserva",
+      "highlights": "89-suite all-suite luxury hotel on the clifftop — rooftop pool with Pacific views, a Peruvian-Asian fusion restaurant, and suites with private saunas or terraces. The splurge that puts you a five-minute walk from Parque del Amor and the paragliding launch point.",
+      "url": "https://www.belmond.com/hotels/south-america/peru/lima/belmond-miraflores-park/about",
       "source": "booking"
     }
   ],
   "itinerary": {
-    "overview": "Bodrum is ancient Halicarnassus rebuilt as the Turkish Riviera's glossiest resort town — a 15th-century Crusader castle standing guard over a marina full of gulets and superyachts, Bar Street humming until sunrise, and a Grand Bazaar spilling out from the Old Town. It's brasher and more nightlife-forward than quiet Kos just across the water, but the peninsula's outer villages give you an entirely different, calmer version of the same coast if you're willing to drive twenty minutes.",
+    "overview": "Lima spent decades getting overlooked as a layover city on the way to Machu Picchu, but it's quietly become one of the best food cities on Earth — the chef Gastón Acurio built his empire here, and the ceviche, Nikkei, and chifa scenes are reason enough for a trip on their own. Add pre-Inca ruins, cliffside parks, sea lion colonies a boat ride offshore, and a permanently mild, foggy microclimate (locals call the gray sky 'garúa'), and three days barely covers the coastline between Miraflores and Barranco.",
     "days": [
       {
         "day": 1,
-        "title": "Bodrum Castle, the Bazaar, and Bar Street",
-        "morning": "Give Bodrum Castle (Castle of St. Peter) at least half a day, not the rushed hour most visitors give it — its 14 exhibition halls hold the Museum of Underwater Archaeology, one of the best shipwreck collections on earth, plus marble fragments salvaged from the ruined Mausoleum of Halicarnassus, one of the Seven Wonders.",
-        "afternoon": "Walk down into the Grand Bazaar's stone-paved, bougainvillea-shaded lanes for textiles, leather, copperware, and Turkish delight, then follow the marina promenade past the rows of docked gulets toward the harbor.",
-        "evening": "Bar Street for the classic loud Bodrum night out, or skip it for a marina-adjacent taverna doing grilled octopus and fresh Aegean fish if you'd rather eat than shout over music."
+        "title": "Miraflores and Barranco: First Impressions",
+        "morning": "Coffee and people-watching at Parque Kennedy in Miraflores — famous for its resident stray cats — then walk the cliffside Malecón boardwalk south, past the Parque del Amor mosaic sculptures, with paragliders launching overhead if the wind's right.",
+        "afternoon": "Rent a bike (or walk) the malecón cliffside path down into Barranco, Lima's bohemian arts district. Browse ceramics and local crafts at Dédalo Arte y Artesanía, then cross the wooden Puente de los Suspiros (Bridge of Sighs) down to Barranco Beach.",
+        "evening": "Dinner at Clon for Venezuelan-Peruvian fusion — arepas built around fresh local fish — then a nightcap at Juanito de Barranco, a genuinely old-school neighborhood bar that's been open since the 1930s and stays open past 1 a.m."
       },
       {
         "day": 2,
-        "title": "Orak Island Boat Day",
-        "morning": "Book the Orak/Black Island day boat directly through a local operator (not your hotel concierge — same tour, notably cheaper) for an 11am departure. First stop is the Black Island hot spring cave, then Meteor Bay for a swim.",
-        "afternoon": "Lunch stop at Aquarius Bay, then Red Bay and Rabbit Bay for more swimming and snorkeling — this stretch of the Gulf of Gökova gets called the 'Maldives of Bodrum' for a reason, and it's a genuinely different pace from the marina scene.",
-        "evening": "Back in Bodrum by early evening — an easy night after a full day on the water; a quiet dinner near your hotel is enough."
+        "title": "Sea Lions, Callao, and Nikkei Night",
+        "morning": "Boat tour out to the Palomino Islands from the Callao terminal — swim with wild sea lions in open water (wetsuits provided) and watch for Humboldt penguins on the rocks. Book direct with a licensed operator rather than a hotel-marked-up tour.",
+        "afternoon": "Lunch at Don Giuseppe cevichería in Callao for their fried-fish sandwiches, then walk Monumental Callao's street-art-covered blocks and small independent galleries — a genuinely off-the-tourist-map neighborhood most visitors skip entirely.",
+        "evening": "Back in Miraflores for a coffee reset at Teoría de los 6 Cafés, then upscale Japanese-Peruvian nigiri at Tomo Cocina Nikkei, and a pisco sour nightcap at Bar Capitán Meléndez."
       },
       {
         "day": 3,
-        "title": "The Quiet Peninsula: Bitez and Gümüşlük",
-        "morning": "Bitez Beach, a Blue Flag stretch about 15 minutes from Bodrum center and the local pick for a calmer, family-friendly swim than the town beaches.",
-        "afternoon": "Drive to Gümüşlük on the western tip of the peninsula — a former fishing village built over the submerged ruins of ancient Myndos, with a bohemian, art-and-music crowd and a much slower rhythm than downtown Bodrum.",
-        "evening": "Sunset dinner at Limon or Mimoza, right at the water's edge with your feet nearly dangling in the sea — Gümüşlük bans amplified music to protect the ruins beneath it, so this is the one properly quiet evening of the trip, and arguably the best one."
+        "title": "Historic Center and a Locals' Ceviche Lunch",
+        "morning": "Breakfast at Caleta Dolsa in Barranco — a surfer-crowd café doing smoothie bowls and strong coffee right near the water. Then head downtown to Plaza Mayor and the Metropolitan Cathedral, built in 1535 on top of a former Inca temple.",
+        "afternoon": "Tour the San Francisco Convent's 17th-century catacombs — underground ossuaries stacked with the bones of an estimated 25,000 people, and one of the odder, more memorable hours you'll spend in Lima. For lunch, skip the plaza-adjacent tourist spots and go to Canta Rana in Barranco, a locals' seafood dive with 17 kinds of ceviche at half the price of the flashier places nearby.",
+        "evening": "One last sunset from the Miraflores malecón or Parque del Amor, then a splurge dinner at Chifa El Dorado — Chinese-Peruvian chifa cuisine on the 18th floor with a citywide view — before a final pisco sour to close out the trip."
       }
     ],
     "tips": [
-      "Gümüşlük prohibits amplified music to protect the submerged ruins of ancient Myndos beneath the bay — it's the calm, bohemian counterpoint to Bar Street, and the best pick for a slow sunset dinner with your feet over the water.",
-      "Give Bodrum Castle at least half a day if you want to actually see the Underwater Archaeology Museum's 14 halls — most visitors rush it in under an hour and miss most of the shipwreck collection.",
-      "Book the Orak/Black Island boat trip through a local operator directly rather than your hotel concierge — it's the same route and boats, just notably cheaper without the markup.",
-      "Bitez Beach carries Blue Flag status and is the calmer, more local alternative to the crowded central town beaches — worth the 15-minute trip out.",
-      "Gümbet's party strip has a real reputation for drink-spiking — keep your drink with you and don't accept one from a stranger if you're out there.",
-      "Pick your neighborhood deliberately: downtown Bodrum and Bar Street are the wallet-friendly, high-energy option, while Yalıkavak and Gümüşlük are quieter, more upscale, and noticeably more expensive — decide which trip you actually want before booking."
+      "Stick to Miraflores, Barranco, and San Isidro for lodging and evenings out — they're the walkable, well-lit, tourist-friendly neighborhoods; the historic center (Plaza Mayor) is worth a daytime visit but isn't where you want to be wandering after dark.",
+      "Use Uber or a pre-booked taxi, not street cabs — Lima has a lot of unregulated taxis and airport/taxi scams are a real, well-documented risk, especially arriving late at night.",
+      "Eat ceviche at lunch, not dinner — traditionally it's made with the morning's catch, and a lot of cevicherías in Lima close by mid-afternoon because of it.",
+      "Canta Rana in Barranco is the locals' ceviche spot — same quality as Barranco's famous tourist-facing places, noticeably cheaper, and a fraction of the wait.",
+      "Callao (Monumental Callao specifically) has a rough reputation in parts, but the gallery/street-art district right by the port is safe in daylight and one of the most underrated stops in the city — go with the Palomino Islands boat trip since you're already out there.",
+      "Keep phones and wallets in front pockets, skip visible jewelry, and use ATMs inside banks rather than street kiosks — standard-issue Lima advice, but it's repeated everywhere for a reason."
     ],
     "sources": [
-      { "title": "Bodrum Grand Bazaar and Old Town — Nomads Travel Guide", "url": "https://www.nomads-travel-guide.com/places/bodrum-grand-bazaar/" },
-      { "title": "How To Spend A Day In Gümüşlük, Bodrum's Summer Town — Culture Trip", "url": "https://theculturetrip.com/europe/turkey/articles/how-to-spend-a-day-in-gumusluk-bodrums-summer-town" },
-      { "title": "Bodrum Castle: History and Visitor Guide — Bodrum Museum", "url": "https://www.bodrum-museum.com/castle/" },
-      { "title": "Bodrum Daily Boat Trip / Orak or Black Island — The Abroad Guide", "url": "https://theabroadguide.com/bodrum-daily-boat-trip-orak-or-black-island/" },
-      { "title": "Hidden Bodrum: An insider's guide of things to do — Property Turkey", "url": "https://www.propertyturkey.com/blog-turkey/hidden-bodrum-an-insiders-guide-of-things-to-do" },
-      { "title": "Where to Stay in Bodrum in 2026 — Bodrum Museum", "url": "https://www.bodrum-museum.com/where-to-stay-in-bodrum/" },
-      { "title": "50 Hours in Bodrum — The World's 50 Best", "url": "https://www.theworlds50best.com/stories/News/50-hours-in-bodrum-turkey.html" },
-      { "title": "Bodrum City Guide (Türkiye, 2026) — Take Your Backpack", "url": "https://www.takeyourbackpack.com/backpacking-in-turkiye/visit-bodrum/" }
+      { "title": "36 Hours in Lima, Peru — The New York Times (syndicated)", "url": "https://www.sanjuandailystar.com/post/36-hours-in-lima-peru" },
+      { "title": "25 Awesome Things to Do in Lima, Peru (2026 Guide) — Nomadasaurus", "url": "https://www.nomadasaurus.com/things-to-do-in-lima-peru/" },
+      { "title": "Lima Travel Guide 2026: Where to Stay, What to Do & More — The Only Peru Guide", "url": "https://www.theonlyperuguide.com/peru-guide/lima/" },
+      { "title": "The 18 best ceviche spots in Barranco — Wanderlog", "url": "https://wanderlog.com/list/geoCategory/1574907/best-ceviche-spots-in-barranco" },
+      { "title": "Best Peruvian Ceviche In Lima: 7 Top Restaurants — Living Out Lau", "url": "https://livingoutlau.com/good-affordable-peruvian-ceviche-lima/" },
+      { "title": "Pariwana Hostel Lima — Hostelworld", "url": "https://www.hostelworld.com/hostels/p/36523/pariwana-hostel-lima/" },
+      { "title": "Second Home Peru", "url": "https://www.secondhomeperu.com/" },
+      { "title": "Belmond Miraflores Park", "url": "https://www.belmond.com/hotels/south-america/peru/lima/belmond-miraflores-park/about" }
     ]
   }
 }
