@@ -4,97 +4,80 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>present tense</title>
+  <meta name="description" content="Cynics are people too: what the research says cynicism costs, and things to do in San Francisco this week to trust a little more.">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
   <header class="site-header">
     <div class="header-left">
-      <h1><a href="./" onclick="if(document.body.classList.contains('yolo-active')){event.preventDefault();closeYolo();}" style="color:inherit;text-decoration:none">present tense</a></h1>
-      <div id="week-label" class="week-label"></div>
+      <h1><a href="./">present tense</a></h1>
+      <div class="tagline">a resource for the cynics in my life</div>
     </div>
-    <div class="header-right">
-      <button class="yolo-btn" id="yolo-btn">✈ yolo</button>
-      <nav class="loc-toggle">
-        <button class="loc-btn active" data-loc="sf">SF</button>
-        <button class="loc-btn" data-loc="ann-arbor">Ann Arbor</button>
-      </nav>
-    </div>
+    <div id="week-label" class="week-label"></div>
   </header>
 
   <nav class="section-nav">
-    <a class="snav-link active" href="#weather-section" data-section="weather">Weather</a>
-    <a class="snav-link" href="#work-section" data-section="work">Work</a>
-    <a class="snav-link" href="#wealth-section" data-section="wealth">Wealth</a>
-    <a class="snav-link" href="#whimsy-section" data-section="whimsy">Whimsy</a>
+    <a class="snav-link active" href="#cynics-section" data-section="cynics">Cynics are people too</a>
+    <a class="snav-link" href="#sf-section" data-section="sf">This week in SF</a>
   </nav>
 
   <main>
 
-    <section id="weather-section" class="card">
+    <section id="cynics-section" class="card">
       <div class="section-header">
-        <h2>Weather</h2>
-        <span id="weather-updated" class="updated-label"></span>
+        <h2><i class="iconoir-heart"></i> Cynics are people too</h2>
+        <span class="updated-label">5 studies, 2016–2024</span>
       </div>
-      <div id="weather-body"></div>
+      <div class="intro">
+        <p class="intro-lead">Nobody is born a cynic. People get there honestly: lied to, laid off, let down one too many times.</p>
+        <p class="intro-body">
+          From the inside, cynicism feels like wisdom. If you expect the worst, you can't be fooled.
+          That instinct is human, and sometimes it's right. But as a <em>default</em>, the research
+          suggests it quietly costs the people who carry it: money, health, and peace of mind.
+          If you see yourself here, you're in good company, and it isn't permanent.
+          The way out isn't naïveté. It's <strong>calibrated trust</strong>: start from good faith and adjust on evidence.
+        </p>
+      </div>
+      <div id="research-body" class="study-list"></div>
+      <details class="fine-print">
+        <summary>Read the fine print</summary>
+        <ul>
+          <li><strong>Mostly correlational.</strong> These studies follow people over time or measure things at once. They show cynicism travels with bad outcomes, not that it causes them on its own.</li>
+          <li><strong>Context matters.</strong> The income penalty was weaker in countries with high crime and low cooperation, and smart people were only cynical where cynicism was warranted.</li>
+          <li><strong>Hostility ≠ anger.</strong> The heart and mortality studies measure "cynical hostility," the distrust part of the Cook-Medley scale, not temper.</li>
+        </ul>
+      </details>
     </section>
 
-    <section id="work-section" class="card">
+    <section id="sf-section" class="card">
       <div class="section-header">
-        <h2><i class="iconoir-suitcase"></i> Work</h2>
-        <span id="work-updated" class="updated-label"></span>
+        <h2><i class="iconoir-map-pin"></i> This week in SF</h2>
+        <span id="sf-updated" class="updated-label"></span>
       </div>
-      <nav class="section-filter" data-section="work">
+      <p class="section-lede">Small, low-stakes chances to be around people and see the decent side of them.</p>
+      <nav class="section-filter" id="sf-filter">
         <button class="sfilt-btn active" data-filter="all">All</button>
-        <button class="sfilt-btn" data-filter="listings">Job listings</button>
-        <button class="sfilt-btn" data-filter="networking">Networking</button>
+        <button class="sfilt-btn" data-filter="connect">Connect</button>
+        <button class="sfilt-btn" data-filter="serve">Serve</button>
+        <button class="sfilt-btn" data-filter="play">Play</button>
+        <button class="sfilt-btn" data-filter="awe">Awe</button>
       </nav>
-      <div id="work-body"></div>
-    </section>
-
-    <section id="wealth-section" class="card">
-      <div class="section-header">
-        <h2><i class="iconoir-gym"></i> Wealth</h2>
-        <span id="wealth-updated" class="updated-label"></span>
-      </div>
-      <nav class="section-filter" data-section="wealth">
-        <button class="sfilt-btn active" data-filter="all">All</button>
-        <button class="sfilt-btn sf-only" data-filter="gym">Gym</button>
-        <button class="sfilt-btn" data-filter="dance">Dance</button>
-        <button class="sfilt-btn aa-only" data-filter="running">Run</button>
-      </nav>
-      <div id="wealth-body"></div>
-    </section>
-
-    <section id="whimsy-section" class="card">
-      <div class="section-header">
-        <h2><i class="iconoir-palette"></i> Whimsy</h2>
-        <span id="whimsy-updated" class="updated-label"></span>
-      </div>
-      <nav class="section-filter" data-section="whimsy">
-        <button class="sfilt-btn active" data-filter="all">All</button>
-        <button class="sfilt-btn" data-filter="music">Music</button>
-        <button class="sfilt-btn" data-filter="comedy">Comedy</button>
-        <button class="sfilt-btn" data-filter="art">Art</button>
-        <button class="sfilt-btn" data-filter="museums">Museums</button>
-      </nav>
-      <div id="whimsy-body"></div>
+      <div id="sf-body"></div>
+      <h3 class="sub-label sub-label--sep">Anytime</h3>
+      <div id="sf-standing" class="card-grid"></div>
     </section>
 
   </main>
 
-  <div id="yolo-view">
-    <div class="yolo-view-header">
-      <button class="yolo-back-btn" id="yolo-back-btn">← back</button>
-    </div>
-    <div id="yolo-content" class="yolo-view-body"></div>
-  </div>
+  <footer class="site-footer">
+    Summaries of published research, written for a general audience. Follow the links for the original papers.
+  </footer>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script src="js/yolo.js"></script>
+  <div class="tip" id="tip" role="tooltip"></div>
+
   <script src="js/app.js"></script>
 </body>
 </html>
