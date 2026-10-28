@@ -1,86 +1,16 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-28",
   "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way). Confirm details with organizers before going.",
   "events": [
-    {
-      "title": "Undiscovered SF: Filipino block party + Golden Hour night market",
-      "date": "2026-10-24",
-      "time": "16:00",
-      "venue": "Victory Hall",
-      "neighborhood": "SoMa",
-      "tags": ["connect"],
-      "cost": 0,
-      "cost_notes": "Free with RSVP",
-      "description": "Tenth-anniversary night market celebrating Filipino American makers and food. Wander, chat with vendors, stay for the music.",
-      "url": "https://sf.funcheap.com/undiscovered-sf-2026/"
-    },
-    {
-      "title": "Gambits & Ghouls chess game night",
-      "date": "2026-10-24",
-      "time": "15:00",
-      "venue": "SPARK Social SF",
-      "neighborhood": "Mission Bay",
-      "tags": ["connect", "play"],
-      "cost": 0,
-      "cost_notes": "Free, $10 donation suggested",
-      "description": "Costume-friendly open chess night. Sit down across from a stranger; no expertise needed.",
-      "url": "https://sf.funcheap.com/sf-blackout-gambits-ghouls-chess-game-night-spark-social/"
-    },
-    {
-      "title": "Lower Nob Hill weekly cleanup (free lunch after)",
-      "date": "2026-10-25",
-      "time": "09:45",
-      "venue": "Outside Another Cafe, 1191 Pine St",
-      "neighborhood": "Lower Nob Hill",
-      "tags": ["serve", "connect"],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "An hour of sidewalk cleanup with neighbors, supplies provided, then lunch together.",
-      "url": "https://sf.funcheap.com/nob-hill-weekly-cleanup-free-lunch-volunteers/"
-    },
-    {
-      "title": "Lawn bowling community day: 125th anniversary",
-      "date": "2026-10-25",
-      "time": "10:00",
-      "venue": "SF Lawn Bowling Club, Golden Gate Park",
-      "neighborhood": "Golden Gate Park",
-      "tags": ["play", "connect"],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Try lawn bowling and tour the historic club. A low-stakes way to be bad at something alongside friendly strangers.",
-      "url": "https://sf.funcheap.com/lawn-bowling-sfs-historic-125yearold-club-gg-park-sf/"
-    },
-    {
-      "title": "Lindy in the Park",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "venue": "JFK Drive, Golden Gate Park",
-      "neighborhood": "Golden Gate Park",
-      "tags": ["play", "connect"],
-      "cost": 0,
-      "cost_notes": "Free, rain cancels",
-      "description": "Open-air swing dancing on the car-free park road. Social dancing means asking strangers to dance, and saying yes.",
-      "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-276/"
-    },
-    {
-      "title": "Bad Art Mask-querade",
-      "date": "2026-10-26",
-      "time": "18:00",
-      "venue": "The Faight Collective",
-      "neighborhood": "Haight",
-      "tags": ["play", "connect"],
-      "cost": 15,
-      "cost_notes": "$15 sliding scale, no one turned away",
-      "description": "Make the most ridiculous mask you can, together. Earnestness required; skill not.",
-      "url": "https://sf.funcheap.com/bad-art-maskquerade-ridiculous-mask-faight-sf/"
-    },
     {
       "title": "Henry Street fall porch party",
       "date": "2026-10-28",
       "time": "17:00",
       "venue": "166 Henry Street",
       "neighborhood": "Duboce Triangle",
-      "tags": ["connect"],
+      "tags": [
+        "connect"
+      ],
       "cost": 0,
       "cost_notes": "Free, bring a treat to share",
       "description": "A neighborhood sidewalk gathering with fall drinks and snacks. Neighbors, kids, and dogs welcome.",
@@ -92,7 +22,9 @@
       "time": "19:00",
       "venue": "SFSU Observatory, Thornton Hall",
       "neighborhood": "Lake Merced",
-      "tags": ["awe"],
+      "tags": [
+        "awe"
+      ],
       "cost": 0,
       "cost_notes": "Free, weather permitting",
       "description": "Look through a big telescope with strangers and an astronomer. Talks in English and Spanish.",
@@ -104,23 +36,116 @@
       "time": "19:00",
       "venue": "Public Works",
       "neighborhood": "Mission",
-      "tags": ["awe", "connect"],
+      "tags": [
+        "awe",
+        "connect"
+      ],
       "cost": 12,
       "cost_notes": "Free, one-drink minimum ($12 ticket)",
       "description": "Short, funny talks from local astronomers in a bar. No background needed.",
       "url": "https://sf.funcheap.com/astronomy-tap-san-francisco-3/"
     },
     {
-      "title": "Halloween + Día de los Muertos market",
+      "title": "Civic Center Soundtrack",
       "date": "2026-10-29",
-      "time": "15:00",
-      "venue": "22nd St between Mission & Valencia",
-      "neighborhood": "Mission",
-      "tags": ["connect"],
+      "time": "12:00",
+      "venue": "Fulton Plaza",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "play",
+        "connect"
+      ],
       "cost": 0,
       "cost_notes": "Free",
-      "description": "The Mission Community Market's seasonal edition: local vendors, costumes, and neighbors.",
-      "url": "https://www.sfchronicle.com/entertainment/festivals/article/day-of-the-dead-bay-area-22479234.php"
+      "description": "Lunchtime live music and food trucks in the plaza. Eat outside among strangers for an hour.",
+      "url": "https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-soundtrack-every-tue-thu-57/"
+    },
+    {
+      "title": "Día de los Muertos + Halloween market",
+      "date": "2026-10-29",
+      "time": "15:00",
+      "venue": "Mission Community Market, 22nd St & Bartlett",
+      "neighborhood": "Mission",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Local farms and food makers, live music, family activities, and plenty of costumes.",
+      "url": "https://sf.funcheap.com/da-de-los-muertos-halloween-mission-community-market-sf-5/"
+    },
+    {
+      "title": "Excelsior Family Summit",
+      "date": "2026-10-29",
+      "time": "17:30",
+      "venue": "4840 Mission St",
+      "neighborhood": "Excelsior",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, with food and childcare",
+      "description": "Neighbors share what it's like to raise kids in San Francisco. Mostly listening, which is the point.",
+      "url": "https://sf.funcheap.com/district-11-excelsior-family-summit/"
+    },
+    {
+      "title": "Morning Coffee Cleanup",
+      "date": "2026-10-30",
+      "time": "11:00",
+      "venue": "Cinderella Bakery & Cafe, 2937 24th St",
+      "neighborhood": "Mission",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, register on Mobilize",
+      "description": "An hour of neighborhood cleanup, then free coffee with the other volunteers.",
+      "url": "https://sf.funcheap.com/morning-coffee-cleanup-mission-free-coffee-volunteers/"
+    },
+    {
+      "title": "Pay-what-you-can taco day at Tato",
+      "date": "2026-10-30",
+      "time": "11:00",
+      "venue": "Tato, 4608 3rd St",
+      "neighborhood": "Bayview",
+      "tags": [
+        "serve"
+      ],
+      "cost": 0,
+      "cost_notes": "$0–$10",
+      "description": "Pay what you can; every full $10 buys a free meal for someone who needs one.",
+      "url": "https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-friday-303/"
+    },
+    {
+      "title": "Last Ocean Beach bonfires of the year",
+      "date": "2026-10-30",
+      "time": "15:00",
+      "venue": "Ocean Beach fire pits",
+      "neighborhood": "Ocean Beach",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, first come first served",
+      "description": "Final weekend before the no-burn season. Fire rings get shared, so expect company.",
+      "url": "https://sf.funcheap.com/final-weekend-of-ocean-beach-bonfires-for-2023-ends-oct-31-3/"
+    },
+    {
+      "title": "Hayes Valley glowing trick-or-treat trail",
+      "date": "2026-10-30",
+      "time": "16:00",
+      "venue": "Hayes Valley merchants & Hayes Promenade",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "connect",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Merchants hand out candy along a lit-up trail, then a free outdoor movie on the promenade.",
+      "url": "https://sf.funcheap.com/hayes-valleys-glowing-halloween-trickortreat-trail-free-outdoor-movie-2026/"
     },
     {
       "title": "Chinatown Halloween Festival",
@@ -128,7 +153,10 @@
       "time": "11:00",
       "venue": "Waverly Place",
       "neighborhood": "Chinatown",
-      "tags": ["connect", "play"],
+      "tags": [
+        "connect",
+        "play"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "Twelfth annual block party with a pumpkin patch, crafts, games, and a costume contest.",
@@ -140,23 +168,29 @@
       "time": "11:00",
       "venue": "Balboa St, 33rd to 41st Ave",
       "neighborhood": "Outer Richmond",
-      "tags": ["connect", "play"],
+      "tags": [
+        "connect",
+        "play"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "A merchant-run trick-or-treat crawl with a scavenger hunt and hot chocolate. Watching kids trust strangers with candy is its own lesson.",
       "url": "https://sf.funcheap.com/sfs-12th-annual-balboa-street-fright-fest-trickortreat-halloween-crawl-2026/"
     },
     {
-      "title": "Tenderloin Día de Muertos street fair",
+      "title": "Lower Nob Hill weekly cleanup (free lunch after)",
       "date": "2026-11-01",
-      "time": "14:00",
-      "venue": "150 Golden Gate Ave",
-      "neighborhood": "Tenderloin",
-      "tags": ["connect"],
+      "time": "09:45",
+      "venue": "Outside Another Cafe, 1191 Pine St",
+      "neighborhood": "Lower Nob Hill",
+      "tags": [
+        "serve",
+        "connect"
+      ],
       "cost": 0,
-      "cost_notes": "Free, RSVP on Eventbrite",
-      "description": "Live Latin American music, lucha libre, lotería, and a kids zone in the neighborhood people love to be cynical about.",
-      "url": "https://sf.funcheap.com/tenderloin-street-fair-dia-de-muertos-celebration-2026-block-party-sf/"
+      "cost_notes": "Free",
+      "description": "An hour of sidewalk cleanup with neighbors, supplies provided, then lunch together.",
+      "url": "https://sf.funcheap.com/lower-nob-hill-weekly-cleanup-w-free-lunch-for-volunteers-sf-5/"
     },
     {
       "title": "Golden Gate Park roller disco",
@@ -164,11 +198,27 @@
       "time": "13:00",
       "venue": "Skatin' Place, Golden Gate Park",
       "neighborhood": "Golden Gate Park",
-      "tags": ["play"],
+      "tags": [
+        "play"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "Weekly skate party to funk and disco. Bring skates or just watch the joy.",
       "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-302/"
+    },
+    {
+      "title": "Tenderloin Día de Muertos street fair",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "venue": "150 Golden Gate Ave",
+      "neighborhood": "Tenderloin",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, RSVP on Eventbrite",
+      "description": "Live Latin American music, lucha libre, lotería, and a kids zone in the neighborhood people love to be cynical about.",
+      "url": "https://sf.funcheap.com/tenderloin-street-fair-dia-de-muertos-celebration-2026-block-party-sf/"
     },
     {
       "title": "Civic Music free concert",
@@ -176,7 +226,9 @@
       "time": "15:00",
       "venue": "First Baptist Church",
       "neighborhood": "Duboce Triangle",
-      "tags": ["awe"],
+      "tags": [
+        "awe"
+      ],
       "cost": 0,
       "cost_notes": "Free with RSVP",
       "description": "A community orchestra of amateurs and pros playing for anyone who shows up.",
@@ -188,7 +240,10 @@
       "time": "10:00",
       "venue": "Potrero del Sol Park",
       "neighborhood": "Mission",
-      "tags": ["connect", "awe"],
+      "tags": [
+        "connect",
+        "awe"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "Families build large ofrendas through the day; sunset ceremony and land blessing at 5 PM.",
@@ -200,11 +255,42 @@
       "time": "19:00",
       "venue": "Gathers at Bryant & 22nd St",
       "neighborhood": "Mission",
-      "tags": ["connect", "awe"],
+      "tags": [
+        "connect",
+        "awe"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "The 45th annual procession of musicians, dancers, and thousands of neighbors walking together down 24th Street.",
       "url": "https://www.kqed.org/news/12104584/dia-de-los-muertos-2026-bay-area-events-san-francisco-oakland-san-jose"
+    },
+    {
+      "title": "Conservatory of Flowers free day",
+      "date": "2026-11-03",
+      "time": "10:00",
+      "venue": "Conservatory of Flowers, Golden Gate Park",
+      "neighborhood": "Golden Gate Park",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free first Tuesdays",
+      "description": "Nearly 2,000 species of rare plants under one Victorian glass roof.",
+      "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-72/"
+    },
+    {
+      "title": "Union Square ice rink opening night",
+      "date": "2026-11-04",
+      "time": "17:30",
+      "venue": "Union Square Park",
+      "neighborhood": "Union Square",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free for first 100 per session (5:30 & 7 PM)",
+      "description": "Opening ceremony and free skate sessions. Everyone is a little wobbly together.",
+      "url": "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-2025-opening-ceremony-free-ice-skating-union-square/"
     },
     {
       "title": "SF LGBT Center volunteer orientation",
@@ -212,11 +298,42 @@
       "time": "18:00",
       "venue": "1800 Market St",
       "neighborhood": "Castro",
-      "tags": ["serve"],
+      "tags": [
+        "serve"
+      ],
       "cost": 0,
       "cost_notes": "Free, apply first (virtual option Nov 3)",
       "description": "The on-ramp to ongoing volunteer roles. Apply online, then attend one orientation.",
       "url": "https://www.sfcenter.org/program/volunteer/"
+    },
+    {
+      "title": "Jam session with Creativity Explored",
+      "date": "2026-11-06",
+      "time": "12:00",
+      "venue": "Yerba Buena Center for the Arts",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Artists with developmental disabilities bring handmade instruments, and anyone can join in.",
+      "url": "https://sf.funcheap.com/jam-session-creativity-explored/"
+    },
+    {
+      "title": "North Beach First Fridays art crawl",
+      "date": "2026-11-06",
+      "time": "17:00",
+      "venue": "A dozen-plus galleries and bars",
+      "neighborhood": "North Beach",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Self-guided walk through open galleries. Easy small talk, built in.",
+      "url": "https://sf.funcheap.com/north-beach-first-fridays-art-crawl-sf-140/"
     },
     {
       "title": "City Impact First Saturday outreach",
@@ -224,7 +341,9 @@
       "time": "09:30",
       "venue": "144 Taylor St",
       "neighborhood": "Tenderloin",
-      "tags": ["serve"],
+      "tags": [
+        "serve"
+      ],
       "cost": 0,
       "cost_notes": "Free, register ahead",
       "description": "Monthly volunteer outreach with Tenderloin neighbors. A direct test of what you assume about people.",
@@ -236,53 +355,115 @@
       "time": "10:00",
       "venue": "Crissy Field Center, Presidio",
       "neighborhood": "Presidio",
-      "tags": ["connect", "awe"],
+      "tags": [
+        "connect",
+        "awe"
+      ],
       "cost": 0,
       "cost_notes": "Free",
       "description": "Two traditions of light and remembrance, with a fire ceremony by the bay.",
       "url": "https://sf.funcheap.com/dia-de-los-muertos-diwali-festival-crissy-field-sf/"
+    },
+    {
+      "title": "Inner Sunset flea market season finale",
+      "date": "2026-11-08",
+      "time": "10:00",
+      "venue": "Irving St, 9th to 11th Ave",
+      "neighborhood": "Inner Sunset",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Neighbors selling and swapping on the street. Haggling is a form of trust.",
+      "url": "https://sf.funcheap.com/sfs-inner-sunset-flea-market-2026-w-sunset-mercantile-every-2nd-sunday-7/"
+    },
+    {
+      "title": "Lindy in the Park",
+      "date": "2026-11-08",
+      "time": "11:00",
+      "venue": "JFK Drive, Golden Gate Park",
+      "neighborhood": "Golden Gate Park",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, rain cancels",
+      "description": "Open-air swing dancing on the car-free park road. Social dancing means asking strangers to dance, and saying yes.",
+      "url": "https://sf.funcheap.com/lindy-in-the-park-swing-dance-party-golden-gate-park-278/"
+    },
+    {
+      "title": "Diwali Festival at Yerba Buena Gardens",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "venue": "Great Lawn, Yerba Buena Gardens",
+      "neighborhood": "SoMa",
+      "tags": [
+        "connect",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, RSVP encouraged",
+      "description": "All-ages festival of lights with South Asian music and dance, and room to join in.",
+      "url": "https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/"
     }
   ],
   "standing": [
     {
       "title": "SF-Marin Food Bank volunteer shifts",
       "when": "Most days",
-      "tags": ["serve", "connect"],
+      "tags": [
+        "serve",
+        "connect"
+      ],
       "description": "Pack food in a warehouse crew of strangers. Shifts are short and need no experience.",
       "url": "https://www.sfmfoodbank.org/"
     },
     {
       "title": "GLIDE",
       "when": "Ongoing",
-      "tags": ["serve"],
+      "tags": [
+        "serve"
+      ],
       "description": "Serve meals in the Tenderloin. Sign up early for the holidays; spots fill fast.",
       "url": "https://www.glide.org/"
     },
     {
       "title": "Presidio Habitat Stewards",
       "when": "Weekly",
-      "tags": ["serve", "awe"],
+      "tags": [
+        "serve",
+        "awe"
+      ],
       "description": "Restore native habitat at Lands End, Fort Funston, and the Presidio. Free and all-ages.",
       "url": "https://presidio.gov/explore/events/san-francisco-habitat-stewards-saturday/2026-11-26"
     },
     {
       "title": "Japanese Tea Garden free hour",
       "when": "Mon, Wed, Fri · 9–10 AM",
-      "tags": ["awe"],
+      "tags": [
+        "awe"
+      ],
       "description": "Free for everyone that hour (and always free for SF residents). Go slow.",
       "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-451/"
     },
     {
       "title": "SF Rec & Park volunteer programs",
       "when": "Ongoing",
-      "tags": ["serve", "connect"],
+      "tags": [
+        "serve",
+        "connect"
+      ],
       "description": "Gardening and park workdays across the city, including the Golden Gate Park EcoCenter.",
       "url": "https://sfrecpark.org/780/Volunteer-Programs"
     },
     {
       "title": "\"In Their Name\" altars at SOMArts",
       "when": "Through Nov 20",
-      "tags": ["awe"],
+      "tags": [
+        "awe"
+      ],
       "description": "Dozens of artists' ofrendas for the people they've lost. $15, free 16 and under.",
       "url": "https://www.kqed.org/news/12104584/dia-de-los-muertos-2026-bay-area-events-san-francisco-oakland-san-jose"
     }
