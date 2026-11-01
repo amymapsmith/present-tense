@@ -8,6 +8,10 @@
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
   <link rel="stylesheet" href="css/style.css">
+  <script>
+    // Apply the saved theme before first paint to avoid a flash of night mode
+    try { if (localStorage.getItem('theme') === 'light') document.documentElement.dataset.theme = 'light'; } catch (e) {}
+  </script>
 </head>
 <body>
 
@@ -15,7 +19,10 @@
     <div class="header-left">
       <h1><a href="./">present tense</a></h1>
     </div>
-    <div id="week-label" class="week-label"></div>
+    <div class="header-right">
+      <div id="week-label" class="week-label"></div>
+      <button id="theme-toggle" class="theme-toggle" type="button"></button>
+    </div>
   </header>
 
   <main>

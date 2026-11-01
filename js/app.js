@@ -52,6 +52,27 @@ function renderWeekLabel() {
   document.getElementById('week-label').textContent = label;
 }
 
+// ── Theme ──────────────────────────────────────────
+// Night is the default; the inline script in index.html applies a saved day choice before paint
+function setupThemeToggle() {
+  const btn = document.getElementById('theme-toggle');
+  const render = () => {
+    const isDay = document.documentElement.dataset.theme === 'light';
+    btn.innerHTML = isDay
+      ? '<i class="iconoir-half-moon"></i> Night mode'
+      : '<i class="iconoir-sun-light"></i> Day mode';
+    btn.setAttribute('aria-pressed', String(isDay));
+  };
+  btn.addEventListener('click', () => {
+    const isDay = document.documentElement.dataset.theme === 'light';
+    if (isDay) delete document.documentElement.dataset.theme;
+    else document.documentElement.dataset.theme = 'light';
+    try { localStorage.setItem('theme', isDay ? 'dark' : 'light'); } catch (e) {}
+    render();
+  });
+  render();
+}
+
 // ── Add to calendar ────────────────────────────────
 const EVENT_TZ = 'America/Los_Angeles';
 const DEFAULT_DURATION_MIN = 120; // listings only give a start time
@@ -125,6 +146,7 @@ function calendarLinks(e) {
 
 // ── SF events ──────────────────────────────────────
 function costTag(e) {
+  if (e.cost == null) return `<span class="tag paid">Paid</span>`; // price not listed
   if (e.cost === 0) return `<span class="tag free">Free</span>`;
   if (e.cost <= 20) return `<span class="tag cheap">$${e.cost}</span>`;
   return `<span class="tag paid">$${e.cost}</span>`;
@@ -213,6 +235,7 @@ async function loadEvents() {
 
 async function init() {
   renderWeekLabel();
+  setupThemeToggle();
   setupFilters();
   await loadEvents();
   renderSF();

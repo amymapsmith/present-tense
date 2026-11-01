@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, and organizers. Confirm details with organizers before going.",
+  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
   "events": [
     {
       "title": "Chinatown Halloween Festival",
@@ -119,6 +119,20 @@
       "url": "https://sfpl.org/events/2026/11/01/social-crafting-circle"
     },
     {
+      "title": "Companions on the Way: silent meditation",
+      "date": "2026-11-01",
+      "time": "17:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Thirty minutes of silent meditation in the Chapel of the Nativity, then back into community. Beginners welcome.",
+      "url": "https://gracecathedral.org/calendar-events/sacred-silence/2026-11-01/"
+    },
+    {
       "title": "The BOAT: an improv jam",
       "date": "2026-11-01",
       "time": "18:00",
@@ -147,6 +161,21 @@
       "cost_notes": "Free",
       "description": "Families build large ofrendas through the day; sunset ceremony and land blessing at 5 PM.",
       "url": "https://www.kqed.org/news/12104584/dia-de-los-muertos-2026-bay-area-events-san-francisco-oakland-san-jose"
+    },
+    {
+      "title": "Tai Chi on the Labyrinth",
+      "date": "2026-11-02",
+      "time": "14:30",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": null,
+      "cost_notes": "See listing for price",
+      "description": "Gentle tai chi on the labyrinth with Garrett Chinn, who has taught in SF since 1981. Welcoming to all.",
+      "url": "https://gracecathedral.org/calendar-events/tai-chi-on-the-labyrinth-3/2026-11-02/"
     },
     {
       "title": "Día de los Muertos procession",
@@ -178,6 +207,36 @@
       "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-72/"
     },
     {
+      "title": "Yoga on the Labyrinth",
+      "date": "2026-11-03",
+      "time": "18:15",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 22,
+      "cost_notes": "$22",
+      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
+      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-3/2026-11-03/"
+    },
+    {
+      "title": "Young Urban Zen",
+      "date": "2026-11-03",
+      "time": "19:15",
+      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation welcome",
+      "description": "A weekly Zen meditation and discussion group for younger practitioners.",
+      "url": "https://www.sfzc.org/event/young-urban-zen/2026-11-10/"
+    },
+    {
       "title": "Storytelling for adults",
       "date": "2026-11-04",
       "time": "14:30",
@@ -204,6 +263,34 @@
       "cost_notes": "Free for first 100 per session (5:30 & 7 PM)",
       "description": "Opening ceremony and free skate sessions. Everyone is a little wobbly together.",
       "url": "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-2025-opening-ceremony-free-ice-skating-union-square/"
+    },
+    {
+      "title": "Wednesday Dharma talk: Abbot Tenzen David Zimmerman",
+      "date": "2026-11-04",
+      "time": "19:30",
+      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation welcome, also livestreamed",
+      "description": "Sit in on the Zen Center abbot's weekly public talk. Everyone is welcome.",
+      "url": "https://www.sfzc.org/event/wednesday-730-pm-dharma-talk-abbot-tenzen-david-zimmerman-livestream-onsite-11-4/"
+    },
+    {
+      "title": "Chair Yoga on the Labyrinth",
+      "date": "2026-11-05",
+      "time": "09:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "An all-levels chair yoga class for balance, strength, and calm. Wear active wear.",
+      "url": "https://gracecathedral.org/calendar-events/chair-yoga-on-the-labyrinth-2/2026-11-05/"
     },
     {
       "title": "Downtown First Thursdays block party",
@@ -249,6 +336,21 @@
       "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-nov-2026/"
     },
     {
+      "title": "Meditation for neurodivergent people",
+      "date": "2026-11-05",
+      "time": "19:30",
+      "venue": "SF Buddhist Center, 37 Bartlett St",
+      "neighborhood": "Mission",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Drop-in",
+      "description": "A drop-in meditation class designed for neurodivergent folks.",
+      "url": "https://sfbuddhistcenter.org/events/neurodivergent/"
+    },
+    {
       "title": "Jam session with Creativity Explored",
       "date": "2026-11-06",
       "time": "12:00",
@@ -291,6 +393,36 @@
       "cost_notes": "Free",
       "description": "Self-guided walk through open galleries. Easy small talk, built in.",
       "url": "https://sf.funcheap.com/north-beach-first-fridays-art-crawl-sf-140/"
+    },
+    {
+      "title": "Big Heart City in-person sit",
+      "date": "2026-11-06",
+      "time": "19:30",
+      "venue": "Potrero Hill (address on the website)",
+      "neighborhood": "Potrero Hill",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation-based, no one turned away",
+      "description": "The monthly in-person night of this Vipassana-rooted sangha: meditation, a dharma talk, and Q&A.",
+      "url": "https://www.bigheartcity.org/"
+    },
+    {
+      "title": "Yoga on the Labyrinth",
+      "date": "2026-11-07",
+      "time": "09:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": null,
+      "cost_notes": "See listing for price",
+      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
+      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-2-2-2/2026-11-07/"
     },
     {
       "title": "City Impact First Saturday outreach",
@@ -454,6 +586,20 @@
       "url": "https://www.eventbrite.com/e/sunday-jam-with-emma-goodman-sch-tickets-1996175046299"
     },
     {
+      "title": "Companions on the Way: silent meditation",
+      "date": "2026-11-08",
+      "time": "17:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Thirty minutes of silent meditation in the Chapel of the Nativity, then back into community. Beginners welcome.",
+      "url": "https://gracecathedral.org/calendar-events/sacred-silence/2026-11-08/"
+    },
+    {
       "title": "The BOAT: an improv jam",
       "date": "2026-11-08",
       "time": "18:00",
@@ -467,6 +613,36 @@
       "cost_notes": "Free, $5 donation suggested, no one turned away",
       "description": "A free community jam where beginners and veterans take turns doing scenes. Sign up at the door around 5:45 to play, or just watch.",
       "url": "https://events.humanitix.com/the-boat-jam"
+    },
+    {
+      "title": "Tai Chi on the Labyrinth",
+      "date": "2026-11-09",
+      "time": "14:30",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": null,
+      "cost_notes": "See listing for price",
+      "description": "Gentle tai chi on the labyrinth with Garrett Chinn, who has taught in SF since 1981. Welcoming to all.",
+      "url": "https://gracecathedral.org/calendar-events/tai-chi-on-the-labyrinth-3/2026-11-09/"
+    },
+    {
+      "title": "SF LGBTQIA+ Sangha",
+      "date": "2026-11-09",
+      "time": "17:30",
+      "venue": "SF Buddhist Center, 37 Bartlett St",
+      "neighborhood": "Mission",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation welcome",
+      "description": "Mindfulness and loving-kindness meditation for the LGBTQIA+ community, in person on second Mondays.",
+      "url": "https://www.sflgbtsangha.org/"
     },
     {
       "title": "SF Botanical Garden free day",
@@ -483,6 +659,51 @@
       "url": "https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-tuesdays-65/"
     },
     {
+      "title": "Yoga on the Labyrinth",
+      "date": "2026-11-10",
+      "time": "18:15",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 22,
+      "cost_notes": "$22",
+      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
+      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-3/2026-11-10/"
+    },
+    {
+      "title": "Buddhist teachings: introductory course",
+      "date": "2026-11-10",
+      "time": "19:00",
+      "venue": "SF Buddhist Center, 37 Bartlett St",
+      "neighborhood": "Mission",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Four Tuesdays; check site for cost",
+      "description": "A four-week beginner course in Buddhist ideas and practice, running through Dec 1.",
+      "url": "https://sfbuddhistcenter.org/events/buddhist-teachings-introductory-course/"
+    },
+    {
+      "title": "Young Urban Zen",
+      "date": "2026-11-10",
+      "time": "19:15",
+      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation welcome",
+      "description": "A weekly Zen meditation and discussion group for younger practitioners.",
+      "url": "https://www.sfzc.org/event/young-urban-zen/2026-11-10/"
+    },
+    {
       "title": "\"Hopped Up\" trivia night",
       "date": "2026-11-11",
       "time": "19:30",
@@ -496,6 +717,20 @@
       "cost_notes": "Free",
       "description": "Weekly team trivia. Show up solo and ask to join a table.",
       "url": "https://sf.funcheap.com/black-hammers-free-hopped-up-trivia-night-every-wednesday-145/"
+    },
+    {
+      "title": "Chair Yoga on the Labyrinth",
+      "date": "2026-11-12",
+      "time": "09:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "An all-levels chair yoga class for balance, strength, and calm. Wear active wear.",
+      "url": "https://gracecathedral.org/calendar-events/chair-yoga-on-the-labyrinth-2/2026-11-12/"
     },
     {
       "title": "Line dancing",
@@ -527,6 +762,20 @@
       "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-nov-2026-2/"
     },
     {
+      "title": "Zazenkai: drop-in half-day sitting",
+      "date": "2026-11-13",
+      "time": "09:30",
+      "venue": "SF Zen Center, 300 Page St, zendo",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Drop-in, no registration",
+      "description": "A morning of sitting led by senior students. Everyone is welcome to drop in.",
+      "url": "https://www.sfzc.org/event/zazenkai-series-cc-10-9-11-20/2026-11-13/"
+    },
+    {
       "title": "Pay-what-you-can taco day at Tato",
       "date": "2026-11-13",
       "time": "11:00",
@@ -539,6 +788,21 @@
       "cost_notes": "$0–$10",
       "description": "Pay what you can; every full $10 buys a free meal for someone who needs one.",
       "url": "https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-friday-305/"
+    },
+    {
+      "title": "Jizo Peace Project: clay making for remembrance",
+      "date": "2026-11-13",
+      "time": "13:30",
+      "venue": "SF Zen Center, 300 Page St",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Check site",
+      "description": "Shape small clay Jizo figures together as an act of remembrance and peace.",
+      "url": "https://www.sfzc.org/event/jizo-peace-project-clay-making-gathering-for-remembrance-and-peace-cc-11-13/"
     },
     {
       "title": "Bhangra & Beats Diwali night market",
@@ -600,6 +864,20 @@
       "url": "https://sf.funcheap.com/free-mahallove-mural-unveiling-fashion-show-mini-block-party-sf/"
     },
     {
+      "title": "Zen meditation instruction + Saturday talk",
+      "date": "2026-11-14",
+      "time": "08:40",
+      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free talk; $15 suggested for lunch",
+      "description": "Beginner zazen instruction at 8:40 (arrive by 8:30), then a public dharma talk at 10, tea, Q&A, and lunch.",
+      "url": "https://www.sfzc.org/event/zazen-meditation-instruction-cc/2026-11-14/"
+    },
+    {
       "title": "Laguna Honda trail restoration",
       "date": "2026-11-14",
       "time": "09:00",
@@ -613,6 +891,21 @@
       "cost_notes": "Free",
       "description": "Volunteer to bring back lost trails and native habitat on the hillside.",
       "url": "https://sf.funcheap.com/trail-habitat-volunteer-work-restoring-laguna-hondas-lost-trails-sf-108/"
+    },
+    {
+      "title": "Yoga on the Labyrinth",
+      "date": "2026-11-14",
+      "time": "09:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": null,
+      "cost_notes": "See listing for price",
+      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
+      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-2-2-2/2026-11-14/"
     },
     {
       "title": "Singing in the Park",
@@ -672,9 +965,90 @@
       "cost_notes": "Free, library program",
       "description": "The renovated Mission branch reopens with a neighborhood celebration.",
       "url": "https://sfpl.org/events/2026/11/14/celebration-mission-branch-library-grand-reopening"
+    },
+    {
+      "title": "Socks for Our Neighbors",
+      "date": "2026-11-14",
+      "time": "14:00",
+      "venue": "SF Zen Center, 300 Page St",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Pack socks and care kits, then pair up with a buddy to hand them out.",
+      "url": "https://www.sfzc.org/event/socks-for-our-neighbors-cc-11-14/"
     }
   ],
   "standing": [
+    {
+      "title": "SF Zen Center daily zazen",
+      "when": "Weekdays · 5:40 AM & 5:40 PM",
+      "tags": [
+        "awe"
+      ],
+      "description": "Sit with the City Center sangha at 300 Page St. Enter by the Laguna St door; first-timers should take Saturday instruction. Donation welcome.",
+      "url": "https://www.sfzc.org/locations/city-center/zen-meditation-practice-city-center/daily-schedule-city-center"
+    },
+    {
+      "title": "SF Zen Center Wednesday dharma talks",
+      "when": "Wednesdays · 7:30 PM",
+      "tags": [
+        "awe"
+      ],
+      "description": "A free public talk in the Buddha Hall at 300 Page St, also livestreamed.",
+      "url": "https://www.sfzc.org/calendar/"
+    },
+    {
+      "title": "Sokoji Wednesday zazen",
+      "when": "Wednesdays · 6:30–7:30 PM",
+      "tags": [
+        "awe"
+      ],
+      "description": "Soto Zen sitting in Japantown, recommended for beginners. Email info@sokoji.org before your first visit.",
+      "url": "https://www.sokoji.org/zazen-meditation"
+    },
+    {
+      "title": "SF Buddhist Center intro to meditation",
+      "when": "Thursdays · 6–7 PM",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "description": "Drop-in beginner class at 37 Bartlett St, open to any level of experience.",
+      "url": "https://sfbuddhistcenter.org/newcomers/"
+    },
+    {
+      "title": "Trans Sangha Buddha Night",
+      "when": "Thursdays · 7–8:30 PM",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "description": "Silent meditation for trans people at SF Zen Center. Beginners and newcomers always welcome.",
+      "url": "https://www.sfzc.org/event/trans-sangha-buddha-night-silent-meditation-cc/2026-11-05/"
+    },
+    {
+      "title": "Meditation in Recovery",
+      "when": "Mondays · 7:30 PM",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "description": "A drop-in meditation meeting for people in recovery, at SF Zen Center and on Zoom.",
+      "url": "https://www.sfzc.org/practice-centers/city-center/zen-meditation-practice-city-center/practice-groups-city-center/meditation-in-recovery"
+    },
+    {
+      "title": "Grace Cathedral outdoor labyrinth",
+      "when": "Open 24/7",
+      "tags": [
+        "awe"
+      ],
+      "description": "Walk the Chartres-style labyrinth on Nob Hill as a moving meditation. One path, no dead ends; the indoor one is open during visiting hours.",
+      "url": "https://gracecathedral.org/our-labyrinths/"
+    },
     {
       "title": "Endgames Saturday drop-in improv",
       "when": "Saturdays · 12–2 PM",
