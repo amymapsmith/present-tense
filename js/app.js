@@ -10,17 +10,6 @@ const filters = { sf: 'all' };
 let _events = { events: [], standing: [] };
 
 // ── Date utils ─────────────────────────────────────
-function getWeekBounds() {
-  const d = new Date();
-  const start = new Date(d);
-  start.setDate(d.getDate() - d.getDay()); // Sunday
-  start.setHours(0, 0, 0, 0);
-  const end = new Date(start);
-  end.setDate(start.getDate() + 6); // Saturday
-  end.setHours(23, 59, 59, 999);
-  return { start, end };
-}
-
 function parseDate(str) {
   return new Date(str + 'T12:00:00');
 }
@@ -42,14 +31,6 @@ function isFutureOrToday(dateStr) {
   const now = new Date();
   now.setHours(0, 0, 0, 0);
   return d >= now;
-}
-
-// ── Week label ─────────────────────────────────────
-function renderWeekLabel() {
-  const { start, end } = getWeekBounds();
-  const opts = { month: 'short', day: 'numeric' };
-  const label = `Week of ${start.toLocaleDateString('en-US', opts)} – ${end.toLocaleDateString('en-US', { ...opts, year: 'numeric' })}`;
-  document.getElementById('week-label').textContent = label;
 }
 
 // ── Theme ──────────────────────────────────────────
@@ -234,7 +215,6 @@ async function loadEvents() {
 }
 
 async function init() {
-  renderWeekLabel();
   setupThemeToggle();
   setupFilters();
   await loadEvents();
