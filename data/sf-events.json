@@ -125,7 +125,6 @@
       "venue": "Eclectic Box, 446 Valencia St",
       "neighborhood": "Mission",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -373,7 +372,6 @@
       "venue": "Golden Gate Valley Library, 1801 Green St",
       "neighborhood": "Cow Hollow",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -447,7 +445,6 @@
       "venue": "BATS Bayfront Theatre, Fort Mason Center, Bldg B",
       "neighborhood": "Marina",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -463,7 +460,6 @@
       "venue": "Eclectic Box, 446 Valencia St",
       "neighborhood": "Mission",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -683,7 +679,6 @@
       "title": "Endgames Saturday drop-in improv",
       "when": "Saturdays · 12–2 PM",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -694,7 +689,6 @@
       "title": "Leela Thursday drop-in improv",
       "when": "Thursdays · 7–9 PM",
       "tags": [
-        "improv",
         "play",
         "connect"
       ],
@@ -757,6 +751,146 @@
       ],
       "description": "Dozens of artists' ofrendas for the people they've lost. $15, free 16 and under.",
       "url": "https://www.kqed.org/news/12104584/dia-de-los-muertos-2026-bay-area-events-san-francisco-oakland-san-jose"
+    },
+    {
+      "title": "SF boards, commissions & task forces",
+      "when": "Leadership · ongoing",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Apply for a seat helping run the city. Posted openings include the Elections Commission, Ballot Simplification Council, and Behavioral Health Council.",
+      "url": "https://www.sf.gov/board-of-supervisors-boards-commissions-task-forces-vacancy"
+    },
+    {
+      "title": "NERT neighborhood volunteer coordinator",
+      "when": "Leadership · ongoing",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Be the go-to contact for emergency volunteers on your block: recruit neighbors to the free NERT training, join drills, and help run a staging area after a disaster.",
+      "url": "https://sf-fire.org/nert/become-neighborhood-volunteer-coordinator-today"
+    },
+    {
+      "title": "Huckleberry Young Professionals Board",
+      "when": "Leadership · ~6–8 hrs/month",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Plan fundraisers, volunteer days, and partnerships for a youth development nonprofit. 21+, meetings mostly in SF; applications always open.",
+      "url": "https://www.huckleberryyouth.org/join-huckleberrys-young-professionals-board/"
+    },
+    {
+      "title": "GLIDE Young Professionals Committee",
+      "when": "Leadership · ongoing",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Organize GLIDE's fundraisers, film nights, and volunteer days with other young professionals. Email youngprofessionals@glide.org to join.",
+      "url": "https://www.glide.org/glide-young-professionals-committee/"
+    },
+    {
+      "title": "SF-Marin Food Bank peer navigator",
+      "when": "Leadership · 6 months, 10 hrs/week",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Guide neighbors at food markets to local services after 5 hours of training. 18+, stipend provided; Spanish or Cantonese a plus.",
+      "url": "https://www.sfmfoodbank.org/volunteer/"
+    },
+    {
+      "title": "SF City Guides walking-tour guide",
+      "when": "Leadership · apply by Dec 1",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Train on eight Saturdays (Feb–May 2027), then lead free history walks at least 10 times a year. 18+, $295 enrollment fee.",
+      "url": "https://www.sfcityguides.org/about-us/become-a-guide-2027/"
+    },
+    {
+      "title": "SF Symphony Volunteer Council",
+      "when": "Ongoing",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Join a volunteer league that meets monthly and supports the Symphony with events and outreach, or usher at Davies Symphony Hall.",
+      "url": "https://www.sfsymphony.org/Donate-Volunteer/Volunteer"
+    },
+    {
+      "title": "SF Ballet BRAVO volunteers",
+      "when": "15+ hrs/year",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Usher at the Opera House or help ballet departments behind the scenes. 18+, references and background check; next intro meeting Jan 23, 2027.",
+      "url": "https://www.sfballet.org/support-engage/volunteering/bravo/"
+    },
+    {
+      "title": "War Memorial ushering (Herbst Theatre & Opera House)",
+      "when": "Per show",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Herbst Theatre takes walk-in ushers: arrive 90 minutes early in black and white with a flashlight. For the Opera House, email ushers@sfopera.com.",
+      "url": "https://sfwarmemorial.org/volunteering-ushering"
+    },
+    {
+      "title": "SFJAZZ volunteer ushers",
+      "when": "Ongoing",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Usher and help with front-of-house and events. 15 hours earns a membership; email volunteer@sfjazz.org.",
+      "url": "https://www.givegab.com/nonprofits/san-francisco-jazz-organization/opportunities/volunteer-at-sfjazz"
+    },
+    {
+      "title": "Asian Art Museum volunteers",
+      "when": "Two 4-hour shifts/month",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "description": "Welcome visitors at the info desk, help at First Free Sundays and family events, or do behind-the-scenes projects. 16+, one-year commitment, applications always open.",
+      "url": "https://about.asianart.org/volunteering/"
+    },
+    {
+      "title": "California Academy of Sciences volunteers",
+      "when": "Varies by role",
+      "tags": [
+        "serve",
+        "awe"
+      ],
+      "description": "Dozens of roles, from docent and aquarium husbandry to NightLife ambassador. 18+; review can take up to two months.",
+      "url": "https://www.calacademy.org/volunteer"
+    },
+    {
+      "title": "SF Zoo docents",
+      "when": "10 hrs/month",
+      "tags": [
+        "serve",
+        "awe"
+      ],
+      "description": "Lead conservation talks at the exhibits after a 10-week Sunday training starting Jan 31, 2027. 18+; email join@sfzoodocents.org.",
+      "url": "https://www.sfzoo.org/support-the-zoo/volunteer/docents/"
+    },
+    {
+      "title": "Gardens of Golden Gate Park volunteers",
+      "when": "Varies by role",
+      "tags": [
+        "serve",
+        "awe"
+      ],
+      "description": "Help in the nursery, gardens, library, and events at the Botanical Garden, Conservatory, and Japanese Tea Garden. Requires a Gardens membership and orientation.",
+      "url": "https://gggp.org/volunteer/"
     }
   ]
 }

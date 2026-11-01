@@ -4,7 +4,6 @@ const TAG_LABELS = {
   serve:   '<i class="iconoir-hand-card"></i> Serve',
   play:    '<i class="iconoir-music-double-note"></i> Play',
   awe:     '<i class="iconoir-sparks"></i> Awe',
-  improv:  '<i class="iconoir-emoji-talking-happy"></i> Improv',
 };
 
 const filters = { sf: 'all' };
@@ -53,6 +52,77 @@ function renderWeekLabel() {
   document.getElementById('week-label').textContent = label;
 }
 
+// ── Add to calendar ────────────────────────────────
+const EVENT_TZ = 'America/Los_Angeles';
+const DEFAULT_DURATION_MIN = 120; // listings only give a start time
+
+// Minutes east of UTC for EVENT_TZ at a given instant (e.g. -420 for PDT)
+function tzOffsetMinutes(instant) {
+  const part = new Intl.DateTimeFormat('en-US', { timeZone: EVENT_TZ, timeZoneName: 'shortOffset' })
+    .formatToParts(instant).find(p => p.type === 'timeZoneName').value; // "GMT-7"
+  const m = part.match(/GMT([+-]\d+)(?::(\d+))?/);
+  if (!m) return 0;
+  const h = Number(m[1]);
+  return h * 60 + Math.sign(h) * Number(m[2] || 0);
+}
+
+// Event date + local SF time → UTC Date
+function eventStartUTC(e) {
+  const [y, mo, d] = e.date.split('-').map(Number);
+  const [h, mi] = (e.time || '00:00').split(':').map(Number);
+  const asUTC = Date.UTC(y, mo - 1, d, h, mi);
+  return new Date(asUTC - tzOffsetMinutes(new Date(asUTC)) * 60000);
+}
+
+function icsStamp(date) {
+  return date.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, ''); // 20261101T010000Z
+}
+
+function icsEscape(str) {
+  return String(str).replace(/\\/g, '\\\\').replace(/\n/g, '\\n').replace(/([,;])/g, '\\$1');
+}
+
+function calendarLinks(e) {
+  const start = eventStartUTC(e);
+  const end = new Date(start.getTime() + DEFAULT_DURATION_MIN * 60000);
+  const location = `${e.venue}, San Francisco, CA`;
+  const details = `${e.description}\n\n${e.url}`;
+  const q = encodeURIComponent;
+
+  const google = 'https://calendar.google.com/calendar/render?action=TEMPLATE'
+    + `&text=${q(e.title)}&dates=${icsStamp(start)}/${icsStamp(end)}`
+    + `&details=${q(details)}&location=${q(location)}`;
+
+  const outlookParams = `subject=${q(e.title)}&startdt=${q(start.toISOString())}&enddt=${q(end.toISOString())}`
+    + `&body=${q(details)}&location=${q(location)}&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent`;
+  const outlook = `https://outlook.live.com/calendar/0/action/compose?${outlookParams}`;
+  const office = `https://outlook.office.com/calendar/0/action/compose?${outlookParams}`;
+
+  const yahoo = `https://calendar.yahoo.com/?v=60&title=${q(e.title)}`
+    + `&st=${icsStamp(start)}&et=${icsStamp(end)}&desc=${q(details)}&in_loc=${q(location)}`;
+
+  const ics = [
+    'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//present tense//SF events//EN', 'BEGIN:VEVENT',
+    `UID:${e.date}-${e.title.replace(/\W+/g, '-').toLowerCase()}@present-tense`,
+    `DTSTAMP:${icsStamp(new Date())}`, `DTSTART:${icsStamp(start)}`, `DTEND:${icsStamp(end)}`,
+    `SUMMARY:${icsEscape(e.title)}`, `DESCRIPTION:${icsEscape(details)}`,
+    `LOCATION:${icsEscape(location)}`, `URL:${e.url}`,
+    'END:VEVENT', 'END:VCALENDAR',
+  ].join('\r\n');
+  const icsHref = `data:text/calendar;charset=utf-8,${q(ics)}`;
+  const icsName = `${e.date}-${e.title.replace(/\W+/g, '-').toLowerCase()}.ics`;
+
+  return `
+    <div class="item-cal">
+      <i class="iconoir-calendar-plus"></i> Add to
+      <a href="${google}" target="_blank" rel="noopener">Google</a>
+      <a href="${icsHref}" download="${icsName}">Apple (.ics)</a>
+      <a href="${outlook}" target="_blank" rel="noopener">Outlook</a>
+      <a href="${office}" target="_blank" rel="noopener">Office 365</a>
+      <a href="${yahoo}" target="_blank" rel="noopener">Yahoo</a>
+    </div>`;
+}
+
 // ── SF events ──────────────────────────────────────
 function costTag(e) {
   if (e.cost === 0) return `<span class="tag free">Free</span>`;
@@ -87,15 +157,16 @@ function renderSF() {
         <h3>${formatDate(date)}</h3>
         <div class="card-grid">
           ${evs.map(e => `
-            <a class="item-card" href="${e.url}" target="_blank" rel="noopener">
+            <div class="item-card">
               <div class="item-card-header">
-                <span class="item-title">${e.title}</span>
+                <a class="item-title" href="${e.url}" target="_blank" rel="noopener">${e.title}</a>
                 <span class="item-time">${formatTime(e.time)}</span>
               </div>
               <div class="item-org">${e.venue} · ${e.neighborhood}</div>
               <div class="item-desc">${e.description}</div>
               <div class="item-tags">${costTag(e)}${tagChips(e.tags)}${e.cost_notes && e.cost_notes !== 'Free' ? `<span class="tag note">${e.cost_notes}</span>` : ''}</div>
-            </a>`).join('')}
+              ${calendarLinks(e)}
+            </div>`).join('')}
         </div>
       </div>
     `).join('');
