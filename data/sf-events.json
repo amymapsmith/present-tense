@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
+  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together, including free live music), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
   "events": [
     {
       "title": "Chinatown Halloween Festival",
@@ -90,12 +90,28 @@
       "url": "https://sf.funcheap.com/tenderloin-street-fair-dia-de-muertos-celebration-2026-block-party-sf/"
     },
     {
+      "title": "Castro Art Mart: music, drag + art",
+      "date": "2026-11-01",
+      "time": "14:00",
+      "venue": "Noe St between Market & Beaver",
+      "neighborhood": "Castro",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "First-Sunday street market with live music and drag performances from LGBTQ artists.",
+      "url": "https://sf.funcheap.com/castro-art-mart-2026-drag-music-art-1st-sundays-7/"
+    },
+    {
       "title": "Civic Music free concert",
       "date": "2026-11-01",
       "time": "15:00",
       "venue": "First Baptist Church",
       "neighborhood": "Duboce Triangle",
       "tags": [
+        "play",
         "awe"
       ],
       "cost": 0,
@@ -119,6 +135,21 @@
       "url": "https://sfpl.org/events/2026/11/01/social-crafting-circle"
     },
     {
+      "title": "Organ recital by Daniel Carroll",
+      "date": "2026-11-01",
+      "time": "15:00",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "play",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "An hour of organ music filling the cathedral.",
+      "url": "https://gracecathedral.org/calendar-events/organ-recital-by-daniel-carroll/"
+    },
+    {
       "title": "Companions on the Way: silent meditation",
       "date": "2026-11-01",
       "time": "17:00",
@@ -131,6 +162,21 @@
       "cost_notes": "Free",
       "description": "Thirty minutes of silent meditation in the Chapel of the Nativity, then back into community. Beginners welcome.",
       "url": "https://gracecathedral.org/calendar-events/sacred-silence/2026-11-01/"
+    },
+    {
+      "title": "SF Philharmonic free beach concert",
+      "date": "2026-11-01",
+      "time": "17:00",
+      "venue": "Pacheco Surf Perch, Upper Great Highway",
+      "neighborhood": "Outer Sunset",
+      "tags": [
+        "play",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A 30-minute orchestral set of Tchaikovsky's 1812 Overture by the ocean.",
+      "url": "https://sf.funcheap.com/sf-philharmonic-plays-free-beach-concert-sf/"
     },
     {
       "title": "The BOAT: an improv jam",
@@ -207,6 +253,21 @@
       "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-72/"
     },
     {
+      "title": "Serenade in the Graveyard / Serenata en el Panteón",
+      "date": "2026-11-03",
+      "time": "18:00",
+      "venue": "Main Library, 100 Larkin St",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Live Latinx music and dance for Día de los Muertos season.",
+      "url": "https://sfpl.org/events/2026/11/03/performance-serenade-graveyard-serenata-en-el-panteon"
+    },
+    {
       "title": "Yoga on the Labyrinth",
       "date": "2026-11-03",
       "time": "18:15",
@@ -263,6 +324,20 @@
       "cost_notes": "Free for first 100 per session (5:30 & 7 PM)",
       "description": "Opening ceremony and free skate sessions. Everyone is a little wobbly together.",
       "url": "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-2025-opening-ceremony-free-ice-skating-union-square/"
+    },
+    {
+      "title": "Ryli live in the gallery",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "venue": "Yerba Buena Center for the Arts",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, RSVP recommended, limited seating",
+      "description": "A jangle-pop band plays inside the GaHee Park exhibition.",
+      "url": "https://sf.funcheap.com/ryli/"
     },
     {
       "title": "Wednesday Dharma talk: Abbot Tenzen David Zimmerman",
@@ -498,6 +573,21 @@
       "url": "https://sfpl.org/events/2026/11/07/workshop-national-aids-memorial-quilt-repair-panel-making-workshop"
     },
     {
+      "title": "The Sampaguitas: Filipino music & dance",
+      "date": "2026-11-07",
+      "time": "14:00",
+      "venue": "Mission Bay Library, 960 4th St",
+      "neighborhood": "Mission Bay",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Filipino dance and music performance for all ages.",
+      "url": "https://sfpl.org/events/2026/11/07/performance-sampaguitas"
+    },
+    {
       "title": "Improv theatre at the library",
       "date": "2026-11-07",
       "time": "15:00",
@@ -569,6 +659,36 @@
       "cost_notes": "Free, library program",
       "description": "Bring a cutting, leave with someone else's. Trust, in plant form.",
       "url": "https://sfpl.org/events/2026/11/08/social-plant-swap"
+    },
+    {
+      "title": "Kulintang Dialect",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "venue": "Western Addition Library, 1550 Scott St",
+      "neighborhood": "Western Addition",
+      "tags": [
+        "play",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A Filipino kulintang gong ensemble, for all ages.",
+      "url": "https://sfpl.org/events/2026/11/08/performance-kulintang-dialect"
+    },
+    {
+      "title": "The Sampaguitas: Filipino music & dance",
+      "date": "2026-11-08",
+      "time": "14:00",
+      "venue": "Richmond Library, 351 9th Ave",
+      "neighborhood": "Inner Richmond",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Filipino dance and music performance for all ages.",
+      "url": "https://sfpl.org/events/2026/11/08/performance-sampaguitas"
     },
     {
       "title": "BATS Sunday improv jam",
@@ -841,6 +961,7 @@
       "venue": "Fulton Plaza",
       "neighborhood": "Civic Center",
       "tags": [
+        "play",
         "awe",
         "connect"
       ],
@@ -953,6 +1074,21 @@
       "url": "https://sfpl.org/events/2026/11/14/activity-drawn-together-drawing-club-everyone"
     },
     {
+      "title": "Echoes of the Seasons: piano, East & West",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "venue": "Main Library, 100 Larkin St",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "play",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Live piano exploring how Eastern and Western composers hear the seasons.",
+      "url": "https://sfpl.org/events/2026/11/14/presentation-echoes-seasons"
+    },
+    {
       "title": "Mission Branch Library grand reopening",
       "date": "2026-11-14",
       "time": "12:30",
@@ -980,6 +1116,35 @@
       "cost_notes": "Free",
       "description": "Pack socks and care kits, then pair up with a buddy to hand them out.",
       "url": "https://www.sfzc.org/event/socks-for-our-neighbors-cc-11-14/"
+    },
+    {
+      "title": "Civic Music free concert",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "venue": "Noe Valley Ministry",
+      "neighborhood": "Noe Valley",
+      "tags": [
+        "play",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free with RSVP",
+      "description": "A community orchestra of amateurs and pros playing for anyone who shows up.",
+      "url": "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-4/"
+    },
+    {
+      "title": "Crying Uncle Bluegrass Band",
+      "date": "2026-11-14",
+      "time": "15:30",
+      "venue": "Park Library, 1833 Page St",
+      "neighborhood": "Haight-Ashbury",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Live bluegrass at the branch library, all ages.",
+      "url": "https://sfpl.org/events/2026/11/14/performance-crying-uncle-bluegrass-band"
     }
   ],
   "standing": [
