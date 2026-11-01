@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way). Confirm details with organizers before going.",
+  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, and organizers. Confirm details with organizers before going.",
   "events": [
     {
       "title": "Chinatown Halloween Festival",
@@ -62,6 +62,20 @@
       "url": "https://sf.funcheap.com/golden-gate-park-sunday-roller-disco-party-sf-302/"
     },
     {
+      "title": "Bernal community Día de los Muertos",
+      "date": "2026-11-01",
+      "time": "13:00",
+      "venue": "Bernal Heights Library, 500 Cortland Ave",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A neighborhood Día de los Muertos gathering with music and dance at the branch library.",
+      "url": "https://sfpl.org/events/2026/11/01/social-bernal-community-dia-de-los-muertos"
+    },
+    {
       "title": "Tenderloin Día de Muertos street fair",
       "date": "2026-11-01",
       "time": "14:00",
@@ -88,6 +102,37 @@
       "cost_notes": "Free with RSVP",
       "description": "A community orchestra of amateurs and pros playing for anyone who shows up.",
       "url": "https://sf.funcheap.com/sfs-civic-music-free-concerts-2026-3/"
+    },
+    {
+      "title": "Crafting circle",
+      "date": "2026-11-01",
+      "time": "15:00",
+      "venue": "Western Addition Library, 1550 Scott St",
+      "neighborhood": "Western Addition",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Bring a project or start one, and make things alongside your neighbors.",
+      "url": "https://sfpl.org/events/2026/11/01/social-crafting-circle"
+    },
+    {
+      "title": "The BOAT: an improv jam",
+      "date": "2026-11-01",
+      "time": "18:00",
+      "venue": "Eclectic Box, 446 Valencia St",
+      "neighborhood": "Mission",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, $5 donation suggested, no one turned away",
+      "description": "A free community jam where beginners and veterans take turns doing scenes. Sign up at the door around 5:45 to play, or just watch.",
+      "url": "https://events.humanitix.com/the-boat-jam"
     },
     {
       "title": "Festival of Altars",
@@ -132,6 +177,20 @@
       "cost_notes": "Free first Tuesdays",
       "description": "Nearly 2,000 species of rare plants under one Victorian glass roof.",
       "url": "https://sf.funcheap.com/sfs-conservatory-of-flowers-free-first-tuesdays-golden-gate-park-72/"
+    },
+    {
+      "title": "Storytelling for adults",
+      "date": "2026-11-04",
+      "time": "14:30",
+      "venue": "Golden Gate Valley Library, 1801 Green St",
+      "neighborhood": "Cow Hollow",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "An afternoon of sharing stories with other adults.",
+      "url": "https://sfpl.org/events/2026/11/04/social-storytelling-adults"
     },
     {
       "title": "Union Square ice rink opening night",
@@ -206,6 +265,21 @@
       "url": "https://sf.funcheap.com/jam-session-creativity-explored/"
     },
     {
+      "title": "Knitting circle",
+      "date": "2026-11-06",
+      "time": "15:00",
+      "venue": "Anza Library, 550 37th Ave",
+      "neighborhood": "Outer Richmond",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Knit (or learn to) in a circle of other people doing the same.",
+      "url": "https://sfpl.org/events/2026/11/06/activity-knitting-circle"
+    },
+    {
       "title": "North Beach First Fridays art crawl",
       "date": "2026-11-06",
       "time": "17:00",
@@ -247,6 +321,66 @@
       "cost_notes": "Free",
       "description": "Two traditions of light and remembrance, with a fire ceremony by the bay.",
       "url": "https://sf.funcheap.com/dia-de-los-muertos-diwali-festival-crissy-field-sf/"
+    },
+    {
+      "title": "Birding with Golden Gate Bird Alliance",
+      "date": "2026-11-07",
+      "time": "10:00",
+      "venue": "Parkside Library, 1200 Taraval St",
+      "neighborhood": "Parkside",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A guided birding outing that starts at the library.",
+      "url": "https://sfpl.org/events/2026/11/07/activity-birding-golden-gate-bird-alliance"
+    },
+    {
+      "title": "Line dancing",
+      "date": "2026-11-07",
+      "time": "10:30",
+      "venue": "Potrero Library, 1616 20th St",
+      "neighborhood": "Potrero Hill",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Intergenerational line dancing, open to all ages and all skill levels.",
+      "url": "https://sfpl.org/events/2026/11/07/activity-line-dancing"
+    },
+    {
+      "title": "AIDS Memorial Quilt repair & panel making",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "venue": "Main Library, 100 Larkin St",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "serve",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Help repair panels of the National AIDS Memorial Quilt, or make a new one.",
+      "url": "https://sfpl.org/events/2026/11/07/workshop-national-aids-memorial-quilt-repair-panel-making-workshop"
+    },
+    {
+      "title": "Improv theatre at the library",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "venue": "Golden Gate Valley Library, 1801 Green St",
+      "neighborhood": "Cow Hollow",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, drop-in",
+      "description": "Monthly improv games and scene work for adults with Louise Vogel. No experience needed.",
+      "url": "https://sfpl.org/events/2026/11/07/activity-improv-theatre"
     },
     {
       "title": "Inner Sunset flea market season finale",
@@ -293,6 +427,20 @@
       "url": "https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/"
     },
     {
+      "title": "Plant swap",
+      "date": "2026-11-08",
+      "time": "13:00",
+      "venue": "Bernal Heights Library, 500 Cortland Ave",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Bring a cutting, leave with someone else's. Trust, in plant form.",
+      "url": "https://sfpl.org/events/2026/11/08/social-plant-swap"
+    },
+    {
       "title": "BATS Sunday improv jam",
       "date": "2026-11-08",
       "time": "17:00",
@@ -307,6 +455,22 @@
       "cost_notes": "$30, $25 with a buddy, $20 each for a group of 4",
       "description": "Two hours of improv games for all levels, no experience needed. Saying \"yes, and\" to strangers is the whole exercise.",
       "url": "https://www.eventbrite.com/e/sunday-jam-with-emma-goodman-sch-tickets-1996175046299"
+    },
+    {
+      "title": "The BOAT: an improv jam",
+      "date": "2026-11-08",
+      "time": "18:00",
+      "venue": "Eclectic Box, 446 Valencia St",
+      "neighborhood": "Mission",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, $5 donation suggested, no one turned away",
+      "description": "A free community jam where beginners and veterans take turns doing scenes. Sign up at the door around 5:45 to play, or just watch.",
+      "url": "https://events.humanitix.com/the-boat-jam"
     },
     {
       "title": "SF Botanical Garden free day",
@@ -336,6 +500,21 @@
       "cost_notes": "Free",
       "description": "Weekly team trivia. Show up solo and ask to join a table.",
       "url": "https://sf.funcheap.com/black-hammers-free-hopped-up-trivia-night-every-wednesday-145/"
+    },
+    {
+      "title": "Line dancing",
+      "date": "2026-11-12",
+      "time": "12:00",
+      "venue": "Potrero Library, 1616 20th St",
+      "neighborhood": "Potrero Hill",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A lunchtime hour of group line dancing.",
+      "url": "https://sfpl.org/events/2026/11/12/activity-line-dancing"
     },
     {
       "title": "SF State rooftop stargazing",
@@ -379,6 +558,21 @@
       "cost_notes": "Free",
       "description": "SF's official Diwali celebration, with live bhangra, dance lessons anyone can join, and a night market.",
       "url": "https://sf.funcheap.com/bhangra-beats-night-market-sfs-official-diwali-celebration-yerba-buena-gardens/"
+    },
+    {
+      "title": "Library karaoke",
+      "date": "2026-11-13",
+      "time": "16:00",
+      "venue": "Excelsior Library, 4400 Mission St",
+      "neighborhood": "Excelsior",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Sing for a small, friendly crowd at the branch library.",
+      "url": "https://sfpl.org/events/2026/11/13/social-karaoke"
     },
     {
       "title": "Holiday performing arts showcase",
@@ -439,6 +633,49 @@
       "cost_notes": "Free",
       "description": "Monthly community sing-along. No one is judging; everyone is too busy singing.",
       "url": "https://sf.funcheap.com/golden-gate-park-singing-in-the-park-community-party-sf-21/"
+    },
+    {
+      "title": "North Beach walking tour",
+      "date": "2026-11-14",
+      "time": "10:30",
+      "venue": "North Beach Library, 850 Columbus Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Walk the neighborhood's history with a guide and a group of strangers.",
+      "url": "https://sfpl.org/events/2026/11/14/activity-north-beach-walking-tour"
+    },
+    {
+      "title": "Drawn Together drawing club",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "venue": "Main Library, 100 Larkin St",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A drawing club for everyone, whatever your skill level.",
+      "url": "https://sfpl.org/events/2026/11/14/activity-drawn-together-drawing-club-everyone"
+    },
+    {
+      "title": "Mission Branch Library grand reopening",
+      "date": "2026-11-14",
+      "time": "12:30",
+      "venue": "Mission Library, 3359 24th St",
+      "neighborhood": "Mission",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "The renovated Mission branch reopens with a neighborhood celebration.",
+      "url": "https://sfpl.org/events/2026/11/14/celebration-mission-branch-library-grand-reopening"
     }
   ],
   "standing": [
