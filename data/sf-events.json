@@ -1,152 +1,7 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-31",
   "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together), awe (feel small in a good way). Confirm details with organizers before going.",
   "events": [
-    {
-      "title": "Henry Street fall porch party",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "venue": "166 Henry Street",
-      "neighborhood": "Duboce Triangle",
-      "tags": [
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free, bring a treat to share",
-      "description": "A neighborhood sidewalk gathering with fall drinks and snacks. Neighbors, kids, and dogs welcome.",
-      "url": "https://sf.funcheap.com/sfs-henry-street-fall-neighborhood-miniporch-party-duboce-triangle-2026/"
-    },
-    {
-      "title": "SF State rooftop stargazing",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "venue": "SFSU Observatory, Thornton Hall",
-      "neighborhood": "Lake Merced",
-      "tags": [
-        "awe"
-      ],
-      "cost": 0,
-      "cost_notes": "Free, weather permitting",
-      "description": "Look through a big telescope with strangers and an astronomer. Talks in English and Spanish.",
-      "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-october-2026-5/"
-    },
-    {
-      "title": "Astronomy on Tap",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "venue": "Public Works",
-      "neighborhood": "Mission",
-      "tags": [
-        "awe",
-        "connect"
-      ],
-      "cost": 12,
-      "cost_notes": "Free, one-drink minimum ($12 ticket)",
-      "description": "Short, funny talks from local astronomers in a bar. No background needed.",
-      "url": "https://sf.funcheap.com/astronomy-tap-san-francisco-3/"
-    },
-    {
-      "title": "Civic Center Soundtrack",
-      "date": "2026-10-29",
-      "time": "12:00",
-      "venue": "Fulton Plaza",
-      "neighborhood": "Civic Center",
-      "tags": [
-        "play",
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Lunchtime live music and food trucks in the plaza. Eat outside among strangers for an hour.",
-      "url": "https://sf.funcheap.com/sfs-free-concerts-food-trucks-civic-center-soundtrack-every-tue-thu-57/"
-    },
-    {
-      "title": "Día de los Muertos + Halloween market",
-      "date": "2026-10-29",
-      "time": "15:00",
-      "venue": "Mission Community Market, 22nd St & Bartlett",
-      "neighborhood": "Mission",
-      "tags": [
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Local farms and food makers, live music, family activities, and plenty of costumes.",
-      "url": "https://sf.funcheap.com/da-de-los-muertos-halloween-mission-community-market-sf-5/"
-    },
-    {
-      "title": "Excelsior Family Summit",
-      "date": "2026-10-29",
-      "time": "17:30",
-      "venue": "4840 Mission St",
-      "neighborhood": "Excelsior",
-      "tags": [
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free, with food and childcare",
-      "description": "Neighbors share what it's like to raise kids in San Francisco. Mostly listening, which is the point.",
-      "url": "https://sf.funcheap.com/district-11-excelsior-family-summit/"
-    },
-    {
-      "title": "Morning Coffee Cleanup",
-      "date": "2026-10-30",
-      "time": "11:00",
-      "venue": "Cinderella Bakery & Cafe, 2937 24th St",
-      "neighborhood": "Mission",
-      "tags": [
-        "serve",
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free, register on Mobilize",
-      "description": "An hour of neighborhood cleanup, then free coffee with the other volunteers.",
-      "url": "https://sf.funcheap.com/morning-coffee-cleanup-mission-free-coffee-volunteers/"
-    },
-    {
-      "title": "Pay-what-you-can taco day at Tato",
-      "date": "2026-10-30",
-      "time": "11:00",
-      "venue": "Tato, 4608 3rd St",
-      "neighborhood": "Bayview",
-      "tags": [
-        "serve"
-      ],
-      "cost": 0,
-      "cost_notes": "$0–$10",
-      "description": "Pay what you can; every full $10 buys a free meal for someone who needs one.",
-      "url": "https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-friday-303/"
-    },
-    {
-      "title": "Last Ocean Beach bonfires of the year",
-      "date": "2026-10-30",
-      "time": "15:00",
-      "venue": "Ocean Beach fire pits",
-      "neighborhood": "Ocean Beach",
-      "tags": [
-        "awe",
-        "connect"
-      ],
-      "cost": 0,
-      "cost_notes": "Free, first come first served",
-      "description": "Final weekend before the no-burn season. Fire rings get shared, so expect company.",
-      "url": "https://sf.funcheap.com/final-weekend-of-ocean-beach-bonfires-for-2023-ends-oct-31-3/"
-    },
-    {
-      "title": "Hayes Valley glowing trick-or-treat trail",
-      "date": "2026-10-30",
-      "time": "16:00",
-      "venue": "Hayes Valley merchants & Hayes Promenade",
-      "neighborhood": "Hayes Valley",
-      "tags": [
-        "connect",
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Merchants hand out candy along a lit-up trail, then a free outdoor movie on the promenade.",
-      "url": "https://sf.funcheap.com/hayes-valleys-glowing-halloween-trickortreat-trail-free-outdoor-movie-2026/"
-    },
     {
       "title": "Chinatown Halloween Festival",
       "date": "2026-10-31",
@@ -293,6 +148,21 @@
       "url": "https://sf.funcheap.com/sfs-holiday-ice-skating-rink-at-union-square-2025-opening-ceremony-free-ice-skating-union-square/"
     },
     {
+      "title": "Downtown First Thursdays block party",
+      "date": "2026-11-05",
+      "time": "17:00",
+      "venue": "2nd St between Market & Howard",
+      "neighborhood": "Downtown",
+      "tags": [
+        "connect",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free with RSVP",
+      "description": "A monthly street party with DJs, live performances, drag, and a crowd that dances.",
+      "url": "https://sf.funcheap.com/sfs-free-dft-monthly-block-party-downtown-first-thursdays-2026-10/"
+    },
+    {
       "title": "SF LGBT Center volunteer orientation",
       "date": "2026-11-05",
       "time": "18:00",
@@ -305,6 +175,20 @@
       "cost_notes": "Free, apply first (virtual option Nov 3)",
       "description": "The on-ramp to ongoing volunteer roles. Apply online, then attend one orientation.",
       "url": "https://www.sfcenter.org/program/volunteer/"
+    },
+    {
+      "title": "SF State rooftop stargazing",
+      "date": "2026-11-05",
+      "time": "18:30",
+      "venue": "SFSU Observatory, Thornton Hall",
+      "neighborhood": "Lake Merced",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, weather permitting",
+      "description": "Look through a big telescope with strangers and an astronomer. Talks in English and Spanish.",
+      "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-nov-2026/"
     },
     {
       "title": "Jam session with Creativity Explored",
@@ -407,9 +291,179 @@
       "cost_notes": "Free, RSVP encouraged",
       "description": "All-ages festival of lights with South Asian music and dance, and room to join in.",
       "url": "https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/"
+    },
+    {
+      "title": "BATS Sunday improv jam",
+      "date": "2026-11-08",
+      "time": "17:00",
+      "venue": "BATS Bayfront Theatre, Fort Mason Center, Bldg B",
+      "neighborhood": "Marina",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "cost": 30,
+      "cost_notes": "$30, $25 with a buddy, $20 each for a group of 4",
+      "description": "Two hours of improv games for all levels, no experience needed. Saying \"yes, and\" to strangers is the whole exercise.",
+      "url": "https://www.eventbrite.com/e/sunday-jam-with-emma-goodman-sch-tickets-1996175046299"
+    },
+    {
+      "title": "SF Botanical Garden free day",
+      "date": "2026-11-10",
+      "time": "07:30",
+      "venue": "San Francisco Botanical Garden",
+      "neighborhood": "Golden Gate Park",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free second Tuesdays",
+      "description": "Fifty-five acres of gardens from around the world. Go slow and get a little lost.",
+      "url": "https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-tuesdays-65/"
+    },
+    {
+      "title": "\"Hopped Up\" trivia night",
+      "date": "2026-11-11",
+      "time": "19:30",
+      "venue": "Black Hammer Brewing",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Weekly team trivia. Show up solo and ask to join a table.",
+      "url": "https://sf.funcheap.com/black-hammers-free-hopped-up-trivia-night-every-wednesday-145/"
+    },
+    {
+      "title": "SF State rooftop stargazing",
+      "date": "2026-11-12",
+      "time": "18:30",
+      "venue": "SFSU Observatory, Thornton Hall",
+      "neighborhood": "Lake Merced",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, weather permitting",
+      "description": "Look through a big telescope with strangers and an astronomer. Talks in English and Spanish.",
+      "url": "https://sf.funcheap.com/sf-states-free-public-rooftop-stargazing-nights-w-huge-telescope-nov-2026-2/"
+    },
+    {
+      "title": "Pay-what-you-can taco day at Tato",
+      "date": "2026-11-13",
+      "time": "11:00",
+      "venue": "Tato, 4608 3rd St",
+      "neighborhood": "Bayview",
+      "tags": [
+        "serve"
+      ],
+      "cost": 0,
+      "cost_notes": "$0–$10",
+      "description": "Pay what you can; every full $10 buys a free meal for someone who needs one.",
+      "url": "https://sf.funcheap.com/pay-what-you-can-taco-day-at-sfs-tato-every-friday-305/"
+    },
+    {
+      "title": "Bhangra & Beats Diwali night market",
+      "date": "2026-11-13",
+      "time": "16:00",
+      "venue": "Great Lawn, Yerba Buena Gardens",
+      "neighborhood": "SoMa",
+      "tags": [
+        "connect",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "SF's official Diwali celebration, with live bhangra, dance lessons anyone can join, and a night market.",
+      "url": "https://sf.funcheap.com/bhangra-beats-night-market-sfs-official-diwali-celebration-yerba-buena-gardens/"
+    },
+    {
+      "title": "Holiday performing arts showcase",
+      "date": "2026-11-13",
+      "time": "17:00",
+      "venue": "Fulton Plaza",
+      "neighborhood": "Civic Center",
+      "tags": [
+        "awe",
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, RSVP for a reminder",
+      "description": "SF Opera, SF Ballet, and others perform outdoors under 1,200 lights, with a reception after.",
+      "url": "https://sf.funcheap.com/holiday-performing-arts-showcase-sf-opera-civic-center/"
+    },
+    {
+      "title": "Filipino Cultural District mural reveal",
+      "date": "2026-11-13",
+      "time": "18:00",
+      "venue": "Jessie West, at 5th & Mission",
+      "neighborhood": "SoMa",
+      "tags": [
+        "connect"
+      ],
+      "cost": 0,
+      "cost_notes": "Free with RSVP",
+      "description": "A new mural unveiling with art activities, a fashion show, and a mini block party.",
+      "url": "https://sf.funcheap.com/free-mahallove-mural-unveiling-fashion-show-mini-block-party-sf/"
+    },
+    {
+      "title": "Laguna Honda trail restoration",
+      "date": "2026-11-14",
+      "time": "09:00",
+      "venue": "Laguna Honda",
+      "neighborhood": "Forest Hill",
+      "tags": [
+        "serve",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Volunteer to bring back lost trails and native habitat on the hillside.",
+      "url": "https://sf.funcheap.com/trail-habitat-volunteer-work-restoring-laguna-hondas-lost-trails-sf-108/"
+    },
+    {
+      "title": "Singing in the Park",
+      "date": "2026-11-14",
+      "time": "10:30",
+      "venue": "Mothers Meadow, Golden Gate Park",
+      "neighborhood": "Golden Gate Park",
+      "tags": [
+        "play",
+        "connect",
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Monthly community sing-along. No one is judging; everyone is too busy singing.",
+      "url": "https://sf.funcheap.com/golden-gate-park-singing-in-the-park-community-party-sf-21/"
     }
   ],
   "standing": [
+    {
+      "title": "Endgames Saturday drop-in improv",
+      "when": "Saturdays · 12–2 PM",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "description": "A different teacher and topic each week, no experience needed. $35, 2989 Mission St; buy ahead, since classes can be canceled for low enrollment.",
+      "url": "https://www.eventbrite.com/e/endgames-drop-in-classes-tickets-1977992414558"
+    },
+    {
+      "title": "Leela Thursday drop-in improv",
+      "when": "Thursdays · 7–9 PM",
+      "tags": [
+        "improv",
+        "play",
+        "connect"
+      ],
+      "description": "Beginner-friendly drop-in at 450 Geary St. $25 the last time it was listed; confirm the current schedule before going.",
+      "url": "https://leela-sf.com/drop-in/"
+    },
     {
       "title": "SF-Marin Food Bank volunteer shifts",
       "when": "Most days",

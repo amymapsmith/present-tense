@@ -4,6 +4,7 @@ const TAG_LABELS = {
   serve:   '<i class="iconoir-hand-card"></i> Serve',
   play:    '<i class="iconoir-music-double-note"></i> Play',
   awe:     '<i class="iconoir-sparks"></i> Awe',
+  improv:  '<i class="iconoir-emoji-talking-happy"></i> Improv',
 };
 
 const filters = { sf: 'all' };
