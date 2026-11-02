@@ -1,6 +1,5 @@
 // ── Config ─────────────────────────────────────────
 const TAG_LABELS = {
-  connect: '<i class="iconoir-community"></i> Connect',
   serve:   '<i class="iconoir-hand-card"></i> Serve',
   play:    '<i class="iconoir-music-double-note"></i> Play',
   awe:     '<i class="iconoir-sparks"></i> Awe',

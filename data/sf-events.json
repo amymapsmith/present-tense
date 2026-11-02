@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-31",
-  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: connect (meet people), serve (help out), play (do something together, including free live music), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
+  "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: serve (help out, including companionship for older adults), play (do something together, including free live music, street fairs, and community outings), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
   "events": [
     {
       "title": "Chinatown Halloween Festival",
@@ -9,7 +9,6 @@
       "venue": "Waverly Place",
       "neighborhood": "Chinatown",
       "tags": [
-        "connect",
         "play"
       ],
       "cost": 0,
@@ -24,7 +23,6 @@
       "venue": "Balboa St, 33rd to 41st Ave",
       "neighborhood": "Outer Richmond",
       "tags": [
-        "connect",
         "play"
       ],
       "cost": 0,
@@ -39,8 +37,7 @@
       "venue": "Outside Another Cafe, 1191 Pine St",
       "neighborhood": "Lower Nob Hill",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -68,7 +65,7 @@
       "venue": "Bernal Heights Library, 500 Cortland Ave",
       "neighborhood": "Bernal Heights",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -82,7 +79,7 @@
       "venue": "150 Golden Gate Ave",
       "neighborhood": "Tenderloin",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, RSVP on Eventbrite",
@@ -96,8 +93,7 @@
       "venue": "Noe St between Market & Beaver",
       "neighborhood": "Castro",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -126,8 +122,7 @@
       "venue": "Western Addition Library, 1550 Scott St",
       "neighborhood": "Western Addition",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -185,8 +180,7 @@
       "venue": "Eclectic Box, 446 Valencia St",
       "neighborhood": "Mission",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, $5 donation suggested, no one turned away",
@@ -200,7 +194,6 @@
       "venue": "Potrero del Sol Park",
       "neighborhood": "Mission",
       "tags": [
-        "connect",
         "awe"
       ],
       "cost": 0,
@@ -230,7 +223,6 @@
       "venue": "Gathers at Bryant & 22nd St",
       "neighborhood": "Mission",
       "tags": [
-        "connect",
         "awe"
       ],
       "cost": 0,
@@ -259,8 +251,7 @@
       "venue": "Main Library, 100 Larkin St",
       "neighborhood": "Civic Center",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -289,8 +280,7 @@
       "venue": "SF Zen Center, 300 Page St, Buddha Hall",
       "neighborhood": "Hayes Valley",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Donation welcome",
@@ -304,7 +294,7 @@
       "venue": "Golden Gate Valley Library, 1801 Green St",
       "neighborhood": "Cow Hollow",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -374,7 +364,6 @@
       "venue": "2nd St between Market & Howard",
       "neighborhood": "Downtown",
       "tags": [
-        "connect",
         "play"
       ],
       "cost": 0,
@@ -417,8 +406,7 @@
       "venue": "SF Buddhist Center, 37 Bartlett St",
       "neighborhood": "Mission",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Drop-in",
@@ -432,8 +420,7 @@
       "venue": "Yerba Buena Center for the Arts",
       "neighborhood": "SoMa",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -447,8 +434,7 @@
       "venue": "Anza Library, 550 37th Ave",
       "neighborhood": "Outer Richmond",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -462,7 +448,7 @@
       "venue": "A dozen-plus galleries and bars",
       "neighborhood": "North Beach",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -476,8 +462,7 @@
       "venue": "Potrero Hill (address on the website)",
       "neighborhood": "Potrero Hill",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Donation-based, no one turned away",
@@ -520,7 +505,6 @@
       "venue": "Crissy Field Center, Presidio",
       "neighborhood": "Presidio",
       "tags": [
-        "connect",
         "awe"
       ],
       "cost": 0,
@@ -549,8 +533,7 @@
       "venue": "Potrero Library, 1616 20th St",
       "neighborhood": "Potrero Hill",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -564,8 +547,7 @@
       "venue": "Main Library, 100 Larkin St",
       "neighborhood": "Civic Center",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -579,8 +561,7 @@
       "venue": "Mission Bay Library, 960 4th St",
       "neighborhood": "Mission Bay",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -594,8 +575,7 @@
       "venue": "Golden Gate Valley Library, 1801 Green St",
       "neighborhood": "Cow Hollow",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, drop-in",
@@ -609,7 +589,7 @@
       "venue": "Irving St, 9th to 11th Ave",
       "neighborhood": "Inner Sunset",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -623,8 +603,7 @@
       "venue": "JFK Drive, Golden Gate Park",
       "neighborhood": "Golden Gate Park",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, rain cancels",
@@ -638,7 +617,6 @@
       "venue": "Great Lawn, Yerba Buena Gardens",
       "neighborhood": "SoMa",
       "tags": [
-        "connect",
         "play"
       ],
       "cost": 0,
@@ -653,7 +631,7 @@
       "venue": "Bernal Heights Library, 500 Cortland Ave",
       "neighborhood": "Bernal Heights",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -682,8 +660,7 @@
       "venue": "Richmond Library, 351 9th Ave",
       "neighborhood": "Inner Richmond",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -697,8 +674,7 @@
       "venue": "BATS Bayfront Theatre, Fort Mason Center, Bldg B",
       "neighborhood": "Marina",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 30,
       "cost_notes": "$30, $25 with a buddy, $20 each for a group of 4",
@@ -726,8 +702,7 @@
       "venue": "Eclectic Box, 446 Valencia St",
       "neighborhood": "Mission",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, $5 donation suggested, no one turned away",
@@ -756,8 +731,7 @@
       "venue": "SF Buddhist Center, 37 Bartlett St",
       "neighborhood": "Mission",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Donation welcome",
@@ -800,8 +774,7 @@
       "venue": "SF Buddhist Center, 37 Bartlett St",
       "neighborhood": "Mission",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Four Tuesdays; check site for cost",
@@ -815,8 +788,7 @@
       "venue": "SF Zen Center, 300 Page St, Buddha Hall",
       "neighborhood": "Hayes Valley",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Donation welcome",
@@ -830,8 +802,7 @@
       "venue": "Black Hammer Brewing",
       "neighborhood": "SoMa",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -859,8 +830,7 @@
       "venue": "Potrero Library, 1616 20th St",
       "neighborhood": "Potrero Hill",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -931,7 +901,6 @@
       "venue": "Great Lawn, Yerba Buena Gardens",
       "neighborhood": "SoMa",
       "tags": [
-        "connect",
         "play"
       ],
       "cost": 0,
@@ -946,8 +915,7 @@
       "venue": "Excelsior Library, 4400 Mission St",
       "neighborhood": "Excelsior",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -962,8 +930,7 @@
       "neighborhood": "Civic Center",
       "tags": [
         "play",
-        "awe",
-        "connect"
+        "awe"
       ],
       "cost": 0,
       "cost_notes": "Free, RSVP for a reminder",
@@ -977,12 +944,26 @@
       "venue": "Jessie West, at 5th & Mission",
       "neighborhood": "SoMa",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free with RSVP",
       "description": "A new mural unveiling with art activities, a fashion show, and a mini block party.",
       "url": "https://sf.funcheap.com/free-mahallove-mural-unveiling-fashion-show-mini-block-party-sf/"
+    },
+    {
+      "title": "Shanti peer support volunteer training",
+      "date": "2026-11-13",
+      "time": "18:00",
+      "venue": "Shanti Project, 27 Maiden Lane",
+      "neighborhood": "Union Square",
+      "tags": [
+        "serve"
+      ],
+      "cost": 0,
+      "cost_notes": "Free · apply first; runs Fri evening + all day Sat & Sun",
+      "description": "The weekend training to become a peer support volunteer for LGBTQ+ older adults and people living with HIV or cancer. Continues Nov 14 (10am–6pm) and Nov 15 (10:30am–6:30pm).",
+      "url": "https://www.shanti.org/volunteer"
     },
     {
       "title": "Zen meditation instruction + Saturday talk",
@@ -1036,7 +1017,6 @@
       "neighborhood": "Golden Gate Park",
       "tags": [
         "play",
-        "connect",
         "awe"
       ],
       "cost": 0,
@@ -1051,7 +1031,7 @@
       "venue": "North Beach Library, 850 Columbus Ave",
       "neighborhood": "North Beach",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -1065,8 +1045,7 @@
       "venue": "Main Library, 100 Larkin St",
       "neighborhood": "Civic Center",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -1095,7 +1074,7 @@
       "venue": "Mission Library, 3359 24th St",
       "neighborhood": "Mission",
       "tags": [
-        "connect"
+        "play"
       ],
       "cost": 0,
       "cost_notes": "Free, library program",
@@ -1109,8 +1088,7 @@
       "venue": "SF Zen Center, 300 Page St",
       "neighborhood": "Hayes Valley",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "cost": 0,
       "cost_notes": "Free",
@@ -1179,8 +1157,7 @@
       "title": "SF Buddhist Center intro to meditation",
       "when": "Thursdays · 6–7 PM",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "description": "Drop-in beginner class at 37 Bartlett St, open to any level of experience.",
       "url": "https://sfbuddhistcenter.org/newcomers/"
@@ -1189,8 +1166,7 @@
       "title": "Trans Sangha Buddha Night",
       "when": "Thursdays · 7–8:30 PM",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "description": "Silent meditation for trans people at SF Zen Center. Beginners and newcomers always welcome.",
       "url": "https://www.sfzc.org/event/trans-sangha-buddha-night-silent-meditation-cc/2026-11-05/"
@@ -1199,8 +1175,7 @@
       "title": "Meditation in Recovery",
       "when": "Mondays · 7:30 PM",
       "tags": [
-        "awe",
-        "connect"
+        "awe"
       ],
       "description": "A drop-in meditation meeting for people in recovery, at SF Zen Center and on Zoom.",
       "url": "https://www.sfzc.org/practice-centers/city-center/zen-meditation-practice-city-center/practice-groups-city-center/meditation-in-recovery"
@@ -1218,8 +1193,7 @@
       "title": "Endgames Saturday drop-in improv",
       "when": "Saturdays · 12–2 PM",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "description": "A different teacher and topic each week, no experience needed. $35, 2989 Mission St; buy ahead, since classes can be canceled for low enrollment.",
       "url": "https://www.eventbrite.com/e/endgames-drop-in-classes-tickets-1977992414558"
@@ -1228,8 +1202,7 @@
       "title": "Leela Thursday drop-in improv",
       "when": "Thursdays · 7–9 PM",
       "tags": [
-        "play",
-        "connect"
+        "play"
       ],
       "description": "Beginner-friendly drop-in at 450 Geary St. $25 the last time it was listed; confirm the current schedule before going.",
       "url": "https://leela-sf.com/drop-in/"
@@ -1238,8 +1211,7 @@
       "title": "SF-Marin Food Bank volunteer shifts",
       "when": "Most days",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Pack food in a warehouse crew of strangers. Shifts are short and need no experience.",
       "url": "https://www.sfmfoodbank.org/"
@@ -1276,11 +1248,82 @@
       "title": "SF Rec & Park volunteer programs",
       "when": "Ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Gardening and park workdays across the city, including the Golden Gate Park EcoCenter.",
       "url": "https://sfrecpark.org/780/Volunteer-Programs"
+    },
+    {
+      "title": "Little Brothers – Friends of the Elderly visiting volunteers",
+      "when": "Twice a month · 6+ months",
+      "tags": [
+        "serve"
+      ],
+      "description": "Be matched with an older adult who lives alone and visit in person, or take them on outings. Virtual orientation and background check first.",
+      "url": "https://www.littlebrotherssf.org/volunteer"
+    },
+    {
+      "title": "JFCS Friendly Visitors",
+      "when": "~4 hrs/month · 6+ months",
+      "tags": [
+        "serve"
+      ],
+      "description": "Weekly in-person visits with a senior who lives alone or is in palliative care. JFCS also needs help at its monthly Cafe by the Bay gatherings for Holocaust survivors.",
+      "url": "https://www.jfcs.org/volunteer/"
+    },
+    {
+      "title": "Institute on Aging Friendship Line",
+      "when": "3–4 hr weekly shift · 12 months",
+      "tags": [
+        "serve"
+      ],
+      "description": "Answer calls on a 24-hour warm line for isolated older adults: conversation, reassurance, and crisis support. Training provided.",
+      "url": "https://www.ioaging.org/volunteer-for-the-friendship-line/"
+    },
+    {
+      "title": "Meals on Wheels SF grocery drivers",
+      "when": "Weekly route",
+      "tags": [
+        "serve"
+      ],
+      "description": "Deliver groceries to the same seniors each week and get to know them. Back-up driver, bag-packing, and card-making roles are also open.",
+      "url": "https://volunteer.mowsf.org/"
+    },
+    {
+      "title": "Curry Senior Center",
+      "when": "Weekday mornings",
+      "tags": [
+        "serve"
+      ],
+      "description": "Serve breakfast or lunch, call bingo, or hand out groceries to Tenderloin seniors on Thursdays. The third-Friday Fiesta Karaoke also needs hands.",
+      "url": "https://curryseniorcenter.org/volunteer/"
+    },
+    {
+      "title": "Self-Help for the Elderly Thanksgiving luncheon",
+      "when": "Sign up now · Thu Nov 26",
+      "tags": [
+        "serve"
+      ],
+      "description": "Help serve Thanksgiving lunch at five senior centers across Chinatown, the Sunset, the Richmond, and the Excelsior. Year-round roles at senior centers too.",
+      "url": "https://www.selfhelpelderly.org/volunteer-with-us"
+    },
+    {
+      "title": "On Lok companions",
+      "when": "Ongoing",
+      "tags": [
+        "serve"
+      ],
+      "description": "One-on-one companionship, conversation, games, reading, and meal serving at On Lok's 30th Street Senior Center. Email to join an orientation.",
+      "url": "https://www.onlok.org/volunteer-opportunities"
+    },
+    {
+      "title": "Shanti peer support & PAWS",
+      "when": "Weekly · 6+ months",
+      "tags": [
+        "serve"
+      ],
+      "description": "Be a one-on-one companion to an LGBTQ+ older adult or someone living with HIV or cancer, or help them keep their pets through PAWS.",
+      "url": "https://www.shanti.org/volunteer"
     },
     {
       "title": "\"In Their Name\" altars at SOMArts",
@@ -1295,8 +1338,7 @@
       "title": "SF boards, commissions & task forces",
       "when": "Leadership · ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Apply for a seat helping run the city. Posted openings include the Elections Commission, Ballot Simplification Council, and Behavioral Health Council.",
       "url": "https://www.sf.gov/board-of-supervisors-boards-commissions-task-forces-vacancy"
@@ -1305,8 +1347,7 @@
       "title": "NERT neighborhood volunteer coordinator",
       "when": "Leadership · ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Be the go-to contact for emergency volunteers on your block: recruit neighbors to the free NERT training, join drills, and help run a staging area after a disaster.",
       "url": "https://sf-fire.org/nert/become-neighborhood-volunteer-coordinator-today"
@@ -1315,8 +1356,7 @@
       "title": "Huckleberry Young Professionals Board",
       "when": "Leadership · ~6–8 hrs/month",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Plan fundraisers, volunteer days, and partnerships for a youth development nonprofit. 21+, meetings mostly in SF; applications always open.",
       "url": "https://www.huckleberryyouth.org/join-huckleberrys-young-professionals-board/"
@@ -1325,8 +1365,7 @@
       "title": "GLIDE Young Professionals Committee",
       "when": "Leadership · ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Organize GLIDE's fundraisers, film nights, and volunteer days with other young professionals. Email youngprofessionals@glide.org to join.",
       "url": "https://www.glide.org/glide-young-professionals-committee/"
@@ -1335,8 +1374,7 @@
       "title": "SF-Marin Food Bank peer navigator",
       "when": "Leadership · 6 months, 10 hrs/week",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Guide neighbors at food markets to local services after 5 hours of training. 18+, stipend provided; Spanish or Cantonese a plus.",
       "url": "https://www.sfmfoodbank.org/volunteer/"
@@ -1345,8 +1383,7 @@
       "title": "SF City Guides walking-tour guide",
       "when": "Leadership · apply by Dec 1",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Train on eight Saturdays (Feb–May 2027), then lead free history walks at least 10 times a year. 18+, $295 enrollment fee.",
       "url": "https://www.sfcityguides.org/about-us/become-a-guide-2027/"
@@ -1355,8 +1392,7 @@
       "title": "SF Symphony Volunteer Council",
       "when": "Ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Join a volunteer league that meets monthly and supports the Symphony with events and outreach, or usher at Davies Symphony Hall.",
       "url": "https://www.sfsymphony.org/Donate-Volunteer/Volunteer"
@@ -1365,8 +1401,7 @@
       "title": "SF Ballet BRAVO volunteers",
       "when": "15+ hrs/year",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Usher at the Opera House or help ballet departments behind the scenes. 18+, references and background check; next intro meeting Jan 23, 2027.",
       "url": "https://www.sfballet.org/support-engage/volunteering/bravo/"
@@ -1375,8 +1410,7 @@
       "title": "War Memorial ushering (Herbst Theatre & Opera House)",
       "when": "Per show",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Herbst Theatre takes walk-in ushers: arrive 90 minutes early in black and white with a flashlight. For the Opera House, email ushers@sfopera.com.",
       "url": "https://sfwarmemorial.org/volunteering-ushering"
@@ -1385,8 +1419,7 @@
       "title": "SFJAZZ volunteer ushers",
       "when": "Ongoing",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Usher and help with front-of-house and events. 15 hours earns a membership; email volunteer@sfjazz.org.",
       "url": "https://www.givegab.com/nonprofits/san-francisco-jazz-organization/opportunities/volunteer-at-sfjazz"
@@ -1395,8 +1428,7 @@
       "title": "Asian Art Museum volunteers",
       "when": "Two 4-hour shifts/month",
       "tags": [
-        "serve",
-        "connect"
+        "serve"
       ],
       "description": "Welcome visitors at the info desk, help at First Free Sundays and family events, or do behind-the-scenes projects. 16+, one-year commitment, applications always open.",
       "url": "https://about.asianart.org/volunteering/"
