@@ -1,527 +1,7 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "_note": "Events picked because they involve strangers, shared effort, or awe: the opposite of the cynic's retreat. Tags: serve (help out, including companionship for older adults), play (do something together, including free live music, street fairs, and community outings), awe (feel small in a good way, including meditation). Sources include Funcheap, KQED, SF Public Library (sfpl.org/events), Humanitix, offbeatSF, SF Zen Center (sfzc.org/calendar), Grace Cathedral, and organizers. Confirm details with organizers before going.",
   "events": [
-    {
-      "title": "Tai Chi on the Labyrinth",
-      "date": "2026-11-09",
-      "time": "14:30",
-      "venue": "Grace Cathedral, 1100 California St",
-      "neighborhood": "Nob Hill",
-      "tags": [
-        "awe",
-        "play"
-      ],
-      "cost": null,
-      "cost_notes": "See listing for price",
-      "description": "Gentle tai chi on the labyrinth with Garrett Chinn, who has taught in SF since 1981. Welcoming to all.",
-      "url": "https://gracecathedral.org/calendar-events/tai-chi-on-the-labyrinth-3/2026-11-09/"
-    },
-    {
-      "title": "Peter Lindman & Roger Rocha",
-      "date": "2026-11-09",
-      "time": "16:00",
-      "venue": "The Saloon, 1232 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A duo playing classic rock and sixties favorites in the afternoon.",
-      "url": "https://offbeatsf.com/event/peter-lindman-14/2026-11-09/"
-    },
-    {
-      "title": "Bistro Moustache",
-      "date": "2026-11-09",
-      "time": "17:00",
-      "venue": "Scopo Divino, 2800 California St",
-      "neighborhood": "Lower Pacific Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "French chansons and Gypsy jazz with Olivier Zyngier.",
-      "url": "https://offbeatsf.com/event/bistro-moustache-with-olivier-zyngier-2/2026-11-09/"
-    },
-    {
-      "title": "SF LGBTQIA+ Sangha",
-      "date": "2026-11-09",
-      "time": "17:30",
-      "venue": "SF Buddhist Center, 37 Bartlett St",
-      "neighborhood": "Mission",
-      "tags": [
-        "awe"
-      ],
-      "cost": 0,
-      "cost_notes": "Donation welcome",
-      "description": "Mindfulness and loving-kindness meditation for the LGBTQIA+ community, in person on second Mondays.",
-      "url": "https://www.sflgbtsangha.org/"
-    },
-    {
-      "title": "Monday jazz jam at Waystone",
-      "date": "2026-11-09",
-      "time": "18:00",
-      "venue": "Waystone, 1609 Powell St",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A weekly jazz jam. Players sit in, everyone else listens.",
-      "url": "https://offbeatsf.com/event/jazz-jam-8/2026-11-09/"
-    },
-    {
-      "title": "Flavio Souza",
-      "date": "2026-11-09",
-      "time": "18:00",
-      "venue": "Etcetera Wine Bar, 795 Valencia St",
-      "neighborhood": "Mission",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A weekly Monday set at a Valencia St wine bar.",
-      "url": "https://offbeatsf.com/event/flavio-souza/2026-11-09/"
-    },
-    {
-      "title": "Jazz Nights at Novela",
-      "date": "2026-11-09",
-      "time": "18:30",
-      "venue": "Novela, 662 Mission St",
-      "neighborhood": "SoMa",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Smooth jazz in a literary-themed cocktail bar.",
-      "url": "https://offbeatsf.com/event/jazz-nights-novela/2026-11-09/"
-    },
-    {
-      "title": "Richmond Special",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "venue": "Specs' Twelve Adler Museum Cafe, 12 Saroyan Pl",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "An acoustic guitar duo playing country swing and Gypsy jazz.",
-      "url": "https://offbeatsf.com/event/richmond-special-2/"
-    },
-    {
-      "title": "Piano night at the Royal Cuckoo",
-      "date": "2026-11-09",
-      "time": "19:00",
-      "venue": "Royal Cuckoo Organ Lounge, 3202 Mission St",
-      "neighborhood": "Bernal Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Doug Hilsinger and Jamin Barton on the lounge's vintage Steinway upright.",
-      "url": "https://offbeatsf.com/event/piano-night-at-the-royal-cuckoo-organ-lounge-doug-hilsinger-and-jamin-barton/2026-11-09/"
-    },
-    {
-      "title": "Le Jazz Hot Quartet",
-      "date": "2026-11-09",
-      "time": "20:00",
-      "venue": "Local Edition, 691 Market St",
-      "neighborhood": "Financial District",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Django and Grappelli-style string jazz.",
-      "url": "https://offbeatsf.com/event/le-jazz-hot-quartet-3/2026-11-09/"
-    },
-    {
-      "title": "Dirty Works jazz jam",
-      "date": "2026-11-09",
-      "time": "20:00",
-      "venue": "Persona, 685 Sutter St",
-      "neighborhood": "Union Square",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A late-night jazz jam led by Kyle Finley.",
-      "url": "https://offbeatsf.com/event/dirty-works-jazz-jam-2/2026-11-09/"
-    },
-    {
-      "title": "SF Invitational Jam",
-      "date": "2026-11-09",
-      "time": "21:00",
-      "venue": "Tupelo, 1337 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A weekly late-night jam where working pros sit in together.",
-      "url": "https://offbeatsf.com/event/the-san-francisco-invitational-jam-9/2026-11-09/"
-    },
-    {
-      "title": "Kit Ruscoe",
-      "date": "2026-11-09",
-      "time": "21:30",
-      "venue": "The Saloon, 1232 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Electric blues guitar.",
-      "url": "https://offbeatsf.com/event/kit-ruscoe-2/2026-11-09/"
-    },
-    {
-      "title": "SF Botanical Garden free day",
-      "date": "2026-11-10",
-      "time": "07:30",
-      "venue": "San Francisco Botanical Garden",
-      "neighborhood": "Golden Gate Park",
-      "tags": [
-        "awe"
-      ],
-      "cost": 0,
-      "cost_notes": "Free second Tuesdays",
-      "description": "Fifty-five acres of gardens from around the world. Go slow and get a little lost.",
-      "url": "https://sf.funcheap.com/san-francisco-botanical-gardens-free-day-2nd-tuesdays-65/"
-    },
-    {
-      "title": "GG Amos",
-      "date": "2026-11-10",
-      "time": "16:00",
-      "venue": "The Saloon, 1232 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A West Coast blues singer-guitarist in the afternoon.",
-      "url": "https://offbeatsf.com/event/gg-amos-11/2026-11-10/"
-    },
-    {
-      "title": "Adam Spry",
-      "date": "2026-11-10",
-      "time": "17:00",
-      "venue": "The Grove, 690 Mission St",
-      "neighborhood": "SoMa",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Indie pop, folk, and alternative rock.",
-      "url": "https://offbeatsf.com/event/adam-spry/2026-11-10/"
-    },
-    {
-      "title": "Fidel",
-      "date": "2026-11-10",
-      "time": "18:00",
-      "venue": "Casements Bar, 2351 Mission St",
-      "neighborhood": "Mission",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A soulful Mission band.",
-      "url": "https://offbeatsf.com/event/fidel/2026-11-10/"
-    },
-    {
-      "title": "Lara Louise",
-      "date": "2026-11-10",
-      "time": "18:00",
-      "venue": "North Beach Restaurant, 1512 Stockton St",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Jazz, bossa nova, and folk over dinner.",
-      "url": "https://offbeatsf.com/event/lara-louise-8/2026-11-10/"
-    },
-    {
-      "title": "Yoga on the Labyrinth",
-      "date": "2026-11-10",
-      "time": "18:15",
-      "venue": "Grace Cathedral, 1100 California St",
-      "neighborhood": "Nob Hill",
-      "tags": [
-        "awe",
-        "play"
-      ],
-      "cost": 22,
-      "cost_notes": "$22",
-      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
-      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-3/2026-11-10/"
-    },
-    {
-      "title": "Buddhist teachings: introductory course",
-      "date": "2026-11-10",
-      "time": "19:00",
-      "venue": "SF Buddhist Center, 37 Bartlett St",
-      "neighborhood": "Mission",
-      "tags": [
-        "awe"
-      ],
-      "cost": 0,
-      "cost_notes": "Four Tuesdays; check site for cost",
-      "description": "A four-week beginner course in Buddhist ideas and practice, running through Dec 1.",
-      "url": "https://sfbuddhistcenter.org/events/buddhist-teachings-introductory-course/"
-    },
-    {
-      "title": "Young Urban Zen",
-      "date": "2026-11-10",
-      "time": "19:15",
-      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
-      "neighborhood": "Hayes Valley",
-      "tags": [
-        "awe"
-      ],
-      "cost": 0,
-      "cost_notes": "Donation welcome",
-      "description": "A weekly Zen meditation and discussion group for younger practitioners.",
-      "url": "https://www.sfzc.org/event/young-urban-zen/2026-11-10/"
-    },
-    {
-      "title": "Hal Bigler Band",
-      "date": "2026-11-10",
-      "time": "19:30",
-      "venue": "Comstock Saloon, 155 Columbus Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Traditional jazz and swing.",
-      "url": "https://offbeatsf.com/event/hal-bigler-band-2/2026-11-10/"
-    },
-    {
-      "title": "Gaucho Jazz at DecoDance",
-      "date": "2026-11-10",
-      "time": "19:30",
-      "venue": "DecoDance Bar, 1160 Polk St",
-      "neighborhood": "Polk Gulch",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Hot-club-style Gypsy jazz.",
-      "url": "https://offbeatsf.com/event/gaucho-jazz-2/2026-11-10/"
-    },
-    {
-      "title": "Local Edition Jazz Orchestra",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "venue": "Local Edition, 691 Market St",
-      "neighborhood": "Financial District",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A weekly big band in a basement bar.",
-      "url": "https://offbeatsf.com/event/the-local-edition-jazz-orchestra-2/2026-11-10/"
-    },
-    {
-      "title": "North Beach Django",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "venue": "Paris 75, 515 Broadway",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A jazz manouche jam in the style of Django Reinhardt.",
-      "url": "https://offbeatsf.com/event/the-north-beach-django-jazz-trio-8-2/2026-11-10/"
-    },
-    {
-      "title": "Chris Siebert",
-      "date": "2026-11-10",
-      "time": "20:30",
-      "venue": "Royal Cuckoo Organ Lounge, 3202 Mission St",
-      "neighborhood": "Bernal Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Vintage jazz and blues on the Hammond organ.",
-      "url": "https://offbeatsf.com/event/chris-siebert-2/2026-11-10/"
-    },
-    {
-      "title": "Tori Roze & Johnny Alexander",
-      "date": "2026-11-11",
-      "time": "17:00",
-      "venue": "The Grove, 690 Mission St",
-      "neighborhood": "SoMa",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A soul-jazz duo.",
-      "url": "https://offbeatsf.com/event/tori-roze-and-johnny-alexander/2026-11-11/"
-    },
-    {
-      "title": "Le Jazz Hot",
-      "date": "2026-11-11",
-      "time": "18:00",
-      "venue": "Scopo Divino, 2800 California St",
-      "neighborhood": "Lower Pacific Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Django and Grappelli-style string jazz.",
-      "url": "https://offbeatsf.com/event/le-jazz-hot-3-2/2026-11-11/"
-    },
-    {
-      "title": "Lara Louise",
-      "date": "2026-11-11",
-      "time": "18:00",
-      "venue": "North Beach Restaurant, 1512 Stockton St",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Jazz, bossa nova, and folk over dinner.",
-      "url": "https://offbeatsf.com/event/lara-louise-8/2026-11-11/"
-    },
-    {
-      "title": "\"Hopped Up\" trivia night",
-      "date": "2026-11-11",
-      "time": "19:30",
-      "venue": "Black Hammer Brewing",
-      "neighborhood": "SoMa",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Weekly team trivia. Show up solo and ask to join a table.",
-      "url": "https://sf.funcheap.com/black-hammers-free-hopped-up-trivia-night-every-wednesday-145/"
-    },
-    {
-      "title": "Magic School Busk",
-      "date": "2026-11-11",
-      "time": "20:00",
-      "venue": "Persona, 685 Sutter St",
-      "neighborhood": "Union Square",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A funk, soul, and Latin busking collective, indoors for the night.",
-      "url": "https://offbeatsf.com/event/magic-school-busk-4/2026-11-11/"
-    },
-    {
-      "title": "Jazz jam at Stookey's",
-      "date": "2026-11-11",
-      "time": "20:00",
-      "venue": "Stookey's Blue Room, 891 Bush St",
-      "neighborhood": "Nob Hill",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A drop-in jazz jam led by rotating musicians.",
-      "url": "https://offbeatsf.com/event/jazz-jam-session-2/2026-11-11/"
-    },
-    {
-      "title": "Peninsula Project",
-      "date": "2026-11-11",
-      "time": "20:00",
-      "venue": "Comstock Saloon, 155 Columbus Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A free jazz set at a historic Columbus Ave saloon.",
-      "url": "https://offbeatsf.com/event/peninsula-project-3-2/2026-11-11/"
-    },
-    {
-      "title": "Jazz jam at the Lucky Horseshoe",
-      "date": "2026-11-11",
-      "time": "20:00",
-      "venue": "The Lucky Horseshoe, 454 Cortland Ave",
-      "neighborhood": "Bernal Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "An open jazz session. Sit-ins welcome.",
-      "url": "https://offbeatsf.com/event/jazz-jam/2026-11-11/"
-    },
-    {
-      "title": "Chris Siebert",
-      "date": "2026-11-11",
-      "time": "20:30",
-      "venue": "Royal Cuckoo Organ Lounge, 3202 Mission St",
-      "neighborhood": "Bernal Heights",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Vintage jazz and blues on the Hammond organ.",
-      "url": "https://offbeatsf.com/event/chris-siebert-2/2026-11-11/"
-    },
-    {
-      "title": "Jose Simioni",
-      "date": "2026-11-11",
-      "time": "21:00",
-      "venue": "Tupelo, 1337 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "A late-night set at a Grant Ave music bar.",
-      "url": "https://offbeatsf.com/event/jose-simioni-4/2026-11-11/"
-    },
-    {
-      "title": "Chris Ford",
-      "date": "2026-11-11",
-      "time": "21:30",
-      "venue": "The Saloon, 1232 Grant Ave",
-      "neighborhood": "North Beach",
-      "tags": [
-        "play"
-      ],
-      "cost": 0,
-      "cost_notes": "Free",
-      "description": "Rockabilly, blues, and honky tonk.",
-      "url": "https://offbeatsf.com/event/chris-ford-2/2026-11-11/"
-    },
     {
       "title": "Chair Yoga on the Labyrinth",
       "date": "2026-11-12",
@@ -3883,6 +3363,653 @@
       "cost_notes": "Free",
       "description": "Rockabilly, surf, and rock and roll at the city's oldest bar.",
       "url": "https://offbeatsf.com/event/jinx-jones-18/2026-11-23/"
+    },
+    {
+      "title": "Full moon ceremony",
+      "date": "2026-11-24",
+      "time": "06:40",
+      "venue": "SF Zen Center, 300 Page St",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A monthly ceremony renewing bodhisattva vows with chanting and bows, after morning zazen.",
+      "url": "https://www.sfzc.org/event/full-moon-ceremony-cc-11-24/"
+    },
+    {
+      "title": "Knitting circle",
+      "date": "2026-11-24",
+      "time": "13:00",
+      "venue": "Glen Park Library, 2825 Diamond St",
+      "neighborhood": "Glen Park",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Knit and chat with neighbors. All levels.",
+      "url": "https://sfpl.org/events/2026/11/24/social-knitting-circle"
+    },
+    {
+      "title": "Bocce ball",
+      "date": "2026-11-24",
+      "time": "13:30",
+      "venue": "North Beach Library, 850 Columbus Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Friendly bocce games with neighbors.",
+      "url": "https://sfpl.org/events/2026/11/24/activity-bocce-ball"
+    },
+    {
+      "title": "Bernal Readers: The Vegetarian",
+      "date": "2026-11-24",
+      "time": "14:00",
+      "venue": "Bernal Heights Library, 500 Cortland Ave",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A neighborhood book club discussing Han Kang's The Vegetarian.",
+      "url": "https://sfpl.org/events/2026/11/24/book-club-bernal-readers-vegetarian"
+    },
+    {
+      "title": "Full moon art & wellness fest",
+      "date": "2026-11-24",
+      "time": "16:00",
+      "venue": "India Basin Waterfront Park, 900 Innes Ave",
+      "neighborhood": "Bayview",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, RSVP",
+      "description": "Local makers, sound healing, meditation, and a full-moon ceremony on the bay.",
+      "url": "https://sf.funcheap.com/full-moon-community-art-wellness-fest-sf/"
+    },
+    {
+      "title": "GG Amos",
+      "date": "2026-11-24",
+      "time": "16:00",
+      "venue": "The Saloon, 1232 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A West Coast blues singer-guitarist in the afternoon.",
+      "url": "https://offbeatsf.com/event/gg-amos-11/2026-11-24/"
+    },
+    {
+      "title": "Noe Valley night market",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "venue": "Noe Valley Town Square, 3861 24th St",
+      "neighborhood": "Noe Valley",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Live music, local makers, and food vendors in the town square.",
+      "url": "https://sf.funcheap.com/sfs-noe-valley-night-market-2026-7/"
+    },
+    {
+      "title": "The 3 Elements",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "venue": "The Grove, 690 Mission St",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Jazz fusion.",
+      "url": "https://offbeatsf.com/event/the-3-elements/2026-11-24/"
+    },
+    {
+      "title": "Lara Louise",
+      "date": "2026-11-24",
+      "time": "18:00",
+      "venue": "North Beach Restaurant, 1512 Stockton St",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Jazz, bossa nova, and folk over dinner.",
+      "url": "https://offbeatsf.com/event/lara-louise-8/2026-11-24/"
+    },
+    {
+      "title": "Yoga on the Labyrinth",
+      "date": "2026-11-24",
+      "time": "18:15",
+      "venue": "Grace Cathedral, 1100 California St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 22,
+      "cost_notes": "$22",
+      "description": "Yoga and meditation on the cathedral's labyrinth, set to live music.",
+      "url": "https://gracecathedral.org/calendar-events/yoga-on-the-labyrinth-3/2026-11-24/"
+    },
+    {
+      "title": "Excelsior Reads book club",
+      "date": "2026-11-24",
+      "time": "18:30",
+      "venue": "Excelsior Library, 4400 Mission St",
+      "neighborhood": "Excelsior",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A neighborhood book club. Newcomers welcome.",
+      "url": "https://sfpl.org/events/2026/11/24/book-club-excelsior-reads"
+    },
+    {
+      "title": "Smith Dobson Quartet",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "venue": "The Deluxe, 1511 Haight St",
+      "neighborhood": "Haight-Ashbury",
+      "tags": [
+        "play"
+      ],
+      "cost": 5,
+      "cost_notes": "$5 cover",
+      "description": "A jazz quartet with drums, vibes, and sax.",
+      "url": "https://offbeatsf.com/event/smith-dobson-quartet-6/2026-11-24/"
+    },
+    {
+      "title": "Jamie Duncan Trio",
+      "date": "2026-11-24",
+      "time": "19:00",
+      "venue": "Specs' Twelve Adler Museum Cafe, 12 Saroyan Pl",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Country jazz and vintage Americana on Telecaster.",
+      "url": "https://offbeatsf.com/event/jamie-duncan-trio-2/"
+    },
+    {
+      "title": "Young Urban Zen",
+      "date": "2026-11-24",
+      "time": "19:15",
+      "venue": "SF Zen Center, 300 Page St, Buddha Hall",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Donation welcome",
+      "description": "A weekly Zen meditation and discussion group for younger practitioners.",
+      "url": "https://www.sfzc.org/event/young-urban-zen/2026-11-24/"
+    },
+    {
+      "title": "Hal Bigler Band",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "venue": "Comstock Saloon, 155 Columbus Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Traditional jazz and swing.",
+      "url": "https://offbeatsf.com/event/hal-bigler-band-2/2026-11-24/"
+    },
+    {
+      "title": "Gaucho Jazz at DecoDance",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "venue": "DecoDance Bar, 1160 Polk St",
+      "neighborhood": "Polk Gulch",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Hot-club-style Gypsy jazz.",
+      "url": "https://offbeatsf.com/event/gaucho-jazz-2/2026-11-24/"
+    },
+    {
+      "title": "Local Edition Jazz Orchestra",
+      "date": "2026-11-24",
+      "time": "20:00",
+      "venue": "Local Edition, 691 Market St",
+      "neighborhood": "Financial District",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A weekly big band in a basement bar.",
+      "url": "https://offbeatsf.com/event/the-local-edition-jazz-orchestra-2/2026-11-24/"
+    },
+    {
+      "title": "North Beach Django",
+      "date": "2026-11-24",
+      "time": "20:00",
+      "venue": "Paris 75, 515 Broadway",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A jazz manouche jam in the style of Django Reinhardt.",
+      "url": "https://offbeatsf.com/event/the-north-beach-django-jazz-trio-8-2/2026-11-24/"
+    },
+    {
+      "title": "Gavin Halloran Band",
+      "date": "2026-11-24",
+      "time": "20:00",
+      "venue": "Dawn Club, 10 Annie St",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Straight-ahead tenor sax jazz.",
+      "url": "https://offbeatsf.com/event/gavin-halloran-band/"
+    },
+    {
+      "title": "Chris Siebert",
+      "date": "2026-11-24",
+      "time": "20:30",
+      "venue": "Royal Cuckoo Organ Lounge, 3202 Mission St",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Vintage jazz and blues on the Hammond organ.",
+      "url": "https://offbeatsf.com/event/chris-siebert-2/2026-11-24/"
+    },
+    {
+      "title": "Powell Street Blues Band",
+      "date": "2026-11-24",
+      "time": "21:30",
+      "venue": "The Saloon, 1232 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Traditional blues from a band playing since 1978.",
+      "url": "https://offbeatsf.com/event/powell-street-blues-band/2026-11-24/"
+    },
+    {
+      "title": "Japanese Tea Garden free hour",
+      "date": "2026-11-25",
+      "time": "09:00",
+      "venue": "Japanese Tea Garden, Golden Gate Park",
+      "neighborhood": "Golden Gate Park",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free 9–10am",
+      "description": "A quiet hour among the maples and koi ponds before the crowds.",
+      "url": "https://sf.funcheap.com/japanese-tea-gardens-free-admission-hour-golden-gate-park-465/"
+    },
+    {
+      "title": "YBCA free admission day",
+      "date": "2026-11-25",
+      "time": "11:00",
+      "venue": "Yerba Buena Center for the Arts, 701 Mission St",
+      "neighborhood": "SoMa",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Free entry to the galleries at Yerba Buena Center for the Arts.",
+      "url": "https://sf.funcheap.com/free-admission-day-at-yerba-buena-center-for-the-arts-ybca-163/"
+    },
+    {
+      "title": "Knitting circle",
+      "date": "2026-11-25",
+      "time": "12:00",
+      "venue": "Ortega Library, 3223 Ortega St",
+      "neighborhood": "Outer Sunset",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Knit and chat with neighbors. All levels.",
+      "url": "https://sfpl.org/events/2026/11/25/social-knitting-circle"
+    },
+    {
+      "title": "Miniature Thanksgiving foods",
+      "date": "2026-11-25",
+      "time": "13:00",
+      "venue": "Portola Library, 380 Bacon St",
+      "neighborhood": "Portola",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "Craft a tiny Thanksgiving spread out of clay.",
+      "url": "https://sfpl.org/events/2026/11/25/workshop-miniature-thanksgiving-foods"
+    },
+    {
+      "title": "Tai chi",
+      "date": "2026-11-25",
+      "time": "13:30",
+      "venue": "Anza Library, 550 37th Ave",
+      "neighborhood": "Outer Richmond",
+      "tags": [
+        "awe",
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free, library program",
+      "description": "A free tai chi class at the branch library.",
+      "url": "https://sfpl.org/events/2026/11/25/activity-tai-chi"
+    },
+    {
+      "title": "Jose Simioni Trio",
+      "date": "2026-11-25",
+      "time": "16:30",
+      "venue": "The Saloon, 1232 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "An improvisational jazz trio with guitar and vocals.",
+      "url": "https://offbeatsf.com/event/jose-simioni-trio/2026-11-25/"
+    },
+    {
+      "title": "Tori Roze & Johnny Alexander",
+      "date": "2026-11-25",
+      "time": "17:00",
+      "venue": "The Grove, 690 Mission St",
+      "neighborhood": "SoMa",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A soul-jazz duo.",
+      "url": "https://offbeatsf.com/event/tori-roze-and-johnny-alexander/2026-11-25/"
+    },
+    {
+      "title": "Le Jazz Hot",
+      "date": "2026-11-25",
+      "time": "18:00",
+      "venue": "Scopo Divino, 2800 California St",
+      "neighborhood": "Lower Pacific Heights",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Django and Grappelli-style string jazz.",
+      "url": "https://offbeatsf.com/event/le-jazz-hot-3-2/2026-11-25/"
+    },
+    {
+      "title": "Lara Louise",
+      "date": "2026-11-25",
+      "time": "18:00",
+      "venue": "North Beach Restaurant, 1512 Stockton St",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Jazz, bossa nova, and folk over dinner.",
+      "url": "https://offbeatsf.com/event/lara-louise-8/2026-11-25/"
+    },
+    {
+      "title": "Sharman Duran",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "venue": "Sheba Piano Lounge, 1419 Fillmore St",
+      "neighborhood": "Fillmore",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Piano and vocals: standards and originals.",
+      "url": "https://offbeatsf.com/event/sharman-duran/2026-11-25/"
+    },
+    {
+      "title": "Grant Levin",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "venue": "Redwood Room, 495 Geary St",
+      "neighborhood": "Union Square",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Jazz piano in the Clift Hotel's redwood-paneled bar.",
+      "url": "https://offbeatsf.com/event/grant-levin-2/2026-11-25/"
+    },
+    {
+      "title": "Angela LaFlamme",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "venue": "Hi-Lo Club, 1423 Polk St",
+      "neighborhood": "Polk Gulch",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Torch songs, smoky jazz, and mid-century blues.",
+      "url": "https://offbeatsf.com/event/angela-laflamme-3/2026-11-25/"
+    },
+    {
+      "title": "Wednesday dharma talk: Abbot Tenzen David Zimmerman",
+      "date": "2026-11-25",
+      "time": "19:30",
+      "venue": "SF Zen Center, 300 Page St",
+      "neighborhood": "Hayes Valley",
+      "tags": [
+        "awe"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A free public dharma talk the night before Thanksgiving. Everyone is welcome.",
+      "url": "https://www.sfzc.org/event/wednesday-730-pm-dharma-talk-abbot-tenzen-david-zimmerman-livestream-onsite-11-25/"
+    },
+    {
+      "title": "Magic School Busk",
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": "Persona, 685 Sutter St",
+      "neighborhood": "Union Square",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A funk, soul, and Latin busking collective, indoors for the night.",
+      "url": "https://offbeatsf.com/event/magic-school-busk-4/2026-11-25/"
+    },
+    {
+      "title": "Jazz jam at Stookey's",
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": "Stookey's Blue Room, 891 Bush St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A drop-in jazz jam led by rotating musicians.",
+      "url": "https://offbeatsf.com/event/jazz-jam-session-2/2026-11-25/"
+    },
+    {
+      "title": "Peninsula Project",
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": "Comstock Saloon, 155 Columbus Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A trombone-led jazz quartet.",
+      "url": "https://offbeatsf.com/event/peninsula-project-3-2/2026-11-25/"
+    },
+    {
+      "title": "Jazz jam at the Lucky Horseshoe",
+      "date": "2026-11-25",
+      "time": "20:00",
+      "venue": "The Lucky Horseshoe, 454 Cortland Ave",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "An open jazz session. Sit-ins welcome.",
+      "url": "https://offbeatsf.com/event/jazz-jam/2026-11-25/"
+    },
+    {
+      "title": "Chris Siebert",
+      "date": "2026-11-25",
+      "time": "20:30",
+      "venue": "Royal Cuckoo Organ Lounge, 3202 Mission St",
+      "neighborhood": "Bernal Heights",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Vintage jazz and blues on the Hammond organ.",
+      "url": "https://offbeatsf.com/event/chris-siebert-2/2026-11-25/"
+    },
+    {
+      "title": "My Blue Soul",
+      "date": "2026-11-25",
+      "time": "21:30",
+      "venue": "The Saloon, 1232 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Soul, blues, and funk.",
+      "url": "https://offbeatsf.com/event/my-blue-soul-8-2/2026-11-25/"
+    },
+    {
+      "title": "Alcatraz Indigenous Peoples Sunrise Ceremony",
+      "date": "2026-11-26",
+      "time": "04:15",
+      "venue": "Alcatraz Island (boats from Pier 33)",
+      "neighborhood": "Embarcadero",
+      "tags": [
+        "awe"
+      ],
+      "cost": 12,
+      "cost_notes": "Free ceremony; $12 boat",
+      "description": "The annual Unthanksgiving sunrise gathering on Alcatraz, hosted by the International Indian Treaty Council.",
+      "url": "https://sf.funcheap.com/indigenous-peoples-sunrise-ceremony-alcatraz/"
+    },
+    {
+      "title": "Thanksgiving meal delivery & visits with Little Brothers",
+      "date": "2026-11-26",
+      "time": "10:30",
+      "venue": "Little Brothers – Friends of the Elderly, 909 Hyde St",
+      "neighborhood": "Nob Hill",
+      "tags": [
+        "serve"
+      ],
+      "cost": 0,
+      "cost_notes": "Free; background check + orientation first",
+      "description": "Deliver a Thanksgiving meal to an older adult who lives alone, and stay for a visit if you like. Sign up early.",
+      "url": "https://www.littlebrotherssf.org/volunteer#volunteerform"
+    },
+    {
+      "title": "Katy Stephan",
+      "date": "2026-11-26",
+      "time": "20:00",
+      "venue": "Comstock Saloon, 155 Columbus Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Torch songs and swing standards on Thanksgiving night.",
+      "url": "https://offbeatsf.com/event/katy-stephan/2026-11-26/"
+    },
+    {
+      "title": "16th & Mission open mic (without a mic)",
+      "date": "2026-11-26",
+      "time": "21:00",
+      "venue": "16th & Mission",
+      "neighborhood": "Mission",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "A weekly open mic at the plaza. Sign up and perform, or just be the audience.",
+      "url": "https://sf.funcheap.com/16th-mission-open-mic-w-out-a-mic-266/"
+    },
+    {
+      "title": "The Smokedaddies",
+      "date": "2026-11-26",
+      "time": "21:00",
+      "venue": "Tupelo, 1337 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 0,
+      "cost_notes": "Free",
+      "description": "Motown, funk, and blues covers to work off the pie.",
+      "url": "https://offbeatsf.com/event/the-smokedaddies-3/2026-11-26/"
+    },
+    {
+      "title": "Dave Matthews Blues Band",
+      "date": "2026-11-26",
+      "time": "21:30",
+      "venue": "The Saloon, 1232 Grant Ave",
+      "neighborhood": "North Beach",
+      "tags": [
+        "play"
+      ],
+      "cost": 5,
+      "cost_notes": "$5 cover",
+      "description": "Blues covers (not that Dave Matthews).",
+      "url": "https://offbeatsf.com/event/dave-matthews-4/2026-11-26/"
     }
   ],
   "standing": [
@@ -3984,6 +4111,15 @@
       ],
       "description": "A free weekly open mic at an Outer Sunset honky-tonk bar near Ocean Beach.",
       "url": "https://offbeatsf.com/event/open-mic-by-charlie-kaupp/2026-11-02/"
+    },
+    {
+      "title": "Thanksgiving volunteering",
+      "when": "Sign up now · Nov 26",
+      "tags": [
+        "serve"
+      ],
+      "description": "Thanksgiving shifts fill fast. GLIDE, St. Anthony's, and Project Open Hand post holiday meal shifts online; Little Brothers needs drivers to deliver meals to elders.",
+      "url": "https://www.glide.org/volunteer/"
     },
     {
       "title": "SF-Marin Food Bank volunteer shifts",
